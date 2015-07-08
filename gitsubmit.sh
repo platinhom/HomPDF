@@ -7,4 +7,4 @@ git commit -am "regular"
 	#git remote add gitcafe git@gitcafe.com:platinhom/platinhom.git 
 	#git push gitcafe master:gitcafe-pages
 #fi
-git push origin master:gh-pages
+git push origin gh-pages
