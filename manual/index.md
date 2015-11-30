@@ -9,7 +9,7 @@ layout: page_small
 
 ## MOE
 
-[]()
+- 2010.10-[Help](./MOE/moe2010/html/index.htm), [SVL Function Index](./MOE/moe2010/html/fcnindex.html), [SVL API Function Index](./MOE/moe2010/html/apifcnindex.html)
 
 ## Schrodinger
 
