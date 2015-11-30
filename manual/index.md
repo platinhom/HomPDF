@@ -22,8 +22,17 @@ layout: page_small
 
 - G09W-[Gaussian 09W Help Table of Contents](./Gaussian/G09W/help/g09help.htm), [GaussView 5 Reference Table of Contents](./Gaussian/G09W/help/toc.htm)
 
+## Matlab
+
+- [Official Document](http://www.mathworks.com/help/index.html) 下方可选择中文.
+
 ## Visualization
 
 ### Chimera
 
 - 1.10-[User's Guide](./Visualization/Chimera/1.10/helpdir/UsersGuide/index.html), [Commands Index](./Visualization/Chimera/1.10/helpdir/UsersGuide/framecommand.html), [Tutorials](./Visualization/Chimera/1.10/helpdir/UsersGuide/frametut.html), [Basic Functions](./Visualization/Chimera/1.10/helpdir/UsersGuide/framecore.html), [Tools Index](./Visualization/Chimera/1.10/helpdir/UsersGuide/framecontrib.html)
+
+### VMD
+
+- Official Current Version: [Documentation](http://www.ks.uiuc.edu/Research/vmd/current/docs.html)
+- 1.9.2: [User's Guide](./VMD/1.9.2/ug/), [Installation Guide](./VMD/1.9.2/ig/), [VMD quick help(commands help)](./VMD/1.9.2/vmd_help.html), [VMD tutorial.pdf (examples)](./VMD/1.9.2/vmd-tutorial.pdf), [Old Tutorial](./VMD/1.9.2/vmd-tutorial/tutorial-html/), [VMD Images and Movies Tutorial.pdf](./VMD/1.9.2/imgmv-tutorial.pdf)
