@@ -24,7 +24,7 @@ layout: page_small
 
 ## Matlab
 
-- [Official Document](http://www.mathworks.com/help/index.html) 下方可选择中文.
+- [Official Document](http://www.mathworks.com/help/index.html) [下](http://hotofmonster.github.io/MATLAB2013B-HELP/Matlab/2013b/help/documentation-center.html)方可选择中文.
 
 ## R
 
