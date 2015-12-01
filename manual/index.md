@@ -3,6 +3,12 @@ title: Manuals
 layout: page_small
 ---
 
+## Coding
+
+### Python
+
+- [2.7.11](./Coding/Python/python-2.7.11rc1-docs-html), [3.5.1](./Coding/Python/python-3.5.1rc1-docs-html)
+
 ## Amber
 
 - [Amber7](./Amber/amber7.pdf), [Amber8](./Amber/amber8.pdf), [Amber9](./Amber/amber9.pdf), [Amber10](./Amber/Amber10i.pdf)
