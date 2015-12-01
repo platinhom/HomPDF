@@ -42,3 +42,9 @@ layout: page_small
 
 - Official Current Version: [Documentation](http://www.ks.uiuc.edu/Research/vmd/current/docs.html)
 - 1.9.2: [User's Guide](./Visualization/VMD/1.9.2/ug/), [Installation Guide](./Visualization/VMD/1.9.2/ig/), [VMD quick help(commands help)](./Visualization/VMD/1.9.2/vmd_help.html), [VMD tutorial.pdf (examples)](./Visualization/VMD/1.9.2/vmd-tutorial.pdf), [Old Tutorial](./Visualization/VMD/1.9.2/vmd-tutorial/tutorial-html/), [VMD Images and Movies Tutorial.pdf](./Visualization/VMD/1.9.2/imgmv-tutorial.pdf)
+
+## IDE
+
+### Sublime 
+
+- Sublime 3.0 -- [Unofficial Documentation](./IDE/Sublime/sublime-text-unofficial-documentation-3.0/)
