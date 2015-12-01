@@ -26,6 +26,10 @@ layout: page_small
 
 - [Official Document](http://www.mathworks.com/help/index.html) 下方可选择中文.
 
+## R
+
+- 3.1.1 -- [Manual Index](./R/3.1.1/doc/html/index.html)
+
 ## Visualization
 
 ### Chimera
@@ -35,4 +39,4 @@ layout: page_small
 ### VMD
 
 - Official Current Version: [Documentation](http://www.ks.uiuc.edu/Research/vmd/current/docs.html)
-- 1.9.2: [User's Guide](./VMD/1.9.2/ug/), [Installation Guide](./VMD/1.9.2/ig/), [VMD quick help(commands help)](./VMD/1.9.2/vmd_help.html), [VMD tutorial.pdf (examples)](./VMD/1.9.2/vmd-tutorial.pdf), [Old Tutorial](./VMD/1.9.2/vmd-tutorial/tutorial-html/), [VMD Images and Movies Tutorial.pdf](./VMD/1.9.2/imgmv-tutorial.pdf)
+- 1.9.2: [User's Guide](./Visualization/VMD/1.9.2/ug/), [Installation Guide](./Visualization/VMD/1.9.2/ig/), [VMD quick help(commands help)](./Visualization/VMD/1.9.2/vmd_help.html), [VMD tutorial.pdf (examples)](./Visualization/VMD/1.9.2/vmd-tutorial.pdf), [Old Tutorial](./Visualization/VMD/1.9.2/vmd-tutorial/tutorial-html/), [VMD Images and Movies Tutorial.pdf](./Visualization/VMD/1.9.2/imgmv-tutorial.pdf)
