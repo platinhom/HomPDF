@@ -28,7 +28,9 @@ layout: page_small
 
 ## R
 
-- 3.1.1 -- [Manual Index](./R/3.1.1/doc/html/index.html)
+- [R官网](https://www.r-project.org/), [CRAN-documentation](https://cran.r-project.org/)
+- [R导论中文版2.3.0.pdf](./R/Ding-R-intro_cn.pdf), [统计学与R读书笔记(第六版)-2012.pdf](./R/Xu-Statistics_and_R.pdf), [R参考卡片.pdf](./R/Liu-R-refcard.pdf), [R常见问题解答](./R/Liu-FAQ.pdf)
+- 3.1.1 -- [Manual Index](./R/3.1.1/doc/html/index.html); [The R Reference Index.pdf (each function~)](./R/3.1.1/doc/manual/fullrefman.pdf), [An Introduction to R.pdf](./R/3.1.1/doc/manual/R-intro.pdf)
 
 ## Visualization
 
