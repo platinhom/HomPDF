@@ -20,11 +20,11 @@ numvisits=request.cookies(&quot;NumVisits&quot;)
 
 if numvisits=&quot;&quot; then
    response.cookies(&quot;NumVisits&quot;)=1
-   response.write(&quot;»¶Ó­£¡ÕâÊÇÄúµÚÒ»´Î·ÃÎÊ±¾Ò³Ãæ¡£&quot;)
+   response.write(&quot;æ¬¢è¿ï¼è¿™æ˜¯æ‚¨ç¬¬ä¸€æ¬¡è®¿é—®æœ¬é¡µé¢ã€‚&quot;)
 else
    response.cookies(&quot;NumVisits&quot;)=numvisits+1
-   response.write(&quot;Ö®Ç°£¬ÄúÒÑ¾­·ÃÎÊ¹ı±¾Ò³Ãæ &quot;)
-   response.write(numvisits & &quot; ´Î¡£&quot;)
+   response.write(&quot;ä¹‹å‰ï¼Œæ‚¨å·²ç»è®¿é—®è¿‡æœ¬é¡µé¢ &quot;)
+   response.write(numvisits & &quot; æ¬¡ã€‚&quot;)
 end if
 %&gt;</code>
 &lt;html&gt;

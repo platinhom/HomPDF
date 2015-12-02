@@ -13,14 +13,14 @@ background-color:yellow;
 </head>
 
 <body>
-<h1>»¶Ó­À´µ½ÎÒµ½µÄÖ÷Ò³</h1>
+<h1>æ¬¢è¿Žæ¥åˆ°æˆ‘åˆ°çš„ä¸»é¡µ</h1>
 
 <div class="intro">
-<p>ÎÒÊÇÌÆÀÏÑ¼¡£</p>
-<p>ÎÒ×¡ÔÚ Duckburg¡£</p>
+<p>æˆ‘æ˜¯å”è€é¸­ã€‚</p>
+<p>æˆ‘ä½åœ¨ Duckburgã€‚</p>
 </div>
 
-<p>ÎÒ×îºÃµÄÅóÓÑÊÇÃ×ÀÏÊó¡£</p>
+<p>æˆ‘æœ€å¥½çš„æœ‹å‹æ˜¯ç±³è€é¼ ã€‚</p>
 
 </body>
 

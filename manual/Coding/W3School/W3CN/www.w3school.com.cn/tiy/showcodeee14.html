@@ -16,25 +16,25 @@
 &lt;html&gt;
 &lt;body&gt;
 
-&lt;h1&gt;ÕâÊÇÒ³Ãæ 1&lt;/h1&gt;
+&lt;h1&gt;è¿™æ˜¯é¡µé¢ 1&lt;/h1&gt;
 
 <code class="aspcode">&lt;%
 Set nl=Server.CreateObject(&quot;MSWC.NextLink&quot;)
 If (nl.GetListIndex(&quot;/example/aspe/links2.txt&quot;)&gt;1) Then
 %&gt;</code>
 &lt;a href=&quot;<code class="aspcode">&lt;%Response.Write(nl.GetPreviousURL(&quot;/example/aspe/links2.txt&quot;))%&gt;</code>&quot;&gt;
-ÉÏÒ»Ò³
+ä¸Šä¸€é¡µ
 &lt;/a&gt;
 <code class="aspcode">&lt;%End If%&gt;</code>
 
 &lt;a href=&quot;<code class="aspcode">&lt;%Response.Write(nl.GetNextURL(&quot;/example/aspe/links2.txt&quot;))%&gt;</code>&quot;&gt;
-ÏÂÒ»Ò³
+ä¸‹ä¸€é¡µ
 &lt;/a&gt;
 
-&lt;p&gt;±¾ÀıÊ¹ÓÃ Content Linking ×é¼ş
-¶ÔÎÄ±¾ÎÄ¼şÖĞµÄ URL ½øĞĞµ¼º½¡£&lt;/p&gt;
+&lt;p&gt;æœ¬ä¾‹ä½¿ç”¨ Content Linking ç»„ä»¶
+å¯¹æ–‡æœ¬æ–‡ä»¶ä¸­çš„ URL è¿›è¡Œå¯¼èˆªã€‚&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/example/aspe/links2.txt&quot;&gt;²é¿´ links2.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/example/aspe/links2.txt&quot;&gt;æŸ¥çœ‹ links2.txt&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>

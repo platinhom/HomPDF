@@ -16,15 +16,15 @@
 &lt;html&gt;
 &lt;body&gt;
 &lt;form action=&quot;/example/aspe/demo_aspe_simpleform.asp&quot; method=&quot;post&quot;&gt;
-ÄúµÄĞÕÃû£º&lt;input type=&quot;text&quot; name=&quot;fname&quot; size=&quot;20&quot; /&gt;
-&lt;input type=&quot;submit&quot; value=&quot;Ìá½»&quot; /&gt;
+æ‚¨çš„å§“åï¼š&lt;input type=&quot;text&quot; name=&quot;fname&quot; size=&quot;20&quot; /&gt;
+&lt;input type=&quot;submit&quot; value=&quot;æäº¤&quot; /&gt;
 &lt;/form&gt;
 <code class="aspcode">&lt;%
 dim fname
 fname=Request.Form(&quot;fname&quot;)
 If fname&lt;&gt;&quot;&quot; Then
-      Response.Write(&quot;ÄúºÃ£¡&quot; & fname & &quot;£¡&lt;br /&gt;&quot;)
-      Response.Write(&quot;½ñÌì¹ıµÃÔõÃ´Ñù£¿&quot;)
+      Response.Write(&quot;æ‚¨å¥½ï¼&quot; & fname & &quot;ï¼&lt;br /&gt;&quot;)
+      Response.Write(&quot;ä»Šå¤©è¿‡å¾—æ€ä¹ˆæ ·ï¼Ÿ&quot;)
 End If
 %&gt;</code>
 &lt;/body&gt;

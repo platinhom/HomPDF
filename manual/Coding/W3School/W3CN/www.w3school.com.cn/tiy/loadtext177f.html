@@ -10,7 +10,7 @@
 
 <body>
 <script type="text/javascript">
-//¼ì²é×îºóÒ»¸ö½ÚµãÊÇ·ñÊÇÔªËØ½Úµã
+//æ£€æŸ¥æœ€åä¸€ä¸ªèŠ‚ç‚¹æ˜¯å¦æ˜¯å…ƒç´ èŠ‚ç‚¹
 function get_lastchild(n)
 {
 var x=n.lastChild;
@@ -23,14 +23,14 @@ return x;
 
 xmlDoc=loadXMLDoc("../example/xdom/books.xml");
 
-document.write("book ½ÚµãµÄÊıÄ¿£º");
+document.write("book èŠ‚ç‚¹çš„æ•°ç›®ï¼š");
 document.write(xmlDoc.getElementsByTagName('book').length);
 document.write("<br />");
 
 var lastNode=get_lastchild(xmlDoc.documentElement);
 var delNode=xmlDoc.documentElement.removeChild(lastNode);
 
-document.write("removeChild() ·½·¨Ö´ĞĞºó book ½ÚµãµÄÊıÄ¿£º");
+document.write("removeChild() æ–¹æ³•æ‰§è¡Œå book èŠ‚ç‚¹çš„æ•°ç›®ï¼š");
 document.write(xmlDoc.getElementsByTagName('book').length);
 
 </script>

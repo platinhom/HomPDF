@@ -10,14 +10,14 @@
 <script type="text/javascript">
 xmlDoc=loadXMLDoc("../example/xdom/books.xml");
 
-document.write("removeChild() ·½·¨Ö´ĞĞÇ° book ½ÚµãµÄÊıÄ¿£º");
+document.write("removeChild() æ–¹æ³•æ‰§è¡Œå‰ book èŠ‚ç‚¹çš„æ•°ç›®ï¼š");
 document.write(xmlDoc.getElementsByTagName("book").length);
 document.write("<br />");
 
 x=xmlDoc.getElementsByTagName("book")[0]
 x.parentNode.removeChild(x);
 
-document.write("removeChild() ·½·¨Ö´ĞĞºó book ½ÚµãµÄÊıÄ¿£º");
+document.write("removeChild() æ–¹æ³•æ‰§è¡Œå book èŠ‚ç‚¹çš„æ•°ç›®ï¼š");
 document.write(xmlDoc.getElementsByTagName("book").length);
 
 </script>

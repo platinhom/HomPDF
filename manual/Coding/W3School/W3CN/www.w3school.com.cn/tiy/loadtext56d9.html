@@ -8,7 +8,7 @@
 function displayResult()
 {
 var x;
-if(window.event) // IE8 ÒÔ¼°¸üÔç°æ±¾
+if(window.event) // IE8 ä»¥åŠæ›´æ—©ç‰ˆæœ¬
 	{
 	x=event.keyCode;
 	}
@@ -17,13 +17,13 @@ else if(event.which) // IE9/Firefox/Chrome/Opera/Safari
 	x=event.which;
 	}
 keychar=String.fromCharCode(x);
-alert("°´¼ü " + keychar + " ±»°´ÏÂ");
+alert("æŒ‰é”® " + keychar + " è¢«æŒ‰ä¸‹");
 }
 </script>
 </head>
 <body>
 
-<p>µ±ÓÃ»§ÔÚÊäÈë×Ö¶ÎÖĞ°´ÏÂ°´¼üÊ±´¥·¢º¯Êı¡£´Ëº¯ÊıÌáÊ¾ÓÃ»§ÒÑ°´°´¼ü¡£</p>
+<p>å½“ç”¨æˆ·åœ¨è¾“å…¥å­—æ®µä¸­æŒ‰ä¸‹æŒ‰é”®æ—¶è§¦å‘å‡½æ•°ã€‚æ­¤å‡½æ•°æç¤ºç”¨æˆ·å·²æŒ‰æŒ‰é”®ã€‚</p>
 
 <input type="text" onkeypress="displayResult()">
 

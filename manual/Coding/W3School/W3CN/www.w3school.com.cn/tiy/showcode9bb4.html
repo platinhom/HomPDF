@@ -16,9 +16,9 @@
 <code class="jscode">&lt;script  runat=&quot;server&quot;&gt;
 Sub submit(Source As Object, e As EventArgs)
 if red.Checked=True then
-   p1.InnerHtml=&quot;ÄúÏ²»¶ºìÉ«£¡&quot;
+   p1.InnerHtml=&quot;æ‚¨å–œæ¬¢çº¢è‰²ï¼&quot;
 else
-   p1.InnerHtml=&quot;ÄúÏ²»¶À¶É«£¡&quot;
+   p1.InnerHtml=&quot;æ‚¨å–œæ¬¢è“è‰²ï¼&quot;
 end if
 red.checked=false
 blue.checked=false
@@ -29,13 +29,13 @@ End Sub
 &lt;body&gt;
 
 &lt;form runat=&quot;server&quot;&gt;
-ÄúÏ²»¶ÄÄÖÖÑÕÉ«£¿
+æ‚¨å–œæ¬¢å“ªç§é¢œè‰²ï¼Ÿ
 &lt;br /&gt;
-&lt;input id=&quot;red&quot; type=&quot;checkbox&quot; runat=&quot;server&quot; /&gt; ºìÉ«
+&lt;input id=&quot;red&quot; type=&quot;checkbox&quot; runat=&quot;server&quot; /&gt; çº¢è‰²
 &lt;br /&gt;
-&lt;input id=&quot;blue&quot; type=&quot;checkbox&quot; runat=&quot;server&quot; /&gt; À¶É«
+&lt;input id=&quot;blue&quot; type=&quot;checkbox&quot; runat=&quot;server&quot; /&gt; è“è‰²
 &lt;br /&gt;
-&lt;input type=&quot;button&quot; value=&quot;Ìá½»&quot; OnServerClick=&quot;submit&quot; runat=&quot;server&quot;/&gt;
+&lt;input type=&quot;button&quot; value=&quot;æäº¤&quot; OnServerClick=&quot;submit&quot; runat=&quot;server&quot;/&gt;
 &lt;p id=&quot;p1&quot; runat=&quot;server&quot; /&gt;
 &lt;/form&gt;
 

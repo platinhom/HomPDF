@@ -8,18 +8,18 @@
 <script>
 function appendText()
 {
-var txt1="<p>Text.</p>";              // ÒÔ HTML ´´½¨ĞÂÔªËØ
-var txt2=$("<p></p>").text("Text.");  // ÒÔ jQuery ´´½¨ĞÂÔªËØ
+var txt1="<p>Text.</p>";              // ä»¥ HTML åˆ›å»ºæ–°å…ƒç´ 
+var txt2=$("<p></p>").text("Text.");  // ä»¥ jQuery åˆ›å»ºæ–°å…ƒç´ 
 var txt3=document.createElement("p");
-txt3.innerHTML="Text.";               // Í¨¹ı DOM À´´´½¨ÎÄ±¾
-$("body").append(txt1,txt2,txt3);        // ×·¼ÓĞÂÔªËØ
+txt3.innerHTML="Text.";               // é€šè¿‡ DOM æ¥åˆ›å»ºæ–‡æœ¬
+$("body").append(txt1,txt2,txt3);        // è¿½åŠ æ–°å…ƒç´ 
 }
 </script>
 </head>
 <body>
 
 <p>This is a paragraph.</p>
-<button onclick="appendText()">×·¼ÓÎÄ±¾</button>
+<button onclick="appendText()">è¿½åŠ æ–‡æœ¬</button>
 
 </body>
 

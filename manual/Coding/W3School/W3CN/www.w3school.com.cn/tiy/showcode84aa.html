@@ -20,7 +20,7 @@ cars=Request.Form(&quot;cars&quot;)
 %&gt;</code>
 &lt;body&gt;
 &lt;form action=&quot;/example/aspe/demo_aspe_radiob.asp&quot; method=&quot;post&quot;&gt;
-&lt;p&gt;ÇëÑ¡ÔñÄúÏ²»¶µÄÆû³µ£º&lt;/p&gt;
+&lt;p&gt;è¯·é€‰æ‹©æ‚¨å–œæ¬¢çš„æ±½è½¦ï¼š&lt;/p&gt;
 
 &lt;input type=&quot;radio&quot; name=&quot;cars&quot;
 <code class="aspcode">&lt;%if cars=&quot;Volvo&quot; then Response.Write(&quot;checked&quot;)%&gt;</code>
@@ -34,11 +34,11 @@ value=&quot;Saab&quot;&gt;Saab&lt;/input&gt;
 <code class="aspcode">&lt;%if cars=&quot;BMW&quot; then Response.Write(&quot;checked&quot;)%&gt;</code>
 value=&quot;BMW&quot;&gt;BMW&lt;/input&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;input type=&quot;submit&quot; value=&quot;Ìá½»&quot; /&gt;
+&lt;input type=&quot;submit&quot; value=&quot;æäº¤&quot; /&gt;
 &lt;/form&gt;
 <code class="aspcode">&lt;%
 if cars&lt;&gt;&quot;&quot; then
-   Response.Write(&quot;&lt;p&gt;ÄúÏ²»¶µÄÆû³µÊÇ&quot; & cars & &quot;&lt;/p&gt;&quot;)
+   Response.Write(&quot;&lt;p&gt;æ‚¨å–œæ¬¢çš„æ±½è½¦æ˜¯&quot; & cars & &quot;&lt;/p&gt;&quot;)
 end if
 %&gt;</code>
 &lt;/body&gt;

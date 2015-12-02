@@ -27,13 +27,13 @@ Last name:
 &lt;/form&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;À´×ÔÉÏÃæµÄ±íµ¥µÄĞÅÏ¢£º&lt;/p&gt;
+&lt;p&gt;æ¥è‡ªä¸Šé¢çš„è¡¨å•çš„ä¿¡æ¯ï¼š&lt;/p&gt;
 <code class="aspcode">&lt;%
 If Request.Form(&quot;name&quot;)&lt;&gt;&quot;&quot; Then
       Response.Write(&quot;&lt;p&gt;&quot;)
       Response.Write(&quot;name=&quot; & Request.Form(&quot;name&quot;))
       Response.Write(&quot;&lt;/p&gt;&lt;p&gt;&quot;)
-      Response.Write(&quot;name ÊôĞÔµÄÊıÄ¿£º&quot;)
+      Response.Write(&quot;name å±æ€§çš„æ•°ç›®ï¼š&quot;)
       Response.Write(Request.Form(&quot;name&quot;).Count)
       Response.Write(&quot;&lt;/p&gt;&lt;p&gt;&quot;)
       Response.Write(&quot;First name=&quot; & Request.Form(&quot;name&quot;)(1))

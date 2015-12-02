@@ -19,13 +19,13 @@
 
 <code class="phpcode">&lt;?php
 $arr1 = $arr2 = array(&quot;pic1&quot;,&quot;pic2&quot;,&quot;pic10&quot;,&quot;pic01&quot;,&quot;pic100&quot;,&quot;pic20&quot;,&quot;pic30&quot;,&quot;pic200&quot;);
-echo &quot;��׼�ַ����Ƚ�&quot;.&quot;&lt;br&gt;&quot;;
+echo &quot;标准字符串比较&quot;.&quot;&lt;br&gt;&quot;;
 usort($arr1,&quot;strcmp&quot;);
 
 print_r($arr1);
 echo &quot;&lt;br&gt;&quot;;
 
-echo &quot;��Ȼ˳���ַ����Ƚ�&quot;.&quot;&lt;br&gt;&quot;;
+echo &quot;自然顺序字符串比较&quot;.&quot;&lt;br&gt;&quot;;
 usort($arr2,&quot;strnatcmp&quot;);
 
 print_r($arr2);

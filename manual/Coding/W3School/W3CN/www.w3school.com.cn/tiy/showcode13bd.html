@@ -20,27 +20,27 @@
 <code class="phpcode">&lt;?php
 $num1 = 123456789;
 $num2 = -123456789;
-$char = 50; // ASCII ×Ö·û 50 ÊÇ 2
+$char = 50; // ASCII å­—ç¬¦ 50 æ˜¯ 2
 
-// ×¢ÊÍ£º¸ñÊ½Öµ &quot;%%&quot; ·µ»Ø°Ù·ÖºÅ
-echo sprintf(&quot;%%b = %b&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¶ş½øÖÆÊı
-echo sprintf(&quot;%%c = %c&quot;,$char).&quot;&lt;br&gt;&quot;; // ASCII ×Ö·û
-echo sprintf(&quot;%%d = %d&quot;,$num1).&quot;&lt;br&gt;&quot;; // ´ø·ûºÅµÄÊ®½øÖÆÊı
-echo sprintf(&quot;%%d = %d&quot;,$num2).&quot;&lt;br&gt;&quot;; // ´ø·ûºÅµÄÊ®½øÖÆÊı
-echo sprintf(&quot;%%e = %e&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¿ÆÑ§¼ÆÊı·¨£¨Ğ¡Ğ´£©
-echo sprintf(&quot;%%E = %E&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¿ÆÑ§¼ÆÊı·¨£¨´óÑ§£©
-echo sprintf(&quot;%%u = %u&quot;,$num1).&quot;&lt;br&gt;&quot;; // ²»´ø·ûºÅµÄÊ®½øÖÆÊı£¨Õı£©
-echo sprintf(&quot;%%u = %u&quot;,$num2).&quot;&lt;br&gt;&quot;; // ²»´ø·ûºÅµÄÊ®½øÖÆÊı£¨¸º£©
-echo sprintf(&quot;%%f = %f&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¸¡µãÊı£¨ÊÓ±¾µØÉèÖÃ£©
-echo sprintf(&quot;%%F = %F&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¸¡µãÊı£¨²»ÊÓ±¾µØÉèÖÃ£©
-echo sprintf(&quot;%%g = %g&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¶ÌÓÚ %e ºÍ %f
-echo sprintf(&quot;%%G = %G&quot;,$num1).&quot;&lt;br&gt;&quot;; // ¶ÌÓÚ %E ºÍ %f
-echo sprintf(&quot;%%o = %o&quot;,$num1).&quot;&lt;br&gt;&quot;; // °Ë½øÖÆÊı
-echo sprintf(&quot;%%s = %s&quot;,$num1).&quot;&lt;br&gt;&quot;; // ×Ö·û´®
-echo sprintf(&quot;%%x = %x&quot;,$num1).&quot;&lt;br&gt;&quot;; // Ê®Áù½øÖÆÊı£¨Ğ¡Ğ´£©
-echo sprintf(&quot;%%X = %X&quot;,$num1).&quot;&lt;br&gt;&quot;; // Ê®Áù½øÖÆÊı£¨´óĞ´£©
-echo sprintf(&quot;%%+d = %+d&quot;,$num1).&quot;&lt;br&gt;&quot;; // ·ûºÅËµÃ÷·û£¨Õı£©
-echo sprintf(&quot;%%+d = %+d&quot;,$num2).&quot;&lt;br&gt;&quot;; // ·ûºÅËµÃ÷·û£¨¸º£©
+// æ³¨é‡Šï¼šæ ¼å¼å€¼ &quot;%%&quot; è¿”å›ç™¾åˆ†å·
+echo sprintf(&quot;%%b = %b&quot;,$num1).&quot;&lt;br&gt;&quot;; // äºŒè¿›åˆ¶æ•°
+echo sprintf(&quot;%%c = %c&quot;,$char).&quot;&lt;br&gt;&quot;; // ASCII å­—ç¬¦
+echo sprintf(&quot;%%d = %d&quot;,$num1).&quot;&lt;br&gt;&quot;; // å¸¦ç¬¦å·çš„åè¿›åˆ¶æ•°
+echo sprintf(&quot;%%d = %d&quot;,$num2).&quot;&lt;br&gt;&quot;; // å¸¦ç¬¦å·çš„åè¿›åˆ¶æ•°
+echo sprintf(&quot;%%e = %e&quot;,$num1).&quot;&lt;br&gt;&quot;; // ç§‘å­¦è®¡æ•°æ³•ï¼ˆå°å†™ï¼‰
+echo sprintf(&quot;%%E = %E&quot;,$num1).&quot;&lt;br&gt;&quot;; // ç§‘å­¦è®¡æ•°æ³•ï¼ˆå¤§å­¦ï¼‰
+echo sprintf(&quot;%%u = %u&quot;,$num1).&quot;&lt;br&gt;&quot;; // ä¸å¸¦ç¬¦å·çš„åè¿›åˆ¶æ•°ï¼ˆæ­£ï¼‰
+echo sprintf(&quot;%%u = %u&quot;,$num2).&quot;&lt;br&gt;&quot;; // ä¸å¸¦ç¬¦å·çš„åè¿›åˆ¶æ•°ï¼ˆè´Ÿï¼‰
+echo sprintf(&quot;%%f = %f&quot;,$num1).&quot;&lt;br&gt;&quot;; // æµ®ç‚¹æ•°ï¼ˆè§†æœ¬åœ°è®¾ç½®ï¼‰
+echo sprintf(&quot;%%F = %F&quot;,$num1).&quot;&lt;br&gt;&quot;; // æµ®ç‚¹æ•°ï¼ˆä¸è§†æœ¬åœ°è®¾ç½®ï¼‰
+echo sprintf(&quot;%%g = %g&quot;,$num1).&quot;&lt;br&gt;&quot;; // çŸ­äº %e å’Œ %f
+echo sprintf(&quot;%%G = %G&quot;,$num1).&quot;&lt;br&gt;&quot;; // çŸ­äº %E å’Œ %f
+echo sprintf(&quot;%%o = %o&quot;,$num1).&quot;&lt;br&gt;&quot;; // å…«è¿›åˆ¶æ•°
+echo sprintf(&quot;%%s = %s&quot;,$num1).&quot;&lt;br&gt;&quot;; // å­—ç¬¦ä¸²
+echo sprintf(&quot;%%x = %x&quot;,$num1).&quot;&lt;br&gt;&quot;; // åå…­è¿›åˆ¶æ•°ï¼ˆå°å†™ï¼‰
+echo sprintf(&quot;%%X = %X&quot;,$num1).&quot;&lt;br&gt;&quot;; // åå…­è¿›åˆ¶æ•°ï¼ˆå¤§å†™ï¼‰
+echo sprintf(&quot;%%+d = %+d&quot;,$num1).&quot;&lt;br&gt;&quot;; // ç¬¦å·è¯´æ˜ç¬¦ï¼ˆæ­£ï¼‰
+echo sprintf(&quot;%%+d = %+d&quot;,$num2).&quot;&lt;br&gt;&quot;; // ç¬¦å·è¯´æ˜ç¬¦ï¼ˆè´Ÿï¼‰
 ?&gt;</code>
   
 &lt;/body&gt;
