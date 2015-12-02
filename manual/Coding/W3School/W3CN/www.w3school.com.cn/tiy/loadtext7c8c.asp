@@ -6,7 +6,7 @@
 <body>
 
 <form action="http://www.w3school.com.cn/demo/demo_form.asp" id="carform">
-  ���֣�<input type="text" name="fname">
+  名字：<input type="text" name="fname">
   <input type="submit">
 </form>
 <br>
@@ -17,8 +17,8 @@
   <option value="audi">Audi</option>
 </select>
 
-<p>�����б�λ�ڱ���֮�⣬����Ȼ���ڸñ�����һ���֡�</p>
-<p><b>ע�ͣ�</b>Internet Explorer ��֧�� form ���ԡ�</p>
+<p>下拉列表位于表单之外，但仍然属于该表单的一部分。</p>
+<p><b>注释：</b>Internet Explorer 不支持 form 属性。</p>
 
 </body>
 

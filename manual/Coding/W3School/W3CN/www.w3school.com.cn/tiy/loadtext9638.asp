@@ -7,9 +7,9 @@
 
 <script>
 var x=document.getElementsByTagName('body')[0];
-document.write("ÎÄ±¾·½Ïò£º" + x.dir);
+document.write("æ–‡æœ¬æ–¹å‘ï¼š" + x.dir);
 document.write("<br>");
-document.write("Ìæ´ú·½·¨£º");
+document.write("æ›¿ä»£æ–¹æ³•ï¼š");
 document.write(document.getElementById('myid').dir);
 </script>
 

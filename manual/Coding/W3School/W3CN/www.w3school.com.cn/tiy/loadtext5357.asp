@@ -13,8 +13,8 @@ document.getElementById('x').style.background="url(" + bg + ")"
 
 <body>
 
-<p>±¾ÀýÑÝÊ¾ÈçºÎÏòÊäÈë¿ò²åÈë±³¾°Í¼Ïñ¡£</p>
-<p>°ÑÊó±êÒÆ¶¯µ½ÕâÁ½·ùÍ¼ÏñÉÏ£¬ÊäÈë¿ò»á»ñµÃÒ»·ù±³¾°Í¼Ïñ¡£</p>
+<p>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•å‘è¾“å…¥æ¡†æ’å…¥èƒŒæ™¯å›¾åƒã€‚</p>
+<p>æŠŠé¼ æ ‡ç§»åŠ¨åˆ°è¿™ä¸¤å¹…å›¾åƒä¸Šï¼Œè¾“å…¥æ¡†ä¼šèŽ·å¾—ä¸€å¹…èƒŒæ™¯å›¾åƒã€‚</p>
 
 <table width="300" height="100">
 <tr>
@@ -28,7 +28,7 @@ background="../i/eg_bg_04.gif">
 </table>
 
 <form>
-<input id="x" type="text" value="°ÑÊó±êÒÆ¶¯µ½Í¼ÏñÉÏ" size="20">
+<input id="x" type="text" value="æŠŠé¼ æ ‡ç§»åŠ¨åˆ°å›¾åƒä¸Š" size="20">
 </form>
 
 </body>

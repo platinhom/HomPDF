@@ -17,7 +17,7 @@ background-color:yellow;
 <a href="http://www.google.com/">Google</a>
 <a href="http://www.wikipedia.org/">Wikipedia</a>
 
-<p><b>×¢ÊÍ£º</b>:active Ñ¡ÔñÆ÷Îª»î¶¯µÄÁ´½ÓÉèÖÃÑùÊ½¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>:active é€‰æ‹©å™¨ä¸ºæ´»åŠ¨çš„é“¾æ¥è®¾ç½®æ ·å¼ã€‚</p>
 
 </body>
 

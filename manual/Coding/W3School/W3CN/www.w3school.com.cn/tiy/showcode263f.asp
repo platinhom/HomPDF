@@ -18,9 +18,9 @@
 
 <code class="aspcode">&lt;%
 If Response.IsClientConnected=true then
-Response.Write(&quot;ÓÃ»§ÈÔÈ»±£³ÖÁ¬½Ó¡£&quot;)
+Response.Write(&quot;ç”¨æˆ·ä»ç„¶ä¿æŒè¿æ¥ã€‚&quot;)
 else
-Response.Write(&quot;ÓÃ»§Î´Á¬½Ó¡£&quot;)
+Response.Write(&quot;ç”¨æˆ·æœªè¿æ¥ã€‚&quot;)
 end if
 %&gt;</code>
 

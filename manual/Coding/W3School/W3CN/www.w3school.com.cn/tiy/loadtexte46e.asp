@@ -4,7 +4,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 <script type="text/javascript">
-var x=prompt("ÇëÊäÈë 0 ÖÁ 10 Ö®¼äµÄÊı£º","")
+var x=prompt("è¯·è¾“å…¥ 0 è‡³ 10 ä¹‹é—´çš„æ•°ï¼š","")
 try
 { 
 if(x>10) 
@@ -17,11 +17,11 @@ else if(isNaN(x))
 catch(er)
 {
 if(er=="Err1") 
-  alert("´íÎó£¡¸ÃÖµÌ«´ó£¡")
+  alert("é”™è¯¯ï¼è¯¥å€¼å¤ªå¤§ï¼")
 if(er == "Err2") 
-  alert("´íÎó£¡¸ÃÖµÌ«Ğ¡£¡") 
+  alert("é”™è¯¯ï¼è¯¥å€¼å¤ªå°ï¼") 
 if(er == "Err3") 
-  alert("´íÎó£¡¸ÃÖµ²»ÊÇÊı×Ö£¡") 
+  alert("é”™è¯¯ï¼è¯¥å€¼ä¸æ˜¯æ•°å­—ï¼") 
 }
 </script>
 </body>

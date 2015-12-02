@@ -24,9 +24,9 @@ transform:skew(30deg,20deg);
 </head>
 <body>
 
-<div>��á�����һ�� div Ԫ�ء�</div>
+<div>你好。这是一个 div 元素。</div>
 
-<div id="div2">��á�����һ�� div Ԫ�ء�</div>
+<div id="div2">你好。这是一个 div 元素。</div>
 
 </body>
 

@@ -6,13 +6,13 @@
 <script type="text/javascript">
 function disp_alert()
 {
-alert("ÎÒÊÇÒ»¸öÏûÏ¢¿ò£¡")
+alert("æˆ‘æ˜¯ä¸€ä¸ªæ¶ˆæ¯æ¡†ï¼")
 }
 </script>
 </head>
 <body>
 
-<input type="button" onclick="disp_alert()" value="ÏÔÊ¾ÏûÏ¢¿ò" />
+<input type="button" onclick="disp_alert()" value="æ˜¾ç¤ºæ¶ˆæ¯æ¡†" />
 
 </body>
 

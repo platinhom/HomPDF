@@ -7,9 +7,9 @@
 
 <script>
 var x=document.getElementsByTagName('body')[0];
-document.write("Body CSS 类：" + x.className);
+document.write("Body CSS 绫伙細" + x.className);
 document.write("<br>");
-document.write("另一个替代方法：");
+document.write("鍙︿竴涓浛浠ｆ柟娉曪細");
 document.write(document.getElementById('myid').className);
 </script>
 

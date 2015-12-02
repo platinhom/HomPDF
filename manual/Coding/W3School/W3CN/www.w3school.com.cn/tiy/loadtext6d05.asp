@@ -4,8 +4,8 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=html5_geolocation_map by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:35 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
-<p id="demo">点击这个按钮，获得您的位置：</p>
-<button onclick="getLocation()">试一下</button>
+<p id="demo">鐐瑰嚮杩欎釜鎸夐挳锛岃幏寰楁偍鐨勪綅缃細</p>
+<button onclick="getLocation()">璇曚竴涓�</button>
 <div id="mapholder"></div>
 <script>
 var x=document.getElementById("demo");

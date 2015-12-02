@@ -18,7 +18,7 @@ document.getElementById('myimage').src="../i/eg_bulboff.gif";
 
 <body>
 <img id="myimage" onmousedown="lighton()" onmouseup="lightoff()" src="../i/eg_bulboff.gif" />
-<p>按住鼠标不放可以点亮这盏灯！</p>
+<p>鎸変綇榧犳爣涓嶆斁鍙互鐐逛寒杩欑洀鐏紒</p>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=js_dom_event_onmousedown_onmouseup2 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:09:44 GMT -->

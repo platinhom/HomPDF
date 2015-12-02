@@ -9,7 +9,7 @@
 <a href="http://www.google.com/" tabindex="1">Google</a><br />
 <a href="http://www.microsoft.com/" tabindex="3">Microsoft</a>
 
-<p><b>в╒ймё╨</b>гКЁ╒йтй╧сц╪Эелио╣д "Tab" ╪Этза╢╫сж╝╪Д╫Ьпп╣╪╨╫║ё</p>
+<p><b>ФЁ╗И┤┼О╪ </b>Х╞╥Е╟²Х╞∙Д╫©Г■╗И■╝Г⌡≤Д╦┼Г └ "Tab" И■╝Е°╗И⌠╬Ф▌╔Д╧▀И≈╢Х©⌡Х║▄Е╞╪Х┬╙Ц─┌</p>
 
 </body>
 

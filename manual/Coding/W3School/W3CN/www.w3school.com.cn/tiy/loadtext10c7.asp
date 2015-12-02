@@ -17,9 +17,9 @@ overflow:auto;
 </head>
 <body>
 
-<div>resize ÊôĞÔ¹æ¶¨ÊÇ·ñ¿ÉÓÉÓÃ»§µ÷ÕûÔªËØ³ß´ç¡£</div>
+<div>resize å±æ€§è§„å®šæ˜¯å¦å¯ç”±ç”¨æˆ·è°ƒæ•´å…ƒç´ å°ºå¯¸ã€‚</div>
 
-<p><b>×¢ÊÍ£º</b> Firefox 4+¡¢Safari ÒÔ¼° Chrome Ö§³Ö resize ÊôĞÔ¡£</p>
+<p><b>æ³¨é‡Šï¼š</b> Firefox 4+ã€Safari ä»¥åŠ Chrome æ”¯æŒ resize å±æ€§ã€‚</p>
 
 </body>
 

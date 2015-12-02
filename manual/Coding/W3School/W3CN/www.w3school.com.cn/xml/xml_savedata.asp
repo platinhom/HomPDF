@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/xml/xml_savedata.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:19:36 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>�����ݴ洢�� XML �ļ�</title>
+<title>把数据存储到 XML 文件</title>
 </head>
 
 <body class="xml">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,75 +42,75 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>XML ����</h2>
+<div id="course"><h2>XML 基础</h2>
 <ul>
-<li><a href="index.html" title="XML �̳�">XML �̳�</a></li>
-<li><a href="xml_intro.html" title="XML ���">XML ���</a></li>
-<li><a href="xml_usedfor.asp" title="XML ����;">XML ��;</a></li>
-<li><a href="xml_tree.html" title="XML ���ṹ">XML ���ṹ</a></li>
-<li><a href="xml_syntax.html" title="XML �﷨����">XML �﷨</a></li>
-<li><a href="xml_elements.html" title="XML Ԫ��">XML Ԫ��</a></li>
-<li><a href="xml_attributes.html" title="XML ����">XML ����</a></li>
-<li><a href="xml_dtd.asp" title="XML ��֤">XML ��֤</a></li>
-<li><a href="xml_validator.html" title="XML ��֤��">XML ��֤��</a></li>
-<li><a href="xml_browsers.html" title="XML �����֧��">XML �����</a></li>
-<li><a href="xml_view.html" title="�鿴 XML �ļ�">XML �鿴</a></li>
-<li><a href="xml_display.html" title="ʹ�� CSS ��ʾ XML">XML CSS</a></li>
-<li><a href="xml_xsl.html" title="ʹ�� XSLT ��ʾ XML">XML XSLT</a></li>
+<li><a href="index.html" title="XML 教程">XML 教程</a></li>
+<li><a href="xml_intro.html" title="XML 简介">XML 简介</a></li>
+<li><a href="xml_usedfor.asp" title="XML 的用途">XML 用途</a></li>
+<li><a href="xml_tree.html" title="XML 树结构">XML 树结构</a></li>
+<li><a href="xml_syntax.html" title="XML 语法规则">XML 语法</a></li>
+<li><a href="xml_elements.html" title="XML 元素">XML 元素</a></li>
+<li><a href="xml_attributes.html" title="XML 属性">XML 属性</a></li>
+<li><a href="xml_dtd.asp" title="XML 验证">XML 验证</a></li>
+<li><a href="xml_validator.html" title="XML 验证器">XML 验证器</a></li>
+<li><a href="xml_browsers.html" title="XML 浏览器支持">XML 浏览器</a></li>
+<li><a href="xml_view.html" title="查看 XML 文件">XML 查看</a></li>
+<li><a href="xml_display.html" title="使用 CSS 显示 XML">XML CSS</a></li>
+<li><a href="xml_xsl.html" title="使用 XSLT 显示 XML">XML XSLT</a></li>
 </ul>
 <h2>XML JavaScript</h2>
 <ul>
-<li><a href="xml_http.html" title="XMLHttpRequest ����">XML HTTP Request</a></li>
-<li><a href="xml_parser.html" title="XML ������">XML ������</a></li>
+<li><a href="xml_http.html" title="XMLHttpRequest 对象">XML HTTP Request</a></li>
+<li><a href="xml_parser.html" title="XML 解析器">XML 解析器</a></li>
 <li><a href="xml_dom.html" title="XML DOM">XML DOM</a></li>
 <li><a href="xml_to_html.html" title="XML to HTML">XML to HTML</a></li>
-<li><a href="xml_applications.asp" title="XML Ӧ�ó���">XML Ӧ�ó���</a></li>
+<li><a href="xml_applications.asp" title="XML 应用程序">XML 应用程序</a></li>
 </ul>
-<h2>XML �߼�</h2>
+<h2>XML 高级</h2>
 <ul>
-<li><a href="xml_namespaces.html" title="XML �����ռ䣨XML Namespaces��">XML �����ռ�</a></li>
+<li><a href="xml_namespaces.html" title="XML 命名空间（XML Namespaces）">XML 命名空间</a></li>
 <li><a href="xml_cdata.html" title="XML CDATA">XML CDATA</a></li>
-<li><a href="xml_encoding.html" title="XML ����">XML ����</a></li>
-<li><a href="xml_server.html" title="�������ϵ� XML">XML ������</a></li>
-<li><a href="xml_dom_advanced.html" title="XML DOM �߼�">XML DOM �߼�</a></li>
-<li><a href="xml_dont.html" title="XML ע������">XML ע������</a></li>
-<li class="currentLink"><a href="xml_savedata.asp" title="�����ݴ洢�� XML �ļ�">XML ���ݴ洢</a></li>
-<li><a href="xml_technologies.asp" title="XML ����ؼ���">XML ����</a></li>
-<li><a href="xml_real_life.html" title="��ʵ�����е� XML">XML ��ʵ����</a></li>
-<li><a href="xml_editors.html" title="XML �༭��">XML �༭��</a></li>
-<li><a href="xml_summary.html" title="���Ѿ�ѧϰ�� XML����һ��ѧϰʲô�����أ�">XML �̳��ܽ�</a></li>
+<li><a href="xml_encoding.html" title="XML 编码">XML 编码</a></li>
+<li><a href="xml_server.html" title="服务器上的 XML">XML 服务器</a></li>
+<li><a href="xml_dom_advanced.html" title="XML DOM 高级">XML DOM 高级</a></li>
+<li><a href="xml_dont.html" title="XML 注意事项">XML 注意事项</a></li>
+<li class="currentLink"><a href="xml_savedata.asp" title="把数据存储到 XML 文件">XML 数据存储</a></li>
+<li><a href="xml_technologies.asp" title="XML 的相关技术">XML 技术</a></li>
+<li><a href="xml_real_life.html" title="现实生活中的 XML">XML 现实案例</a></li>
+<li><a href="xml_editors.html" title="XML 编辑器">XML 编辑器</a></li>
+<li><a href="xml_summary.html" title="您已经学习了 XML，下一步学习什么内容呢？">XML 教程总结</a></li>
 </ul>
-<h2>XML ʵ��/����</h2>
+<h2>XML 实例/测验</h2>
 <ul>
-<li><a href="../example/xmle_examples.html" title="XML ʵ��">XML ʵ��</a></li>
-<li><a href="xml_quiz.html" title="XML ����">XML ����</a></li>
+<li><a href="../example/xmle_examples.html" title="XML 实例">XML 实例</a></li>
+<li><a href="xml_quiz.html" title="XML 测验">XML 测验</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="../careers/index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="../careers/index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
@@ -119,51 +119,51 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>�����ݴ洢�� XML �ļ�</h1>
+<h1>把数据存储到 XML 文件</h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="xml_dont.html" title="XML ע������">XML ע������</a></li>
-<li class="next"><a href="xml_technologies.asp" title="XML ����ؼ���">XML ����</a></li>
+<li class="pre"><a href="xml_dont.html" title="XML 注意事项">XML 注意事项</a></li>
+<li class="next"><a href="xml_technologies.asp" title="XML 的相关技术">XML 技术</a></li>
 </ul>
 </div>
 
 
 <div id="intro">
-<p><strong>ͨ�������������ݿ��д洢���ݡ����������ϣ�����ݵĿ���ֲ�Ը�ǿ�����ǿ��԰����ݴ洢 XML �ļ��С�</strong></p>
+<p><strong>通常，我们在数据库中存储数据。不过，如果希望数据的可移植性更强，我们可以把数据存储 XML 文件中。</strong></p>
 </div>
 
 
 <div>
-<h2>���������� XML �ļ�</h2>
-<p>�������Ҫ�����͵��� Windows ƽ̨�ϵ�Ӧ�ó�����ô�����ݱ����� XML �ļ������кô��ġ����ס��XML �к�ǿ�Ŀ�ƽ̨����ֲ�ԣ�������������ת����</p>
-<p>���ȣ����ǽ�ѧϰ��δ���������һ�� XML �ļ����������� XML �ļ���������Ϊ &quot;test.xml&quot;�����������ڷ������ϵ� c Ŀ¼�С����ǽ�ʹ�� ASP ��΢���� XMLDOM ������������������� XML �ļ���</p>
+<h2>创建并保存 XML 文件</h2>
+<p>如果数据要被传送到非 Windows 平台上的应用程序，那么把数据保存在 XML 文件中是有好处的。请记住，XML 有很强的跨平台可移植性，并且数据无需转换！</p>
+<p>首先，我们将学习如何创建并保存一个 XML 文件。下面的这个 XML 文件将被命名为 &quot;test.xml&quot;，并被保存在服务器上的 c 目录中。我们将使用 ASP 和微软的 XMLDOM 对象来创建并保存这个 XML 文件：</p>
 <pre>&lt;%
 Dim xmlDoc, rootEl, child1, child2, p
 
-<span>'����XML�ĵ�</span>
+<span>'创建XML文档</span>
 Set xmlDoc = Server.CreateObject(&quot;Microsoft.XMLDOM&quot;)
 
-<span>'������Ԫ�ز���֮�����ĵ�</span>
+<span>'创建根元素并将之加入文档</span>
 Set rootEl = xmlDoc.createElement(&quot;root&quot;)
 xmlDoc.appendChild rootEl
 
-<span>'������������Ԫ��</span>
+<span>'创建并加入子元素</span>
 Set child1 = xmlDoc.createElement(&quot;child1&quot;)
 Set child2 = xmlDoc.createElement(&quot;child2&quot;)
 rootEl.appendChild child1
 rootEl.appendChild child2
 
-<span>'���� XML processing instruction
-'�������ӵ���Ԫ��֮ǰ</span>
+<span>'创建 XML processing instruction
+'并把它加到根元素之前</span>
 Set p=xmlDoc.createProcessingInstruction(&quot;xml&quot;,&quot;version='1.0'&quot;)
 xmlDoc.insertBefore p,xmlDoc.childNodes(0)
 
-<span>'���ļ����浽 C Ŀ¼</span>
+<span>'把文件保存到 C 目录</span>
 xmlDoc.Save &quot;c:\test.xml&quot;
 %&gt;</pre>
 
-<p>������������������ļ�������ʹ������� (&quot;test.xml&quot;)��</p>
+<p>如果您打开这个被保存的文件，它会使这个样子 (&quot;test.xml&quot;)：</p>
 <pre>&lt;?xml version=&quot;1.0&quot;?&gt;
 &lt;root&gt;
   &lt;child1 /&gt;
@@ -173,26 +173,26 @@ xmlDoc.Save &quot;c:\test.xml&quot;
 
 
 <div>
-<h2>��ʵ�ı�������</h2>
-<p>���ڣ����ǿ�һ����ʵ�ı������ӡ�</p>
-<p>�������ȿ�һ����������������е� HTML �����������HTML����Ҫ���û��������ǵ����֡������Լ������ʼ���ַ�������Щ��Ϣ�ᱻд��һ�� XML �ļ����Ա�洢��</p>
+<h2>真实的表单例子</h2>
+<p>现在，我们看一个真实的表单例子。</p>
+<p>我们首先看一下这个被用在例子中的 HTML 表单：下面的HTML表单要求用户输入他们的名字、国籍以及电子邮件地址。随后这些信息会被写到一个 XML 文件，以便存储。</p>
 
 <h4>&quot;customers.htm&quot;:</h4>
 <pre>&lt;html&gt;
 
 &lt;body&gt;
 &lt;form action=&quot;saveForm.asp&quot; method=&quot;post&quot;&gt;
-&lt;h1&gt;������������ϵ��Ϣ��&lt;/h1&gt;
-&lt;label&gt;����: &lt;/label&gt;
+&lt;h1&gt;请输入您的联系信息：&lt;/h1&gt;
+&lt;label&gt;名字: &lt;/label&gt;
 &lt;p&gt;&lt;input type=&quot;text&quot; id=&quot;firstName&quot; name=&quot;firstName&quot;&gt;&lt;/p&gt;
 
-&lt;label&gt;����: &lt;/label&gt;
+&lt;label&gt;姓氏: &lt;/label&gt;
 &lt;p&gt;&lt;input type=&quot;text&quot; id=&quot;lastName&quot; name=&quot;lastName&quot;&gt;&lt;/p&gt;
 
-&lt;label&gt;����: &lt;/label&gt;
+&lt;label&gt;国家: &lt;/label&gt;
 &lt;p&gt;&lt;input type=&quot;text&quot; id=&quot;country&quot; name=&quot;country&quot;&gt;&lt;/p&gt;
 
-&lt;label&gt;�ʼ�: &lt;/label&gt;
+&lt;label&gt;邮件: &lt;/label&gt;
 &lt;p&gt;&lt;input type=&quot;text&quot; id=&quot;email&quot; name=&quot;email&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;
@@ -204,53 +204,53 @@ xmlDoc.Save &quot;c:\test.xml&quot;
 
 &lt;/html&gt;</pre>
 
-<p>�������� HTML ������ action ������Ϊ &quot;saveForm.asp&quot;��&quot;saveForm.asp&quot; �ļ���һ�� ASP ҳ�棬��ѭ��������򣬲������ǵ�ֵ�洢��һ�� XML �ļ��У�</p>
+<p>用于以上 HTML 表单的 action 被设置为 &quot;saveForm.asp&quot;。&quot;saveForm.asp&quot; 文件是一个 ASP 页面，可循环遍表单域，并把它们的值存储在一个 XML 文件中：</p>
 
 <pre>&lt;%
 dim xmlDoc
 dim rootEl,fieldName,fieldValue,attID
 dim p,i
 
-<span>'����д�������������������ֹ</span>
+<span>'如果有错误发生，不允许程序终止</span>
 On Error Resume Next
 
 Set xmlDoc = server.CreateObject(&quot;Microsoft.XMLDOM&quot;)
 xmlDoc.preserveWhiteSpace=true
 
-<span>'���������ĵ����Ӹ�Ԫ��</span>
+<span>'创建并向文档添加根元素</span>
 Set rootEl = xmlDoc.createElement(&quot;customer&quot;)
 xmlDoc.appendChild rootEl
 
-<span>'ѭ������ Form ��</span>
+<span>'循环遍历 Form 集</span>
 for i = 1 To Request.Form.Count
-  <span>'��ȥ�����е� button Ԫ��</span>
+  <span>'除去表单中的 button 元素</span>
   if instr(1,Request.Form.Key(i),&quot;btn_&quot;)=0 then
-    <span>'���� field �� value Ԫ�أ��Լ� id ����</span>
+    <span>'创建 field 和 value 元素，以及 id 属性</span>
     Set fieldName = xmlDoc.createElement(&quot;field&quot;)
     Set fieldValue = xmlDoc.createElement(&quot;value&quot;)
     Set attID = xmlDoc.createAttribute(&quot;id&quot;)
-    <span>'�ѵ�ǰ���������������Ϊ id ���Ե�ֵ</span>
+    <span>'把当前表单域的名称设置为 id 属性的值</span>
     attID.Text = Request.Form.Key(i)
-    <span>'�� id �������ӵ� field Ԫ��</span>
+    <span>'把 id 属性添加到 field 元素</span>
     fieldName.setAttributeNode attID
-    <span>'�ѵ�ǰ�������ֵ����Ϊ value Ԫ�ص�ֵ</span>
+    <span>'把当前表单域的值设置为 value 元素的值</span>
     fieldValue.Text = Request.Form(i)
-    <span>'�� field Ԫ����Ϊ��Ԫ�ص���Ԫ�ؽ�������</span>
+    <span>'将 field 元素作为根元素的子元素进行添加</span>
     rootEl.appendChild fieldName
-    <span>'�� value Ԫ����Ϊ field Ԫ�ص���Ԫ�ؽ�������</span>
+    <span>'将 value 元素作为 field 元素的子元素进行添加</span>
     fieldName.appendChild fieldValue
   end if
 next
 
-<span>'���� XML processing instruction
-'�������ӵ���Ԫ��֮ǰ</span>
+<span>'添加 XML processing instruction
+'并把它加到根元素之前</span>
 Set p = xmlDoc.createProcessingInstruction(&quot;xml&quot;,&quot;version='1.0'&quot;)
 xmlDoc.insertBefore p,xmlDoc.childNodes(0)
 
-<span>'���� XML �ļ�</span>
+<span>'保存 XML 文件</span>
 xmlDoc.save &quot;c:\Customer.xml&quot;
 
-<span>'�ͷ����еĶ�������</span>
+<span>'释放所有的对象引用</span>
 set xmlDoc=nothing
 set rootEl=nothing
 set fieldName=nothing
@@ -258,7 +258,7 @@ set fieldValue=nothing
 set attID=nothing
 set p=nothing
 
-<span>'�����Ƿ��д�����</span>
+<span>'测试是否有错误发生</span>
 if err.number&lt;&gt;0 then
   response.write(&quot;Error: No information saved.&quot;)
 else
@@ -266,9 +266,9 @@ else
 end if
 %&gt;</pre>
 
-<p class="note"><span>ע�ͣ�</span>���ָ���� XML �ļ����Ѿ����ڣ��Ǹ��ļ��ᱻ���ǣ�</p>
+<p class="note"><span>注释：</span>如果指定的 XML 文件名已经存在，那个文件会被覆盖！</p>
 
-<p>XML �ļ���������Ĵ������ɣ����µ������������ģ�(&quot;Customer.xml&quot;):</p>
+<p>XML 文件会由上面的代码生成，大致的样子是这样的：(&quot;Customer.xml&quot;):</p>
 
 <pre>&lt;?xml version=&quot;1.0&quot; ?&gt;
 &lt;customer&gt;
@@ -290,8 +290,8 @@ end if
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="xml_dont.html" title="XML ע������">XML ע������</a></li>
-<li class="next"><a href="xml_technologies.asp" title="XML ����ؼ���">XML ����</a></li>
+<li class="pre"><a href="xml_dont.html" title="XML 注意事项">XML 注意事项</a></li>
+<li class="next"><a href="xml_technologies.asp" title="XML 的相关技术">XML 技术</a></li>
 </ul>
 </div>
 
@@ -304,15 +304,15 @@ end if
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_example"><a href="../example/xmle_examples.html">XML ʵ��</a></h5>
-<h5 id="tools_quiz"><a href="xml_quiz.html">XML ����</a></h5>
+<h5 id="tools_example"><a href="../example/xmle_examples.html">XML 实例</a></h5>
+<h5 id="tools_quiz"><a href="xml_quiz.html">XML 测验</a></h5>
 </div>
 
 <div id="ad">
@@ -333,13 +333,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

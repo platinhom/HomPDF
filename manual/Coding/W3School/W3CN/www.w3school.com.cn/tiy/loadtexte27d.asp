@@ -6,12 +6,12 @@
 <body>
 
 <p>Hello World!</p>
-<p>DOM ºÜÓĞÓÃ£¡</p>
-<p>±¾ÀıÑİÊ¾ <b>getElementsByTagName</b> ·½·¨¡£</p>
+<p>DOM å¾ˆæœ‰ç”¨ï¼</p>
+<p>æœ¬ä¾‹æ¼”ç¤º <b>getElementsByTagName</b> æ–¹æ³•ã€‚</p>
 
 <script>
 x=document.getElementsByTagName("p");
-document.write("µÚÒ»¶ÎµÄÎÄ±¾: " + x[0].innerHTML);
+document.write("ç¬¬ä¸€æ®µçš„æ–‡æœ¬: " + x[0].innerHTML);
 </script>
 
 </body>

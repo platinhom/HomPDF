@@ -5,11 +5,11 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h3>ящй╬хГ╨н╢╢╫╗ Embed т╙кь</h3>
+<h3>Ф╪■Г╓╨Е╕┌Д╫∙Е┬⌡Е╩╨ Embed Е┘┐Г╢═</h3>
 
-<p>╣Ц╩В╟╢е╔ю╢╢╢╫╗╨╛спдзг╤ flash ╤╞╩╜╣д EMBED т╙кь║ё</p>
+<p>Г┌╧Е┤╩Ф▄┴И▓╝Ф²╔Е┬⌡Е╩╨Е░╚Ф°┴Е├┘Е╣▄ flash Е┼╗Г■╩Г └ EMBED Е┘┐Г╢═Ц─┌</p>
 
-<button onclick="myFunction()">йтр╩об</button>
+<button onclick="myFunction()">Х╞∙Д╦─Д╦▀</button>
 
 <script>
 function myFunction()

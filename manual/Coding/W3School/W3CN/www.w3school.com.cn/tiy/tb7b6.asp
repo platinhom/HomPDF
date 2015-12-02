@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=html5_button_formaction by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:16:12 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School在线测试工具 V2</title>
+<title>W3School鍦ㄧ嚎娴嬭瘯宸ュ叿 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="提交代码" onClick="submitTryit()">
+<input type="button" value="鎻愪氦浠ｇ爜" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>编辑您的代码：</h2>
+<h2>缂栬緫鎮ㄧ殑浠ｇ爜锛�</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE HTML>
 <html>
@@ -50,8 +50,8 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/example/html5/demo_form.asp" method="get">
 First name: <input type="text" name="fname" /><br />
 Last name: <input type="text" name="lname" /><br />
-<button type="submit">提交</button><br />
-<button type="submit" formaction="../example/html5/demo_admin.html">以管理员身份提交</button>
+<button type="submit">鎻愪氦</button><br />
+<button type="submit" formaction="../example/html5/demo_admin.html">浠ョ鐞嗗憳韬唤鎻愪氦</button>
 </form>
 
 </body>
@@ -67,12 +67,12 @@ Last name: <input type="text" name="lname" /><br />
 </form>
 
 <div id="result">
-<h2>查看结果:</h2>
+<h2>鏌ョ湅缁撴灉:</h2>
 <iframe frameborder="0" name="i" src="loadtextb7b6.html?f=html5_button_formaction"></iframe>
 </div>
 
 <div id="footer">
-<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
+<p>璇峰湪涓婇潰鐨勬枃鏈涓紪杈戞偍鐨勪唬鐮侊紝鐒跺悗鍗曞嚮鎻愪氦鎸夐挳娴嬭瘯缁撴灉銆�<a href="../index-2.html" title="W3School 鍦ㄧ嚎鏁欑▼">w3school.com.cn</a></p>
 </div>
 
 </div>

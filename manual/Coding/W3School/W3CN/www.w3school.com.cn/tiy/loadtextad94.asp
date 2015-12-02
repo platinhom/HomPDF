@@ -25,9 +25,9 @@ select case d
 end select
 </script>
 
-<p>±¾ÀıÑİÊ¾ "select case" Óï¾ä¡£<br />
-Äú»áµÃµ½»ùÓÚÈÕÆÚµÄ²»Í¬ÎÊºò¡£<br />
-Çë×¢Òâ£¬Sunday=1, Monday=2, Tuesday=3, ÒÔ´ËÀàÍÆ¡£</p>
+<p>æœ¬ä¾‹æ¼”ç¤º "select case" è¯­å¥ã€‚<br />
+æ‚¨ä¼šå¾—åˆ°åŸºäºæ—¥æœŸçš„ä¸åŒé—®å€™ã€‚<br />
+è¯·æ³¨æ„ï¼ŒSunday=1, Monday=2, Tuesday=3, ä»¥æ­¤ç±»æ¨ã€‚</p>
 
 </body>
 

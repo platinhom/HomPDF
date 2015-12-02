@@ -10,8 +10,8 @@
   <input type="submit">
 </form>
 
-<p><strong>ע�ͣ�</strong>Internet Explorer 9 �Լ�����İ汾��֧�� input ��ǩ�� accept ���ԡ�</p>
-<p><strong>ע�ͣ�</strong>���ڰ�ȫ���ǣ��������������ϴ��ļ���</p>
+<p><strong>注释：</strong>Internet Explorer 9 以及更早的版本不支持 input 标签的 accept 属性。</p>
+<p><strong>注释：</strong>鉴于安全考虑，该例不允许您上传文件。</p>
 
 </body>
 

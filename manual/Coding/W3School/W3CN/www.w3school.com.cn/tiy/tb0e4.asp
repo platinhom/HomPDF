@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquerymobile_button_mini by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:52:16 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -54,25 +54,25 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div data-role="page" id="pageone">
   <div data-role="header">
-  <h1>data-mini ʵ��</h1>
+  <h1>data-mini 实例</h1>
   </div>
 
   <div data-role="content">
-  <p>��ͨ��ť�����㰴ť��</p>
-  <a href="#" data-role="button">��ť 1</a>
-  <a href="#" data-role="button" data-mini="true">��ť 2</a>
+  <p>普通按钮和迷你按钮：</p>
+  <a href="#" data-role="button">按钮 1</a>
+  <a href="#" data-role="button" data-mini="true">按钮 2</a>
   <br>
   
-  <p>���ڰ�ť����ͨ������ģ�</p>
-  <a href="#" data-role="button" data-inline="true">��ť 1</a>
-  <a href="#" data-role="button" data-inline="true">��ť 2</a>
+  <p>行内按钮：普通和迷你的：</p>
+  <a href="#" data-role="button" data-inline="true">按钮 1</a>
+  <a href="#" data-role="button" data-inline="true">按钮 2</a>
   <br>
-  <a href="#" data-role="button" data-inline="true" data-mini="true">��ť 1</a>
-  <a href="#" data-role="button" data-inline="true" data-mini="true">��ť 2</a>
+  <a href="#" data-role="button" data-inline="true" data-mini="true">按钮 1</a>
+  <a href="#" data-role="button" data-inline="true" data-mini="true">按钮 2</a>
   </div>
 
   <div data-role="footer">
-    <h1>ҳ���ı�</h1>
+    <h1>页脚文本</h1>
   </div>
 </div> 
 
@@ -89,12 +89,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtextb0e4.html?f=jquerymobile_button_mini"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

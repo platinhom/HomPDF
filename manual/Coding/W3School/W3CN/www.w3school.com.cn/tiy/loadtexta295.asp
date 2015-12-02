@@ -5,11 +5,11 @@
 <body>
 
 <script type="text/javascript">
-// ÕâÐÐ´úÂëÊä³ö±êÌâ£º
-document.write("<h1>ÕâÊÇ±êÌâ</h1>");
-// ÕâÐÐ´úÂëÊä³ö¶ÎÂä£º
-document.write("<p>ÕâÊÇ¶ÎÂä¡£</p>");
-document.write("<p>ÕâÊÇÁíÒ»¸ö¶ÎÂä¡£</p>");
+// è¿™è¡Œä»£ç è¾“å‡ºæ ‡é¢˜ï¼š
+document.write("<h1>è¿™æ˜¯æ ‡é¢˜</h1>");
+// è¿™è¡Œä»£ç è¾“å‡ºæ®µè½ï¼š
+document.write("<p>è¿™æ˜¯æ®µè½ã€‚</p>");
+document.write("<p>è¿™æ˜¯å¦ä¸€ä¸ªæ®µè½ã€‚</p>");
 </script>
 
 </body>

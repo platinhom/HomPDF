@@ -6,7 +6,7 @@
 <body>
 
 <div style="background:yellow;border:1px solid #cccccc;padding: 10px;" contextmenu="mymenu">
-<p>ÇëÔÚ¿òÖÐÓÒ¼üµã»÷£¬¾Í¿ÉÒÔ¿´µ½¿ì½Ý²Ëµ¥£¡</p>
+<p>è¯·åœ¨æ¡†ä¸­å³é”®ç‚¹å‡»ï¼Œå°±å¯ä»¥çœ‹åˆ°å¿«æ·èœå•ï¼</p>
 
 <menu type="context" id="mymenu">
   <menuitem label="Refresh" onclick="window.location.reload();" icon="ico_reload.html"></menuitem>
@@ -19,7 +19,7 @@
 
 </div>
 
-<p>±¾ÀýÖ»ÔÚ Firefox ÖÐÓÐÐ§£¡</p>
+<p>æœ¬ä¾‹åªåœ¨ Firefox ä¸­æœ‰æ•ˆï¼</p>
 
 </body>
 

@@ -5,21 +5,21 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h1>ÎÒµÄµÚÒ»¶Î JavaScript</h1>
+<h1>æˆ‘çš„ç¬¬ä¸€æ®µ JavaScript</h1>
 
 <p id="demo">
-JavaScript ÄÜ¸Ä±ä HTML ÔªËØµÄÑùÊ½¡£
+JavaScript èƒ½æ”¹å˜ HTML å…ƒç´ çš„æ ·å¼ã€‚
 </p>
 
 <script>
 function myFunction()
 {
-x=document.getElementById("demo") // ÕÒµ½ÔªËØ
-x.style.color="#ff0000";          // ¸Ä±äÑùÊ½
+x=document.getElementById("demo") // æ‰¾åˆ°å…ƒç´ 
+x.style.color="#ff0000";          // æ”¹å˜æ ·å¼
 }
 </script>
 
-<button type="button" onclick="myFunction()">µã»÷ÕâÀï</button>
+<button type="button" onclick="myFunction()">ç‚¹å‡»è¿™é‡Œ</button>
 
 </body>
 

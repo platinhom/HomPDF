@@ -45,7 +45,7 @@ to {left:300px;}
 </head>
 <body>
 
-<p><strong>×¢ÊÍ£º</strong>Internet Explorer 9 ÒÔ¼°¸üÔçµÄ°æ±¾²»Ö§³Ö animation-timing-function ÊôĞÔ¡£</p>
+<p><strong>æ³¨é‡Šï¼š</strong>Internet Explorer 9 ä»¥åŠæ›´æ—©çš„ç‰ˆæœ¬ä¸æ”¯æŒ animation-timing-function å±æ€§ã€‚</p>
 
 <div id="div1">linear</div>
 <div id="div2">ease</div>

@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/media/media_tagref.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:33:30 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>Web ��ý��Ԫ�زο��ֲ�</title>
+<title>Web 多媒体元素参考手册</title>
 </head>
 
 <body class="webbuilding">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,60 +42,60 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>Web ��ý������̳�</h2>
+<div id="course"><h2>Web 多媒体基础教程</h2>
 <ul>
-<li><a href="index.html" title="�����ý�� �̳�">ý��̳�</a></li>
-<li><a href="media_intro.asp" title="Web ��ý�� ���">ý����</a></li>
-<li><a href="media_soundformats.html" title="��ý�� ��Ƶ��ʽ">��Ƶ��ʽ</a></li>
-<li><a href="media_videoformats.html" title="��ý�� ��Ƶ��ʽ">��Ƶ��ʽ</a></li>
-<li><a href="media_browsersounds.html" title="�� Web �ϲ�����Ƶ">��Ƶ����</a></li>
-<li><a href="media_browservideos.html" title="�� Web �ϲ�����Ƶ">��Ƶ����</a></li>
-<li><a href="media_windowsformats.html" title="Windows ��ý���ʽ">�Ӵ���ʽ</a></li>
+<li><a href="index.html" title="网络多媒体 教程">媒体教程</a></li>
+<li><a href="media_intro.asp" title="Web 多媒体 简介">媒介简介</a></li>
+<li><a href="media_soundformats.html" title="多媒体 音频格式">音频格式</a></li>
+<li><a href="media_videoformats.html" title="多媒体 视频格式">视频格式</a></li>
+<li><a href="media_browsersounds.html" title="在 Web 上播放音频">音频播放</a></li>
+<li><a href="media_browservideos.html" title="在 Web 上播放视频">视频播放</a></li>
+<li><a href="media_windowsformats.html" title="Windows 多媒体格式">视窗格式</a></li>
 </ul>
-<h2>ͼ������̳�</h2>
+<h2>图像基础教程</h2>
 <ul>
-<li><a href="media_gif.html" title="��ý��̳� - GIF ͼ��">GIF ͼ��</a></li>
-<li><a href="media_jpeg.html" title="��ý��̳� - JPEG ͼ��">JPEG ͼ��</a></li>
-<li><a href="media_browserimages.html" title="��ý��̳� - �� Web ��ʹ��ͼ��">ʹ��ͼ��</a></li>
+<li><a href="media_gif.html" title="多媒体教程 - GIF 图像">GIF 图像</a></li>
+<li><a href="media_jpeg.html" title="多媒体教程 - JPEG 图像">JPEG 图像</a></li>
+<li><a href="media_browserimages.html" title="多媒体教程 - 在 Web 上使用图像">使用图像</a></li>
 </ul>
-<h2>Object Ԫ��</h2>
+<h2>Object 元素</h2>
 <ul>
-<li><a href="media_object.html" title="Object Ԫ��">Object ���</a></li>
-<li><a href="media_quicktime.html" title="���� QuickTime ӰƬ">Object QuickTime</a></li>
-<li><a href="media_realvideo.html" title="���� Real Video ӰƬ">Object RealVideo</a></li>
+<li><a href="media_object.html" title="Object 元素">Object 简介</a></li>
+<li><a href="media_quicktime.html" title="播放 QuickTime 影片">Object QuickTime</a></li>
+<li><a href="media_realvideo.html" title="播放 Real Video 影片">Object RealVideo</a></li>
 </ul>
-<h2>�ο��ֲ�</h2>
+<h2>参考手册</h2>
 <ul>
-<li class="currentLink"><a href="media_tagref.asp" title="Web ��ý��Ԫ�زο��ֲ�">��ǩ�ο�</a></li>
-<li><a href="media_playerref.html" title="Windows Media Player �ο��ֲ�">�������ο�</a></li>
-<li><a href="media_mimeref.html" title="MIME �ο��ֲ�">MIME �ο�</a></li>
+<li class="currentLink"><a href="media_tagref.asp" title="Web 多媒体元素参考手册">标签参考</a></li>
+<li><a href="media_playerref.html" title="Windows Media Player 参考手册">播放器参考</a></li>
+<li><a href="media_mimeref.html" title="MIME 参考手册">MIME 参考</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="../careers/index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="../careers/index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
@@ -103,22 +103,22 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>Web ��ý��Ԫ�زο��ֲ�</h1>
+<h1>Web 多媒体元素参考手册</h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="media_realvideo.html" title="���� Real Video ӰƬ">Object RealVideo</a></li>
-<li class="next"><a href="media_playerref.html" title="Windows Media Player �ο��ֲ�">�������ο�</a></li>
+<li class="pre"><a href="media_realvideo.html" title="播放 Real Video 影片">Object RealVideo</a></li>
+<li class="next"><a href="media_playerref.html" title="Windows Media Player 参考手册">播放器参考</a></li>
 </ul>
 </div>
 
 <div>
-<h2>&lt;bgsound&gt; Ԫ��</h2>
+<h2>&lt;bgsound&gt; 元素</h2>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>功能</th>
   </tr>
   <tr>
     <td>id</td>
@@ -144,12 +144,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </div>
 
 <div>
-<h2>&lt;embed&gt; Ԫ��</h2>
+<h2>&lt;embed&gt; 元素</h2>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>autostart</td>
@@ -173,16 +173,16 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   </tr>
   </table>
 
-<p>��ͬʱ����ҳ��ײ�����ʽ�����ԡ�ͨ�� HTML �����Լ��¼����ԣ�</p>
+<p>请同时参阅页面底部的样式化属性、通用 HTML 属性以及事件属性：</p>
 </div>
 
 <div>
-<h2>&lt;applet&gt; Ԫ��</h2>
+<h2>&lt;applet&gt; 元素</h2>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>alt</td>
@@ -218,16 +218,16 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   </tr>
 </table>
 
-<p>��ͬʱ����ҳ��ײ�����ʽ�����ԡ�ͨ�� HTML �����Լ��¼����ԣ�</p>
+<p>请同时参阅页面底部的样式化属性、通用 HTML 属性以及事件属性：</p>
 </div>
 
 <div>
-<h2>&lt;object&gt; Ԫ��</h2>
+<h2>&lt;object&gt; 元素</h2>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>archive</td>
@@ -284,18 +284,18 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   </tr>
 </table>
 
-<p>��ͬʱ����ҳ��ײ�����ʽ�����ԡ�ͨ�� HTML �����Լ��¼����ԣ�</p>
+<p>请同时参阅页面底部的样式化属性、通用 HTML 属性以及事件属性：</p>
 </div>
 
 <div>
-<h2>&lt;param&gt; Ԫ��</h2>
+<h2>&lt;param&gt; 元素</h2>
 
-<p>param Ԫ��Ϊ object �� applet Ԫ�ض��������</p>
+<p>param 元素为 object 或 applet 元素定义参数。</p>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>id</td>
@@ -321,14 +321,14 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </div>
 
 <div>
-<h2>��ʽ������</h2>
+<h2>样式化属性</h2>
 
-<p class="note"><span>ע�ͣ�</span>��Щ���������޳�ʹ�á���ʹ����ʽȡ����֮��</p>
+<p class="note"><span>注释：</span>这些参数不被赞成使用。请使用样式取而代之。</p>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>align</td>
@@ -350,12 +350,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </div>
 
 <div>
-<h2>ͨ�� HTML ����</h2>
+<h2>通用 HTML 属性</h2>
 
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">����</th>
-    <th>����</th>
+    <th style="width:20%;">属性</th>
+    <th>定义</th>
   </tr>
   <tr>
     <td>class</td>
@@ -385,11 +385,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </div>
 
 <div>
-<h2>��׼�¼�</h2>
+<h2>标准事件</h2>
 <table class="dataintable">
   <tr>
-    <th style="width:20%;">�¼�</th>
-    <th>���</th>
+    <th style="width:20%;">事件</th>
+    <th>句柄</th>
   </tr>
   <tr>
     <td>onclick</td>
@@ -436,8 +436,8 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="media_realvideo.html" title="���� Real Video ӰƬ">Object RealVideo</a></li>
-<li class="next"><a href="media_playerref.html" title="Windows Media Player �ο��ֲ�">�������ο�</a></li>
+<li class="pre"><a href="media_realvideo.html" title="播放 Real Video 影片">Object RealVideo</a></li>
+<li class="next"><a href="media_playerref.html" title="Windows Media Player 参考手册">播放器参考</a></li>
 </ul>
 </div>
 </div>
@@ -449,14 +449,14 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="media_tagref.asp">Web ��ý��Ԫ�زο��ֲ�</a></h5>
+<h5 id="tools_reference"><a href="media_tagref.asp">Web 多媒体元素参考手册</a></h5>
 </div>
 
 <div id="ad">
@@ -477,13 +477,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

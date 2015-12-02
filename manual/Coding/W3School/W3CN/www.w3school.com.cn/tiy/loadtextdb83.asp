@@ -4,13 +4,13 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h3>不带有外边距的图像：</h3>
+<h3>涓嶅甫鏈夊杈硅窛鐨勫浘鍍忥細</h3>
 <p>
 <img src="../i/eg_logo_w3school.gif" align="middle" />
 This is some text. This is some text. This is some text.
 </p>
 
-<h3>左右外边距各为 50 像素的图像：</h3>
+<h3>宸﹀彸澶栬竟璺濆悇涓� 50 鍍忕礌鐨勫浘鍍忥細</h3>
 <p>
 <img src="../i/eg_logo_w3school.gif" align="middle" style="margin:0px 50px" />
 This is some text. This is some text. This is some text.

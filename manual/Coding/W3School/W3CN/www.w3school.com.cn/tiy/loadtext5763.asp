@@ -22,7 +22,7 @@ href ="../example/hdom/venus.html" id="venus" />
 </map>
 <br />
 <input type="button" onclick="changeTarget()" 
-value="¸ü¸Ä target" />
+value="æ›´æ”¹ target" />
 
 </body>
 

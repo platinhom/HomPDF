@@ -10,7 +10,7 @@
 <script>
 $(document).on("pageinit","#pageone",function(){
   $(document).on("scrollstop",function(){
-    alert("Í£Ö¹¹ö¶¯£¡");
+    alert("åœæ­¢æ»šåŠ¨ï¼");
   });                       
 });
 </script>
@@ -19,17 +19,17 @@ $(document).on("pageinit","#pageone",function(){
 
 <div data-role="page" id="pageone">
   <div data-role="header">
-    <h1>scrollstop ÊÂ¼ş</h1>
+    <h1>scrollstop äº‹ä»¶</h1>
   </div>
 
   <div data-role="content">
-    <p><b>ÌáÊ¾£º</b>Èç¹ûÎ´³öÏÖ¹ö¶¯Ìõ£¬Çë³¢ÊÔµ÷Õû´°¿Ú³ß´ç¡£</p>
+    <p><b>æç¤ºï¼š</b>å¦‚æœæœªå‡ºç°æ»šåŠ¨æ¡ï¼Œè¯·å°è¯•è°ƒæ•´çª—å£å°ºå¯¸ã€‚</p>
   
     <p>Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..</p>
   </div>
 
   <div data-role="footer">
-    <h1>Ò³½ÅÎÄ±¾</h1>
+    <h1>é¡µè„šæ–‡æœ¬</h1>
   </div>
 </div> 
 

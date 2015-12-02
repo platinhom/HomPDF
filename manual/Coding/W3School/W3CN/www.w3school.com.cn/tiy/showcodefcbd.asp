@@ -15,7 +15,7 @@
 
 <code class="jscode">&lt;script  runat=&quot;server&quot;&gt;
 Sub submit(Sender As Object,e As EventArgs)
-mess.Text=&quot;您选择了：&quot; & drop1.SelectedItem.Text
+mess.Text=&quot;鎮ㄩ�夋嫨浜嗭細&quot; & drop1.SelectedItem.Text
 End Sub
 &lt;/script&gt;</code>
 
@@ -31,7 +31,7 @@ End Sub
 &lt;asp:ListItem&gt;Item 5&lt;/asp:ListItem&gt;
 &lt;asp:ListItem&gt;Item 6&lt;/asp:ListItem&gt;
 &lt;/asp:ListBox&gt;
-&lt;asp:Button Text=&quot;提交&quot; OnClick=&quot;submit&quot; runat=&quot;server&quot; /&gt;
+&lt;asp:Button Text=&quot;鎻愪氦&quot; OnClick=&quot;submit&quot; runat=&quot;server&quot; /&gt;
 &lt;p&gt;&lt;asp:label id=&quot;mess&quot; runat=&quot;server&quot; /&gt;&lt;/p&gt;
 &lt;/form&gt;
 

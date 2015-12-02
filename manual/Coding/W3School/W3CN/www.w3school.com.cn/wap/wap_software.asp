@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/wap/wap_software.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:31:21 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>WAP Èí¼ş</title>
+<title>WAP è½¯ä»¶</title>
 </head>
 
 <body class="xml">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäº 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,58 +42,58 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁĞ½Ì³Ì">HTML ÏµÁĞ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·şÎñÆ÷½Å±¾½Ì³Ì">·şÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁĞ½Ì³Ì">XML ÏµÁĞ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁĞ½Ì³Ì">Web Services ÏµÁĞ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>WAP ½Ì³Ì</h2>
+<div id="course"><h2>WAP æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="WAP ½Ì³Ì">WAP ½Ì³Ì</a></li>
-<li><a href="wap_intro.html" title="WAP ¼ò½é">WAP ¼ò½é</a></li>
-<li><a href="wap_basic.html" title="WAP »ù´¡">WAP »ù´¡</a></li>
-<li><a href="wml_format.html" title="WML ¸ñÊ½»¯">WML ¸ñÊ½»¯</a></li>
-<li><a href="wml_links.html" title="WML Á´½ÓºÍÍ¼Ïñ">WML Á¬½Ó</a></li>
-<li><a href="wml_input.html" title="WML ÊäÈë">WML ÊäÈë</a></li>
-<li><a href="wml_tasks.html" title="WML ÈÎÎñ">WML ÈÎÎñ</a></li>
-<li><a href="wml_timer.html" title="WML ¼ÆÊ±Æ÷">WML ¼ÆÊ±Æ÷</a></li>
-<li><a href="wml_variables.html" title="WML ±äÁ¿">WML ±äÁ¿</a></li>
-<li><a href="wml_examples.html" title="WML ÊµÀı">WML ÊµÀı</a></li>
-<li><a href="wap_demo.html" title="WAP ÑİÊ¾">WAP ÑİÊ¾</a></li>
-<li><a href="wap_pages.html" title="´ÓÄúµÄÒÆ¶¯µç»°·ÃÎÊ W3School.com.cn">WAP W3School</a></li>
+<li><a href="index.html" title="WAP æ•™ç¨‹">WAP æ•™ç¨‹</a></li>
+<li><a href="wap_intro.html" title="WAP ç®€ä»‹">WAP ç®€ä»‹</a></li>
+<li><a href="wap_basic.html" title="WAP åŸºç¡€">WAP åŸºç¡€</a></li>
+<li><a href="wml_format.html" title="WML æ ¼å¼åŒ–">WML æ ¼å¼åŒ–</a></li>
+<li><a href="wml_links.html" title="WML é“¾æ¥å’Œå›¾åƒ">WML è¿æ¥</a></li>
+<li><a href="wml_input.html" title="WML è¾“å…¥">WML è¾“å…¥</a></li>
+<li><a href="wml_tasks.html" title="WML ä»»åŠ¡">WML ä»»åŠ¡</a></li>
+<li><a href="wml_timer.html" title="WML è®¡æ—¶å™¨">WML è®¡æ—¶å™¨</a></li>
+<li><a href="wml_variables.html" title="WML å˜é‡">WML å˜é‡</a></li>
+<li><a href="wml_examples.html" title="WML å®ä¾‹">WML å®ä¾‹</a></li>
+<li><a href="wap_demo.html" title="WAP æ¼”ç¤º">WAP æ¼”ç¤º</a></li>
+<li><a href="wap_pages.html" title="ä»æ‚¨çš„ç§»åŠ¨ç”µè¯è®¿é—® W3School.com.cn">WAP W3School</a></li>
 </ul>
-<h2>²Î¿¼ÊÖ²á</h2>
+<h2>å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="wml_reference.html" title="WML ²Î¿¼ÊÖ²á">WML ²Î¿¼ÊÖ²á</a></li>
-<li><a href="wml_entities.asp" title="WML ÊµÌå">WML ÊµÌå</a></li>
+<li><a href="wml_reference.html" title="WML å‚è€ƒæ‰‹å†Œ">WML å‚è€ƒæ‰‹å†Œ</a></li>
+<li><a href="wml_entities.asp" title="WML å®ä½“">WML å®ä½“</a></li>
 <li><a href="wml_dtd.html" title="WML DTD">WML DTD</a></li>
 </ul>
-<h2>²Î¿¼ÊÖ²á</h2>
+<h2>å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="wap_forum.html" title="WAP ÂÛÌ³ / ¿ª·ÅÒÆ¶¯ÁªÃË">WAP ÂÛÌ³/OMA</a></li>
-<li class="currentLink"><a href="wap_software.asp" title="WAP Èí¼ş">WAP Èí¼ş</a></li>
+<li><a href="wap_forum.html" title="WAP è®ºå› / å¼€æ”¾ç§»åŠ¨è”ç›Ÿ">WAP è®ºå›/OMA</a></li>
+<li class="currentLink"><a href="wap_software.asp" title="WAP è½¯ä»¶">WAP è½¯ä»¶</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ĞÅÏ¢">ä¯ÀÀÆ÷ĞÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æ„å»º">ç½‘ç«™æ„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äº W3School" id="link_about">å…³äº W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -101,31 +101,31 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>WAP Èí¼ş</h1>
+<h1>WAP è½¯ä»¶</h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="wap_forum.html" title="WAP ÂÛÌ³ / ¿ª·ÅÒÆ¶¯ÁªÃË">WAP ÂÛÌ³/OMA</a></li>
-<li class="next"><a href="index.html" title="WAP ½Ì³Ì">WAP ½Ì³Ì</a></li>
+<li class="pre"><a href="wap_forum.html" title="WAP è®ºå› / å¼€æ”¾ç§»åŠ¨è”ç›Ÿ">WAP è®ºå›/OMA</a></li>
+<li class="next"><a href="index.html" title="WAP æ•™ç¨‹">WAP æ•™ç¨‹</a></li>
 </ul>
 </div>
 
 <div>
-<h2>WAP ¹«Ë¾</h2>
+<h2>WAP å…¬å¸</h2>
 
 <p><a href="http://www.symbian.com/" title="Symbian OS the open mobile operating system">Symbian</a></p>
 
-<p>Symbian ÓÚ 1998 Äê 6 ÔÂ×÷ÎªÒ»¼ÒË½ÓĞµÄ¶ÀÁ¢¹«Ë¾³ÉÁ¢£¬²¢±»ÏÂÁĞ¹«Ë¾¹²Í¬ÓµÓĞ£º°®Á¢ĞÅ¡¢Åµ»ùÑÇ¡¢ËÉÏÂ¡¢Ä¦ÍĞÂŞÀ­¡¢Psion¡¢Î÷ÃÅ×ÓÒÔ¼°Ë÷Äá°®Á¢ĞÅ¡£</p>
+<p>Symbian äº 1998 å¹´ 6 æœˆä½œä¸ºä¸€å®¶ç§æœ‰çš„ç‹¬ç«‹å…¬å¸æˆç«‹ï¼Œå¹¶è¢«ä¸‹åˆ—å…¬å¸å…±åŒæ‹¥æœ‰ï¼šçˆ±ç«‹ä¿¡ã€è¯ºåŸºäºšã€æ¾ä¸‹ã€æ‘©æ‰˜ç½—æ‹‰ã€Psionã€è¥¿é—¨å­ä»¥åŠç´¢å°¼çˆ±ç«‹ä¿¡ã€‚</p>
 
-<p>Symbian Ìá¹©ÏÈ½øµÄ¿ª·Å±ê×¼²Ù×÷ÏµÍ³ - Symbian OS - Õë¶ÔÔÊĞíÊı¾İ´«ËÍ (data-enabled) µÄÒÆ¶¯µç»°¡£</p>
+<p>Symbian æä¾›å…ˆè¿›çš„å¼€æ”¾æ ‡å‡†æ“ä½œç³»ç»Ÿ - Symbian OS - é’ˆå¯¹å…è®¸æ•°æ®ä¼ é€ (data-enabled) çš„ç§»åŠ¨ç”µè¯ã€‚</p>
 </div>
 
 <div>
-<h2>MobileDev - ÎŞÏßÓ¦ÓÃ¿ª·¢ (Wireless Application Development)</h2>
+<h2>MobileDev - æ— çº¿åº”ç”¨å¼€å‘ (Wireless Application Development)</h2>
 
 <p><a href="http://www.speedware.com/solutions/wireless/mobile_development_tools/MobileDev/" title="Speedware - MobileDev">MobileDev</a></p>
 
-<p>ÓĞ¹ØÎŞÏßÓ¦ÓÃ¿ª·¢µÄ²¹³ä²ÄÁÏ£º</p>
+<p>æœ‰å…³æ— çº¿åº”ç”¨å¼€å‘çš„è¡¥å……ææ–™ï¼š</p>
 <p>MobileDev is the first Wireless Development Environment (WDE) specifically for WAP Internet applications. Its innovative open-ended development model integrates a graphical application mapper with a wizard interface and a rich tool set. MobileDev supports WAP technologies like WML, HDML, Microsoft Active Server Pages (ASP), Perl and Java Server Pages (JSP).</p>
 
 <p>Using the GUI application mapper to show the relationships between objects, developers can quickly outline the components of a WAP application. Then they can take advantage of wizards that generate Decks and Cards in both WML and HDML, and use MobileDev's code builder to write WML/HDML syntax that complements the wizard-generated code. The integration of the application mapper with wizards and the code builder provides a seamless WDE that delivers results fast.</p>
@@ -135,8 +135,8 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="wap_forum.html" title="WAP ÂÛÌ³ / ¿ª·ÅÒÆ¶¯ÁªÃË">WAP ÂÛÌ³/OMA</a></li>
-<li class="next"><a href="index.html" title="WAP ½Ì³Ì">WAP ½Ì³Ì</a></li>
+<li class="pre"><a href="wap_forum.html" title="WAP è®ºå› / å¼€æ”¾ç§»åŠ¨è”ç›Ÿ">WAP è®ºå›/OMA</a></li>
+<li class="next"><a href="index.html" title="WAP æ•™ç¨‹">WAP æ•™ç¨‹</a></li>
 </ul>
 </div>
 </div>
@@ -148,15 +148,15 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈİ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="wml_reference.html">WML ²Î¿¼ÊÖ²á</a></h5>
-<h5 id="tools_example"><a href="wap_demo.html">WAP ÑİÊ¾</a></h5>
+<h5 id="tools_reference"><a href="wml_reference.html">WML å‚è€ƒæ‰‹å†Œ</a></h5>
+<h5 id="tools_example"><a href="wap_demo.html">WAP æ¼”ç¤º</a></h5>
 </div>
 
 <div id="ad">
@@ -177,13 +177,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈİ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈİµÄÕıÈ·ĞÔ¡£Í¨¹ıÊ¹ÓÃ±¾Õ¾ÄÚÈİËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎŞ¹Ø¡£W3School ¼òÌåÖĞÎÄ°æµÄËùÓĞÄÚÈİ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ğµ£ÈÎºÎÔğÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£é™©ä¸æœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£é™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒşË½">ÒşË½Ìõ¿î</a>¡£°æÈ¨ËùÓĞ£¬±£ÁôÒ»ÇĞÈ¨Àû¡£
-ÔŞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

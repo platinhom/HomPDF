@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/vbscript/vbscript_intro.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:19:12 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,17 +17,17 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>VBScript ���</title>
+<title>VBScript 简介</title>
 </head>
 
 <body class="serverscripting">
 <div id="wrapper">
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -41,92 +41,92 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>VBScript �̳�</h2>
+<div id="course"><h2>VBScript 教程</h2>
 <ul>
-<li><a href="index.html" title="VBScript �̳�">VB �̳�</a></li>
-<li class="currentLink"><a href="vbscript_intro.asp" title="VBScript ���">VB ���</a></li>
+<li><a href="index.html" title="VBScript 教程">VB 教程</a></li>
+<li class="currentLink"><a href="vbscript_intro.asp" title="VBScript 简介">VB 简介</a></li>
 <li><a href="vbscript_howto.html" title="VBScript How to">VB How to</a></li>
 <li><a href="vbscript_whereto.asp" title="VBScript Where to">VB Where to</a></li>
-<li><a href="vbscript_variables.asp" title="VBScript ����">VB ����</a></li>
-<li><a href="vbscript_procedures.html" title="VBScript ����">VB ����</a></li>
-<li><a href="vbscript_conditionals.asp" title="VBScript �������">VB �������</a></li>
-<li><a href="vbscript_looping.html" title="VBScript ѭ�����">VB ѭ�����</a></li>
-<li><a href="vbscript_summary.html" title="���Ѿ�ѧϰ�� VBScript����һ���أ�">VB �̳��ܽ�</a></li>
+<li><a href="vbscript_variables.asp" title="VBScript 变量">VB 变量</a></li>
+<li><a href="vbscript_procedures.html" title="VBScript 程序">VB 程序</a></li>
+<li><a href="vbscript_conditionals.asp" title="VBScript 条件语句">VB 条件语句</a></li>
+<li><a href="vbscript_looping.html" title="VBScript 循环语句">VB 循环语句</a></li>
+<li><a href="vbscript_summary.html" title="您已经学习了 VBScript，下一步呢？">VB 教程总结</a></li>
 </ul>
-<h2>VBScript ʵ��</h2>
+<h2>VBScript 实例</h2>
 <ul>
-<li><a href="../example/vbst_examples.html" title="VBScript ʵ��">VB ʵ��</a></li>
+<li><a href="../example/vbst_examples.html" title="VBScript 实例">VB 实例</a></li>
 </ul>
-<h2>VBScript �ο��ֲ�</h2>
+<h2>VBScript 参考手册</h2>
 <ul>
-<li><a href="vbscript_ref_functions.html" title="VBScript ����">VB ����</a></li>
-<li><a href="vbscript_ref_keywords.html" title="VBScript �ؼ���">VB �ؼ���</a></li>
+<li><a href="vbscript_ref_functions.html" title="VBScript 函数">VB 函数</a></li>
+<li><a href="vbscript_ref_keywords.html" title="VBScript 关键字">VB 关键字</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="../careers/index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="../careers/index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
 </div>
 
 <div id="maincontent">
-<h1>VBScript ���</h1>
+<h1>VBScript 简介</h1>
 
 <div  id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="index.html" title="VBScript �̳�">VB �̳�</a></li>
+<li class="pre"><a href="index.html" title="VBScript 教程">VB 教程</a></li>
 <li class="next"><a href="vbscript_howto.html" title="VBScript How to">VB How to</a></li>
 </ul>
 </div>
 
 <div>
-<h2>ѧϰ֮ǰ������Ҫ�߱��Ļ���֪ʶ��</h2>
-<p>�ڼ���ѧϰ֮ǰ����Ӧ�ö������֪ʶ�л������˽⣺</p>
+<h2>学习之前，您需要具备的基础知识：</h2>
+<p>在继续学习之前，您应该对下面的知识有基本的了解：</p>
 <ul>
-<li>WWW, HTML �Լ���վ����Ļ���֪ʶ</li>
+<li>WWW, HTML 以及网站建设的基础知识</li>
 </ul>
-<p>�����ϣ������ѧϰ���ϵ���Ŀ����������ǵ�<a href="../index-2.html">��ҳ</a>��</p>
+<p>如果您希望首先学习以上的项目，请访问我们的<a href="../index-2.html">首页</a>。</p>
 </div>
 
 <div>
-<h2>ʲô��VBScript?</h2>
+<h2>什么是VBScript?</h2>
 <ul>
-<li>VBScript ��һ�ֽű�����</li>
-<li>�ű�������һ���������ı������</li>
-<li>VBScript ��΢���ı������ Visual Basic ���������İ汾</li>
+<li>VBScript 是一种脚本语言</li>
+<li>脚本语言是一种轻量级的编程语言</li>
+<li>VBScript 是微软的编程语言 Visual Basic 的轻量级的版本</li>
 </ul>
 
-<h3>����ι�����</h3>
-<p>��VBScript ������һ�� HTML �ĵ�����������������ȡ����ĵ������� VBScript ���н��͡�VBScript ���ܻ�����ִ�У�Ҳ������֮����¼�����ʱִ�С�</p>
+<h3>它如何工作？</h3>
+<p>当VBScript 被插入一个 HTML 文档后，因特网浏览器会读取这个文档，并对 VBScript 进行解释。VBScript 可能会立即执行，也可能在之后的事件发生时执行。</p>
 </div>
 
 <div  id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="index.html" title="VBScript �̳�">VB �̳�</a></li>
+<li class="pre"><a href="index.html" title="VBScript 教程">VB 教程</a></li>
 <li class="next"><a href="vbscript_howto.html" title="VBScript How to">VB How to</a></li>
 </ul>
 </div>
@@ -139,15 +139,15 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="vbscript_ref_functions.html">VBScript �ο��ֲ�</a></h5>
-<h5 id="tools_example"><a href="../example/vbst_examples.html">VBScript ʵ��</a></h5>
+<h5 id="tools_reference"><a href="vbscript_ref_functions.html">VBScript 参考手册</a></h5>
+<h5 id="tools_example"><a href="../example/vbst_examples.html">VBScript 实例</a></h5>
 </div>
 
 <div id="ad">
@@ -168,13 +168,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

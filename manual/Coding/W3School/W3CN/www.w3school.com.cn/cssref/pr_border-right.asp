@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/cssref/pr_border-right.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:37:02 GMT -->
 <head>
-<meta charset="gbk" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>CSS border-right ����</title>
+<title>CSS border-right 属性</title>
 
 </head>
 
@@ -18,11 +18,11 @@
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -36,29 +36,29 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>CSS �ο��ֲ�</h2>
+<div id="course"><h2>CSS 参考手册</h2>
 <ul>
-<li><a href="index.html" title="CSS �ο��ֲ�">CSS �ο��ֲ�</a></li>
-<li><a href="css_selectors.html" title="CSS ѡ�����ο��ֲ�">CSS ѡ����</a></li>
-<li><a href="css_ref_aural.html" title="CSS �����ο��ֲ�">CSS �����ο��ֲ�</a></li>
-<li><a href="css_websafe_fonts.asp" title="CSS ���簲ȫ�������">CSS ���簲ȫ����</a></li>
-<li><a href="css_units.html" title="CSS ��λ">CSS ��λ</a></li>
-<li><a href="css_colors.html" title="CSS ��ɫ">CSS ��ɫ</a></li>
-<li><a href="css_colors_legal.html" title="CSS �Ϸ���ɫֵ">CSS ��ɫֵ</a></li>
-<li><a href="css_colornames.html" title="CSS ��ɫ��">CSS ��ɫ��</a></li>
-<li><a href="css_colorsfull.asp" title="CSS ��ɫʮ������ֵ">CSS ��ɫʮ������</a></li>
+<li><a href="index.html" title="CSS 参考手册">CSS 参考手册</a></li>
+<li><a href="css_selectors.html" title="CSS 选择器参考手册">CSS 选择器</a></li>
+<li><a href="css_ref_aural.html" title="CSS 听觉参考手册">CSS 听觉参考手册</a></li>
+<li><a href="css_websafe_fonts.asp" title="CSS 网络安全字体组合">CSS 网络安全字体</a></li>
+<li><a href="css_units.html" title="CSS 单位">CSS 单位</a></li>
+<li><a href="css_colors.html" title="CSS 颜色">CSS 颜色</a></li>
+<li><a href="css_colors_legal.html" title="CSS 合法颜色值">CSS 颜色值</a></li>
+<li><a href="css_colornames.html" title="CSS 颜色名">CSS 颜色名</a></li>
+<li><a href="css_colorsfull.asp" title="CSS 颜色十六进制值">CSS 颜色十六进制</a></li>
 </ul>
 </div>
 
@@ -66,17 +66,17 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>CSS border-right ����</h1>
+<h1>CSS border-right 属性</h1>
 
 <div class="backtoreference">
-<p><a href="index.html" title="CSS �ο��ֲ�">CSS �ο��ֲ�</a></p>
+<p><a href="index.html" title="CSS 参考手册">CSS 参考手册</a></p>
 </div>
 
 
 <div>
-<h2>ʵ��</h2>
+<h2>实例</h2>
 
-<p>�����ұ߿����ʽ��</p>
+<p>设置右边框的样式：</p>
 
 <pre>
 p
@@ -86,12 +86,12 @@ p
   }
 </pre>
 
-<p class="tiy"><a target="_blank" href="../tiy/t4cd4.asp?f=csse_border-right">������һ��</a></p>
+<p class="tiy"><a target="_blank" href="../tiy/t4cd4.asp?f=csse_border-right">亲自试一试</a></p>
 </div>
 
 
 <div>
-<h2>�����֧��</h2>
+<h2>浏览器支持</h2>
 
 <table class="dataintable browsersupport">
   <tr>
@@ -110,18 +110,18 @@ p
   </tr>
 </table>
 
-<p>�����������֧�� border-right ���ԡ�</p>
+<p>所有浏览器都支持 border-right 属性。</p>
 
-<p class="note"><span>ע�ͣ�</span>IE7 �Լ�����汾���������֧��ֵ &quot;inherit&quot;��IE8 ��Ҫ !DOCTYPE��IE9 ֧�� &quot;inherit&quot;��</p>
+<p class="note"><span>注释：</span>IE7 以及更早版本的浏览器不支持值 &quot;inherit&quot;。IE8 需要 !DOCTYPE。IE9 支持 &quot;inherit&quot;。</p>
 </div>
 
 
 <div>
-<h2>������÷�</h2>
+<h2>定义和用法</h2>
 
-<p>border-right ��д���԰��ұ߿�������������õ�һ�������С�</p>
+<p>border-right 简写属性把右边框的所有属性设置到一个声明中。</p>
 
-<p>���԰�˳�������������ԣ�</p>
+<p>可以按顺序设置如下属性：</p>
 
 <ul>
 <li>border-right-width</li>
@@ -129,23 +129,23 @@ p
 <li>border-right-color</li>
 </ul>
 
-<p>������������е�ĳ��ֵ��Ҳ��������⣬���� border-right:solid #ff0000; Ҳ�������ġ�</p>
+<p>如果不设置其中的某个值，也不会出问题，比如 border-right:solid #ff0000; 也是允许的。</p>
 
 <table class="dataintable">
   <tr>
-    <th style="width:25%;">Ĭ��ֵ��</th>
+    <th style="width:25%;">默认值：</th>
     <td style="width:75%;"><i>not specified</i></td>
   </tr>
   <tr>
-    <th>�̳��ԣ�</th>
+    <th>继承性：</th>
     <td>no</td>
   </tr>
   <tr>
-    <th>�汾��</th>
+    <th>版本：</th>
     <td>CSS1</td>
   </tr>
   <tr>
-    <th>JavaScript �﷨��</th>
+    <th>JavaScript 语法：</th>
     <td><i>object</i>.style.borderRight=&quot;3px solid blue&quot;</td>
   </tr>
 </table>
@@ -153,58 +153,58 @@ p
 
 
 <div>
-<h2>���ܵ�ֵ</h2>
+<h2>可能的值</h2>
 
 <table class="dataintable">
 <tr>
-<th>ֵ</th>
-<th>����</th>
+<th>值</th>
+<th>描述</th>
 </tr>
 
 <tr>
 <td><i>border-right-width</i></td>
-<td>�涨�ұ߿�Ŀ��ȡ����ģ�<a href="pr_border-right_width.html" title="CSS border-right-width ����">border-right-width</a> �п��ܵ�ֵ��</td>
+<td>规定右边框的宽度。参阅：<a href="pr_border-right_width.html" title="CSS border-right-width 属性">border-right-width</a> 中可能的值。</td>
 </tr>
 
 <tr>
 <td><i>border-right-style</i></td>
-<td>�涨�ұ߿����ʽ�����ģ�<a href="pr_border-right_style.html" title="CSS border-right-style ����">border-right-style</a> �п��ܵ�ֵ��</td>
+<td>规定右边框的样式。参阅：<a href="pr_border-right_style.html" title="CSS border-right-style 属性">border-right-style</a> 中可能的值。</td>
 </tr>
 
 <tr>
 <td><i>border-right-color</i></td>
-<td>�涨�ұ߿����ɫ�����ģ�<a href="pr_border-right_color.html" title="CSS border-right-color ����">border-right-color</a> �п��ܵ�ֵ��</td>
+<td>规定右边框的颜色。参阅：<a href="pr_border-right_color.html" title="CSS border-right-color 属性">border-right-color</a> 中可能的值。</td>
 </tr>
 
 <tr>
 <td>inherit</td>
-<td>�涨Ӧ�ôӸ�Ԫ�ؼ̳� border-right ���Ե����á�</td>
+<td>规定应该从父元素继承 border-right 属性的设置。</td>
 </tr>
 </table>
 </div>
 
 
 <div class="example">
-<h2>TIY ʵ��</h2>
+<h2>TIY 实例</h2>
 
 <dl>
-<dt><a target="_blank" href="../tiy/t4cd4.asp?f=csse_border-right">�����ұ߿�������һ������֮��</a></dt>
-<dd>������ʾһ����д���ԣ����ڰ������ұ߿�����������һ�������С�</dd>
+<dt><a target="_blank" href="../tiy/t4cd4.asp?f=csse_border-right">所有右边框属性在一个声明之中</a></dt>
+<dd>本例演示一个简写属性，用于把所有右边框属性设置在一条声明中。</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>���ҳ��</h2>
+<h2>相关页面</h2>
 
-<p>CSS �̳̣�<a href="../css/css_border.html" title="CSS �߿�">CSS �߿�</a></p>
+<p>CSS 教程：<a href="../css/css_border.html" title="CSS 边框">CSS 边框</a></p>
 
-<p>HTML DOM �ο��ֲ᣺<a href="../jsref/prop_style_borderright.html" title="HTML DOM borderRight ����">borderRight ����</a></p>
+<p>HTML DOM 参考手册：<a href="../jsref/prop_style_borderright.html" title="HTML DOM borderRight 属性">borderRight 属性</a></p>
 </div>
 
 
 <div class="backtoreference">
-<p><a href="index.html" title="CSS �ο��ֲ�">CSS �ο��ֲ�</a></p>
+<p><a href="index.html" title="CSS 参考手册">CSS 参考手册</a></p>
 </div>
 
 
@@ -218,14 +218,14 @@ p
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="index.html">CSS �ο��ֲ�</a></h5>
+<h5 id="tools_reference"><a href="index.html">CSS 参考手册</a></h5>
 </div>
 
 <div id="ad">
@@ -246,13 +246,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

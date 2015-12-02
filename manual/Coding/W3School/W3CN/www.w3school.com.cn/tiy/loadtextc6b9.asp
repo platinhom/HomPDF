@@ -16,8 +16,8 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<p>�ڱ������ƶ�֮�����ŵ���ö��䣬��ע���������� click �¼���</p>
-<button>�ƶ� p Ԫ��</button>
+<p>在本段落移动之后，试着点击该段落，请注意它保留了 click 事件。</p>
+<button>移动 p 元素</button>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_manipulation_detach_restore by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

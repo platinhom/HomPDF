@@ -18,8 +18,8 @@ Response.Buffer=true
 %&gt;</code>
 &lt;html&gt;
 &lt;body&gt;
-&lt;p&gt;ÕâÊÇÎÒÏ£Íû·¢ËÍ¸øÓÃ»§µÄÎÄ±¾¡£&lt;/p&gt;
-&lt;p&gt;²»£¬ÎÒ¸Ä±äÖ÷ÒâÁË¡£ÎÒÏ£ÍûÇå³ıÕâĞ©ÎÄ±¾¡£&lt;/p&gt;
+&lt;p&gt;è¿™æ˜¯æˆ‘å¸Œæœ›å‘é€ç»™ç”¨æˆ·çš„æ–‡æœ¬ã€‚&lt;/p&gt;
+&lt;p&gt;ä¸ï¼Œæˆ‘æ”¹å˜ä¸»æ„äº†ã€‚æˆ‘å¸Œæœ›æ¸…é™¤è¿™äº›æ–‡æœ¬ã€‚&lt;/p&gt;
 <code class="aspcode">&lt;%
 Response.Clear
 %&gt;</code>

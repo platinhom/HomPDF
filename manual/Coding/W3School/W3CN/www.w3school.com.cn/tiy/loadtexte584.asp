@@ -14,10 +14,10 @@ $(document).ready(function(){
 </head>
 
 <body>
-<h1>ÕâÊÇÒ»¸ö±êÌâ</h1>
-<p style="font-size:120%;color:red">ÕâÊÇÒ»¸ö¶ÎÂä¡£</p>
-<p>ÕâÊÇÁíÒ»¸ö¶ÎÂä¡£</p>
-<button>É¾³ýËùÓÐ p ÔªËØµÄ style ÊôÐÔ</button>
+<h1>è¿™æ˜¯ä¸€ä¸ªæ ‡é¢˜</h1>
+<p style="font-size:120%;color:red">è¿™æ˜¯ä¸€ä¸ªæ®µè½ã€‚</p>
+<p>è¿™æ˜¯å¦ä¸€ä¸ªæ®µè½ã€‚</p>
+<button>åˆ é™¤æ‰€æœ‰ p å…ƒç´ çš„ style å±žæ€§</button>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_attributes_removeAttr by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/aspnet/webpages_ref_helpers.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 01:29:38 GMT -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>ASP.NET Web Pages - ¸ü¶à°ïÖúÆ÷</title>
+<title>ASP.NET Web Pages - æ›´å¤šå¸®åŠ©å™¨</title>
 
 </head>
 
@@ -18,11 +18,11 @@
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäº 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -36,98 +36,98 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁĞ½Ì³Ì">HTML ÏµÁĞ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·şÎñÆ÷½Å±¾½Ì³Ì">·şÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁĞ½Ì³Ì">XML ÏµÁĞ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁĞ½Ì³Ì">Web Services ÏµÁĞ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>ASP.NET ½Ì³Ì</h2>
+<div id="course"><h2>ASP.NET æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li><a href="aspnet.html" title="ASP.NET ¼ò½é">ASP.NET ¼ò½é</a></li>
+<li><a href="index.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li><a href="aspnet.html" title="ASP.NET ç®€ä»‹">ASP.NET ç®€ä»‹</a></li>
 </ul>
-<h2>WP ½Ì³Ì</h2>
+<h2>WP æ•™ç¨‹</h2>
 <ul>
-<li><a href="webpages_intro.html" title="WebPages ¼ò½é">WebPages ¼ò½é</a></li>
+<li><a href="webpages_intro.html" title="WebPages ç®€ä»‹">WebPages ç®€ä»‹</a></li>
 <li><a href="webpages_razor.html" title="WebPages Razor">WebPages Razor</a></li>
-<li><a href="webpages_layout.html" title="WebPages ²¼¾Ö">WebPages ²¼¾Ö</a></li>
-<li><a href="webpages_folders.html" title="WebPages ÎÄ¼ş¼Ğ">WebPages ÎÄ¼ş¼Ğ</a></li>
-<li><a href="webpages_global.html" title="WebPages È«¾Ö">WebPages È«¾Ö</a></li>
-<li><a href="webpages_forms.html" title="WebPages ´°Ìå">WebPages ´°Ìå</a></li>
-<li><a href="webpages_objects.html" title="WebPages ¶ÔÏó">WebPages ¶ÔÏó</a></li>
-<li><a href="webpages_files.html" title="WebPages ÎÄ¼ş">WebPages ÎÄ¼ş</a></li>
-<li><a href="webpages_helpers.html" title="WebPages °ïÖúÆ÷">WebPages °ïÖúÆ÷</a></li>
+<li><a href="webpages_layout.html" title="WebPages å¸ƒå±€">WebPages å¸ƒå±€</a></li>
+<li><a href="webpages_folders.html" title="WebPages æ–‡ä»¶å¤¹">WebPages æ–‡ä»¶å¤¹</a></li>
+<li><a href="webpages_global.html" title="WebPages å…¨å±€">WebPages å…¨å±€</a></li>
+<li><a href="webpages_forms.html" title="WebPages çª—ä½“">WebPages çª—ä½“</a></li>
+<li><a href="webpages_objects.html" title="WebPages å¯¹è±¡">WebPages å¯¹è±¡</a></li>
+<li><a href="webpages_files.html" title="WebPages æ–‡ä»¶">WebPages æ–‡ä»¶</a></li>
+<li><a href="webpages_helpers.html" title="WebPages å¸®åŠ©å™¨">WebPages å¸®åŠ©å™¨</a></li>
 <li><a href="webpages_webgrid.html" title="WebPages WebGrid">WebPages WebGrid</a></li>
-<li><a href="webpages_chart.html" title="WebPages Í¼±í">WebPages Í¼±í</a></li>
-<li><a href="webpages_email.html" title="WebPages µçÓÊ">WebPages µçÓÊ</a></li>
+<li><a href="webpages_chart.html" title="WebPages å›¾è¡¨">WebPages å›¾è¡¨</a></li>
+<li><a href="webpages_email.html" title="WebPages ç”µé‚®">WebPages ç”µé‚®</a></li>
 <li><a href="webpages_php.html" title="WebPages PHP">WebPages PHP</a></li>
-<li><a href="webpages_publish.html" title="WebPages ·¢²¼">WebPages ·¢²¼</a></li>
-<li><a href="webpages_examples.html" title="WebPages ÊµÀı">WebPages ÊµÀı</a></li>
+<li><a href="webpages_publish.html" title="WebPages å‘å¸ƒ">WebPages å‘å¸ƒ</a></li>
+<li><a href="webpages_examples.html" title="WebPages å®ä¾‹">WebPages å®ä¾‹</a></li>
 </ul>
-<h2>WP ²Î¿¼ÊÖ²á</h2>
+<h2>WP å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="webpages_ref_classes.html" title="WebPages Àà">WebPages Àà</a></li>
-<li><a href="webpages_ref_websecurity.asp" title="WebPages °²È«">WebPages °²È«</a></li>
-<li><a href="webpages_ref_database.asp" title="WebPages Êı¾İ¿â">WebPages Êı¾İ¿â</a></li>
+<li><a href="webpages_ref_classes.html" title="WebPages ç±»">WebPages ç±»</a></li>
+<li><a href="webpages_ref_websecurity.asp" title="WebPages å®‰å…¨">WebPages å®‰å…¨</a></li>
+<li><a href="webpages_ref_database.asp" title="WebPages æ•°æ®åº“">WebPages æ•°æ®åº“</a></li>
 <li><a href="webpages_ref_webmail.html" title="WebPages WebMail">WebPages WebMail</a></li>
-<li class="currentLink"><a href="webpages_ref_helpers.asp" title="WebPages ÖúÊÖ">WebPages ÖúÊÖ</a></li>
+<li class="currentLink"><a href="webpages_ref_helpers.asp" title="WebPages åŠ©æ‰‹">WebPages åŠ©æ‰‹</a></li>
 </ul>
 <h2>ASP.NET Razor</h2>
 <ul>
-<li><a href="razor_intro.html" title="Razor ¼ò½é">Razor ¼ò½é</a></li>
-<li><a href="razor_syntax.html" title="Razor Óï·¨">Razor Óï·¨</a></li>
-<li><a href="razor_cs_variables.html" title="Razor C# ±äÁ¿">Razor C# ±äÁ¿</a></li>
-<li><a href="razor_cs_loops.html" title="Razor C# Ñ­»·">Razor C# Ñ­»·</a></li>
-<li><a href="razor_cs_logic.html" title="Razor Íâ±ß¾àºÏ²¢">Razor C# Âß¼­</a></li>
-<li><a href="razor_vb_variables.html" title="Razor VB ±äÁ¿">Razor VB ±äÁ¿</a></li>
-<li><a href="razor_vb_loops.html" title="Razor VB Ñ­»·">Razor VB Ñ­»·</a></li>
-<li><a href="razor_vb_logic.html" title="Razor VB Âß¼­">Razor VB Âß¼­</a></li>
+<li><a href="razor_intro.html" title="Razor ç®€ä»‹">Razor ç®€ä»‹</a></li>
+<li><a href="razor_syntax.html" title="Razor è¯­æ³•">Razor è¯­æ³•</a></li>
+<li><a href="razor_cs_variables.html" title="Razor C# å˜é‡">Razor C# å˜é‡</a></li>
+<li><a href="razor_cs_loops.html" title="Razor C# å¾ªç¯">Razor C# å¾ªç¯</a></li>
+<li><a href="razor_cs_logic.html" title="Razor å¤–è¾¹è·åˆå¹¶">Razor C# é€»è¾‘</a></li>
+<li><a href="razor_vb_variables.html" title="Razor VB å˜é‡">Razor VB å˜é‡</a></li>
+<li><a href="razor_vb_loops.html" title="Razor VB å¾ªç¯">Razor VB å¾ªç¯</a></li>
+<li><a href="razor_vb_logic.html" title="Razor VB é€»è¾‘">Razor VB é€»è¾‘</a></li>
 </ul>
 <h2>ASP.NET MVC</h2>
 <ul>
-<li><a href="mvc_intro.html" title="MVC ¼ò½é">MVC ¼ò½é</a></li>
-<li><a href="mvc_app.html" title="MVC Ó¦ÓÃ³ÌĞò">MVC Ó¦ÓÃ³ÌĞò</a></li>
-<li><a href="mvc_folders.html" title="MVC ÎÄ¼ş¼Ğ">MVC ÎÄ¼ş¼Ğ</a></li>
-<li><a href="mvc_layout.html" title="MVC ²¼¾Ö">MVC ²¼¾Ö</a></li>
-<li><a href="mvc_controllers.html" title="MVC ¿ØÖÆÆ÷">MVC ¿ØÖÆÆ÷</a></li>
-<li><a href="mvc_views.asp" title="MVC ÊÓÍ¼">MVC ÊÓÍ¼</a></li>
-<li><a href="mvc_database.html" title="MVC Êı¾İ¿â">MVC Êı¾İ¿â</a></li>
-<li><a href="mvc_models.html" title="MVC Ä£ĞÍ">MVC Ä£ĞÍ</a></li>
-<li><a href="mvc_security.html" title="MVC °²È«">MVC °²È«</a></li>
-<li><a href="mvc_htmlhelpers.html" title="MVC HTML ÖúÊÖ">MVC HTML ÖúÊÖ</a></li>
-<li><a href="mvc_publish.asp" title="MVC ·¢²¼">MVC ·¢²¼</a></li>
-<li><a href="mvc_reference.html" title="MVC ²Î¿¼ÊÖ²á">MVC ²Î¿¼ÊÖ²á</a></li>
+<li><a href="mvc_intro.html" title="MVC ç®€ä»‹">MVC ç®€ä»‹</a></li>
+<li><a href="mvc_app.html" title="MVC åº”ç”¨ç¨‹åº">MVC åº”ç”¨ç¨‹åº</a></li>
+<li><a href="mvc_folders.html" title="MVC æ–‡ä»¶å¤¹">MVC æ–‡ä»¶å¤¹</a></li>
+<li><a href="mvc_layout.html" title="MVC å¸ƒå±€">MVC å¸ƒå±€</a></li>
+<li><a href="mvc_controllers.html" title="MVC æ§åˆ¶å™¨">MVC æ§åˆ¶å™¨</a></li>
+<li><a href="mvc_views.asp" title="MVC è§†å›¾">MVC è§†å›¾</a></li>
+<li><a href="mvc_database.html" title="MVC æ•°æ®åº“">MVC æ•°æ®åº“</a></li>
+<li><a href="mvc_models.html" title="MVC æ¨¡å‹">MVC æ¨¡å‹</a></li>
+<li><a href="mvc_security.html" title="MVC å®‰å…¨">MVC å®‰å…¨</a></li>
+<li><a href="mvc_htmlhelpers.html" title="MVC HTML åŠ©æ‰‹">MVC HTML åŠ©æ‰‹</a></li>
+<li><a href="mvc_publish.asp" title="MVC å‘å¸ƒ">MVC å‘å¸ƒ</a></li>
+<li><a href="mvc_reference.html" title="MVC å‚è€ƒæ‰‹å†Œ">MVC å‚è€ƒæ‰‹å†Œ</a></li>
 </ul>
-<h2>WF ½Ì³Ì</h2>
+<h2>WF æ•™ç¨‹</h2>
 <ul>
-<li><a href="aspnet_intro.html" title="WebForms ¼ò½é">WebForms ¼ò½é</a></li>
+<li><a href="aspnet_intro.html" title="WebForms ç®€ä»‹">WebForms ç®€ä»‹</a></li>
 <li><a href="aspnet_pages.html" title="WebForms Pages">WebForms Pages</a></li>
-<li><a href="aspnet_controls.html" title="WebForms ¿Ø¼ş">WebForms ¿Ø¼ş</a></li>
-<li><a href="aspnet_events.html" title="WebForms ÊÂ¼ş">WebForms ÊÂ¼ş</a></li>
-<li><a href="aspnet_forms.html" title="WebForms ´°Ìå">WebForms ´°Ìå</a></li>
+<li><a href="aspnet_controls.html" title="WebForms æ§ä»¶">WebForms æ§ä»¶</a></li>
+<li><a href="aspnet_events.html" title="WebForms äº‹ä»¶">WebForms äº‹ä»¶</a></li>
+<li><a href="aspnet_forms.html" title="WebForms çª—ä½“">WebForms çª—ä½“</a></li>
 <li><a href="aspnet_viewstate.asp" title="WebForms ViewState">WebForms ViewState</a></li>
 <li><a href="aspnet_textbox.asp" title="WebForms TextBox">WebForms TextBox</a></li>
 <li><a href="aspnet_button.asp" title="WebForms Button">WebForms Button</a></li>
-<li><a href="aspnet_databinding.html" title="WebForms Data Binding">WebForms Êı¾İ°ó¶¨</a></li>
+<li><a href="aspnet_databinding.html" title="WebForms Data Binding">WebForms æ•°æ®ç»‘å®š</a></li>
 <li><a href="aspnet_arraylist.html" title="WebForms ArrayList">WebForms ArrayList</a></li>
 <li><a href="aspnet_hashtable.html" title="WebForms Hashtable">WebForms Hashtable</a></li>
 <li><a href="aspnet_sortedlist.html" title="WebForms SortedList">WebForms SortedList</a></li>
-<li><a href="aspnet_xml.html" title="WebForms XML ÎÄ¼ş">WebForms XML ÎÄ¼ş</a></li>
+<li><a href="aspnet_xml.html" title="WebForms XML æ–‡ä»¶">WebForms XML æ–‡ä»¶</a></li>
 <li><a href="aspnet_repeater.html" title="WebForms Repeater">WebForms Repeater</a></li>
 <li><a href="aspnet_datalist.html" title="WebForms DataList">WebForms DataList</a></li>
-<li><a href="aspnet_dbconnection.html" title="WebForms DbConnection">WebForms Êı¾İ¿âÁ¬½Ó</a></li>
-<li><a href="aspnet_masterpages.html" title="WebForms Master Pages">WebForms Ä¸°æÒ³</a></li>
-<li><a href="aspnet_navigation.html" title="WebForms µ¼º½">WebForms µ¼º½</a></li>
-<li><a href="aspnet_examples.html" title="WebForms ÊµÀı">WebForms ÊµÀı</a></li>
+<li><a href="aspnet_dbconnection.html" title="WebForms DbConnection">WebForms æ•°æ®åº“è¿æ¥</a></li>
+<li><a href="aspnet_masterpages.html" title="WebForms Master Pages">WebForms æ¯ç‰ˆé¡µ</a></li>
+<li><a href="aspnet_navigation.html" title="WebForms å¯¼èˆª">WebForms å¯¼èˆª</a></li>
+<li><a href="aspnet_examples.html" title="WebForms å®ä¾‹">WebForms å®ä¾‹</a></li>
 </ul>
-<h2>WF ²Î¿¼ÊÖ²á</h2>
+<h2>WF å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
 <li><a href="aspnet_refhtmlcontrols.html" title="WebForms HTML">WebForms HTML</a></li>
 <li><a href="aspnet_refwebcontrols.asp" title="WebForms Controls">WebForms Controls</a></li>
@@ -139,277 +139,277 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>ASP.NET Web Pages - ¸ü¶à°ïÖúÆ÷</h1>
+<h1>ASP.NET Web Pages - æ›´å¤šå¸®åŠ©å™¨</h1>
 
 
 <div id="tpn">
 <ul class="prenext">
 <li class="pre"><a href="webpages_ref_webmail.html" title="WebPages WebMail">WebPages WebMail</a></li>
-<li class="next"><a href="razor_intro.html" title="Razor ¼ò½é">Razor ¼ò½é</a></li>
+<li class="next"><a href="razor_intro.html" title="Razor ç®€ä»‹">Razor ç®€ä»‹</a></li>
 </ul>
 </div>
 
 
 <div>
-<h2>ASP.NET Helpers - ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>ASP.NET Helpers - å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 </div>
 
 
 <div>
-<h2>Analytics ¶ÔÏó²Î¿¼ÊÖ²á (Google)</h2>
+<h2>Analytics å¯¹è±¡å‚è€ƒæ‰‹å†Œ (Google)</h2>
 
 <dl class="define">
 <dt>Analytics.GetGoogleHtml(webPropertyId)</dt>
-<dd>³ÊÏÖÖ¸¶¨ ID µÄ Google Analytics JavaScript ´úÂë¡£</dd>
+<dd>å‘ˆç°æŒ‡å®š ID çš„ Google Analytics JavaScript ä»£ç ã€‚</dd>
 
 <dt>Analytics.GetStatCounterHtml(project, security)</dt>
-<dd>³ÊÏÖÖ¸¶¨ÏîÄ¿µÄ StatCounter Analytics JavaScript ´úÂë¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šé¡¹ç›®çš„ StatCounter Analytics JavaScript ä»£ç ã€‚</dd>
 
 <dt>Analytics.GetYahooHtml(account)</dt>
-<dd>³ÊÏÖÖ¸¶¨ÕÊ»§µÄ Yahoo Analytics JavaScript ´úÂë¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šå¸æˆ·çš„ Yahoo Analytics JavaScript ä»£ç ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Bing ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Bing å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Bing.SearchBox([boxWidth])</dt>
-<dd>Ïò Bing ´«µİËÑË÷¡£ÈçĞè¹æ¶¨ÒªËÑËØµÄÕ¾µãºÍËÑË÷¿òµÄ±êÌâ£¬Äú¿ÉÒÔÉèÖÃ Bing.SiteUrl ºÍ Bing.SiteTitle ÊôĞÔ¡£Í¨³£ÔÚ _AppStart Ò³ÃæÉèÖÃÕâĞ©ÊôĞÔ¡£</dd>
+<dd>å‘ Bing ä¼ é€’æœç´¢ã€‚å¦‚éœ€è§„å®šè¦æœç´ çš„ç«™ç‚¹å’Œæœç´¢æ¡†çš„æ ‡é¢˜ï¼Œæ‚¨å¯ä»¥è®¾ç½® Bing.SiteUrl å’Œ Bing.SiteTitle å±æ€§ã€‚é€šå¸¸åœ¨ _AppStart é¡µé¢è®¾ç½®è¿™äº›å±æ€§ã€‚</dd>
 
 <dt>Bing.AdvancedSearchBox([, boxWidth] [, resultWidth] [, resultHeight] 
   [, themeColor] [, locale])</dt>
-<dd>ÒÔ¿ÉÑ¡µÄ¸ñÊ½ÔÚÒ³ÃæÖĞÏÔÊ¾ Bing ËÑË÷½á¹û¡£ÈçĞè¹æ¶¨ÒªËÑËØµÄÕ¾µãºÍËÑË÷¿òµÄ±êÌâ£¬Äú¿ÉÒÔÉèÖÃ Bing.SiteUrl ºÍ Bing.SiteTitle ÊôĞÔ¡£Í¨³£ÔÚ _AppStart Ò³ÃæÉèÖÃÕâĞ©ÊôĞÔ¡£</dd>
+<dd>ä»¥å¯é€‰çš„æ ¼å¼åœ¨é¡µé¢ä¸­æ˜¾ç¤º Bing æœç´¢ç»“æœã€‚å¦‚éœ€è§„å®šè¦æœç´ çš„ç«™ç‚¹å’Œæœç´¢æ¡†çš„æ ‡é¢˜ï¼Œæ‚¨å¯ä»¥è®¾ç½® Bing.SiteUrl å’Œ Bing.SiteTitle å±æ€§ã€‚é€šå¸¸åœ¨ _AppStart é¡µé¢è®¾ç½®è¿™äº›å±æ€§ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Chart ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Chart å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Chart(width, height [, template] [, templatePath])</dt>
-<dd>¶ÔÍ¼±í½øĞĞ³õÊ¼»¯¡£</dd>
+<dd>å¯¹å›¾è¡¨è¿›è¡Œåˆå§‹åŒ–ã€‚</dd>
 
 <dt>Chart.AddLegend([title] [, name])</dt>
-<dd>ÏòÍ¼ÏñÌí¼ÓÍ¼Àı¡£</dd>
+<dd>å‘å›¾åƒæ·»åŠ å›¾ä¾‹ã€‚</dd>
 
 <dt>Chart.AddSeries([name] [, chartType] [, chartArea] [, axisLabel] [, legend] [, markerStep] [, xValue] [, xField] [, yValues] [, yFields] [, options])</dt>
-<dd>Ìá¹©Í¼±íµÄÊı¾İµãºÍÏµÁĞÌØĞÔ¡£</dd>
+<dd>æä¾›å›¾è¡¨çš„æ•°æ®ç‚¹å’Œç³»åˆ—ç‰¹æ€§ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Crypto ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Crypto å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Crypto.Hash(string [, algorithm]) Crypto.Hash(bytes [, algorithm])</dt>
-<dd>·µ»ØÖ¸¶¨Êı¾İµÄ¹şÏ£Öµ¡£Ä¬ÈÏËã·¨ÊÇ sha256¡£</dd>
+<dd>è¿”å›æŒ‡å®šæ•°æ®çš„å“ˆå¸Œå€¼ã€‚é»˜è®¤ç®—æ³•æ˜¯ sha256ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Facebook ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Facebook å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Facebook.LikeButton(href [, buttonLayout] [, showFaces] [, width] [, height] [, action] [, font] [, colorScheme] [, refLabel])</dt>
-<dd>Ê¹ Facebook ÓÃ»§Éú³Éµ½Ò³ÃæµÄÁ¬½Ó¡£</dd>
+<dd>ä½¿ Facebook ç”¨æˆ·ç”Ÿæˆåˆ°é¡µé¢çš„è¿æ¥ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>FileUpload ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>FileUpload å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>FileUpload.GetHtml([initialNumberOfFiles] [, allowMoreFilesToBeAdded] [, includeFormTag] [, addText] [, uploadText])</dt>
-<dd>³ÌĞòÓÃÓÚÉÏ´«ÎÄ¼şµÄ UI¡£</dd>
+<dd>ç¨‹åºç”¨äºä¸Šä¼ æ–‡ä»¶çš„ UIã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>GamerCard ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>GamerCard å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>GamerCard.GetHtml(gamerTag)</dt>
-<dd>³ÊÏÖÖ¸¶¨µÄ Xbox ÓÎÏ·Õß±êÇ©¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šçš„ Xbox æ¸¸æˆè€…æ ‡ç­¾ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Gravatar ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Gravatar å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Gravatar.GetHtml(email [, imageSize] [, defaultImage] [, rating] [, imageExtension] [, attributes])</dt>
-<dd>³ÊÏÖÖ¸¶¨µçÓÊµØÖ·µÄ Gravatar Í¼Ïñ¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šç”µé‚®åœ°å€çš„ Gravatar å›¾åƒã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Json ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Json å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Json.Encode(object)</dt>
-<dd>½«Êı¾İ¶ÔÏó×ª»»Îª JavaScript ¶ÔÏó±íÊ¾·¨ (JSON) ¸ñÊ½µÄ×Ö·û´®¡£</dd>
+<dd>å°†æ•°æ®å¯¹è±¡è½¬æ¢ä¸º JavaScript å¯¹è±¡è¡¨ç¤ºæ³• (JSON) æ ¼å¼çš„å­—ç¬¦ä¸²ã€‚</dd>
 
 <dt>Json.Decode(string)</dt>
-<dd>½« JavaScript ¶ÔÏó±íÊ¾·¨ (JSON) ¸ñÊ½µÄÊı¾İ×ª»»ÎªÊı¾İ¶ÔÏó¡£</dd>
+<dd>å°† JavaScript å¯¹è±¡è¡¨ç¤ºæ³• (JSON) æ ¼å¼çš„æ•°æ®è½¬æ¢ä¸ºæ•°æ®å¯¹è±¡ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>LinkShare ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>LinkShare å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>LinkShare.GetHtml(pageTitle [, pageLinkBack] [, twitterUserName] [, additionalTweetText] [, linkSites])</dt>
-<dd>Ê¹ÓÃÖ¸¶¨µÄ±êÌâºÍ¿ÉÑ¡ URL À´³ÊÏÖÉç½»ÍøÂçÁ¬½Ó¡£</dd>
+<dd>ä½¿ç”¨æŒ‡å®šçš„æ ‡é¢˜å’Œå¯é€‰ URL æ¥å‘ˆç°ç¤¾äº¤ç½‘ç»œè¿æ¥ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>ModelState ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>ModelState å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>ModelStateDictionary.AddError(key, errorMessage)</dt>
-<dd>½«´íÎóÏûÏ¢Ìí¼Óµ½ÓëÖ¸¶¨¼ü¹ØÁªµÄÄ£ĞÍ×´Ì¬ÖĞ¡£</dd>
+<dd>å°†é”™è¯¯æ¶ˆæ¯æ·»åŠ åˆ°ä¸æŒ‡å®šé”®å…³è”çš„æ¨¡å‹çŠ¶æ€ä¸­ã€‚</dd>
 
 <dt>ModelStateDictionary.AddFormError(errorMessage)</dt>
-<dd>½«´íÎóÏûÏ¢Ìí¼Óµ½ÓëÕû¸ö´°Ìå¹ØÁªµÄÄ£ĞÍ×´Ì¬ÖĞ¡£</dd>
+<dd>å°†é”™è¯¯æ¶ˆæ¯æ·»åŠ åˆ°ä¸æ•´ä¸ªçª—ä½“å…³è”çš„æ¨¡å‹çŠ¶æ€ä¸­ã€‚</dd>
 
 <dt>ModelStateDictionary.IsValid</dt>
-<dd>È·¶¨ÊÇ·ñÓĞÈÎºÎ´íÎóÏûÏ¢ÓëÖ¸¶¨¼ü¹ØÁª¡£</dd>
+<dd>ç¡®å®šæ˜¯å¦æœ‰ä»»ä½•é”™è¯¯æ¶ˆæ¯ä¸æŒ‡å®šé”®å…³è”ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>ObjectInfo ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>ObjectInfo å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>ObjectInfo.Print(value [, depth] [, enumerationLength])</dt>
-<dd>³ÊÏÖÖ¸¶¨¶ÔÏó¼°ÈÎºÎ×Ó¶ÔÏóµÄÊôĞÔÃû³ÆºÍÖµ¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šå¯¹è±¡åŠä»»ä½•å­å¯¹è±¡çš„å±æ€§åç§°å’Œå€¼ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Recaptcha ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Recaptcha å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Recaptcha.GetHtml([, publicKey] [, theme] [, language] [, tabIndex])</dt>
-<dd>³ÊÏÖ reCAPTCHA ÑéÖ¤²âÊÔ¡£</dd>
+<dd>å‘ˆç° reCAPTCHA éªŒè¯æµ‹è¯•ã€‚</dd>
 
 <dt>ReCaptcha.PublicKey<br />
 ReCaptcha.PrivateKey</dt>
-<dd>ÉèÖÃ reCAPTCHA ·şÎñµÄ¹«ÓĞ¼üºÍË½ÓĞ¼ü¡£Í¨³£ÔÚ _AppStart Ò³ÃæÉèÖÃÕâĞ©ÊôĞÔ¡£</dd>
+<dd>è®¾ç½® reCAPTCHA æœåŠ¡çš„å…¬æœ‰é”®å’Œç§æœ‰é”®ã€‚é€šå¸¸åœ¨ _AppStart é¡µé¢è®¾ç½®è¿™äº›å±æ€§ã€‚</dd>
 
 <dt>ReCaptcha.Validate([, privateKey])</dt>
-<dd>·µ»Ø reCAPTCHA ²âÊÔµÄ½á¹û¡£</dd>
+<dd>è¿”å› reCAPTCHA æµ‹è¯•çš„ç»“æœã€‚</dd>
 
 <dt>ServerInfo.GetHtml()</dt>
-<dd>³ÊÏÖ ASP.NET Web Pages µÄ×´Ì¬ĞÅÏ¢¡£</dd>
+<dd>å‘ˆç° ASP.NET Web Pages çš„çŠ¶æ€ä¿¡æ¯ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Twitter ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Twitter å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Twitter.Profile(twitterUserName)</dt>
-<dd>³ÊÏÖÖ¸¶¨ÓÃ»§µÄ Twitter Á÷¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šç”¨æˆ·çš„ Twitter æµã€‚</dd>
 
 <dt>Twitter.Search(searchQuery)</dt>
-<dd>³ÊÏÖÖ¸¶¨ËÑË÷ÎÄ±¾µÄ Twitter Á÷¡£</dd>
+<dd>å‘ˆç°æŒ‡å®šæœç´¢æ–‡æœ¬çš„ Twitter æµã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Video ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>Video å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>Video.Flash(filename [, width, height])</dt>
-<dd>ÎªÖ¸¶¨ÎÄ¼ş£¨¿ÉÑ¡¿í¶ÈºÍ¸ß¶È£©³ÊÏÖ Flash ÊÓÆµ²¥·ÅÆ÷¡£</dd>
+<dd>ä¸ºæŒ‡å®šæ–‡ä»¶ï¼ˆå¯é€‰å®½åº¦å’Œé«˜åº¦ï¼‰å‘ˆç° Flash è§†é¢‘æ’­æ”¾å™¨ã€‚</dd>
 
 <dt>Video.MediaPlayer(filename [, width, height])</dt>
-<dd>ÎªÖ¸¶¨ÎÄ¼ş£¨¿ÉÑ¡¿í¶ÈºÍ¸ß¶È£©³ÊÏÖ Windows Ã½Ìå²¥·ÅÆ÷¡£</dd>
+<dd>ä¸ºæŒ‡å®šæ–‡ä»¶ï¼ˆå¯é€‰å®½åº¦å’Œé«˜åº¦ï¼‰å‘ˆç° Windows åª’ä½“æ’­æ”¾å™¨ã€‚</dd>
 
 <dt>Video.Silverlight(filename, width, height)</dt>
-<dd>ÎªÖ¸¶¨µÄ .xap ÎÄ¼ş£¨±ØĞèµÄ¿í¶ÈºÍ¸ß¶È£©³ÊÏÖ Silverlight ²¥·ÅÆ÷¡£</dd>
+<dd>ä¸ºæŒ‡å®šçš„ .xap æ–‡ä»¶ï¼ˆå¿…éœ€çš„å®½åº¦å’Œé«˜åº¦ï¼‰å‘ˆç° Silverlight æ’­æ”¾å™¨ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>WebCache ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>WebCache å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>WebCache.Get(key)</dt>
-<dd>´Ó WebCache ¶ÔÏóÖĞ¼ìË÷Ö¸¶¨Ïî¡£</dd>
+<dd>ä» WebCache å¯¹è±¡ä¸­æ£€ç´¢æŒ‡å®šé¡¹ã€‚</dd>
 
 <dt>WebCache.Remove(key)</dt>
-<dd>´Ó WebCache ¶ÔÏóÖĞÉ¾³ıÖ¸¶¨Ïî¡£</dd>
+<dd>ä» WebCache å¯¹è±¡ä¸­åˆ é™¤æŒ‡å®šé¡¹ã€‚</dd>
 
 <dt>WebCache.Set(key, value [, minutesToCache] [, slidingExpiration])</dt>
-<dd>½«Ò»¸öÏî²åÈëµ½ WebCache ¶ÔÏó¡£</dd>
+<dd>å°†ä¸€ä¸ªé¡¹æ’å…¥åˆ° WebCache å¯¹è±¡ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>WebGrid ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>WebGrid å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>WebGrid(data)</dt>
-<dd>³õÊ¼»¯ WebGrid ÀàµÄĞÂÊµÀı¡£</dd>
+<dd>åˆå§‹åŒ– WebGrid ç±»çš„æ–°å®ä¾‹ã€‚</dd>
 
 <dt>WebGrid.GetHtml()</dt>
-<dd>·µ»ØÓÃÓÚ³ÊÏÖ WebGrid ÊµÀı²¢Ê¹ÓÃÖ¸¶¨·ÖÒ³Ñ¡ÏîµÄ HTML ±ê¼Ç¡£</dd>
+<dd>è¿”å›ç”¨äºå‘ˆç° WebGrid å®ä¾‹å¹¶ä½¿ç”¨æŒ‡å®šåˆ†é¡µé€‰é¡¹çš„ HTML æ ‡è®°ã€‚</dd>
 
 <dt>WebGrid.Pager()</dt>
-<dd>·µ»ØÓÃÓÚÎª WebGrid ÊµÀıÌá¹©Ö¸¶¨·ÖÒ³Ö§³ÖµÄ HTML ±ê¼Ç¡£</dd>
+<dd>è¿”å›ç”¨äºä¸º WebGrid å®ä¾‹æä¾›æŒ‡å®šåˆ†é¡µæ”¯æŒçš„ HTML æ ‡è®°ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>WebImage ¶ÔÏó²Î¿¼ÊÖ²á</h2>
+<h2>WebImage å¯¹è±¡å‚è€ƒæ‰‹å†Œ</h2>
 
 <dl class="define">
 <dt>WebImage(path)</dt>
-<dd>¼ÓÔØÖ¸¶¨Â·¾¶µÄÍ¼Ïñ¡£</dd>
+<dd>åŠ è½½æŒ‡å®šè·¯å¾„çš„å›¾åƒã€‚</dd>
 
 <dt>WebImage.AddImagesWatermark(image)</dt>
-<dd>½«Ë®Ó¡Í¼ÏñÌí¼Óµ½ WebImage ¶ÔÏó¡£</dd>
+<dd>å°†æ°´å°å›¾åƒæ·»åŠ åˆ° WebImage å¯¹è±¡ã€‚</dd>
 
 <dt>WebImage.AddTextWatermark(text)</dt>
-<dd>ÔÚÍ¼ÏñÖĞÌí¼ÓË®Ó¡ÎÄ±¾¡£</dd>
+<dd>åœ¨å›¾åƒä¸­æ·»åŠ æ°´å°æ–‡æœ¬ã€‚</dd>
 
 <dt>WebImage.FlipHorizontal()<br />
 WebImage.FlipVertical()</dt>
-<dd>Ë®Æ½»ò´¹Ö±·­×ªÍ¼Æ¬¡£</dd>
+<dd>æ°´å¹³æˆ–å‚ç›´ç¿»è½¬å›¾ç‰‡ã€‚</dd>
 
 <dt>WebImage.GetImageFromRequest()</dt>
-<dd>·µ»ØÒÑÊ¹ÓÃä¯ÀÀÆ÷ÉÏÔØµÄÍ¼Ïñ¡£</dd>
+<dd>è¿”å›å·²ä½¿ç”¨æµè§ˆå™¨ä¸Šè½½çš„å›¾åƒã€‚</dd>
 
 <dt>WebImage.Resize(width, height)</dt>
-<dd>µ÷ÕûÍ¼Ïñ´óĞ¡¡£</dd>
+<dd>è°ƒæ•´å›¾åƒå¤§å°ã€‚</dd>
 
 <dt>WebImage.RotateLeft()<br />
 WebImage.RotateRight()</dt>
-<dd>½«Í¼ÏñĞı×ªµ½×ó²à»òÓÒ²à¡£</dd>
+<dd>å°†å›¾åƒæ—‹è½¬åˆ°å·¦ä¾§æˆ–å³ä¾§ã€‚</dd>
 
 <dt>WebImage.Save(path [, imageFormat])</dt>
-<dd>°ÑÍ¼Ïñ±£´æµ½Ö¸¶¨Â·¾¶¡£</dd>
+<dd>æŠŠå›¾åƒä¿å­˜åˆ°æŒ‡å®šè·¯å¾„ã€‚</dd>
 </dl>
 </div>
 
@@ -417,7 +417,7 @@ WebImage.RotateRight()</dt>
 <div id="bpn">
 <ul class="prenext">
 <li class="pre"><a href="webpages_ref_webmail.html" title="WebPages WebMail">WebPages WebMail</a></li>
-<li class="next"><a href="razor_intro.html" title="Razor ¼ò½é">Razor ¼ò½é</a></li>
+<li class="next"><a href="razor_intro.html" title="Razor ç®€ä»‹">Razor ç®€ä»‹</a></li>
 </ul>
 </div>
 
@@ -434,14 +434,14 @@ WebImage.RotateRight()</dt>
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈİ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="aspnet_reference.html">ASP.NET ²Î¿¼ÊÖ²á</a></h5>
+<h5 id="tools_reference"><a href="aspnet_reference.html">ASP.NET å‚è€ƒæ‰‹å†Œ</a></h5>
 </div>
 
 <div id="ad">
@@ -462,13 +462,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈİ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈİµÄÕıÈ·ĞÔ¡£Í¨¹ıÊ¹ÓÃ±¾Õ¾ÄÚÈİËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎŞ¹Ø¡£W3School ¼òÌåÖĞÎÄ°æµÄËùÓĞÄÚÈİ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ğµ£ÈÎºÎÔğÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£é™©ä¸æœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£é™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒşË½">ÒşË½Ìõ¿î</a>¡£°æÈ¨ËùÓĞ£¬±£ÁôÒ»ÇĞÈ¨Àû¡£
-ÔŞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

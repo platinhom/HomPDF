@@ -4,11 +4,11 @@
 <!-- Mirrored from www.w3school.com.cn/example/html/demo_html_textarea_placeholder.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:32:37 GMT -->
 <body>
 
-ÄãÊÇË­£¿
-<textarea rows="4" cols="50" placeholder="ÇëÔÚ´Ë´¦½éÉÜ×Ô¼º...">
+ä½ æ˜¯è°ï¼Ÿ
+<textarea rows="4" cols="50" placeholder="è¯·åœ¨æ­¤å¤„ä»‹ç»è‡ªå·±...">
 </textarea>
 
-<p><b>×¢ÊÍ£º</b>Internet Explorer 9 ÒÔ¼°¸üÔçµÄ°æ±¾²»Ö§³Ö placeholder ÊôĞÔ¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>Internet Explorer 9 ä»¥åŠæ›´æ—©çš„ç‰ˆæœ¬ä¸æ”¯æŒ placeholder å±æ€§ã€‚</p>
 
 </body>
 

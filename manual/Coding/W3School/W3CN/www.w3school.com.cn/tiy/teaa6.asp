@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=xdom_replacechild by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:07:05 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3SchoolÔÚÏß²âÊÔ¹¤¾ß V2</title>
+<title>W3Schoolåœ¨çº¿æµ‹è¯•å·¥å…· V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="Ìá½»´úÂë" onClick="submitTryit()">
+<input type="button" value="æäº¤ä»£ç " onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>±à¼­ÄúµÄ´úÂë£º</h2>
+<h2>ç¼–è¾‘æ‚¨çš„ä»£ç ï¼š</h2>
 <textarea id="TestCode" wrap="logical">
 <html>
 <head>
@@ -55,20 +55,20 @@ xmlDoc=loadXMLDoc("../example/xdom/books.xml");
 
 x=xmlDoc.documentElement;
 
-//´´½¨Ò»¸ö book ÔªËØ¡¢Ò»¸ö title ÔªËØ£¬ÒÔ¼°Ò»¸ö text ½Úµã
+//åˆ›å»ºä¸€ä¸ª book å…ƒç´ ã€ä¸€ä¸ª title å…ƒç´ ï¼Œä»¥åŠä¸€ä¸ª text èŠ‚ç‚¹
 newNode=xmlDoc.createElement("book");
 newTitle=xmlDoc.createElement("title");
 newText=xmlDoc.createTextNode("Hello World");
 
-//Ïò title ½ÚµãÌí¼ÓÎÄ±¾½Úµã
+//å‘ title èŠ‚ç‚¹æ·»åŠ æ–‡æœ¬èŠ‚ç‚¹
 newTitle.appendChild(newText);
 
-//Ïò book ½ÚµãÌí¼Ó title ½Úµã
+//å‘ book èŠ‚ç‚¹æ·»åŠ  title èŠ‚ç‚¹
 newNode.appendChild(newTitle);
 
 y=xmlDoc.getElementsByTagName("book")[0];
 
-//ÓÃÕâ¸öĞÂ½ÚµãÌæ»»µÚÒ»¸ö book ½Úµã
+//ç”¨è¿™ä¸ªæ–°èŠ‚ç‚¹æ›¿æ¢ç¬¬ä¸€ä¸ª book èŠ‚ç‚¹
 x.replaceChild(newNode,y);
 
 z=xmlDoc.getElementsByTagName("title");
@@ -91,12 +91,12 @@ document.write("<br />");
 </form>
 
 <div id="result">
-<h2>²é¿´½á¹û:</h2>
+<h2>æŸ¥çœ‹ç»“æœ:</h2>
 <iframe frameborder="0" name="i" src="loadtexteaa6.html?f=xdom_replacechild"></iframe>
 </div>
 
 <div id="footer">
-<p>ÇëÔÚÉÏÃæµÄÎÄ±¾¿òÖĞ±à¼­ÄúµÄ´úÂë£¬È»ºóµ¥»÷Ìá½»°´Å¥²âÊÔ½á¹û¡£<a href="../index-2.html" title="W3School ÔÚÏß½Ì³Ì">w3school.com.cn</a></p>
+<p>è¯·åœ¨ä¸Šé¢çš„æ–‡æœ¬æ¡†ä¸­ç¼–è¾‘æ‚¨çš„ä»£ç ï¼Œç„¶åå•å‡»æäº¤æŒ‰é’®æµ‹è¯•ç»“æœã€‚<a href="../index-2.html" title="W3School åœ¨çº¿æ•™ç¨‹">w3school.com.cn</a></p>
 </div>
 
 </div>

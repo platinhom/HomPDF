@@ -12,7 +12,7 @@ document.getElementById('venus').href="../index.html"
 </head>
 <body>
 
-<p>请点击金星（Venus）：</p>
+<p>璇风偣鍑婚噾鏄燂紙Venus锛夛細</p>
 <img src="../i/eg_planets.jpg" 
 usemap="#planetmap" />
 
@@ -25,7 +25,7 @@ href ="../example/html/venus.html"
 alt="Venus" />
 </map>
 
-<input type="button" onclick="changeLink()" value="改变链接" />
+<input type="button" onclick="changeLink()" value="鏀瑰彉閾炬帴" />
 
 </body>
 

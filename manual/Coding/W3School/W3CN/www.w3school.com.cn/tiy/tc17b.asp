@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=html_areamap_target by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:15:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,16 +37,16 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <html>
 <body>
 
-<p>����ͼ���ϵ����򣬰����ǷŴ�</p>
+<p>请点击图像上的星球，把它们放大。</p>
 
 <img
 src="../i/eg_planets.jpg"
@@ -76,7 +76,7 @@ alt="Sun" />
 
 </map>
 
-<p><b>ע�ͣ�</b>img Ԫ���е� "usemap" �������� map Ԫ���е� "id" �� "name" ���ԣ����������������������ͬʱ�� map Ԫ�������� "id" �� "name" ���ԡ�</p>
+<p><b>注释：</b>img 元素中的 "usemap" 属性引用 map 元素中的 "id" 或 "name" 属性（根据浏览器），所以我们同时向 map 元素添加了 "id" 和 "name" 属性。</p>
 
 </body>
 
@@ -91,12 +91,12 @@ alt="Sun" />
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtextc17b.html?f=html_areamap_target"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

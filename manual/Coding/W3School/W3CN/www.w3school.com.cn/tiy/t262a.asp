@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jsref_namednodemap_removenameditem by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:23:04 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -49,9 +49,9 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <input type="button" value="OK">
 
-<p id="demo">�����ť��ɾ�� input Ԫ�ص� type ���ԡ�</p>
+<p id="demo">点击按钮来删除 input 元素的 type 属性。</p>
 
-<button onclick="myFunction()">��һ��</button>
+<button onclick="myFunction()">试一下</button>
 
 <script>
 function myFunction()
@@ -61,9 +61,9 @@ btn.attributes.removeNamedItem("type");
 }
 </script>
 
-<p><b>ע�ͣ�</b>��ɾ�� input Ԫ�ص� type ���Ժ󣬴�Ԫ�ص����ͽ��� <em>text</em>����Ĭ��ֵ��</p>
+<p><b>注释：</b>当删除 input 元素的 type 属性后，此元素的类型将是 <em>text</em>，即默认值。</p>
 
-<p><b>ע�ͣ�</b>�� Internet Explorer 8 �Լ�����İ汾�У�removedNamedItem ���᷵�����ԡ�</p>
+<p><b>注释：</b>在 Internet Explorer 8 以及更早的版本中，removedNamedItem 不会返回属性。</p>
 
 </body>
 
@@ -78,12 +78,12 @@ btn.attributes.removeNamedItem("type");
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtext262a.html?f=jsref_namednodemap_removenameditem"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

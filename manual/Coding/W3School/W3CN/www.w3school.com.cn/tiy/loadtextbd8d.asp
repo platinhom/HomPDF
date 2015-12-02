@@ -17,7 +17,7 @@ background:yellow;
 <p class="top-text">Hello world!</p>
 <p class="content">Are you learning CSS?</p>
 
-<p><b>×¢ÊÍ£º</b>¶ÔÓÚ IE8 ¼°¸üÔç°æ±¾µÄä¯ÀÀÆ÷ÖĞµÄ [attribute|=value]£¬±ØĞëÉùÃ÷ &lt;!DOCTYPE&gt;¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>å¯¹äº IE8 åŠæ›´æ—©ç‰ˆæœ¬çš„æµè§ˆå™¨ä¸­çš„ [attribute|=value]ï¼Œå¿…é¡»å£°æ˜ &lt;!DOCTYPE&gt;ã€‚</p>
 
 </body>
 

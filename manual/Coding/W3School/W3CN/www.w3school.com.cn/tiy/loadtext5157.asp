@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body> 
 
-<button onclick="changeSource()" type="button">改变视频</button>
+<button onclick="changeSource()" type="button">鏀瑰彉瑙嗛</button>
 <br />
 <br />
 <video id="video1" controls="controls" autoplay="autoplay">

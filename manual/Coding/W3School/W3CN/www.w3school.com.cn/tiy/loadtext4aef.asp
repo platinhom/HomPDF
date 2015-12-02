@@ -14,33 +14,33 @@ ol.ualpha {list-style-type: upper-alpha}
 
 <body>
 <ol class="decimal">
-<li>©╖╥х</li>
-<li>╡Х</li>
-<li>©и©з©июж</li>
+<li>Е▓√Е∙║</li>
+<li>Х▄╤</li>
+<li>Е▐╞Е▐ёЕ▐╞Д╧░</li>
 </ol>
 
 <ol class="lroman">
-<li>©╖╥х</li>
-<li>╡Х</li>
-<li>©и©з©июж</li>
+<li>Е▓√Е∙║</li>
+<li>Х▄╤</li>
+<li>Е▐╞Е▐ёЕ▐╞Д╧░</li>
 </ol>
 
 <ol class="uroman">
-<li>©╖╥х</li>
-<li>╡Х</li>
-<li>©и©з©июж</li>
+<li>Е▓√Е∙║</li>
+<li>Х▄╤</li>
+<li>Е▐╞Е▐ёЕ▐╞Д╧░</li>
 </ol>
 
 <ol class="lalpha">
-<li>©╖╥х</li>
-<li>╡Х</li>
-<li>©и©з©июж</li>
+<li>Е▓√Е∙║</li>
+<li>Х▄╤</li>
+<li>Е▐╞Е▐ёЕ▐╞Д╧░</li>
 </ol>
 
 <ol class="ualpha">
-<li>©╖╥х</li>
-<li>╡Х</li>
-<li>©и©з©июж</li>
+<li>Е▓√Е∙║</li>
+<li>Х▄╤</li>
+<li>Е▐╞Е▐ёЕ▐╞Д╧░</li>
 </ol>
 </body>
 

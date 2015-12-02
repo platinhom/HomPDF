@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=css_sel_attribute_value_contains by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:09:14 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -55,13 +55,13 @@ border:5px solid yellow;
 </head>
 <body>
 
-<p>title �����а������� "flower" ��ͼƬ���û�ɫ�߿�</p>
+<p>title 属性中包含单词 "flower" 的图片会获得黄色边框。</p>
 
 <img src="../i/eg_tulip.jpg" title="tulip flower" />
 <br />
 <img src="../i/shanghai_lupu_bridge.jpg" title="lupu bridge" />
 
-<p><b>ע�ͣ�</b>���� IE8 ������汾��������е� [attribute~=value]���������� &lt;!DOCTYPE&gt;��</p>
+<p><b>注释：</b>对于 IE8 及更早版本的浏览器中的 [attribute~=value]，必须声明 &lt;!DOCTYPE&gt;。</p>
 
 </body>
 
@@ -76,12 +76,12 @@ border:5px solid yellow;
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtext50eb.html?f=css_sel_attribute_value_contains"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

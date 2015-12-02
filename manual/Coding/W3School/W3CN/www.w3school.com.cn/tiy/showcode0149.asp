@@ -20,7 +20,7 @@
 dim fs, d, n
 set fs=Server.CreateObject(&quot;Scripting.FileSystemObject&quot;)
 set d=fs.GetDrive(&quot;c:&quot;)
-Response.Write(&quot;Çý¶¯Æ÷ÀàÐÍÊÇ£º&quot; & d.DriveType)
+Response.Write(&quot;é©±åŠ¨å™¨ç±»åž‹æ˜¯ï¼š&quot; & d.DriveType)
 set d=nothing
 set fs=nothing
 %&gt;</code>

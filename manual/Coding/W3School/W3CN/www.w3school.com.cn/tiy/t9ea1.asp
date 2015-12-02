@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=html_input_align by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:17:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <html>
 <body>
@@ -53,11 +53,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   <p>This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text This is some text .</p>
 </form>
 
-<p>�������ͼ���ϵ���������ᷢ�͵�����������Ϊ "form_action.asp" ��ҳ�档</p>
+<p>请在这幅图像上单击，输入会发送到服务器上名为 "form_action.asp" 的页面。</p>
 
-<p>ע�ͣ���� type ��������Ϊ image�����û�����ͼ��ʱ���������������Ϊ��λ������������ͼ��߽��ƫ�������͵������������а�����ͼ����߽翪ʼ��ˮƽƫ�������Լ���ͼ���ϱ߽翪ʼ�Ĵ�ֱƫ������</p>
+<p>注释：如果 type 属性设置为 image，当用户单击图像时，浏览器将以像素为单位，将鼠标相对于图像边界的偏移量发送到服务器，其中包括从图像左边界开始的水平偏移量，以及从图像上边界开始的垂直偏移量。</p>
 
-<p>�� HTML 4.01 �У����޳�ʹ�� input Ԫ�ص� align ���ԡ��� XHTML 1.0 Strict DTD �в�֧�ָ����ԡ���ʹ�� CSS ���档</p>
+<p>在 HTML 4.01 中，不赞成使用 input 元素的 align 属性。在 XHTML 1.0 Strict DTD 中不支持该属性。请使用 CSS 代替。</p>
 
 </body>
 
@@ -72,12 +72,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtext9ea1.html?f=html_input_align"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

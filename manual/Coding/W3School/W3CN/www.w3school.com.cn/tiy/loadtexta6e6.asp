@@ -11,7 +11,7 @@
 <div id="myDiv">I am a div.</div>
 
 <p>
-<button type="button" onclick="myFunction()">�������</button>
+<button type="button" onclick="myFunction()">点击这里</button>
 </p>
 
 <script>
@@ -22,7 +22,7 @@ document.getElementById("myDiv").innerHTML="How are you?";
 }
 </script>
 
-<p>�����������İ�ťʱ������Ԫ�ػ�ı䡣</p>
+<p>当您点击上面的按钮时，两个元素会改变。</p>
 
 </body>
 

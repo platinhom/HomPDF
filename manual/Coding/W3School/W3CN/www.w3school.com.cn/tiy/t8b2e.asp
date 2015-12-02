@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=html_lists_ordered by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:03:06 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,53 +37,53 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <html>
 <body>
 
-<h4>�����б���</h4>
+<h4>数字列表：</h4>
 <ol>
- <li>ƻ��</li>
- <li>�㽶</li>
- <li>����</li>
- <li>����</li>
+ <li>苹果</li>
+ <li>香蕉</li>
+ <li>柠檬</li>
+ <li>桔子</li>
 </ol>  
 
-<h4>��ĸ�б���</h4>
+<h4>字母列表：</h4>
 <ol type="A">
- <li>ƻ��</li>
- <li>�㽶</li>
- <li>����</li>
- <li>����</li>
+ <li>苹果</li>
+ <li>香蕉</li>
+ <li>柠檬</li>
+ <li>桔子</li>
 </ol>  
 
-<h4>Сд��ĸ�б���</h4>
+<h4>小写字母列表：</h4>
 <ol type="a">
- <li>ƻ��</li>
- <li>�㽶</li>
- <li>����</li>
- <li>����</li>
+ <li>苹果</li>
+ <li>香蕉</li>
+ <li>柠檬</li>
+ <li>桔子</li>
 </ol>  
 
-<h4>������ĸ�б���</h4>
+<h4>罗马字母列表：</h4>
 <ol type="I">
- <li>ƻ��</li>
- <li>�㽶</li>
- <li>����</li>
- <li>����</li>
+ <li>苹果</li>
+ <li>香蕉</li>
+ <li>柠檬</li>
+ <li>桔子</li>
 </ol>  
 
-<h4>Сд������ĸ�б���</h4>
+<h4>小写罗马字母列表：</h4>
 <ol type="i">
- <li>ƻ��</li>
- <li>�㽶</li>
- <li>����</li>
- <li>����</li>
+ <li>苹果</li>
+ <li>香蕉</li>
+ <li>柠檬</li>
+ <li>桔子</li>
 </ol>  
 
 </body>
@@ -99,12 +99,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtext8b2e.html?f=html_lists_ordered"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

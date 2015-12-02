@@ -45,7 +45,7 @@ to {background:yellow;}
 
 <div></div>
 
-<p><b>×¢ÊÍ£º</b>±¾ÀýÔÚ Internet Explorer ÖÐÎÞÐ§¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>æœ¬ä¾‹åœ¨ Internet Explorer ä¸­æ— æ•ˆã€‚</p>
 
 </body>
 

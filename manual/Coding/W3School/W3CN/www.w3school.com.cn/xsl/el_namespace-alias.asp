@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/xsl/el_namespace-alias.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:02:36 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>XSLT &lt;xsl:namespace-alias&gt; Ԫ��</title>
+<title>XSLT &lt;xsl:namespace-alias&gt; 元素</title>
 </head>
 
 <body class="xml">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,60 +42,60 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>XSLT �̳�</h2>
+<div id="course"><h2>XSLT 教程</h2>
 <ul>
-<li><a href="index.html" title="XSLT �̳�">XSLT �̳�</a></li>
-<li><a href="xsl_languages.html" title="XSLT ����">XSLT ����</a></li>
-<li><a href="xsl_intro.asp" title="XSLT ���">XSLT ���</a></li>
-<li><a href="xsl_browsers.html" title="�� XSLT �������֧��">XSLT �����</a></li>
-<li><a href="xsl_transformation.html" title="XSLT - ת��">XSLT ת��</a></li>
-<li><a href="xsl_templates.html" title="XSLT &lt;xsl:template&gt; Ԫ��">XSLT &lt;template&gt;</a></li>
-<li><a href="xsl_value_of.html" title="XSLT &lt;xsl:value-of&gt; Ԫ��">XSLT &lt;value-of&gt;</a></li>
-<li><a href="xsl_for_each.html" title="XSLT &lt;xsl:for-each&gt; Ԫ��">XSLT &lt;for-each&gt;</a></li>
-<li><a href="xsl_sort.html" title="XSLT &lt;xsl:sort&gt; Ԫ��">XSLT &lt;xsl:sort&gt;</a></li>
-<li><a href="xsl_if.html" title="XSLT &lt;xsl:if&gt; Ԫ��">XSLT &lt;if&gt;</a></li>
-<li><a href="xsl_choose.html" title="XSLT &lt;xsl:choose&gt; Ԫ��">XSLT &lt;choose&gt;</a></li>
-<li><a href="xsl_apply_templates.html" title="XSLT &lt;xsl:apply-templates&gt; Ԫ��">XSLT apply</a></li>
+<li><a href="index.html" title="XSLT 教程">XSLT 教程</a></li>
+<li><a href="xsl_languages.html" title="XSLT 语言">XSLT 语言</a></li>
+<li><a href="xsl_intro.asp" title="XSLT 简介">XSLT 简介</a></li>
+<li><a href="xsl_browsers.html" title="对 XSLT 的浏览器支持">XSLT 浏览器</a></li>
+<li><a href="xsl_transformation.html" title="XSLT - 转换">XSLT 转换</a></li>
+<li><a href="xsl_templates.html" title="XSLT &lt;xsl:template&gt; 元素">XSLT &lt;template&gt;</a></li>
+<li><a href="xsl_value_of.html" title="XSLT &lt;xsl:value-of&gt; 元素">XSLT &lt;value-of&gt;</a></li>
+<li><a href="xsl_for_each.html" title="XSLT &lt;xsl:for-each&gt; 元素">XSLT &lt;for-each&gt;</a></li>
+<li><a href="xsl_sort.html" title="XSLT &lt;xsl:sort&gt; 元素">XSLT &lt;xsl:sort&gt;</a></li>
+<li><a href="xsl_if.html" title="XSLT &lt;xsl:if&gt; 元素">XSLT &lt;if&gt;</a></li>
+<li><a href="xsl_choose.html" title="XSLT &lt;xsl:choose&gt; 元素">XSLT &lt;choose&gt;</a></li>
+<li><a href="xsl_apply_templates.html" title="XSLT &lt;xsl:apply-templates&gt; 元素">XSLT apply</a></li>
 </ul>
-<h2>XSLT �߼�</h2>
+<h2>XSLT 高级</h2>
 <ul>
-<li><a href="xsl_client.html" title="XSLT - �ͻ���">XSLT �ڿͻ���</a></li>
-<li><a href="xsl_server.html" title="XSLT - �ڷ�������">XSLT �ڷ�������</a></li>
-<li><a href="xsl_editxml.html" title="XSLT - �༭ XML">XSLT �༭ XML</a></li>
-<li><a href="xsl_editors.html" title="XSLT �༭��">XSLT �༭��</a></li>
-<li><a href="xsl_summary.html" title="���Ѿ�ѧϰ�� XSLT����һ���أ�">XSLT �̳��ܽ�</a></li>
+<li><a href="xsl_client.html" title="XSLT - 客户端">XSLT 在客户端</a></li>
+<li><a href="xsl_server.html" title="XSLT - 在服务器上">XSLT 在服务器端</a></li>
+<li><a href="xsl_editxml.html" title="XSLT - 编辑 XML">XSLT 编辑 XML</a></li>
+<li><a href="xsl_editors.html" title="XSLT 编辑器">XSLT 编辑器</a></li>
+<li><a href="xsl_summary.html" title="您已经学习了 XSLT，下一步呢？">XSLT 教程总结</a></li>
 </ul>
-<h2>XSLT �ο��ֲ�</h2>
+<h2>XSLT 参考手册</h2>
 <ul>
-<li><a href="xsl_w3celementref.html" title="XSLT Ԫ�زο��ֲ�">XSLT Ԫ��</a></li>
-<li><a href="xsl_functions.html" title="XSLT �����ο��ֲ�">XSLT ����</a></li>
+<li><a href="xsl_w3celementref.html" title="XSLT 元素参考手册">XSLT 元素</a></li>
+<li><a href="xsl_functions.html" title="XSLT 函数参考手册">XSLT 函数</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="../careers/index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="../careers/index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
@@ -103,35 +103,35 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>XSLT &lt;xsl:namespace-alias&gt; Ԫ��</h1>
+<h1>XSLT &lt;xsl:namespace-alias&gt; 元素</h1>
 
 <div class="backtoreference">
-<p><a href="xsl_w3celementref.html" title="XSLT Ԫ�زο��ֲ�">XSLT Ԫ�زο��ֲ�</a></p>
+<p><a href="xsl_w3celementref.html" title="XSLT 元素参考手册">XSLT 元素参考手册</a></p>
 </div>
 
 <div>
-<h2>������÷�</h2>
+<h2>定义和用法</h2>
 
-<p>&lt;xsl:namespace-alias&gt; Ԫ������������а���ʽ���е������ռ��滻Ϊ��ͬ�������ռ䣬���仰˵��ʹ������ǰ׺�滻����������ռ������ǰ׺��</p>
+<p>&lt;xsl:namespace-alias&gt; 元素用于在输出中把样式表中的命名空间替换为不同的命名空间，换句话说，使用其他前缀替换与给定命名空间关联的前缀。</p>
 
-<p class="note"><span>ע�ͣ�</span>&lt;xsl:namespace-alias&gt; �Ƕ���Ԫ�أ�top-level element�����ұ����� &lt;xsl:stylesheet&gt; �� &lt;xsl:transform&gt; ����Ԫ�ء�</p>
-<p>��ʱ��XSLT �ļ���������һ�� XSLT����Ϊ�����ռ���������⣬��Ϊû����ȷ�ķ�ʽ��������ͬһ�������ռ������ǰ׺�����������ֲ��Ὣ����ǰ׺��Ϊͬһ�������ռ�Դ������в�����ʹ�� &lt;xsl:namespace-alias&gt; ������Խ����������ռ���������ǰ׺����Ӧ����ʽ����Ȼ�󽫱��������ռ�ӳ�䵽 XSLT �����ռ䡣</p>
-<p>��Ȼ XSL �� XSL ���ļ������Ǵ��������Ҫ��;����������Ψһ��;���������κ������ռ��ͻ�ĵط�ʹ�ø�������� xsi: �ܹ��������������ռ䣩��</p>
+<p class="note"><span>注释：</span>&lt;xsl:namespace-alias&gt; 是顶层元素（top-level element），且必须是 &lt;xsl:stylesheet&gt; 或 &lt;xsl:transform&gt; 的子元素。</p>
+<p>有时，XSLT 文件会生成另一个 XSLT。这为命名空间带来了问题，因为没有明确的方式可以声明同一个命名空间的两个前缀，而处理器又不会将两个前缀作为同一个命名空间对待并进行操作。使用 &lt;xsl:namespace-alias&gt; 命令可以将过渡命名空间分配给备用前缀，再应用样式表，然后将备用命名空间映射到 XSLT 命名空间。</p>
+<p>虽然 XSL 到 XSL 的文件生成是此命令的主要用途，但并不是唯一用途。可以在任何命名空间冲突的地方使用该命令（例如 xsi: 架构数据类型命名空间）。</p>
 </div>
 
 <div>
-<h2>�﷨</h2>
+<h2>语法</h2>
 
 <pre>&lt;xsl:namespace-alias
 stylesheet-prefix=&quot;prefix|#default&quot;
 result-prefix=&quot;prefix|&quot;#default&quot;/&gt;</pre>
 
-<h3>����</h3>
+<h3>属性</h3>
 <table class="dataintable">
 <tr>
-<th style="width:25%;">����</th>
-<th style="width:15%;">ֵ</th>
-<th>����</th>
+<th style="width:25%;">属性</th>
+<th style="width:15%;">值</th>
+<th>描述</th>
 </tr>
 
 <tr>
@@ -142,7 +142,7 @@ result-prefix=&quot;prefix|&quot;#default&quot;/&gt;</pre>
 <li>#default</li>
 </ul>
 </td>
-<td>���衣�涨��ϣ�����ĵ������ռ䡣</td>
+<td>必需。规定您希望更改的命名空间。</td>
 </tr>
 
 <tr>
@@ -153,17 +153,17 @@ result-prefix=&quot;prefix|&quot;#default&quot;/&gt;</pre>
 <li>#default</li>
 </ul>
 </td>
-<td>���衣Ϊ����涨�����������ռ䡣</td>
+<td>必需。为输出规定期望的命名空间。</td>
 </tr>
 </table>
 </div>
 
 <div>
-<h2>ʵ��</h2>
+<h2>实例</h2>
 
-<h3>���� 1</h3>
+<h3>例子 1</h3>
 
-<p>ǰ׺ wxsl ��������б�ת��Ϊǰ׺ xsl��</p>
+<p>前缀 wxsl 被在输出中被转换为前缀 xsl：</p>
 
 <pre>&lt;xsl:stylesheet version=&quot;1.0&quot;
 xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
@@ -181,7 +181,7 @@ xmlns:wxsl=&quot;http://www.w3school.com.cn/w3style.xsl&quot;&gt;
 </div>
 
 <div class="backtoreference">
-<p><a href="xsl_w3celementref.html" title="XSLT Ԫ�زο��ֲ�">XSLT Ԫ�زο��ֲ�</a></p>
+<p><a href="xsl_w3celementref.html" title="XSLT 元素参考手册">XSLT 元素参考手册</a></p>
 </div>
 
 </div>
@@ -193,14 +193,14 @@ xmlns:wxsl=&quot;http://www.w3school.com.cn/w3style.xsl&quot;&gt;
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="xsl_w3celementref.html">XSLT �ο��ֲ�</a></h5>
+<h5 id="tools_reference"><a href="xsl_w3celementref.html">XSLT 参考手册</a></h5>
 </div>
 
 <div id="ad">
@@ -221,13 +221,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

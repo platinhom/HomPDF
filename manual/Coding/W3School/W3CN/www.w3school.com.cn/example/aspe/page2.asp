@@ -3,11 +3,11 @@
 <!-- Mirrored from www.w3school.com.cn/example/aspe/page2.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:30:45 GMT -->
 <body>
 
-<h1>ีโสวาณรๆ 2</h1>
+<h1>่ฟๆฏ้กต้ข 2</h1>
 
 
 <a href="demo_aspe_contentlinking2.html">
-ษฯาปาณ
+ไธไธ€้กต
 </a>
 
 
@@ -15,7 +15,7 @@
 <br />
 
 <a href="page3.html">
-ฯยาปาณ
+ไธไธ€้กต
 </a>
 
 </body>

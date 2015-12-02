@@ -12,8 +12,8 @@
 
 <div data-role="page">
   <div data-role="header">
-    <h1>欢迎访问我的主页</h1>
-    <a href="#" data-role="button" class="ui-btn-right" data-icon="search">搜索</a>
+    <h1>娆㈣繋璁块棶鎴戠殑涓婚〉</h1>
+    <a href="#" data-role="button" class="ui-btn-right" data-icon="search">鎼滅储</a>
   </div>
 </div>
 

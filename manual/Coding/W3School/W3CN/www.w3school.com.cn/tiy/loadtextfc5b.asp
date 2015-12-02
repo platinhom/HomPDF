@@ -23,9 +23,9 @@ $(document).ready(function(){
 
 <div id="div1" style="height:100px;width:300px;padding:10px;margin:3px;border:1px solid blue;background-color:lightblue;"></div>
 <br>
-<button>ÏÔÊ¾ div µÄ³ß´ç</button>
-<p>outerWidth(true) - ·µ»ØÔªËØµÄ¿í¶È£¨°üÀ¨ÄÚ±ß¾à¡¢±ß¿òºÍÍâ±ß¾à£©¡£</p>
-<p>outerHeight(true) - ·µ»ØÔªËØµÄ¸ß¶È£¨°üÀ¨ÄÚ±ß¾à¡¢±ß¿òºÍÍâ±ß¾à£©¡£</p>
+<button>æ˜¾ç¤º div çš„å°ºå¯¸</button>
+<p>outerWidth(true) - è¿”å›å…ƒç´ çš„å®½åº¦ï¼ˆåŒ…æ‹¬å†…è¾¹è·ã€è¾¹æ¡†å’Œå¤–è¾¹è·ï¼‰ã€‚</p>
+<p>outerHeight(true) - è¿”å›å…ƒç´ çš„é«˜åº¦ï¼ˆåŒ…æ‹¬å†…è¾¹è·ã€è¾¹æ¡†å’Œå¤–è¾¹è·ï¼‰ã€‚</p>
 
 </body>
 

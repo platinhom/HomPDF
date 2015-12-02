@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquery_html_change_p by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:06:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3SchoolÔÚÏß²âÊÔ¹¤¾ß V2</title>
+<title>W3Schoolåœ¨çº¿æµ‹è¯•å·¥å…· V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="Ìá½»´úÂë" onClick="submitTryit()">
+<input type="button" value="æäº¤ä»£ç " onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>±à¼­ÄúµÄ´úÂë£º</h2>
+<h2>ç¼–è¾‘æ‚¨çš„ä»£ç ï¼š</h2>
 <textarea id="TestCode" wrap="logical">
 <html>
 <head>
@@ -59,7 +59,7 @@ $(document).ready(function(){
 <h2>This is a heading</h2>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
-<button type="button">Çëµã»÷ÕâÀï</button>
+<button type="button">è¯·ç‚¹å‡»è¿™é‡Œ</button>
 </body>
 
 
@@ -74,12 +74,12 @@ $(document).ready(function(){
 </form>
 
 <div id="result">
-<h2>²é¿´½á¹û:</h2>
+<h2>æŸ¥çœ‹ç»“æœ:</h2>
 <iframe frameborder="0" name="i" src="loadtext8cca.html?f=jquery_html_change_p"></iframe>
 </div>
 
 <div id="footer">
-<p>ÇëÔÚÉÏÃæµÄÎÄ±¾¿òÖĞ±à¼­ÄúµÄ´úÂë£¬È»ºóµ¥»÷Ìá½»°´Å¥²âÊÔ½á¹û¡£<a href="../index-2.html" title="W3School ÔÚÏß½Ì³Ì">w3school.com.cn</a></p>
+<p>è¯·åœ¨ä¸Šé¢çš„æ–‡æœ¬æ¡†ä¸­ç¼–è¾‘æ‚¨çš„ä»£ç ï¼Œç„¶åå•å‡»æäº¤æŒ‰é’®æµ‹è¯•ç»“æœã€‚<a href="../index-2.html" title="W3School åœ¨çº¿æ•™ç¨‹">w3school.com.cn</a></p>
 </div>
 
 </div>

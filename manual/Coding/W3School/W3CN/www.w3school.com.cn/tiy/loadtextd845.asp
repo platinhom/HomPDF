@@ -6,10 +6,10 @@
 <body>
 
 <form action="http://www.w3school.com.cn/example/html5/demo_form.asp" method="get">
-  �գ�<input type="text" name="lname" /><br />
-  ����<input type="text" name="fname" /><br />
-<button type="submit" >�ύ</button>
-<button type="submit" formmethod="post" formaction="../example/html5/demo_post.html">ʹ�� POST ���ύ</button>
+  姓：<input type="text" name="lname" /><br />
+  名：<input type="text" name="fname" /><br />
+<button type="submit" >提交</button>
+<button type="submit" formmethod="post" formaction="../example/html5/demo_post.html">使用 POST 来提交</button>
 </form>
 
 </body>

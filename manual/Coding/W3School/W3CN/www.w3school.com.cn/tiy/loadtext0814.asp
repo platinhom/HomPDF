@@ -40,7 +40,7 @@ animation-direction:alternate;
 </head>
 <body>
 
-<p><strong>×¢ÊÍ£º</strong>Internet Explorer 9 ÒÔ¼°¸üÔçµÄ°æ±¾²»Ö§³Ö animation-direction ÊôĞÔ¡£</p>
+<p><strong>æ³¨é‡Šï¼š</strong>Internet Explorer 9 ä»¥åŠæ›´æ—©çš„ç‰ˆæœ¬ä¸æ”¯æŒ animation-direction å±æ€§ã€‚</p>
 
 <div></div>
 

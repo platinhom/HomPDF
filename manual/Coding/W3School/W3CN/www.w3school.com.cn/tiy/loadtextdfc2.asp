@@ -5,13 +5,13 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h2>未设置对齐方式的图像：</h2>
+<h2>鏈缃榻愭柟寮忕殑鍥惧儚锛�</h2>
 
-<p>图像 <img src ="../i/eg_cute.gif" /> 在文本中</p>
+<p>鍥惧儚 <img src ="../i/eg_cute.gif" /> 鍦ㄦ枃鏈腑</p>
 
-<h2>向右浮动的图像：</h2>
+<h2>鍚戝彸娴姩鐨勫浘鍍忥細</h2>
 
-<p>图像 <img src="../i/eg_cute.gif" style="float:right" /> 在文本中</p>
+<p>鍥惧儚 <img src="../i/eg_cute.gif" style="float:right" /> 鍦ㄦ枃鏈腑</p>
 
 </body>
 

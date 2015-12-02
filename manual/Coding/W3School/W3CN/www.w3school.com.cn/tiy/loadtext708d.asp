@@ -29,11 +29,11 @@ document.getElementById(elmnt).style.visibility="hidden"
 </head>
 
 <body>
-<h3>ÏÂÀ­²Ëµ¥</h3>
+<h3>ä¸‹æ‹‰èœå•</h3>
 <table width="100%">
  <tr bgcolor="#FF8080">
   <td onmouseover="showmenu('tutorials')" onmouseout="hidemenu('tutorials')">
-   <a href="../i/eg_landscape.jpg">½Ì³Ì</a><br />
+   <a href="../i/eg_landscape.jpg">æ•™ç¨‹</a><br />
    <table class="menu" id="tutorials" width="120">
    <tr><td class="menu"><a href="../html/index.html">HTML</a></td></tr>
    <tr><td class="menu"><a href="../xhtml/index.html">XHTML</a></td></tr>
@@ -43,7 +43,7 @@ document.getElementById(elmnt).style.visibility="hidden"
    </table>
   </td>
   <td onmouseover="showmenu('scripting')" onmouseout="hidemenu('scripting')">
-   <a href="../i/eg_landscape.jpg">½Å±¾</a><br />
+   <a href="../i/eg_landscape.jpg">è„šæœ¬</a><br />
    <table class="menu" id="scripting" width="120">
    <tr><td class="menu"><a href="../js/index.html">JavaScript</a></td></tr>
    <tr><td class="menu"><a href="../vbscript/index.html">VBScript</a></td></tr>
@@ -53,18 +53,18 @@ document.getElementById(elmnt).style.visibility="hidden"
    </table>
   </td>
   <td onmouseover="showmenu('validation')" onmouseout="hidemenu('validation')">
-   <a href="../site/site_validate.html">ÑéÖ¤</a><br />
+   <a href="../site/site_validate.html">éªŒè¯</a><br />
    <table class="menu" id="validation" width="120">
-   <tr><td class="menu"><a href="../site/site_validate.html">ÑéÖ¤ HTML</a></td></tr>
-   <tr><td class="menu"><a href="../site/site_validate.html">ÑéÖ¤ XHTML</a></td></tr>
-   <tr><td class="menu"><a href="../site/site_validate.html">ÑéÖ¤ CSS</a></td></tr>
-   <tr><td class="menu"><a href="../site/site_validate.html">ÑéÖ¤ XML</a></td></tr>
-   <tr><td class="menu"><a href="../site/site_validate.html">ÑéÖ¤ WML</a></td></tr>
+   <tr><td class="menu"><a href="../site/site_validate.html">éªŒè¯ HTML</a></td></tr>
+   <tr><td class="menu"><a href="../site/site_validate.html">éªŒè¯ XHTML</a></td></tr>
+   <tr><td class="menu"><a href="../site/site_validate.html">éªŒè¯ CSS</a></td></tr>
+   <tr><td class="menu"><a href="../site/site_validate.html">éªŒè¯ XML</a></td></tr>
+   <tr><td class="menu"><a href="../site/site_validate.html">éªŒè¯ WML</a></td></tr>
    </table>
   </td>
  </tr>
 </table>
-<p>°ÑÊó±êÒÆ¶¯µ½²»Í¬µÄÑ¡ÏîÉÏ£¬¾Í¿ÉÒÔ¿´µ½ÏÂÀ­²Ëµ¥¡£</p>
+<p>æŠŠé¼ æ ‡ç§»åŠ¨åˆ°ä¸åŒçš„é€‰é¡¹ä¸Šï¼Œå°±å¯ä»¥çœ‹åˆ°ä¸‹æ‹‰èœå•ã€‚</p>
 </body>
 
 

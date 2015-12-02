@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/tags/tag_a.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 04:01:12 GMT -->
 <head>
-<meta charset="gbk" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>HTML &lt;a&gt; ±êÇ©</title>
+<title>HTML &lt;a&gt; æ ‡ç­¾</title>
 
 </head>
 
@@ -18,11 +18,11 @@
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäº 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -36,173 +36,173 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁĞ½Ì³Ì">HTML ÏµÁĞ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·şÎñÆ÷½Å±¾½Ì³Ì">·şÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁĞ½Ì³Ì">XML ÏµÁĞ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁĞ½Ì³Ì">Web Services ÏµÁĞ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>²Î¿¼ÊÖ²á</h2>
+<div id="course"><h2>å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="index.html" title="HTML 4.01 / XHTML 1.0 ²Î¿¼ÊÖ²á">±êÇ©ÁĞ±í£¨×ÖÄ¸ÅÅĞò£©</a></li>
-<li><a href="html_ref_byfunc.asp" title="HTML 4.01 / XHTML 1.0 ²Î¿¼ÊÖ²á">±êÇ©ÁĞ±í£¨¹¦ÄÜÅÅĞò£©</a></li>
-<li><a href="html_ref_standardattributes.html" title="HTML ±ê×¼ÊôĞÔ">HTML ÊôĞÔ</a></li>
-<li><a href="html_ref_eventattributes.html" title="HTML ÊÂ¼şÊôĞÔ">HTML ÊÂ¼ş</a></li>
-<li><a href="html_ref_audio_video_dom.html" title="HTML Audio/Video DOM ÊôĞÔ">HTML ÊÓÆµ/ÒôÆµ</a></li>
-<li><a href="html_ref_canvas.html" title="HTML Canvas ²Î¿¼ÊÖ²á">HTML »­²¼</a></li>
-<li><a href="html_ref_dtd.asp" title="HTML ÔªËØºÍÓĞĞ§µÄ DTD">HTML ÎÄµµÀàĞÍ</a></li>
-<li><a href="html_ref_colornames.html" title="HTML ÑÕÉ«Ãû">HTML ÑÕÉ«Ãû</a></li>
-<li><a href="html_ref_charactersets.html" title="HTML ×Ö·û¼¯">HTML ×Ö·û¼¯</a></li>
-<li><a href="html_ref_ascii.html" title="HTML 7 ±ÈÌØ ASCII ´úÂë ²Î¿¼ÊÖ²á">HTML ASCII</a></li>
-<li><a href="html_ref_entities.html" title="HTML ISO-8859-1 ²Î¿¼ÊÖ²á">HTML ISO-8859-1</a></li>
-<li><a href="html_ref_symbols.html" title="HTML ·ûºÅÊµÌå">HTML ·ûºÅ</a></li>
-<li><a href="html_ref_urlencode.html" title="HTML URL ±àÂë">HTML URL ±àÂë</a></li>
-<li><a href="html_ref_language_codes.html" title="HTML ÓïÑÔ´úÂë²Î¿¼ÊÖ²á">HTML ÓïÑÔ´úÂë</a></li>
-<li><a href="html_ref_httpmessages.html" title="HTTP ×´Ì¬ÏûÏ¢">HTTP ÏûÏ¢</a></li>
-<li><a href="html_ref_httpmethods.html" title="HTTP ·½·¨£ºGET ¶Ô±È POST">HTTP ·½·¨</a></li>
+<li><a href="index.html" title="HTML 4.01 / XHTML 1.0 å‚è€ƒæ‰‹å†Œ">æ ‡ç­¾åˆ—è¡¨ï¼ˆå­—æ¯æ’åºï¼‰</a></li>
+<li><a href="html_ref_byfunc.asp" title="HTML 4.01 / XHTML 1.0 å‚è€ƒæ‰‹å†Œ">æ ‡ç­¾åˆ—è¡¨ï¼ˆåŠŸèƒ½æ’åºï¼‰</a></li>
+<li><a href="html_ref_standardattributes.html" title="HTML æ ‡å‡†å±æ€§">HTML å±æ€§</a></li>
+<li><a href="html_ref_eventattributes.html" title="HTML äº‹ä»¶å±æ€§">HTML äº‹ä»¶</a></li>
+<li><a href="html_ref_audio_video_dom.html" title="HTML Audio/Video DOM å±æ€§">HTML è§†é¢‘/éŸ³é¢‘</a></li>
+<li><a href="html_ref_canvas.html" title="HTML Canvas å‚è€ƒæ‰‹å†Œ">HTML ç”»å¸ƒ</a></li>
+<li><a href="html_ref_dtd.asp" title="HTML å…ƒç´ å’Œæœ‰æ•ˆçš„ DTD">HTML æ–‡æ¡£ç±»å‹</a></li>
+<li><a href="html_ref_colornames.html" title="HTML é¢œè‰²å">HTML é¢œè‰²å</a></li>
+<li><a href="html_ref_charactersets.html" title="HTML å­—ç¬¦é›†">HTML å­—ç¬¦é›†</a></li>
+<li><a href="html_ref_ascii.html" title="HTML 7 æ¯”ç‰¹ ASCII ä»£ç  å‚è€ƒæ‰‹å†Œ">HTML ASCII</a></li>
+<li><a href="html_ref_entities.html" title="HTML ISO-8859-1 å‚è€ƒæ‰‹å†Œ">HTML ISO-8859-1</a></li>
+<li><a href="html_ref_symbols.html" title="HTML ç¬¦å·å®ä½“">HTML ç¬¦å·</a></li>
+<li><a href="html_ref_urlencode.html" title="HTML URL ç¼–ç ">HTML URL ç¼–ç </a></li>
+<li><a href="html_ref_language_codes.html" title="HTML è¯­è¨€ä»£ç å‚è€ƒæ‰‹å†Œ">HTML è¯­è¨€ä»£ç </a></li>
+<li><a href="html_ref_httpmessages.html" title="HTTP çŠ¶æ€æ¶ˆæ¯">HTTP æ¶ˆæ¯</a></li>
+<li><a href="html_ref_httpmethods.html" title="HTTP æ–¹æ³•ï¼šGET å¯¹æ¯” POST">HTTP æ–¹æ³•</a></li>
 </ul>
-<h2>HTML ±êÇ©</h2>
+<h2>HTML æ ‡ç­¾</h2>
 <ul>
-<li><a href="tag_comment.html" title="HTML &lt;!--&gt; ±êÇ©">&lt;!--&gt;</a></li>
-<li><a href="tag_doctype.html" title="HTML &lt;!DOCTYPE&gt; ±êÇ©">&lt;!DOCTYPE&gt;</a></li>
-<li class="currentLink"><a href="tag_a.asp" title="HTML &lt;a&gt; ±êÇ©">&lt;a&gt;</a></li>
-<li><a href="tag_abbr.html" title="HTML &lt;abbr&gt; ±êÇ©">&lt;abbr&gt;</a></li>
-<li><a href="tag_acronym.asp" title="HTML &lt;acronym&gt; ±êÇ©">&lt;acronym&gt;</a></li>
-<li><a href="tag_address.html" title="HTML &lt;address&gt; ±êÇ©">&lt;address&gt;</a></li>
-<li><a href="tag_applet.html" title="HTML &lt;applet&gt; ±êÇ©">&lt;applet&gt;</a></li>
-<li><a href="tag_area.html" title="HTML &lt;area&gt; ±êÇ©">&lt;area&gt;</a></li>
-<li><a href="tag_article.html" title="HTML &lt;article&gt; ±êÇ©">&lt;article&gt;</a></li>
-<li><a href="tag_aside.html" title="HTML &lt;aside&gt; ±êÇ©">&lt;aside&gt;</a></li>
-<li><a href="tag_audio.html" title="HTML &lt;audio&gt; ±êÇ©">&lt;audio&gt;</a></li>
-<li><a href="tag_b.html" title="HTML &lt;b&gt; ±êÇ©">&lt;b&gt;</a></li>
-<li><a href="tag_base.html" title="HTML &lt;base&gt; ±êÇ©">&lt;base&gt;</a></li>
-<li><a href="tag_basefont.html" title="HTML &lt;basefont&gt; ±êÇ©">&lt;basefont&gt;</a></li>
-<li><a href="tag_bdi.html" title="HTML &lt;bdi&gt; ±êÇ©">&lt;bdi&gt;</a></li>
-<li><a href="tag_bdo.html" title="HTML &lt;bdo&gt; ±êÇ©">&lt;bdo&gt;</a></li>
-<li><a href="tag_big.html" title="HTML &lt;big&gt; ±êÇ©">&lt;big&gt;</a></li>
-<li><a href="tag_blockquote.html" title="HTML &lt;blockquote&gt; ±êÇ©">&lt;blockquote&gt;</a></li>
-<li><a href="tag_body.html" title="HTML &lt;body&gt; ±êÇ©">&lt;body&gt;</a></li>
-<li><a href="tag_br.html" title="HTML &lt;br&gt; ±êÇ©">&lt;br&gt;</a></li>
-<li><a href="tag_button.html" title="HTML &lt;button&gt; ±êÇ©">&lt;button&gt;</a></li>
-<li><a href="tag_canvas.html" title="HTML &lt;canvas&gt; ±êÇ©">&lt;canvas&gt;</a></li>
-<li><a href="tag_caption.html" title="HTML &lt;caption&gt; ±êÇ©">&lt;caption&gt;</a></li>
-<li><a href="tag_center.asp" title="HTML &lt;center&gt; ±êÇ©">&lt;center&gt;</a></li>
-<li><a href="tag_cite.html" title="HTML &lt;cite&gt; ±êÇ©">&lt;cite&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;code&gt; ±êÇ©">&lt;code&gt;</a></li>
-<li><a href="tag_col.html" title="HTML &lt;col&gt; ±êÇ©">&lt;col&gt;</a></li>
-<li><a href="tag_colgroup.html" title="HTML &lt;colgroup&gt; ±êÇ©">&lt;colgroup&gt;</a></li>
-<li><a href="tag_command.html" title="HTML &lt;command&gt; ±êÇ©">&lt;command&gt;</a></li>
-<li><a href="tag_datalist.html" title="HTML &lt;datalist&gt; ±êÇ©">&lt;datalist&gt;</a></li>
-<li><a href="tag_dd.html" title="HTML &lt;dd&gt; ±êÇ©">&lt;dd&gt;</a></li>
-<li><a href="tag_del.html" title="HTML &lt;del&gt; ±êÇ©">&lt;del&gt;</a></li>
-<li><a href="tag_details.asp" title="HTML &lt;details&gt; ±êÇ©">&lt;details&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;dfn&gt; ±êÇ©">&lt;dfn&gt;</a></li>
-<li><a href="tag_dialog.html" title="HTML &lt;dialog&gt; ±êÇ©">&lt;dialog&gt;</a></li>
-<li><a href="tag_dir.html" title="HTML &lt;dir&gt; ±êÇ©">&lt;dir&gt;</a></li>
-<li><a href="tag_div.html" title="HTML &lt;div&gt; ±êÇ©">&lt;div&gt;</a></li>
-<li><a href="tag_dl.html" title="HTML &lt;dl&gt; ±êÇ©">&lt;dl&gt;</a></li>
-<li><a href="tag_dt.html" title="HTML &lt;dt&gt; ±êÇ©">&lt;dt&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;em&gt; ±êÇ©">&lt;em&gt;</a></li>
-<li><a href="tag_embed.asp" title="HTML &lt;embed&gt; ±êÇ©">&lt;embed&gt;</a></li>
-<li><a href="tag_fieldset.html" title="HTML &lt;fieldset&gt; ±êÇ©">&lt;fieldset&gt;</a></li>
-<li><a href="tag_figcaption.html" title="HTML &lt;figcaption&gt; ±êÇ©">&lt;figcaption&gt;</a></li>
-<li><a href="tag_figure.html" title="HTML &lt;figure&gt; ±êÇ©">&lt;figure&gt;</a></li>
-<li><a href="tag_font.html" title="HTML &lt;font&gt; ±êÇ©">&lt;font&gt;</a></li>
-<li><a href="tag_footer.html" title="HTML &lt;footer&gt; ±êÇ©">&lt;footer&gt;</a></li>
-<li><a href="tag_form.html" title="HTML &lt;form&gt; ±êÇ©">&lt;form&gt;</a></li>
-<li><a href="tag_frame.asp" title="HTML &lt;frame&gt; ±êÇ©">&lt;frame&gt;</a></li>
-<li><a href="tag_frameset.html" title="HTML &lt;frameset&gt; ±êÇ©">&lt;frameset&gt;</a></li>
-<li><a href="tag_hn.html" title="HTML &lt;h1&gt; - &lt;h6&gt; ±êÇ©">&lt;h1&gt; - &lt;h6&gt;</a></li>
-<li><a href="tag_head.html" title="HTML &lt;head&gt; ±êÇ©">&lt;head&gt;</a></li>
-<li><a href="tag_header.html" title="HTML &lt;header&gt; ±êÇ©">&lt;header&gt;</a></li>
-<li><a href="tag_hr.asp" title="HTML &lt;hr&gt; ±êÇ©">&lt;hr&gt;</a></li>
-<li><a href="tag_html.html" title="HTML &lt;html&gt; ±êÇ©">&lt;html&gt;</a></li>
-<li><a href="tag_i.html" title="HTML &lt;i&gt; ±êÇ©">&lt;i&gt;</a></li>
-<li><a href="tag_iframe.html" title="HTML &lt;iframe&gt; ±êÇ©">&lt;iframe&gt;</a></li>
-<li><a href="tag_img.html" title="HTML &lt;img&gt; ±êÇ©">&lt;img&gt;</a></li>
-<li><a href="tag_input.html" title="HTML &lt;input&gt; ±êÇ©">&lt;input&gt;</a></li>
-<li><a href="tag_ins.html" title="HTML &lt;ins&gt; ±êÇ©">&lt;ins&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;kbd&gt; ±êÇ©">&lt;kbd&gt;</a></li>
-<li><a href="tag_keygen.html" title="HTML &lt;keygen&gt; ±êÇ©">&lt;keygen&gt;</a></li>
-<li><a href="tag_label.html" title="HTML &lt;label&gt; ±êÇ©">&lt;label&gt;</a></li>
-<li><a href="tag_legend.html" title="HTML &lt;legend&gt; ±êÇ©">&lt;legend&gt;</a></li>
-<li><a href="tag_li.asp" title="HTML &lt;li&gt; ±êÇ©">&lt;li&gt;</a></li>
-<li><a href="tag_link.html" title="HTML &lt;link&gt; ±êÇ©">&lt;link&gt;</a></li>
-<li><a href="tag_main.html" title="HTML &lt;main&gt; ±êÇ©">&lt;main&gt;</a></li>
-<li><a href="tag_map.html" title="HTML &lt;map&gt; ±êÇ©">&lt;map&gt;</a></li>
-<li><a href="tag_mark.html" title="HTML &lt;mark&gt; ±êÇ©">&lt;mark&gt;</a></li>
-<li><a href="tag_menu.html" title="HTML &lt;menu&gt; ±êÇ©">&lt;menu&gt;</a></li>
-<li><a href="tag_menuitem.html" title="HTML &lt;menuitem&gt; ±êÇ©">&lt;menuitem&gt;</a></li>
-<li><a href="tag_meta.html" title="HTML &lt;meta&gt; ±êÇ©">&lt;meta&gt;</a></li>
-<li><a href="tag_meter.html" title="HTML &lt;meter&gt; ±êÇ©">&lt;meter&gt;</a></li>
-<li><a href="tag_nav.html" title="HTML &lt;nav&gt; ±êÇ©">&lt;nav&gt;</a></li>
-<li><a href="tag_noframes.html" title="HTML &lt;noframes&gt; ±êÇ©">&lt;noframes&gt;</a></li>
-<li><a href="tag_noscript.html" title="HTML &lt;noscript&gt; ±êÇ©">&lt;noscript&gt;</a></li>
-<li><a href="tag_object.html" title="HTML &lt;object&gt; ±êÇ©">&lt;object&gt;</a></li>
-<li><a href="tag_ol.html" title="HTML &lt;ol&gt; ±êÇ©">&lt;ol&gt;</a></li>
-<li><a href="tag_optgroup.html" title="HTML &lt;optgroup&gt; ±êÇ©">&lt;optgroup&gt;</a></li>
-<li><a href="tag_option.html" title="HTML &lt;option&gt; ±êÇ©">&lt;option&gt;</a></li>
-<li><a href="tag_output.html" title="HTML &lt;output&gt; ±êÇ©">&lt;output&gt;</a></li>
-<li><a href="tag_p.html" title="HTML &lt;p&gt; ±êÇ©">&lt;p&gt;</a></li>
-<li><a href="tag_param.html" title="HTML &lt;param&gt; ±êÇ©">&lt;param&gt;</a></li>
-<li><a href="tag_pre.asp" title="HTML &lt;pre&gt; ±êÇ©">&lt;pre&gt;</a></li>
-<li><a href="tag_progress.html" title="HTML &lt;progress&gt; ±êÇ©">&lt;progress&gt;</a></li>
-<li><a href="tag_q.html" title="HTML &lt;q&gt; ±êÇ©">&lt;q&gt;</a></li>
-<li><a href="tag_rp.html" title="HTML &lt;rp&gt; ±êÇ©">&lt;rp&gt;</a></li>
-<li><a href="tag_rt.html" title="HTML &lt;rt&gt; ±êÇ©">&lt;rt&gt;</a></li>
-<li><a href="tag_ruby.html" title="HTML &lt;ruby&gt; ±êÇ©">&lt;ruby&gt;</a></li>
-<li><a href="tag_s.html" title="HTML &lt;s&gt; ±êÇ©">&lt;s&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;samp&gt; ±êÇ©">&lt;samp&gt;</a></li>
-<li><a href="tag_script.html" title="HTML &lt;script&gt; ±êÇ©">&lt;script&gt;</a></li>
-<li><a href="tag_section.html" title="HTML &lt;section&gt; ±êÇ©">&lt;section&gt;</a></li>
-<li><a href="tag_select.html" title="HTML &lt;select&gt; ±êÇ©">&lt;select&gt;</a></li>
-<li><a href="tag_small.html" title="HTML &lt;small&gt; ±êÇ©">&lt;small&gt;</a></li>
-<li><a href="tag_source.html" title="HTML &lt;source&gt; ±êÇ©">&lt;source&gt;</a></li>
-<li><a href="tag_span.html" title="HTML &lt;span&gt; ±êÇ©">&lt;span&gt;</a></li>
-<li><a href="tag_strike.html" title="HTML &lt;strike&gt; ±êÇ©">&lt;strike&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;strong&gt; ±êÇ©">&lt;strong&gt;</a></li>
-<li><a href="tag_style.html" title="HTML &lt;style&gt; ±êÇ©">&lt;style&gt;</a></li>
-<li><a href="tag_sub.html" title="HTML &lt;sub&gt; ±êÇ©">&lt;sub&gt;</a></li>
-<li><a href="tag_summary.asp" title="HTML &lt;summary&gt; ±êÇ©">&lt;summary&gt;</a></li>
-<li><a href="tag_sup.html" title="HTML &lt;sup&gt; ±êÇ©">&lt;sup&gt;</a></li>
-<li><a href="tag_table.html" title="HTML &lt;table&gt; ±êÇ©">&lt;table&gt;</a></li>
-<li><a href="tag_tbody.html" title="HTML &lt;tbody&gt; ±êÇ©">&lt;tbody&gt;</a></li>
-<li><a href="tag_td.html" title="HTML &lt;td&gt; ±êÇ©">&lt;td&gt;</a></li>
-<li><a href="tag_textarea.html" title="HTML &lt;textarea&gt; ±êÇ©">&lt;textarea&gt;</a></li>
-<li><a href="tag_tfoot.html" title="HTML &lt;tfoot&gt; ±êÇ©">&lt;tfoot&gt;</a></li>
-<li><a href="tag_th.html" title="HTML &lt;th&gt; ±êÇ©">&lt;th&gt;</a></li>
-<li><a href="tag_thead.html" title="HTML &lt;thead&gt; ±êÇ©">&lt;thead&gt;</a></li>
-<li><a href="tag_time.html" title="HTML &lt;time&gt; ±êÇ©">&lt;time&gt;</a></li>
-<li><a href="tag_title.html" title="HTML &lt;title&gt; ±êÇ©">&lt;title&gt;</a></li>
-<li><a href="tag_tr.html" title="HTML &lt;tr&gt; ±êÇ©">&lt;tr&gt;</a></li>
-<li><a href="tag_track.html" title="HTML &lt;track&gt; ±êÇ©">&lt;track&gt;</a></li>
-<li><a href="tag_tt.html" title="HTML &lt;tt&gt; ±êÇ©">&lt;tt&gt;</a></li>
-<li><a href="tag_u.html" title="HTML &lt;u&gt; ±êÇ©">&lt;u&gt;</a></li>
-<li><a href="tag_ul.html" title="HTML &lt;ul&gt; ±êÇ©">&lt;ul&gt;</a></li>
-<li><a href="tag_phrase_elements.html" title="HTML &lt;var&gt; ±êÇ©">&lt;var&gt;</a></li>
-<li><a href="tag_video.html" title="HTML &lt;video&gt; ±êÇ©">&lt;video&gt;</a></li>
-<li><a href="tag_wbr.html" title="HTML &lt;wbr&gt; ±êÇ©">&lt;wbr&gt;</a></li>
+<li><a href="tag_comment.html" title="HTML &lt;!--&gt; æ ‡ç­¾">&lt;!--&gt;</a></li>
+<li><a href="tag_doctype.html" title="HTML &lt;!DOCTYPE&gt; æ ‡ç­¾">&lt;!DOCTYPE&gt;</a></li>
+<li class="currentLink"><a href="tag_a.asp" title="HTML &lt;a&gt; æ ‡ç­¾">&lt;a&gt;</a></li>
+<li><a href="tag_abbr.html" title="HTML &lt;abbr&gt; æ ‡ç­¾">&lt;abbr&gt;</a></li>
+<li><a href="tag_acronym.asp" title="HTML &lt;acronym&gt; æ ‡ç­¾">&lt;acronym&gt;</a></li>
+<li><a href="tag_address.html" title="HTML &lt;address&gt; æ ‡ç­¾">&lt;address&gt;</a></li>
+<li><a href="tag_applet.html" title="HTML &lt;applet&gt; æ ‡ç­¾">&lt;applet&gt;</a></li>
+<li><a href="tag_area.html" title="HTML &lt;area&gt; æ ‡ç­¾">&lt;area&gt;</a></li>
+<li><a href="tag_article.html" title="HTML &lt;article&gt; æ ‡ç­¾">&lt;article&gt;</a></li>
+<li><a href="tag_aside.html" title="HTML &lt;aside&gt; æ ‡ç­¾">&lt;aside&gt;</a></li>
+<li><a href="tag_audio.html" title="HTML &lt;audio&gt; æ ‡ç­¾">&lt;audio&gt;</a></li>
+<li><a href="tag_b.html" title="HTML &lt;b&gt; æ ‡ç­¾">&lt;b&gt;</a></li>
+<li><a href="tag_base.html" title="HTML &lt;base&gt; æ ‡ç­¾">&lt;base&gt;</a></li>
+<li><a href="tag_basefont.html" title="HTML &lt;basefont&gt; æ ‡ç­¾">&lt;basefont&gt;</a></li>
+<li><a href="tag_bdi.html" title="HTML &lt;bdi&gt; æ ‡ç­¾">&lt;bdi&gt;</a></li>
+<li><a href="tag_bdo.html" title="HTML &lt;bdo&gt; æ ‡ç­¾">&lt;bdo&gt;</a></li>
+<li><a href="tag_big.html" title="HTML &lt;big&gt; æ ‡ç­¾">&lt;big&gt;</a></li>
+<li><a href="tag_blockquote.html" title="HTML &lt;blockquote&gt; æ ‡ç­¾">&lt;blockquote&gt;</a></li>
+<li><a href="tag_body.html" title="HTML &lt;body&gt; æ ‡ç­¾">&lt;body&gt;</a></li>
+<li><a href="tag_br.html" title="HTML &lt;br&gt; æ ‡ç­¾">&lt;br&gt;</a></li>
+<li><a href="tag_button.html" title="HTML &lt;button&gt; æ ‡ç­¾">&lt;button&gt;</a></li>
+<li><a href="tag_canvas.html" title="HTML &lt;canvas&gt; æ ‡ç­¾">&lt;canvas&gt;</a></li>
+<li><a href="tag_caption.html" title="HTML &lt;caption&gt; æ ‡ç­¾">&lt;caption&gt;</a></li>
+<li><a href="tag_center.asp" title="HTML &lt;center&gt; æ ‡ç­¾">&lt;center&gt;</a></li>
+<li><a href="tag_cite.html" title="HTML &lt;cite&gt; æ ‡ç­¾">&lt;cite&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;code&gt; æ ‡ç­¾">&lt;code&gt;</a></li>
+<li><a href="tag_col.html" title="HTML &lt;col&gt; æ ‡ç­¾">&lt;col&gt;</a></li>
+<li><a href="tag_colgroup.html" title="HTML &lt;colgroup&gt; æ ‡ç­¾">&lt;colgroup&gt;</a></li>
+<li><a href="tag_command.html" title="HTML &lt;command&gt; æ ‡ç­¾">&lt;command&gt;</a></li>
+<li><a href="tag_datalist.html" title="HTML &lt;datalist&gt; æ ‡ç­¾">&lt;datalist&gt;</a></li>
+<li><a href="tag_dd.html" title="HTML &lt;dd&gt; æ ‡ç­¾">&lt;dd&gt;</a></li>
+<li><a href="tag_del.html" title="HTML &lt;del&gt; æ ‡ç­¾">&lt;del&gt;</a></li>
+<li><a href="tag_details.asp" title="HTML &lt;details&gt; æ ‡ç­¾">&lt;details&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;dfn&gt; æ ‡ç­¾">&lt;dfn&gt;</a></li>
+<li><a href="tag_dialog.html" title="HTML &lt;dialog&gt; æ ‡ç­¾">&lt;dialog&gt;</a></li>
+<li><a href="tag_dir.html" title="HTML &lt;dir&gt; æ ‡ç­¾">&lt;dir&gt;</a></li>
+<li><a href="tag_div.html" title="HTML &lt;div&gt; æ ‡ç­¾">&lt;div&gt;</a></li>
+<li><a href="tag_dl.html" title="HTML &lt;dl&gt; æ ‡ç­¾">&lt;dl&gt;</a></li>
+<li><a href="tag_dt.html" title="HTML &lt;dt&gt; æ ‡ç­¾">&lt;dt&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;em&gt; æ ‡ç­¾">&lt;em&gt;</a></li>
+<li><a href="tag_embed.asp" title="HTML &lt;embed&gt; æ ‡ç­¾">&lt;embed&gt;</a></li>
+<li><a href="tag_fieldset.html" title="HTML &lt;fieldset&gt; æ ‡ç­¾">&lt;fieldset&gt;</a></li>
+<li><a href="tag_figcaption.html" title="HTML &lt;figcaption&gt; æ ‡ç­¾">&lt;figcaption&gt;</a></li>
+<li><a href="tag_figure.html" title="HTML &lt;figure&gt; æ ‡ç­¾">&lt;figure&gt;</a></li>
+<li><a href="tag_font.html" title="HTML &lt;font&gt; æ ‡ç­¾">&lt;font&gt;</a></li>
+<li><a href="tag_footer.html" title="HTML &lt;footer&gt; æ ‡ç­¾">&lt;footer&gt;</a></li>
+<li><a href="tag_form.html" title="HTML &lt;form&gt; æ ‡ç­¾">&lt;form&gt;</a></li>
+<li><a href="tag_frame.asp" title="HTML &lt;frame&gt; æ ‡ç­¾">&lt;frame&gt;</a></li>
+<li><a href="tag_frameset.html" title="HTML &lt;frameset&gt; æ ‡ç­¾">&lt;frameset&gt;</a></li>
+<li><a href="tag_hn.html" title="HTML &lt;h1&gt; - &lt;h6&gt; æ ‡ç­¾">&lt;h1&gt; - &lt;h6&gt;</a></li>
+<li><a href="tag_head.html" title="HTML &lt;head&gt; æ ‡ç­¾">&lt;head&gt;</a></li>
+<li><a href="tag_header.html" title="HTML &lt;header&gt; æ ‡ç­¾">&lt;header&gt;</a></li>
+<li><a href="tag_hr.asp" title="HTML &lt;hr&gt; æ ‡ç­¾">&lt;hr&gt;</a></li>
+<li><a href="tag_html.html" title="HTML &lt;html&gt; æ ‡ç­¾">&lt;html&gt;</a></li>
+<li><a href="tag_i.html" title="HTML &lt;i&gt; æ ‡ç­¾">&lt;i&gt;</a></li>
+<li><a href="tag_iframe.html" title="HTML &lt;iframe&gt; æ ‡ç­¾">&lt;iframe&gt;</a></li>
+<li><a href="tag_img.html" title="HTML &lt;img&gt; æ ‡ç­¾">&lt;img&gt;</a></li>
+<li><a href="tag_input.html" title="HTML &lt;input&gt; æ ‡ç­¾">&lt;input&gt;</a></li>
+<li><a href="tag_ins.html" title="HTML &lt;ins&gt; æ ‡ç­¾">&lt;ins&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;kbd&gt; æ ‡ç­¾">&lt;kbd&gt;</a></li>
+<li><a href="tag_keygen.html" title="HTML &lt;keygen&gt; æ ‡ç­¾">&lt;keygen&gt;</a></li>
+<li><a href="tag_label.html" title="HTML &lt;label&gt; æ ‡ç­¾">&lt;label&gt;</a></li>
+<li><a href="tag_legend.html" title="HTML &lt;legend&gt; æ ‡ç­¾">&lt;legend&gt;</a></li>
+<li><a href="tag_li.asp" title="HTML &lt;li&gt; æ ‡ç­¾">&lt;li&gt;</a></li>
+<li><a href="tag_link.html" title="HTML &lt;link&gt; æ ‡ç­¾">&lt;link&gt;</a></li>
+<li><a href="tag_main.html" title="HTML &lt;main&gt; æ ‡ç­¾">&lt;main&gt;</a></li>
+<li><a href="tag_map.html" title="HTML &lt;map&gt; æ ‡ç­¾">&lt;map&gt;</a></li>
+<li><a href="tag_mark.html" title="HTML &lt;mark&gt; æ ‡ç­¾">&lt;mark&gt;</a></li>
+<li><a href="tag_menu.html" title="HTML &lt;menu&gt; æ ‡ç­¾">&lt;menu&gt;</a></li>
+<li><a href="tag_menuitem.html" title="HTML &lt;menuitem&gt; æ ‡ç­¾">&lt;menuitem&gt;</a></li>
+<li><a href="tag_meta.html" title="HTML &lt;meta&gt; æ ‡ç­¾">&lt;meta&gt;</a></li>
+<li><a href="tag_meter.html" title="HTML &lt;meter&gt; æ ‡ç­¾">&lt;meter&gt;</a></li>
+<li><a href="tag_nav.html" title="HTML &lt;nav&gt; æ ‡ç­¾">&lt;nav&gt;</a></li>
+<li><a href="tag_noframes.html" title="HTML &lt;noframes&gt; æ ‡ç­¾">&lt;noframes&gt;</a></li>
+<li><a href="tag_noscript.html" title="HTML &lt;noscript&gt; æ ‡ç­¾">&lt;noscript&gt;</a></li>
+<li><a href="tag_object.html" title="HTML &lt;object&gt; æ ‡ç­¾">&lt;object&gt;</a></li>
+<li><a href="tag_ol.html" title="HTML &lt;ol&gt; æ ‡ç­¾">&lt;ol&gt;</a></li>
+<li><a href="tag_optgroup.html" title="HTML &lt;optgroup&gt; æ ‡ç­¾">&lt;optgroup&gt;</a></li>
+<li><a href="tag_option.html" title="HTML &lt;option&gt; æ ‡ç­¾">&lt;option&gt;</a></li>
+<li><a href="tag_output.html" title="HTML &lt;output&gt; æ ‡ç­¾">&lt;output&gt;</a></li>
+<li><a href="tag_p.html" title="HTML &lt;p&gt; æ ‡ç­¾">&lt;p&gt;</a></li>
+<li><a href="tag_param.html" title="HTML &lt;param&gt; æ ‡ç­¾">&lt;param&gt;</a></li>
+<li><a href="tag_pre.asp" title="HTML &lt;pre&gt; æ ‡ç­¾">&lt;pre&gt;</a></li>
+<li><a href="tag_progress.html" title="HTML &lt;progress&gt; æ ‡ç­¾">&lt;progress&gt;</a></li>
+<li><a href="tag_q.html" title="HTML &lt;q&gt; æ ‡ç­¾">&lt;q&gt;</a></li>
+<li><a href="tag_rp.html" title="HTML &lt;rp&gt; æ ‡ç­¾">&lt;rp&gt;</a></li>
+<li><a href="tag_rt.html" title="HTML &lt;rt&gt; æ ‡ç­¾">&lt;rt&gt;</a></li>
+<li><a href="tag_ruby.html" title="HTML &lt;ruby&gt; æ ‡ç­¾">&lt;ruby&gt;</a></li>
+<li><a href="tag_s.html" title="HTML &lt;s&gt; æ ‡ç­¾">&lt;s&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;samp&gt; æ ‡ç­¾">&lt;samp&gt;</a></li>
+<li><a href="tag_script.html" title="HTML &lt;script&gt; æ ‡ç­¾">&lt;script&gt;</a></li>
+<li><a href="tag_section.html" title="HTML &lt;section&gt; æ ‡ç­¾">&lt;section&gt;</a></li>
+<li><a href="tag_select.html" title="HTML &lt;select&gt; æ ‡ç­¾">&lt;select&gt;</a></li>
+<li><a href="tag_small.html" title="HTML &lt;small&gt; æ ‡ç­¾">&lt;small&gt;</a></li>
+<li><a href="tag_source.html" title="HTML &lt;source&gt; æ ‡ç­¾">&lt;source&gt;</a></li>
+<li><a href="tag_span.html" title="HTML &lt;span&gt; æ ‡ç­¾">&lt;span&gt;</a></li>
+<li><a href="tag_strike.html" title="HTML &lt;strike&gt; æ ‡ç­¾">&lt;strike&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;strong&gt; æ ‡ç­¾">&lt;strong&gt;</a></li>
+<li><a href="tag_style.html" title="HTML &lt;style&gt; æ ‡ç­¾">&lt;style&gt;</a></li>
+<li><a href="tag_sub.html" title="HTML &lt;sub&gt; æ ‡ç­¾">&lt;sub&gt;</a></li>
+<li><a href="tag_summary.asp" title="HTML &lt;summary&gt; æ ‡ç­¾">&lt;summary&gt;</a></li>
+<li><a href="tag_sup.html" title="HTML &lt;sup&gt; æ ‡ç­¾">&lt;sup&gt;</a></li>
+<li><a href="tag_table.html" title="HTML &lt;table&gt; æ ‡ç­¾">&lt;table&gt;</a></li>
+<li><a href="tag_tbody.html" title="HTML &lt;tbody&gt; æ ‡ç­¾">&lt;tbody&gt;</a></li>
+<li><a href="tag_td.html" title="HTML &lt;td&gt; æ ‡ç­¾">&lt;td&gt;</a></li>
+<li><a href="tag_textarea.html" title="HTML &lt;textarea&gt; æ ‡ç­¾">&lt;textarea&gt;</a></li>
+<li><a href="tag_tfoot.html" title="HTML &lt;tfoot&gt; æ ‡ç­¾">&lt;tfoot&gt;</a></li>
+<li><a href="tag_th.html" title="HTML &lt;th&gt; æ ‡ç­¾">&lt;th&gt;</a></li>
+<li><a href="tag_thead.html" title="HTML &lt;thead&gt; æ ‡ç­¾">&lt;thead&gt;</a></li>
+<li><a href="tag_time.html" title="HTML &lt;time&gt; æ ‡ç­¾">&lt;time&gt;</a></li>
+<li><a href="tag_title.html" title="HTML &lt;title&gt; æ ‡ç­¾">&lt;title&gt;</a></li>
+<li><a href="tag_tr.html" title="HTML &lt;tr&gt; æ ‡ç­¾">&lt;tr&gt;</a></li>
+<li><a href="tag_track.html" title="HTML &lt;track&gt; æ ‡ç­¾">&lt;track&gt;</a></li>
+<li><a href="tag_tt.html" title="HTML &lt;tt&gt; æ ‡ç­¾">&lt;tt&gt;</a></li>
+<li><a href="tag_u.html" title="HTML &lt;u&gt; æ ‡ç­¾">&lt;u&gt;</a></li>
+<li><a href="tag_ul.html" title="HTML &lt;ul&gt; æ ‡ç­¾">&lt;ul&gt;</a></li>
+<li><a href="tag_phrase_elements.html" title="HTML &lt;var&gt; æ ‡ç­¾">&lt;var&gt;</a></li>
+<li><a href="tag_video.html" title="HTML &lt;video&gt; æ ‡ç­¾">&lt;video&gt;</a></li>
+<li><a href="tag_wbr.html" title="HTML &lt;wbr&gt; æ ‡ç­¾">&lt;wbr&gt;</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ĞÅÏ¢">ä¯ÀÀÆ÷ĞÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æ„å»º">ç½‘ç«™æ„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äº W3School" id="link_about">å…³äº W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -210,22 +210,22 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>HTML &lt;a&gt; ±êÇ©</h1>
+<h1>HTML &lt;a&gt; æ ‡ç­¾</h1>
 
 
 <div>
-<h2>ÊµÀı</h2>
+<h2>å®ä¾‹</h2>
 
-<p>Ö¸Ïò w3school µÄ³¬Á´½Ó£º</p>
+<p>æŒ‡å‘ w3school çš„è¶…é“¾æ¥ï¼š</p>
 
 <pre>&lt;a href=&quot;http://www.w3school.com.cn&quot;&gt;W3School&lt;/a&gt;</pre>
 
-<p class="tiy"><a target="_blank" href="../tiy/t8e17.html?f=html_a">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p class="tiy"><a target="_blank" href="../tiy/t8e17.html?f=html_a">äº²è‡ªè¯•ä¸€è¯•</a></p>
 </div>
 
 
 <div>
-<h2>ä¯ÀÀÆ÷Ö§³Ö</h2>
+<h2>æµè§ˆå™¨æ”¯æŒ</h2>
 
 <table class="dataintable browsersupport">
   <tr>
@@ -244,125 +244,125 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   </tr>
 </table>
 
-<p>ËùÓĞä¯ÀÀÆ÷¶¼Ö§³Ö &lt;a&gt; ±êÇ©¡£</p>
+<p>æ‰€æœ‰æµè§ˆå™¨éƒ½æ”¯æŒ &lt;a&gt; æ ‡ç­¾ã€‚</p>
 </div>
 
 
 <div>
-<h2>¶¨ÒåºÍÓÃ·¨</h2>
+<h2>å®šä¹‰å’Œç”¨æ³•</h2>
 
-<p>&lt;a&gt; ±êÇ©¶¨Òå³¬Á´½Ó£¬ÓÃÓÚ´ÓÒ»ÕÅÒ³ÃæÁ´½Óµ½ÁíÒ»ÕÅÒ³Ãæ¡£</p>
+<p>&lt;a&gt; æ ‡ç­¾å®šä¹‰è¶…é“¾æ¥ï¼Œç”¨äºä»ä¸€å¼ é¡µé¢é“¾æ¥åˆ°å¦ä¸€å¼ é¡µé¢ã€‚</p>
 
-<p>&lt;a&gt; ÔªËØ×îÖØÒªµÄÊôĞÔÊÇ href ÊôĞÔ£¬ËüÖ¸Ê¾Á´½ÓµÄÄ¿±ê¡£</p>
+<p>&lt;a&gt; å…ƒç´ æœ€é‡è¦çš„å±æ€§æ˜¯ href å±æ€§ï¼Œå®ƒæŒ‡ç¤ºé“¾æ¥çš„ç›®æ ‡ã€‚</p>
 
-<p>ÔÚËùÓĞä¯ÀÀÆ÷ÖĞ£¬Á´½ÓµÄÄ¬ÈÏÍâ¹ÛÊÇ£º</p>
+<p>åœ¨æ‰€æœ‰æµè§ˆå™¨ä¸­ï¼Œé“¾æ¥çš„é»˜è®¤å¤–è§‚æ˜¯ï¼š</p>
 
 <ul>
-<li style="text-decoration: underline; color:#0000ff;">Î´±»·ÃÎÊµÄÁ´½Ó´øÓĞÏÂ»®Ïß¶øÇÒÊÇÀ¶É«µÄ</li>
-<li style="text-decoration: underline; color:purple;">ÒÑ±»·ÃÎÊµÄÁ´½Ó´øÓĞÏÂ»®Ïß¶øÇÒÊÇ×ÏÉ«µÄ</li>
-<li style="text-decoration: underline; color:red;">»î¶¯Á´½Ó´øÓĞÏÂ»®Ïß¶øÇÒÊÇºìÉ«µÄ</li>
+<li style="text-decoration: underline; color:#0000ff;">æœªè¢«è®¿é—®çš„é“¾æ¥å¸¦æœ‰ä¸‹åˆ’çº¿è€Œä¸”æ˜¯è“è‰²çš„</li>
+<li style="text-decoration: underline; color:purple;">å·²è¢«è®¿é—®çš„é“¾æ¥å¸¦æœ‰ä¸‹åˆ’çº¿è€Œä¸”æ˜¯ç´«è‰²çš„</li>
+<li style="text-decoration: underline; color:red;">æ´»åŠ¨é“¾æ¥å¸¦æœ‰ä¸‹åˆ’çº¿è€Œä¸”æ˜¯çº¢è‰²çš„</li>
 </ul>
 
-<p class="tip"><span>ÌáÊ¾£º</span>Äú¿ÉÄÜÒÑ¾­×¢Òâµ½ÁË£¬W3School Õ¾µãÄÚµÄÁ´½ÓÍâ¹ÛÓëÄ¬ÈÏµÄÁ´½ÓÍâ¹Û·Ç³£²»Í¬¡£Äú¿ÉÒÔÊ¹ÓÃ <a href="../css/css_pseudo_classes.html" title="CSS Î±Àà (Pseudo-classes)">CSS Î±Àà</a> ÏòÎÄ±¾³¬Á´½ÓÌí¼Ó¸´ÔÓ¶ø¶àÑùµÄÑùÊ½¡£</p>
+<p class="tip"><span>æç¤ºï¼š</span>æ‚¨å¯èƒ½å·²ç»æ³¨æ„åˆ°äº†ï¼ŒW3School ç«™ç‚¹å†…çš„é“¾æ¥å¤–è§‚ä¸é»˜è®¤çš„é“¾æ¥å¤–è§‚éå¸¸ä¸åŒã€‚æ‚¨å¯ä»¥ä½¿ç”¨ <a href="../css/css_pseudo_classes.html" title="CSS ä¼ªç±» (Pseudo-classes)">CSS ä¼ªç±»</a> å‘æ–‡æœ¬è¶…é“¾æ¥æ·»åŠ å¤æ‚è€Œå¤šæ ·çš„æ ·å¼ã€‚</p>
 </div>
 
 
 <div>
-<h2>ÊõÓï½âÊÍ</h2>
+<h2>æœ¯è¯­è§£é‡Š</h2>
 
-<p><a href="tag_term_hypertext.html">Ê²Ã´ÊÇ³¬ÎÄ±¾£¿</a></p>
+<p><a href="tag_term_hypertext.html">ä»€ä¹ˆæ˜¯è¶…æ–‡æœ¬ï¼Ÿ</a></p>
 </div>
 
 
 <div>
-<h2>ÌáÊ¾ºÍ×¢ÊÍ</h2>
+<h2>æç¤ºå’Œæ³¨é‡Š</h2>
 
-<p class="tip"><span>ÌáÊ¾£º</span>Èç¹û²»Ê¹ÓÃ href ÊôĞÔ£¬Ôò²»¿ÉÒÔÊ¹ÓÃÈçÏÂÊôĞÔ£ºdownload, hreflang, media, rel, target ÒÔ¼° type ÊôĞÔ¡£</p>
+<p class="tip"><span>æç¤ºï¼š</span>å¦‚æœä¸ä½¿ç”¨ href å±æ€§ï¼Œåˆ™ä¸å¯ä»¥ä½¿ç”¨å¦‚ä¸‹å±æ€§ï¼šdownload, hreflang, media, rel, target ä»¥åŠ type å±æ€§ã€‚</p>
 
-<p class="tip"><span>ÌáÊ¾£º</span>±»Á´½ÓÒ³ÃæÍ¨³£ÏÔÊ¾ÔÚµ±Ç°ä¯ÀÀÆ÷´°¿ÚÖĞ£¬³ı·ÇÄú¹æ¶¨ÁËÁíÒ»¸öÄ¿±ê£¨target ÊôĞÔ£©¡£</p>
+<p class="tip"><span>æç¤ºï¼š</span>è¢«é“¾æ¥é¡µé¢é€šå¸¸æ˜¾ç¤ºåœ¨å½“å‰æµè§ˆå™¨çª—å£ä¸­ï¼Œé™¤éæ‚¨è§„å®šäº†å¦ä¸€ä¸ªç›®æ ‡ï¼ˆtarget å±æ€§ï¼‰ã€‚</p>
 
-<p class="tip"><span>ÌáÊ¾£º</span>ÇëÊ¹ÓÃ CSS À´ÉèÖÃÁ´½ÓµÄÑùÊ½¡£</p>
+<p class="tip"><span>æç¤ºï¼š</span>è¯·ä½¿ç”¨ CSS æ¥è®¾ç½®é“¾æ¥çš„æ ·å¼ã€‚</p>
 </div>
 
 
 <div>
-<h2>HTML 4.01 Óë HTML5 Ö®¼äµÄ²îÒì</h2>
+<h2>HTML 4.01 ä¸ HTML5 ä¹‹é—´çš„å·®å¼‚</h2>
 
-<p>ÔÚ HTML 4.01 ÖĞ£¬&lt;a&gt; ±êÇ©¿ÉÒÔÊÇ³¬Á´½Ó»òÃª¡£ÔÚ HTML5 ÖĞ£¬&lt;a&gt; ±êÇ©Ê¼ÖÕÊÇ³¬Á´½Ó£¬µ«ÊÇÈç¹ûÎ´ÉèÖÃ href ÊôĞÔ£¬ÔòÖ»ÊÇ³¬Á´½ÓµÄÕ¼Î»·û¡£</p>
+<p>åœ¨ HTML 4.01 ä¸­ï¼Œ&lt;a&gt; æ ‡ç­¾å¯ä»¥æ˜¯è¶…é“¾æ¥æˆ–é”šã€‚åœ¨ HTML5 ä¸­ï¼Œ&lt;a&gt; æ ‡ç­¾å§‹ç»ˆæ˜¯è¶…é“¾æ¥ï¼Œä½†æ˜¯å¦‚æœæœªè®¾ç½® href å±æ€§ï¼Œåˆ™åªæ˜¯è¶…é“¾æ¥çš„å ä½ç¬¦ã€‚</p>
 
-<p>HTML5 Ìá¹©ÁËÒ»Ğ©ĞÂÊôĞÔ£¬Í¬Ê±²»ÔÙÖ§³ÖÒ»Ğ© HTML 4.01 ÊôĞÔ¡£</p>
+<p>HTML5 æä¾›äº†ä¸€äº›æ–°å±æ€§ï¼ŒåŒæ—¶ä¸å†æ”¯æŒä¸€äº› HTML 4.01 å±æ€§ã€‚</p>
 </div>
 
 
 
 <div>
-<h2>ÊôĞÔ</h2>
+<h2>å±æ€§</h2>
 
-<p class="note"><span style="color:blue;">New</span> : HTML5 ÖĞµÄĞÂÊôĞÔ¡£</p>
+<p class="note"><span style="color:blue;">New</span> : HTML5 ä¸­çš„æ–°å±æ€§ã€‚</p>
 
 <table class="dataintable">
 <tr>
-<th style="width:20%;">ÊôĞÔ</th>
-<th>Öµ</th>
-<th>ÃèÊö</th>
+<th style="width:20%;">å±æ€§</th>
+<th>å€¼</th>
+<th>æè¿°</th>
 </tr>
 
 <tr>
-<td><a href="att_a_charset.html" title="HTML &lt;a&gt; ±êÇ©µÄ charset ÊôĞÔ">charset</a></td>
+<td><a href="att_a_charset.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ charset å±æ€§">charset</a></td>
 <td><i>char_encoding</i></td>
-<td><span class="marked">HTML5 ÖĞ²»Ö§³Ö¡£</span>¹æ¶¨±»Á´½ÓÎÄµµµÄ×Ö·û¼¯¡£</td>
+<td><span class="marked">HTML5 ä¸­ä¸æ”¯æŒã€‚</span>è§„å®šè¢«é“¾æ¥æ–‡æ¡£çš„å­—ç¬¦é›†ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_coords.html" title="HTML &lt;a&gt; ±êÇ©µÄ coords ÊôĞÔ">coords</a></td>
+<td><a href="att_a_coords.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ coords å±æ€§">coords</a></td>
 <td><i>coordinates</i></td>
-<td><span class="marked">HTML5 ÖĞ²»Ö§³Ö¡£</span>¹æ¶¨Á´½ÓµÄ×ø±ê¡£</td>
+<td><span class="marked">HTML5 ä¸­ä¸æ”¯æŒã€‚</span>è§„å®šé“¾æ¥çš„åæ ‡ã€‚</td>
 </tr>
 
 <tr>
-<td class="html5_new"><a href="att_a_download.html" title="HTML5 &lt;a&gt; download ÊôĞÔ">download</a></td>
+<td class="html5_new"><a href="att_a_download.html" title="HTML5 &lt;a&gt; download å±æ€§">download</a></td>
 <td><i>filename</i></td>
-<td>¹æ¶¨±»ÏÂÔØµÄ³¬Á´½ÓÄ¿±ê¡£</td>
+<td>è§„å®šè¢«ä¸‹è½½çš„è¶…é“¾æ¥ç›®æ ‡ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_href.html" title="HTML &lt;a&gt; ±êÇ©µÄ href ÊôĞÔ">href</a></td>
+<td><a href="att_a_href.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ href å±æ€§">href</a></td>
 <td><i>URL</i></td>
-<td>¹æ¶¨Á´½ÓÖ¸ÏòµÄÒ³ÃæµÄ URL¡£</td>
+<td>è§„å®šé“¾æ¥æŒ‡å‘çš„é¡µé¢çš„ URLã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_hreflang.html" title="HTML &lt;a&gt; ±êÇ©µÄ hreflang ÊôĞÔ">hreflang</a></td>
+<td><a href="att_a_hreflang.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ hreflang å±æ€§">hreflang</a></td>
 <td><i>language_code</i></td>
-<td>¹æ¶¨±»Á´½ÓÎÄµµµÄÓïÑÔ¡£</td>
+<td>è§„å®šè¢«é“¾æ¥æ–‡æ¡£çš„è¯­è¨€ã€‚</td>
 </tr>
 
 <tr>
-<td class="html5_new"><a href="att_a_media.html" title="HTML5 &lt;a&gt; media ÊôĞÔ">media</a></td>
+<td class="html5_new"><a href="att_a_media.html" title="HTML5 &lt;a&gt; media å±æ€§">media</a></td>
 <td><i>media_query</i></td>
-<td>¹æ¶¨±»Á´½ÓÎÄµµÊÇÎªºÎÖÖÃ½½é/Éè±¸ÓÅ»¯µÄ¡£</td>
+<td>è§„å®šè¢«é“¾æ¥æ–‡æ¡£æ˜¯ä¸ºä½•ç§åª’ä»‹/è®¾å¤‡ä¼˜åŒ–çš„ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_name.html" title="HTML &lt;a&gt; ±êÇ©µÄ name ÊôĞÔ">name</a></td>
+<td><a href="att_a_name.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ name å±æ€§">name</a></td>
 <td><i>section_name</i></td>
-<td><span class="marked">HTML5 ÖĞ²»Ö§³Ö¡£</span>¹æ¶¨ÃªµÄÃû³Æ¡£</td>
+<td><span class="marked">HTML5 ä¸­ä¸æ”¯æŒã€‚</span>è§„å®šé”šçš„åç§°ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_rel.html" title="HTML &lt;a&gt; ±êÇ©µÄ rel ÊôĞÔ">rel</a></td>
+<td><a href="att_a_rel.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ rel å±æ€§">rel</a></td>
 <td><i>text</i></td>
-<td>¹æ¶¨µ±Ç°ÎÄµµÓë±»Á´½ÓÎÄµµÖ®¼äµÄ¹ØÏµ¡£</td>
+<td>è§„å®šå½“å‰æ–‡æ¡£ä¸è¢«é“¾æ¥æ–‡æ¡£ä¹‹é—´çš„å…³ç³»ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_rev.html" title="HTML &lt;a&gt; ±êÇ©µÄ rev ÊôĞÔ">rev</a></td>
+<td><a href="att_a_rev.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ rev å±æ€§">rev</a></td>
 <td><i>text</i></td>
-<td><span class="marked">HTML5 ÖĞ²»Ö§³Ö¡£</span>¹æ¶¨±»Á´½ÓÎÄµµÓëµ±Ç°ÎÄµµÖ®¼äµÄ¹ØÏµ¡£</td>
+<td><span class="marked">HTML5 ä¸­ä¸æ”¯æŒã€‚</span>è§„å®šè¢«é“¾æ¥æ–‡æ¡£ä¸å½“å‰æ–‡æ¡£ä¹‹é—´çš„å…³ç³»ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_shape.html" title="HTML &lt;a&gt; ±êÇ©µÄ shape ÊôĞÔ">shape</a></td>
+<td><a href="att_a_shape.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ shape å±æ€§">shape</a></td>
 <td>
 	<ul>
 	<li>default</li>
@@ -371,11 +371,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 	<li>poly</li>
 	</ul>
 </td>
-<td><span class="marked">HTML5 ÖĞ²»Ö§³Ö¡£</span>¹æ¶¨Á´½ÓµÄĞÎ×´¡£</td>
+<td><span class="marked">HTML5 ä¸­ä¸æ”¯æŒã€‚</span>è§„å®šé“¾æ¥çš„å½¢çŠ¶ã€‚</td>
 </tr>
 
 <tr>
-<td><a href="att_a_target.html" title="HTML &lt;a&gt; ±êÇ©µÄ target ÊôĞÔ">target</a></td>
+<td><a href="att_a_target.html" title="HTML &lt;a&gt; æ ‡ç­¾çš„ target å±æ€§">target</a></td>
 <td>
 	<ul>
 	<li>_blank</li>
@@ -385,60 +385,60 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 	<li><i>framename</i></li>
 	</ul>
 </td>
-<td>¹æ¶¨ÔÚºÎ´¦´ò¿ªÁ´½ÓÎÄµµ¡£</td>
+<td>è§„å®šåœ¨ä½•å¤„æ‰“å¼€é“¾æ¥æ–‡æ¡£ã€‚</td>
 </tr>
 
 <tr>
-<td class="html5_new"><a href="att_a_type.html" title="HTML5 &lt;a&gt; type ÊôĞÔ">type</a></td>
+<td class="html5_new"><a href="att_a_type.html" title="HTML5 &lt;a&gt; type å±æ€§">type</a></td>
 <td><i>MIME type</i></td>
-<td>¹æ¶¨±»Á´½ÓÎÄµµµÄµÄ MIME ÀàĞÍ¡£</td>
+<td>è§„å®šè¢«é“¾æ¥æ–‡æ¡£çš„çš„ MIME ç±»å‹ã€‚</td>
 </tr>
 </table>
 </div>
 
 
 <div>
-<h2>È«¾ÖÊôĞÔ</h2>
+<h2>å…¨å±€å±æ€§</h2>
 
-<p>&lt;a&gt; ±êÇ©Ö§³Ö <a href="html_ref_standardattributes.html">HTML ÖĞµÄÈ«¾ÖÊôĞÔ</a>¡£</p>
+<p>&lt;a&gt; æ ‡ç­¾æ”¯æŒ <a href="html_ref_standardattributes.html">HTML ä¸­çš„å…¨å±€å±æ€§</a>ã€‚</p>
 </div>
 
 
 <div>
-<h2>ÊÂ¼şÊôĞÔ</h2>
+<h2>äº‹ä»¶å±æ€§</h2>
 
-<p>&lt;a&gt; ±êÇ©Ö§³Ö <a href="html_ref_eventattributes.html">HTML ÖĞµÄÊÂ¼şÊôĞÔ</a>¡£</p>
+<p>&lt;a&gt; æ ‡ç­¾æ”¯æŒ <a href="html_ref_eventattributes.html">HTML ä¸­çš„äº‹ä»¶å±æ€§</a>ã€‚</p>
 </div>
 
 
 <div class="example">
-<h2>Ç××ÔÊÔÒ»ÊÔ - ÊµÀı</h2>
+<h2>äº²è‡ªè¯•ä¸€è¯• - å®ä¾‹</h2>
 
 <dl>
-<dt><a target="_blank" href="../tiy/t6030.html?f=html_links">´´½¨³¬¼¶Á´½Ó</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÔÚ HTML ÎÄµµÖĞ´´½¨Á´½Ó¡£</dd>
-<dt><a target="_blank" href="../tiy/t69bb.html?f=html_imglink">½«Í¼Ïñ×÷ÎªÁ´½Ó</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÊ¹ÓÃÍ¼Ïñ×÷ÎªÁ´½Ó¡£</dd>
-<dt><a target="_blank" href="../tiy/tfb8d.html?f=html_link_locations">Á´½Óµ½Í¬Ò»¸öÒ³ÃæµÄ²»Í¬Î»ÖÃ</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÊ¹ÓÃÁ´½ÓÌø×ªÖÁÎÄµµµÄÁíÒ»¸ö²¿·Ö</dd>
-<dt><a target="_blank" href="../tiy/t10bb.html?f=html_link_target">ÔÚĞÂµÄä¯ÀÀÆ÷´°¿Ú´ò¿ªÁ´½Ó</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÔÚĞÂ´°¿Ú´ò¿ªÒ»¸öÒ³Ãæ£¬ÕâÑùµÄ»°·ÃÎÊÕß¾ÍÎŞĞèÀë¿ªÄãµÄÕ¾µãÁË¡£</dd>
-<dt><a target="_blank" href="../tiy/t310a.asp?f=html_frame_getfree">Ìø³ö¿ò¼Ü</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÌø³ö¿ò¼Ü£¬¼ÙÈçÄãµÄÒ³Ãæ±»¹Ì¶¨ÔÚ¿ò¼ÜÖ®ÄÚ¡£</dd>
-<dt><a target="_blank" href="../tiy/t1c22.html?f=html_mailto">´´½¨µç×ÓÓÊ¼şÁ´½Ó</a></dt>
-<dd>±¾ÀıÑİÊ¾ÈçºÎÈçºÎÁ´½Óµ½Ò»¸öÓÊ¼ş¡££¨±¾ÀıÔÚ°²×°ÓÊ¼ş¿Í»§¶Ë³ÌĞòºó²ÅÄÜ¹¤×÷¡££©</dd>
-<dt><a target="_blank" href="../tiy/t5991.html?f=html_mailto2">´´½¨µç×ÓÓÊ¼şÁ´½Ó 2</a></dt>
-<dd>±¾ÀıÑİÊ¾¸ü¼Ó¸´ÔÓµÄÓÊ¼şÁ´½Ó¡£</dd>
+<dt><a target="_blank" href="../tiy/t6030.html?f=html_links">åˆ›å»ºè¶…çº§é“¾æ¥</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•åœ¨ HTML æ–‡æ¡£ä¸­åˆ›å»ºé“¾æ¥ã€‚</dd>
+<dt><a target="_blank" href="../tiy/t69bb.html?f=html_imglink">å°†å›¾åƒä½œä¸ºé“¾æ¥</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨å›¾åƒä½œä¸ºé“¾æ¥ã€‚</dd>
+<dt><a target="_blank" href="../tiy/tfb8d.html?f=html_link_locations">é“¾æ¥åˆ°åŒä¸€ä¸ªé¡µé¢çš„ä¸åŒä½ç½®</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨é“¾æ¥è·³è½¬è‡³æ–‡æ¡£çš„å¦ä¸€ä¸ªéƒ¨åˆ†</dd>
+<dt><a target="_blank" href="../tiy/t10bb.html?f=html_link_target">åœ¨æ–°çš„æµè§ˆå™¨çª—å£æ‰“å¼€é“¾æ¥</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•åœ¨æ–°çª—å£æ‰“å¼€ä¸€ä¸ªé¡µé¢ï¼Œè¿™æ ·çš„è¯è®¿é—®è€…å°±æ— éœ€ç¦»å¼€ä½ çš„ç«™ç‚¹äº†ã€‚</dd>
+<dt><a target="_blank" href="../tiy/t310a.asp?f=html_frame_getfree">è·³å‡ºæ¡†æ¶</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•è·³å‡ºæ¡†æ¶ï¼Œå‡å¦‚ä½ çš„é¡µé¢è¢«å›ºå®šåœ¨æ¡†æ¶ä¹‹å†…ã€‚</dd>
+<dt><a target="_blank" href="../tiy/t1c22.html?f=html_mailto">åˆ›å»ºç”µå­é‚®ä»¶é“¾æ¥</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•å¦‚ä½•é“¾æ¥åˆ°ä¸€ä¸ªé‚®ä»¶ã€‚ï¼ˆæœ¬ä¾‹åœ¨å®‰è£…é‚®ä»¶å®¢æˆ·ç«¯ç¨‹åºåæ‰èƒ½å·¥ä½œã€‚ï¼‰</dd>
+<dt><a target="_blank" href="../tiy/t5991.html?f=html_mailto2">åˆ›å»ºç”µå­é‚®ä»¶é“¾æ¥ 2</a></dt>
+<dd>æœ¬ä¾‹æ¼”ç¤ºæ›´åŠ å¤æ‚çš„é‚®ä»¶é“¾æ¥ã€‚</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>Ïà¹ØÒ³Ãæ</h2>
+<h2>ç›¸å…³é¡µé¢</h2>
 
-<p>HTML ½Ì³Ì£º<a href="../html/html_links.html" title="HTML Á´½Ó">HTML Á´½Ó</a></p>
+<p>HTML æ•™ç¨‹ï¼š<a href="../html/html_links.html" title="HTML é“¾æ¥">HTML é“¾æ¥</a></p>
 
-<p>HTML DOM ²Î¿¼ÊÖ²á£º<a href="../jsref/dom_obj_anchor.html" title="HTML DOM Anchor ¶ÔÏó">Anchor ¶ÔÏó</a></p>
+<p>HTML DOM å‚è€ƒæ‰‹å†Œï¼š<a href="../jsref/dom_obj_anchor.html" title="HTML DOM Anchor å¯¹è±¡">Anchor å¯¹è±¡</a></p>
 </div>
 
 
@@ -453,16 +453,16 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈİ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="index.html">HTML ²Î¿¼ÊÖ²á</a></h5>
-<h5 id="tools_example"><a href="../example/html_examples.html">HTML ÊµÀı</a></h5>
-<h5 id="tools_quiz"><a href="../html/html_quiz.html">HTML ²âÑé</a></h5>
+<h5 id="tools_reference"><a href="index.html">HTML å‚è€ƒæ‰‹å†Œ</a></h5>
+<h5 id="tools_example"><a href="../example/html_examples.html">HTML å®ä¾‹</a></h5>
+<h5 id="tools_quiz"><a href="../html/html_quiz.html">HTML æµ‹éªŒ</a></h5>
 </div>
 
 <div id="ad">
@@ -483,13 +483,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈİ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈİµÄÕıÈ·ĞÔ¡£Í¨¹ıÊ¹ÓÃ±¾Õ¾ÄÚÈİËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎŞ¹Ø¡£W3School ¼òÌåÖĞÎÄ°æµÄËùÓĞÄÚÈİ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ğµ£ÈÎºÎÔğÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£é™©ä¸æœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£é™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒşË½">ÒşË½Ìõ¿î</a>¡£°æÈ¨ËùÓĞ£¬±£ÁôÒ»ÇĞÈ¨Àû¡£
-ÔŞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓĞÏŞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

@@ -14,7 +14,7 @@ $(document).ready(function(){
 </head>
 <body>
 <p>This is a paragraph.</p>
-<button>ÉèÖÃĞÂµÄÆ«ÒÆ</button>
+<button>è®¾ç½®æ–°çš„åç§»</button>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_css_offset_set by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

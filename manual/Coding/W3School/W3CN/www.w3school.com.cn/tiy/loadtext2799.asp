@@ -11,7 +11,7 @@
   <input type="submit">
 </form>
 
-<p><b>×¢ÊÍ£º</b>Internet Explorer 9 ÒÔ¼°¸üÔçµÄ°æ±¾²»Ö§³Ö input ±êÇ©µÄ autofocus ÊôĞÔ¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>Internet Explorer 9 ä»¥åŠæ›´æ—©çš„ç‰ˆæœ¬ä¸æ”¯æŒ input æ ‡ç­¾çš„ autofocus å±æ€§ã€‚</p>
 
 </body>
 

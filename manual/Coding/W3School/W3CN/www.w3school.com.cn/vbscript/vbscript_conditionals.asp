@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/vbscript/vbscript_conditionals.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:19:12 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>VBScript �������</title>
+<title>VBScript 条件语句</title>
 </head>
 
 <body class="serverscripting">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,53 +42,53 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>VBScript �̳�</h2>
+<div id="course"><h2>VBScript 教程</h2>
 <ul>
-<li><a href="index.html" title="VBScript �̳�">VB �̳�</a></li>
-<li><a href="vbscript_intro.asp" title="VBScript ���">VB ���</a></li>
+<li><a href="index.html" title="VBScript 教程">VB 教程</a></li>
+<li><a href="vbscript_intro.asp" title="VBScript 简介">VB 简介</a></li>
 <li><a href="vbscript_howto.html" title="VBScript How to">VB How to</a></li>
 <li><a href="vbscript_whereto.asp" title="VBScript Where to">VB Where to</a></li>
-<li><a href="vbscript_variables.asp" title="VBScript ����">VB ����</a></li>
-<li><a href="vbscript_procedures.html" title="VBScript ����">VB ����</a></li>
-<li class="currentLink"><a href="vbscript_conditionals.asp" title="VBScript �������">VB �������</a></li>
-<li><a href="vbscript_looping.html" title="VBScript ѭ�����">VB ѭ�����</a></li>
-<li><a href="vbscript_summary.html" title="���Ѿ�ѧϰ�� VBScript����һ���أ�">VB �̳��ܽ�</a></li>
+<li><a href="vbscript_variables.asp" title="VBScript 变量">VB 变量</a></li>
+<li><a href="vbscript_procedures.html" title="VBScript 程序">VB 程序</a></li>
+<li class="currentLink"><a href="vbscript_conditionals.asp" title="VBScript 条件语句">VB 条件语句</a></li>
+<li><a href="vbscript_looping.html" title="VBScript 循环语句">VB 循环语句</a></li>
+<li><a href="vbscript_summary.html" title="您已经学习了 VBScript，下一步呢？">VB 教程总结</a></li>
 </ul>
-<h2>VBScript ʵ��</h2>
+<h2>VBScript 实例</h2>
 <ul>
-<li><a href="../example/vbst_examples.html" title="VBScript ʵ��">VB ʵ��</a></li>
+<li><a href="../example/vbst_examples.html" title="VBScript 实例">VB 实例</a></li>
 </ul>
-<h2>VBScript �ο��ֲ�</h2>
+<h2>VBScript 参考手册</h2>
 <ul>
-<li><a href="vbscript_ref_functions.html" title="VBScript ����">VB ����</a></li>
-<li><a href="vbscript_ref_keywords.html" title="VBScript �ؼ���">VB �ؼ���</a></li>
+<li><a href="vbscript_ref_functions.html" title="VBScript 函数">VB 函数</a></li>
+<li><a href="vbscript_ref_keywords.html" title="VBScript 关键字">VB 关键字</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="../careers/index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="../careers/index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
@@ -96,48 +96,48 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>VBScript �������</h1>
+<h1>VBScript 条件语句</h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="vbscript_procedures.html" title="VBScript ����">VB ����</a></li>
-<li class="next"><a href="vbscript_looping.html" title="VBScript ѭ�����">VB ѭ�����</a></li>
+<li class="pre"><a href="vbscript_procedures.html" title="VBScript 程序">VB 程序</a></li>
+<li class="next"><a href="vbscript_looping.html" title="VBScript 循环语句">VB 循环语句</a></li>
 </ul>
 </div>
 
 
 <div id="example">
-<h2>ʵ��</h2>
+<h2>实例</h2>
 <dl>
-<dt><a href="../tiy/t022f.html?f=vbst_ifthen">If...then..else ���</a></dt>
-<dd>������ʾ��α�д if...then..else ��䡣</dd>
+<dt><a href="../tiy/t022f.html?f=vbst_ifthen">If...then..else 语句</a></dt>
+<dd>本例演示如何编写 if...then..else 语句。</dd>
 
-<dt><a href="../tiy/t92ba.html?f=vbst_elseif">If...then..elseif ���</a></dt>
-<dd>������ʾ��α�д if...then...elseif... ��䡣</dd>
+<dt><a href="../tiy/t92ba.html?f=vbst_elseif">If...then..elseif 语句</a></dt>
+<dd>本例演示如何编写 if...then...elseif... 语句。</dd>
 
-<dt><a href="../tiy/tad94.html?f=vbst_selectcase">Select case ���</a></dt>
-<dd>������ʾ��α�д select case ��䡣</dd>
+<dt><a href="../tiy/tad94.html?f=vbst_selectcase">Select case 语句</a></dt>
+<dd>本例演示如何编写 select case 语句。</dd>
 </dl>
 </div>
 
 
 <div>
-<h2>�������</h2>
-<p>�����أ������Ǳ�д����ʱ��������Ҫ���ݲ�ͬ���ж�ִ�в�ͬ���������ǿ���ʹ���������������������</p>
+<h2>条件语句</h2>
+<p>经常地，当我们编写代码时，我们需要根据不同的判断执行不同操作。我们可以使用条件语句完成这个工作。</p>
 
-<h3>�� VBScript ���ǿ���ʹ������������䣺</h3>
+<h3>在 VBScript 我们可以使用三种条件语句：</h3>
 <dl class="define">
-<dt>if ���</dt>
-<dd>������ϣ��������Ϊ true ʱִ��һϵ�еĴ��룬����ʹ�������䡣</dd>
+<dt>if 语句</dt>
+<dd>假如你希望在条件为 true 时执行一系列的代码，可以使用这个语句。</dd>
 
-<dt>if...then...else ���</dt>
-<dd>������ϣ��ִ�����״�������֮һ������ʹ�������䡣</dd>
+<dt>if...then...else 语句</dt>
+<dd>假如你希望执行两套代码其中之一，可以使用这个语句。</dd>
 
-<dt>if...then...elseif ���</dt>
-<dd>������ϣ��ѡ����״���֮һ��ִ�У�����ʹ�������䡣</dd>
+<dt>if...then...elseif 语句</dt>
+<dd>假如你希望选择多套代码之一来执行，可以使用这个语句。</dd>
 
-<dt>select case ���</dt>
-<dd>������ϣ��ѡ����״���֮һ��ִ�У�����ʹ�������䡣</dd>
+<dt>select case 语句</dt>
+<dd>假如你希望选择多套代码之一来执行，可以使用这个语句。</dd>
 </dl>
 </div>
 
@@ -145,18 +145,18 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <div>
 <h2>If....Then.....Else</h2>
 
-<p>�����������У�������ʹ�� If...Then...Else ��䣺</p>
+<p>在下面的情况中，您可以使用 If...Then...Else 语句：</p>
 <ul>
-<li>������Ϊ true ʱ��ִ��ĳ�δ���</li>
-<li>ѡ�����δ���֮һ��ִ��ʱ</li>
+<li>在条件为 true 时，执行某段代码</li>
+<li>选择两段代码之一来执行时</li>
 </ul>
 
-<p>�����Ҫ������Ϊ true ʱִֻ��һ����䣬���԰Ѵ���дΪһ�У�</p>
+<p>如果需要在条件为 true 时只执行一行语句，可以把代码写为一行：</p>
 <pre><code>if</code> i=10 <code>Then</code> msgbox &quot;Hello&quot;</pre>
 
-<p>������Ĵ����У�û�� .else.. ��䡣���ǽ����ô���������Ϊ true ʱִ��һ��������� i Ϊ 10 ʱ����</p>
+<p>在上面的代码中，没有 .else.. 语句。我们仅仅让代码在条件为 true 时执行一项操作（当 i 为 10 时）。</p>
 
-<p>����������Ҫ������Ϊ true ʱִ�в�ֹһ����䣬��ô�ͱ�����һ��дһ����䣬Ȼ��ʹ�ùؼ��� &quot;End If&quot; �����������䣺</p>
+<p>假如我们需要在条件为 true 时执行不止一条语句，那么就必须在一行写一条语句，然后使用关键词 &quot;End If&quot; 来结束这个语句：</p>
 <pre>
 if i=10 Then
    msgbox &quot;Hello&quot;
@@ -164,22 +164,22 @@ if i=10 Then
 <code>end If</code>
 </pre>
 
-<p>������Ĵ����У�ͬ��û�� .else.. ��䡣���ǽ����ô���������Ϊ true ʱִ���˶��������</p>
+<p>在上面的代码中，同样没有 .else.. 语句。我们仅仅让代码在条件为 true 时执行了多项操作。</p>
 
-<p>��������ϣ��������Ϊ true ʱִ��ĳ����䣬����������Ϊ true ʱִ����һ����䣬�ͱ������ӹؼ��� &quot;Else&quot;��</p>
+<p>假如我们希望在条件为 true 时执行某条语句，并当条件不为 true 时执行另一条语句，就必须添加关键词 &quot;Else&quot;：</p>
 <pre>if i=10 then
    msgbox &quot;Hello&quot;
 <code>else</code>
    msgbox &quot;Goodbye&quot;
 end If</pre>
 
-<p>������Ϊ true ʱ��ִ�е�һ�δ��룬������������ʱִ�еڶ��δ��루�� i ������ 10 ʱ����</p>
+<p>当条件为 true 时会执行第一段代码，当条件不成立时执行第二段代码（当 i 不等于 10 时）。</p>
 </div>
 
 
 <div>
 <h2>If....Then.....Elseif</h2>
-<p>������ϣ��ѡ����״���֮һ��ִ�У�����ʹ��if...then...elseif��䣺</p>
+<p>假如你希望选择多套代码之一来执行，可以使用if...then...elseif语句：</p>
 <pre>if payment=&quot;Cash&quot; then
    msgbox &quot;You are going to pay cash!&quot;
  elseif payment=&quot;Visa&quot; then
@@ -194,7 +194,7 @@ end If</pre>
 
 <div>
 <h2>Select Case</h2>
-<p>������ϣ��ѡ����״���֮һ��ִ�У�����ʹ�� SELECT ��䣺</p>
+<p>假如你希望选择多套代码之一来执行，可以使用 SELECT 语句：</p>
 <pre>select case payment
  case &quot;Cash&quot;
    msgbox &quot;You are going to pay cash&quot;
@@ -205,14 +205,14 @@ end If</pre>
  case Else
    msgbox &quot;Unknown method of payment&quot;
 end select</pre>
-<p>���ϴ���Ĺ���ԭ�������ȣ�������Ҫһ���򵥵ı���ʽ��������һ���������������������ʽ�ᱻ��һ����ֵ���㡣Ȼ�󣬱���ʽ��ֵ����ÿ�� case �е�ֵ���Ƚϣ����ƥ�䣬��ƥ��� case ����Ӧ�Ĵ���ᱻִ�С�</p>
+<p>以上代码的工作原理：首先，我们需要一个简单的表达式（常常是一个变量），并且这个表达式会被做一次求值运算。然后，表达式的值会与每个 case 中的值作比较，如果匹配，被匹配的 case 所对应的代码会被执行。</p>
 </div>
 
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="vbscript_procedures.html" title="VBScript ����">VB ����</a></li>
-<li class="next"><a href="vbscript_looping.html" title="VBScript ѭ�����">VB ѭ�����</a></li>
+<li class="pre"><a href="vbscript_procedures.html" title="VBScript 程序">VB 程序</a></li>
+<li class="next"><a href="vbscript_looping.html" title="VBScript 循环语句">VB 循环语句</a></li>
 </ul>
 </div>
 
@@ -225,15 +225,15 @@ end select</pre>
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="vbscript_ref_functions.html">VBScript �ο��ֲ�</a></h5>
-<h5 id="tools_example"><a href="../example/vbst_examples.html">VBScript ʵ��</a></h5>
+<h5 id="tools_reference"><a href="vbscript_ref_functions.html">VBScript 参考手册</a></h5>
+<h5 id="tools_example"><a href="../example/vbst_examples.html">VBScript 实例</a></h5>
 </div>
 
 <div id="ad">
@@ -254,13 +254,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

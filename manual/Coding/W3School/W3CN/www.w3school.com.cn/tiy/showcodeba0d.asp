@@ -16,9 +16,9 @@
 <code class="jscode">&lt;script  runat=&quot;server&quot;&gt;
 sub submit(sender As Object, e As EventArgs)
 if Page.IsValid then
-   lbl.Text=&quot;Ò³ÃæÓĞĞ§£¡&quot;
+   lbl.Text=&quot;é¡µé¢æœ‰æ•ˆï¼&quot;
 else
-   lbl.Text=&quot;Ò³ÃæÎŞĞ§£¡&quot;
+   lbl.Text=&quot;é¡µé¢æ— æ•ˆï¼&quot;
 end if
 end sub
 &lt;/script&gt;</code>
@@ -27,10 +27,10 @@ end sub
 &lt;body&gt;
 
 &lt;form runat=&quot;server&quot;&gt;
-ÇëÊäÈë US ÓÊÕş±àÂë£º
+è¯·è¾“å…¥ US é‚®æ”¿ç¼–ç ï¼š
 &lt;asp:TextBox id=&quot;txtbox1&quot; runat=&quot;server&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;asp:Button text=&quot;Ìá½»&quot; OnClick=&quot;submit&quot; runat=&quot;server&quot; /&gt;
+&lt;asp:Button text=&quot;æäº¤&quot; OnClick=&quot;submit&quot; runat=&quot;server&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;asp:Label id=&quot;lbl&quot; runat=&quot;server&quot; /&gt;
 &lt;br /&gt;
@@ -38,7 +38,7 @@ end sub
 ControlToValidate=&quot;txtbox1&quot;
 ValidationExpression=&quot;\d{5}&quot;
 EnableClientScript=&quot;false&quot;
-ErrorMessage=&quot;ÓÊ±à±ØĞëÊÇÎåÎ»Êı×Ö£¡&quot;
+ErrorMessage=&quot;é‚®ç¼–å¿…é¡»æ˜¯äº”ä½æ•°å­—ï¼&quot;
 runat=&quot;server&quot; /&gt;
 &lt;/form&gt;
 

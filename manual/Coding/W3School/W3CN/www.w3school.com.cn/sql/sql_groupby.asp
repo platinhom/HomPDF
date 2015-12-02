@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/sql/sql_groupby.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:18:36 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>SQL GROUP BY Óï¾ä</title>
+<title>SQL GROUP BY è¯­å¥</title>
 </head>
 
 <body class="serverscripting">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäºŽ 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,110 +42,110 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>SQL »ù´¡½Ì³Ì</h2>
+<div id="course"><h2>SQL åŸºç¡€æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="SQL ½Ì³Ì">SQL ½Ì³Ì</a></li>
-<li><a href="sql_intro.html" title="SQL ¼ò½é">SQL ¼ò½é</a></li>
-<li><a href="sql_syntax.html" title="SQL Óï·¨">SQL Óï·¨</a></li>
-<li><a href="sql_select.html" title="SQL SELECT Óï¾ä">SQL select</a></li>
-<li><a href="sql_distinct.html" title="SQL SELECT DISTINCT Óï¾ä">SQL distinct</a></li>
-<li><a href="sql_where.html" title="SQL WHERE ×Ó¾ä">SQL where</a></li>
+<li><a href="index.html" title="SQL æ•™ç¨‹">SQL æ•™ç¨‹</a></li>
+<li><a href="sql_intro.html" title="SQL ç®€ä»‹">SQL ç®€ä»‹</a></li>
+<li><a href="sql_syntax.html" title="SQL è¯­æ³•">SQL è¯­æ³•</a></li>
+<li><a href="sql_select.html" title="SQL SELECT è¯­å¥">SQL select</a></li>
+<li><a href="sql_distinct.html" title="SQL SELECT DISTINCT è¯­å¥">SQL distinct</a></li>
+<li><a href="sql_where.html" title="SQL WHERE å­å¥">SQL where</a></li>
 <li><a href="sql_and_or.asp" title="SQL AND &amp; OR">SQL AND &amp; OR</a></li>
-<li><a href="sql_orderby.html" title="SQL ORDER BY Óï¾ä">SQL Order By</a></li>
-<li><a href="sql_insert.html" title="SQL INSERT INTO Óï¾ä">SQL insert</a></li>
-<li><a href="sql_update.html" title="SQL UPDATE Óï¾ä">SQL update</a></li>
-<li><a href="sql_delete.html" title="SQL DELETE Óï¾ä">SQL delete</a></li>
+<li><a href="sql_orderby.html" title="SQL ORDER BY è¯­å¥">SQL Order By</a></li>
+<li><a href="sql_insert.html" title="SQL INSERT INTO è¯­å¥">SQL insert</a></li>
+<li><a href="sql_update.html" title="SQL UPDATE è¯­å¥">SQL update</a></li>
+<li><a href="sql_delete.html" title="SQL DELETE è¯­å¥">SQL delete</a></li>
 </ul>
-<h2>SQL ¸ß¼¶½Ì³Ì</h2>
+<h2>SQL é«˜çº§æ•™ç¨‹</h2>
 <ul>
-<li><a href="sql_top.html" title="SQL TOP ×Ó¾ä">SQL Top</a></li>
-<li><a href="sql_like.html" title="SQL LIKE ÔËËã·û">SQL Like</a></li>
-<li><a href="sql_wildcards.html" title="SQL Í¨Åä·û">SQL Í¨Åä·û</a></li>
+<li><a href="sql_top.html" title="SQL TOP å­å¥">SQL Top</a></li>
+<li><a href="sql_like.html" title="SQL LIKE è¿ç®—ç¬¦">SQL Like</a></li>
+<li><a href="sql_wildcards.html" title="SQL é€šé…ç¬¦">SQL é€šé…ç¬¦</a></li>
 <li><a href="sql_in.html" title="SQL IN">SQL In</a></li>
 <li><a href="sql_between.html" title="SQL BETWEEN">SQL Between</a></li>
-<li><a href="sql_alias.html" title="SQL Alias£¨±ðÃû£©">SQL Aliases</a></li>
+<li><a href="sql_alias.html" title="SQL Aliasï¼ˆåˆ«åï¼‰">SQL Aliases</a></li>
 <li><a href="sql_join.html" title="SQL JOIN">SQL Join</a></li>
-<li><a href="sql_join_inner.html" title="SQL INNER JOIN ¹Ø¼ü×Ö">SQL Inner Join</a></li>
-<li><a href="sql_join_left.html" title="SQL LEFT JOIN ¹Ø¼ü×Ö">SQL Left Join</a></li>
-<li><a href="sql_join_right.html" title="SQL RIGHT JOIN ¹Ø¼ü×Ö">SQL Right Join</a></li>
-<li><a href="sql_join_full.html" title="SQL FULL JOIN ¹Ø¼ü×Ö">SQL Full Join</a></li>
-<li><a href="sql_union.html" title="SQL UNION ºÍ UNION ALL">SQL Union</a></li>
-<li><a href="sql_select_into.html" title="SQL SELECT INTO Óï¾ä">SQL Select Into</a></li>
-<li><a href="sql_create_db.html" title="SQL CREATE DATABASE Óï¾ä">SQL Create DB</a></li>
-<li><a href="sql_create_table.html" title="SQL CREATE TABLE Óï¾ä">SQL Create Table</a></li>
-<li><a href="sql_constraints.html" title="SQL Ô¼Êø">SQL Constraints</a></li>
-<li><a href="sql_notnull.html" title="SQL NOT NULL Ô¼Êø">SQL Not Null</a></li>
-<li><a href="sql_unique.html" title="SQL UNIQUE Ô¼Êø">SQL Unique</a></li>
-<li><a href="sql_primarykey.html" title="SQL PRIMARY KEY Ô¼Êø">SQL Primary Key</a></li>
-<li><a href="sql_foreignkey.asp" title="SQL FOREIGN KEY Ô¼Êø">SQL Foreign Key</a></li>
-<li><a href="sql_check.html" title="SQL CHECK Ô¼Êø">SQL Check</a></li>
-<li><a href="sql_default.html" title="SQL DEFAULT Ô¼Êø">SQL Default</a></li>
-<li><a href="sql_create_index.html" title="SQL CREATE INDEX Óï¾ä">SQL Create Index</a></li>
-<li><a href="sql_drop.html" title="SQL ³·ÏúË÷Òý¡¢±íÒÔ¼°Êý¾Ý¿â">SQL Drop</a></li>
+<li><a href="sql_join_inner.html" title="SQL INNER JOIN å…³é”®å­—">SQL Inner Join</a></li>
+<li><a href="sql_join_left.html" title="SQL LEFT JOIN å…³é”®å­—">SQL Left Join</a></li>
+<li><a href="sql_join_right.html" title="SQL RIGHT JOIN å…³é”®å­—">SQL Right Join</a></li>
+<li><a href="sql_join_full.html" title="SQL FULL JOIN å…³é”®å­—">SQL Full Join</a></li>
+<li><a href="sql_union.html" title="SQL UNION å’Œ UNION ALL">SQL Union</a></li>
+<li><a href="sql_select_into.html" title="SQL SELECT INTO è¯­å¥">SQL Select Into</a></li>
+<li><a href="sql_create_db.html" title="SQL CREATE DATABASE è¯­å¥">SQL Create DB</a></li>
+<li><a href="sql_create_table.html" title="SQL CREATE TABLE è¯­å¥">SQL Create Table</a></li>
+<li><a href="sql_constraints.html" title="SQL çº¦æŸ">SQL Constraints</a></li>
+<li><a href="sql_notnull.html" title="SQL NOT NULL çº¦æŸ">SQL Not Null</a></li>
+<li><a href="sql_unique.html" title="SQL UNIQUE çº¦æŸ">SQL Unique</a></li>
+<li><a href="sql_primarykey.html" title="SQL PRIMARY KEY çº¦æŸ">SQL Primary Key</a></li>
+<li><a href="sql_foreignkey.asp" title="SQL FOREIGN KEY çº¦æŸ">SQL Foreign Key</a></li>
+<li><a href="sql_check.html" title="SQL CHECK çº¦æŸ">SQL Check</a></li>
+<li><a href="sql_default.html" title="SQL DEFAULT çº¦æŸ">SQL Default</a></li>
+<li><a href="sql_create_index.html" title="SQL CREATE INDEX è¯­å¥">SQL Create Index</a></li>
+<li><a href="sql_drop.html" title="SQL æ’¤é”€ç´¢å¼•ã€è¡¨ä»¥åŠæ•°æ®åº“">SQL Drop</a></li>
 <li><a href="sql_alter.asp" title="SQL ALTER TABLE">SQL Alter</a></li>
-<li><a href="sql_autoincrement.html" title="SQL AUTO INCREMENT ×Ö¶Î">SQL Increment</a></li>
-<li><a href="sql_view.html" title="SQL VIEW£¨ÊÓÍ¼£©">SQL View</a></li>
-<li><a href="sql_dates.html" title="SQL Date º¯Êý">SQL Date</a></li>
-<li><a href="sql_null_values.html" title="SQL NULL Öµ">SQL Nulls</a></li>
-<li><a href="sql_isnull.html" title="SQL NULL º¯Êý">SQL isnull()</a></li>
-<li><a href="sql_datatypes.html" title="SQL Êý¾ÝÀàÐÍ">SQL Êý¾ÝÀàÐÍ</a></li>
-<li><a href="sql_server.html" title="SQL ·þÎñÆ÷ - RDBMS">SQL ·þÎñÆ÷</a></li>
+<li><a href="sql_autoincrement.html" title="SQL AUTO INCREMENT å­—æ®µ">SQL Increment</a></li>
+<li><a href="sql_view.html" title="SQL VIEWï¼ˆè§†å›¾ï¼‰">SQL View</a></li>
+<li><a href="sql_dates.html" title="SQL Date å‡½æ•°">SQL Date</a></li>
+<li><a href="sql_null_values.html" title="SQL NULL å€¼">SQL Nulls</a></li>
+<li><a href="sql_isnull.html" title="SQL NULL å‡½æ•°">SQL isnull()</a></li>
+<li><a href="sql_datatypes.html" title="SQL æ•°æ®ç±»åž‹">SQL æ•°æ®ç±»åž‹</a></li>
+<li><a href="sql_server.html" title="SQL æœåŠ¡å™¨ - RDBMS">SQL æœåŠ¡å™¨</a></li>
 </ul>
-<h2>SQL º¯Êý</h2>
+<h2>SQL å‡½æ•°</h2>
 <ul>
-<li><a href="sql_functions.html" title="SQL º¯Êý">SQL functions</a></li>
-<li><a href="sql_func_avg.html" title="SQL AVG() º¯Êý">SQL avg()</a></li>
-<li><a href="sql_func_count.html" title="SQL COUNT() º¯Êý">SQL count()</a></li>
-<li><a href="sql_func_first.asp" title="SQL FIRST() º¯Êý">SQL first()</a></li>
-<li><a href="sql_func_last.html" title="SQL LAST() º¯Êý">SQL last()</a></li>
-<li><a href="sql_func_max.html" title="SQL MAX() º¯Êý">SQL max()</a></li>
-<li><a href="sql_func_min.html" title="SQL MIN() º¯Êý">SQL min()</a></li>
-<li><a href="sql_func_sum.html" title="SQL SUM() º¯Êý">SQL sum()</a></li>
-<li class="currentLink"><a href="sql_groupby.asp" title="SQL GROUP BY Óï¾ä">SQL Group By</a></li>
-<li><a href="sql_having.html" title="SQL HAVING ×Ó¾ä">SQL Having</a></li>
-<li><a href="sql_func_ucase.html" title="SQL UCASE() º¯Êý">SQL ucase()</a></li>
-<li><a href="sql_func_lcase.html" title="SQL LCASE() º¯Êý">SQL lcase()</a></li>
-<li><a href="sql_func_mid.html" title="SQL MID() º¯Êý">SQL mid()</a></li>
-<li><a href="sql_func_len.html" title="SQL LEN() º¯Êý">SQL len()</a></li>
-<li><a href="sql_func_round.html" title="SQL ROUND() º¯Êý">SQL round()</a></li>
-<li><a href="sql_func_now.html" title="SQL NOW() º¯Êý">SQL now()</a></li>
-<li><a href="sql_func_format.html" title="SQL FORMAT() º¯Êý">SQL format()</a></li>
+<li><a href="sql_functions.html" title="SQL å‡½æ•°">SQL functions</a></li>
+<li><a href="sql_func_avg.html" title="SQL AVG() å‡½æ•°">SQL avg()</a></li>
+<li><a href="sql_func_count.html" title="SQL COUNT() å‡½æ•°">SQL count()</a></li>
+<li><a href="sql_func_first.asp" title="SQL FIRST() å‡½æ•°">SQL first()</a></li>
+<li><a href="sql_func_last.html" title="SQL LAST() å‡½æ•°">SQL last()</a></li>
+<li><a href="sql_func_max.html" title="SQL MAX() å‡½æ•°">SQL max()</a></li>
+<li><a href="sql_func_min.html" title="SQL MIN() å‡½æ•°">SQL min()</a></li>
+<li><a href="sql_func_sum.html" title="SQL SUM() å‡½æ•°">SQL sum()</a></li>
+<li class="currentLink"><a href="sql_groupby.asp" title="SQL GROUP BY è¯­å¥">SQL Group By</a></li>
+<li><a href="sql_having.html" title="SQL HAVING å­å¥">SQL Having</a></li>
+<li><a href="sql_func_ucase.html" title="SQL UCASE() å‡½æ•°">SQL ucase()</a></li>
+<li><a href="sql_func_lcase.html" title="SQL LCASE() å‡½æ•°">SQL lcase()</a></li>
+<li><a href="sql_func_mid.html" title="SQL MID() å‡½æ•°">SQL mid()</a></li>
+<li><a href="sql_func_len.html" title="SQL LEN() å‡½æ•°">SQL len()</a></li>
+<li><a href="sql_func_round.html" title="SQL ROUND() å‡½æ•°">SQL round()</a></li>
+<li><a href="sql_func_now.html" title="SQL NOW() å‡½æ•°">SQL now()</a></li>
+<li><a href="sql_func_format.html" title="SQL FORMAT() å‡½æ•°">SQL format()</a></li>
 </ul>
-<h2>SQL ×Ü½á</h2>
+<h2>SQL æ€»ç»“</h2>
 <ul>
-<li><a href="sql_quickref.html" title="SQL ¿ìËÙ²Î¿¼">SQL ¿ìËÙ²Î¿¼</a></li>
-<li><a href="sql_summary.html" title="ÎÒÃÇÒÑ¾­Ñ§Ï°ÁË SQL£¬ÏÂÒ»²½Ñ§Ï°Ê²Ã´ÄØ£¿">SQL ½Ì³Ì×Ü½á</a></li>
+<li><a href="sql_quickref.html" title="SQL å¿«é€Ÿå‚è€ƒ">SQL å¿«é€Ÿå‚è€ƒ</a></li>
+<li><a href="sql_summary.html" title="æˆ‘ä»¬å·²ç»å­¦ä¹ äº† SQLï¼Œä¸‹ä¸€æ­¥å­¦ä¹ ä»€ä¹ˆå‘¢ï¼Ÿ">SQL æ•™ç¨‹æ€»ç»“</a></li>
 </ul>
-<h2>SQL ²âÑé</h2>
+<h2>SQL æµ‹éªŒ</h2>
 <ul>
-<li><a href="sql_quiz.html" title="SQL ²âÑé">SQL ²âÑé</a></li>
+<li><a href="sql_quiz.html" title="SQL æµ‹éªŒ">SQL æµ‹éªŒ</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æž„å»º">ç½‘ç«™æž„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äºŽ W3School" id="link_about">å…³äºŽ W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -153,27 +153,27 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>SQL GROUP BY Óï¾ä</h1>
+<h1>SQL GROUP BY è¯­å¥</h1>
 
 <div  id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="sql_func_sum.html" title="SQL SUM() º¯Êý">SQL sum()</a></li>
-<li class="next"><a href="sql_having.html" title="SQL HAVING ×Ó¾ä">SQL Having</a></li>
+<li class="pre"><a href="sql_func_sum.html" title="SQL SUM() å‡½æ•°">SQL sum()</a></li>
+<li class="next"><a href="sql_having.html" title="SQL HAVING å­å¥">SQL Having</a></li>
 </ul>
 </div>
 
 <div>
-<p><strong>ºÏ¼Æº¯Êý (±ÈÈç SUM) ³£³£ÐèÒªÌí¼Ó GROUP BY Óï¾ä¡£</strong></p>
+<p><strong>åˆè®¡å‡½æ•° (æ¯”å¦‚ SUM) å¸¸å¸¸éœ€è¦æ·»åŠ  GROUP BY è¯­å¥ã€‚</strong></p>
 </div>
 
 
 <div>
-<h2>GROUP BY Óï¾ä</h2>
+<h2>GROUP BY è¯­å¥</h2>
 
-<p>GROUP BY Óï¾äÓÃÓÚ½áºÏºÏ¼Æº¯Êý£¬¸ù¾ÝÒ»¸ö»ò¶à¸öÁÐ¶Ô½á¹û¼¯½øÐÐ·Ö×é¡£</p>
+<p>GROUP BY è¯­å¥ç”¨äºŽç»“åˆåˆè®¡å‡½æ•°ï¼Œæ ¹æ®ä¸€ä¸ªæˆ–å¤šä¸ªåˆ—å¯¹ç»“æžœé›†è¿›è¡Œåˆ†ç»„ã€‚</p>
 
 
-<h3>SQL GROUP BY Óï·¨</h3>
+<h3>SQL GROUP BY è¯­æ³•</h3>
 
 <pre>
 SELECT column_name, aggregate_function(column_name)
@@ -185,9 +185,9 @@ GROUP BY column_name
 
 
 <div>
-<h2>SQL GROUP BY ÊµÀý</h2>
+<h2>SQL GROUP BY å®žä¾‹</h2>
 
-<p>ÎÒÃÇÓµÓÐÏÂÃæÕâ¸ö &quot;Orders&quot; ±í£º</p>
+<p>æˆ‘ä»¬æ‹¥æœ‰ä¸‹é¢è¿™ä¸ª &quot;Orders&quot; è¡¨ï¼š</p>
 
 <table class="dataintable">
   <tr>
@@ -234,18 +234,18 @@ GROUP BY column_name
   </tr>
 </table>
 
-<p>ÏÖÔÚ£¬ÎÒÃÇÏ£Íû²éÕÒÃ¿¸ö¿Í»§µÄ×Ü½ð¶î£¨×Ü¶©µ¥£©¡£</p>
+<p>çŽ°åœ¨ï¼Œæˆ‘ä»¬å¸Œæœ›æŸ¥æ‰¾æ¯ä¸ªå®¢æˆ·çš„æ€»é‡‘é¢ï¼ˆæ€»è®¢å•ï¼‰ã€‚</p>
 
-<p>ÎÒÃÇÏëÒªÊ¹ÓÃ GROUP BY Óï¾ä¶Ô¿Í»§½øÐÐ×éºÏ¡£</p>
+<p>æˆ‘ä»¬æƒ³è¦ä½¿ç”¨ GROUP BY è¯­å¥å¯¹å®¢æˆ·è¿›è¡Œç»„åˆã€‚</p>
 
-<p>ÎÒÃÇÊ¹ÓÃÏÂÁÐ SQL Óï¾ä£º</p>
+<p>æˆ‘ä»¬ä½¿ç”¨ä¸‹åˆ— SQL è¯­å¥ï¼š</p>
 
 <pre>
 SELECT Customer,SUM(OrderPrice) FROM Orders
 GROUP BY Customer
 </pre>
 
-<p>½á¹û¼¯ÀàËÆÕâÑù£º</p>
+<p>ç»“æžœé›†ç±»ä¼¼è¿™æ ·ï¼š</p>
 
 <table class="dataintable">
   <tr>
@@ -266,13 +266,13 @@ GROUP BY Customer
   </tr>
 </table>
 
-<p>ºÜ°ô°É£¬¶Ô²»¶Ô£¿</p>
+<p>å¾ˆæ£’å§ï¼Œå¯¹ä¸å¯¹ï¼Ÿ</p>
 
-<p>ÈÃÎÒÃÇ¿´Ò»ÏÂÈç¹ûÊ¡ÂÔ GROUP BY »á³öÏÖÊ²Ã´Çé¿ö£º</p>
+<p>è®©æˆ‘ä»¬çœ‹ä¸€ä¸‹å¦‚æžœçœç•¥ GROUP BY ä¼šå‡ºçŽ°ä»€ä¹ˆæƒ…å†µï¼š</p>
 
 <pre>SELECT Customer,SUM(OrderPrice) FROM Orders</pre>
 
-<p>½á¹û¼¯ÀàËÆÕâÑù£º</p>
+<p>ç»“æžœé›†ç±»ä¼¼è¿™æ ·ï¼š</p>
 
 <table class="dataintable">
   <tr>
@@ -305,16 +305,16 @@ GROUP BY Customer
   </tr>
 </table>
 
-<p>ÉÏÃæµÄ½á¹û¼¯²»ÊÇÎÒÃÇÐèÒªµÄ¡£</p>
+<p>ä¸Šé¢çš„ç»“æžœé›†ä¸æ˜¯æˆ‘ä»¬éœ€è¦çš„ã€‚</p>
 
-<p>ÄÇÃ´ÎªÊ²Ã´²»ÄÜÊ¹ÓÃÉÏÃæÕâÌõ SELECT Óï¾äÄØ£¿½âÊÍÈçÏÂ£ºÉÏÃæµÄ SELECT Óï¾äÖ¸¶¨ÁËÁ½ÁÐ£¨Customer ºÍ SUM(OrderPrice)£©¡£&quot;SUM(OrderPrice)&quot; ·µ»ØÒ»¸öµ¥¶ÀµÄÖµ£¨&quot;OrderPrice&quot; ÁÐµÄ×Ü¼Æ£©£¬¶ø &quot;Customer&quot; ·µ»Ø 6 ¸öÖµ£¨Ã¿¸öÖµ¶ÔÓ¦ &quot;Orders&quot; ±íÖÐµÄÃ¿Ò»ÐÐ£©¡£Òò´Ë£¬ÎÒÃÇµÃ²»µ½ÕýÈ·µÄ½á¹û¡£²»¹ý£¬ÄúÒÑ¾­¿´µ½ÁË£¬GROUP BY Óï¾ä½â¾öÁËÕâ¸öÎÊÌâ¡£</p>
+<p>é‚£ä¹ˆä¸ºä»€ä¹ˆä¸èƒ½ä½¿ç”¨ä¸Šé¢è¿™æ¡ SELECT è¯­å¥å‘¢ï¼Ÿè§£é‡Šå¦‚ä¸‹ï¼šä¸Šé¢çš„ SELECT è¯­å¥æŒ‡å®šäº†ä¸¤åˆ—ï¼ˆCustomer å’Œ SUM(OrderPrice)ï¼‰ã€‚&quot;SUM(OrderPrice)&quot; è¿”å›žä¸€ä¸ªå•ç‹¬çš„å€¼ï¼ˆ&quot;OrderPrice&quot; åˆ—çš„æ€»è®¡ï¼‰ï¼Œè€Œ &quot;Customer&quot; è¿”å›ž 6 ä¸ªå€¼ï¼ˆæ¯ä¸ªå€¼å¯¹åº” &quot;Orders&quot; è¡¨ä¸­çš„æ¯ä¸€è¡Œï¼‰ã€‚å› æ­¤ï¼Œæˆ‘ä»¬å¾—ä¸åˆ°æ­£ç¡®çš„ç»“æžœã€‚ä¸è¿‡ï¼Œæ‚¨å·²ç»çœ‹åˆ°äº†ï¼ŒGROUP BY è¯­å¥è§£å†³äº†è¿™ä¸ªé—®é¢˜ã€‚</p>
 </div>
 
 
 <div>
-<h2>GROUP BY Ò»¸öÒÔÉÏµÄÁÐ</h2>
+<h2>GROUP BY ä¸€ä¸ªä»¥ä¸Šçš„åˆ—</h2>
 
-<p>ÎÒÃÇÒ²¿ÉÒÔ¶ÔÒ»¸öÒÔÉÏµÄÁÐÓ¦ÓÃ GROUP BY Óï¾ä£¬¾ÍÏñÕâÑù£º</p>
+<p>æˆ‘ä»¬ä¹Ÿå¯ä»¥å¯¹ä¸€ä¸ªä»¥ä¸Šçš„åˆ—åº”ç”¨ GROUP BY è¯­å¥ï¼Œå°±åƒè¿™æ ·ï¼š</p>
 
 <pre>
 SELECT Customer,OrderDate,SUM(OrderPrice) FROM Orders
@@ -325,8 +325,8 @@ GROUP BY Customer,OrderDate
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="sql_func_sum.html" title="SQL SUM() º¯Êý">SQL sum()</a></li>
-<li class="next"><a href="sql_having.html" title="SQL HAVING ×Ó¾ä">SQL Having</a></li>
+<li class="pre"><a href="sql_func_sum.html" title="SQL SUM() å‡½æ•°">SQL sum()</a></li>
+<li class="next"><a href="sql_having.html" title="SQL HAVING å­å¥">SQL Having</a></li>
 </ul>
 </div>
 
@@ -339,14 +339,14 @@ GROUP BY Customer,OrderDate
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈÝ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_quiz"><a href="sql_quiz.html">SQL ²âÑé</a></h5>
+<h5 id="tools_quiz"><a href="sql_quiz.html">SQL æµ‹éªŒ</a></h5>
 </div>
 
 <div id="ad">
@@ -367,13 +367,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£W3School ¼òÌåÖÐÎÄ°æµÄËùÓÐÄÚÈÝ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ðµ£ÈÎºÎÔðÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºŽåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£Žé™©ä¸Žæœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£Žé™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒþË½">ÒþË½Ìõ¿î</a>¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
-ÔÞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æŽ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºŽä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºŽéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµžåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

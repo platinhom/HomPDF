@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=html5_iframe_sandbox by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:16:59 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -51,10 +51,10 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
-<p>"������ں�ʱ��" ��ť�������ڿ��������һ�νű���</p>
-<p>���� sandbox ���Ա�����Ϊ���ַ��� ("")�����ڿ�ܵ����ݲ��������нű���</p>
-<p>����� sandbox �������� "allow-scripts"������������ JavaScript��</p>
-<p><b>ע�ͣ�</b>IE 9 �Լ�����İ汾��֧�� sandbox ���ԣ�Opera 12 �Լ�����İ汾Ҳ��֧�ָ����ԡ�</p>
+<p>"获得日期和时间" 按钮会在行内框架中运行一段脚本。</p>
+<p>由于 sandbox 属性被设置为空字符串 ("")，行内框架的内容不允许运行脚本。</p>
+<p>如果向 sandbox 属性添加 "allow-scripts"，则允许运行 JavaScript。</p>
+<p><b>注释：</b>IE 9 以及更早的版本不支持 sandbox 属性，Opera 12 以及更早的版本也不支持该属性。</p>
 
 </body>
 
@@ -69,12 +69,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtextf192.html?f=html5_iframe_sandbox"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

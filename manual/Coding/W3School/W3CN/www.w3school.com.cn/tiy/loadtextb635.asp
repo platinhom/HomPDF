@@ -12,15 +12,15 @@
 
 <div data-role="page">
   <div data-role="header">
-    <h1>欢迎访问我的主页</h1>
+    <h1>娆㈣繋璁块棶鎴戠殑涓婚〉</h1>
   </div>
 
   <div data-role="content">
-    <p>现在我已经成为一名移动开发者！</p>
+    <p>鐜板湪鎴戝凡缁忔垚涓轰竴鍚嶇Щ鍔ㄥ紑鍙戣�咃紒</p>
   </div>
 
   <div data-role="footer">
-  <h1>页脚文本</h1>
+  <h1>椤佃剼鏂囨湰</h1>
   </div>
 </div> 
 

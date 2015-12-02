@@ -15,7 +15,7 @@
 
 &lt;html&gt;
 &lt;body&gt;
-&lt;p&gt;ÕâÊÇ´ÓÎÄ±¾ÎÄ¼şÖĞ¶ÁÈ¡µÄËùÓĞĞĞ£º&lt;/p&gt;
+&lt;p&gt;è¿™æ˜¯ä»æ–‡æœ¬æ–‡ä»¶ä¸­è¯»å–çš„æ‰€æœ‰è¡Œï¼š&lt;/p&gt;
 
 <code class="aspcode">&lt;%
 Set fs=Server.CreateObject(&quot;Scripting.FileSystemObject&quot;)

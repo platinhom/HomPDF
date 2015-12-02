@@ -3,7 +3,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/tiy/c.asp?f=css_transform_skewy by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:14:29 GMT -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
@@ -11,7 +11,7 @@
 
 <script type="text/javascript" src="cs.js"></script>
 
-<title>w3schoolÔÚÏß²âÊÔ¹¤¾ß v1.2</title>
+<title>w3schoolåœ¨çº¿æµ‹è¯•å·¥å…· v1.2</title>
 
 <script type="text/javascript">
 <!--
@@ -78,7 +78,7 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 
 <div id="SelArea">
-<h2>CSS ÊôÐÔ£º</h2>
+<h2>CSS å±žæ€§ï¼š</h2>
 
 <h3>transform:</h3>				
 
@@ -113,13 +113,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 
 <div id="result">
-<h2>½á¹û£º</h2>
+<h2>ç»“æžœï¼š</h2>
 
 <div id="DemoArea">
 <div id="MyDIV">MyDIV</div>
 </div>
 
-<h2>CSS ´úÂë£º</h2>
+<h2>CSS ä»£ç ï¼š</h2>
 
 <pre id="CodeArea">
 #MyDIV
@@ -131,7 +131,7 @@ transform:<span id="CodeValue">skewY(10deg)</span>;
 
 
 <div id="footer">
-<p class="help">Çëµã»÷ÉÏÃæµÄÊôÐÔÖµÀ´²é¿´½á¹û</p>
+<p class="help">è¯·ç‚¹å‡»ä¸Šé¢çš„å±žæ€§å€¼æ¥æŸ¥çœ‹ç»“æžœ</p>
 <p class="copyright"><a href="../index.html">W3School.com.cn</a> - TIY</p>
 </div>
 

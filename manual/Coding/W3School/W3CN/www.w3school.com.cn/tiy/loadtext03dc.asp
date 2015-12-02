@@ -13,18 +13,18 @@ background:#ff0000;
 </head>
 <body>
 
-<h1>���Ǳ���</h1>
-<p>��һ�����䡣</p>
-<p>�ڶ������䡣</p>
-<p>���������䡣</p>
-<p>���ĸ����䡣</p>
-<p>��������䡣</p>
-<p>���������䡣</p>
-<p>���߸����䡣</p>
-<p>�ڰ˸����䡣</p>
-<p>�ھŸ����䡣</p>
+<h1>这是标题</h1>
+<p>第一个段落。</p>
+<p>第二个段落。</p>
+<p>第三个段落。</p>
+<p>第四个段落。</p>
+<p>第五个段落。</p>
+<p>第六个段落。</p>
+<p>第七个段落。</p>
+<p>第八个段落。</p>
+<p>第九个段落。</p>
 
-<p><b>ע�ͣ�</b>Internet Explorer ��֧�� :nth-child() ѡ������</p>
+<p><b>注释：</b>Internet Explorer 不支持 :nth-child() 选择器。</p>
 
 </body>
 

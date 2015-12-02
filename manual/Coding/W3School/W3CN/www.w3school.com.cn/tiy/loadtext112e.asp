@@ -9,7 +9,7 @@
 var x=document.getElementsByTagName('body')[0];
 document.write("Body title: " + x.title);
 document.write("<br>");
-document.write("Ìæ´ú·½·¨£º");
+document.write("æ›¿ä»£æ–¹æ³•ï¼š");
 document.write(document.getElementById('myid').title);
 </script>
 

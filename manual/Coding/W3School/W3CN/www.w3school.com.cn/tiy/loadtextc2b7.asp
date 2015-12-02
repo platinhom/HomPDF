@@ -12,7 +12,7 @@ var element=document.getElementById("header");
 element.innerHTML="New Header";
 </script>
 
-<p>"Old Header" ÒÑ±»ÐÞ¸ÄÎª "New Header"¡£</p>
+<p>"Old Header" å·²è¢«ä¿®æ”¹ä¸º "New Header"ã€‚</p>
 
 </body>
 

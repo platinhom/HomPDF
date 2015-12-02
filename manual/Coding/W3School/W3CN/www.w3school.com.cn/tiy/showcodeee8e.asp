@@ -20,7 +20,7 @@
 <code class="phpcode">&lt;?php
 $str = &quot;age:30 weight:60kg&quot;;
 sscanf($str,&quot;age:%d weight:%dkg&quot;,$age,$weight);
-// ÏÔÊ¾ÀàĞÍºÍÖµ
+// æ˜¾ç¤ºç±»å‹å’Œå€¼
 var_dump($age,$weight);
 ?&gt;</code>
   

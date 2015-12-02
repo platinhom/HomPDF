@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=css_sel_element_plus by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:09:39 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -55,16 +55,16 @@ background-color:yellow;
 </head>
 
 <body>
-<h1>��ӭ�����ҵ�����ҳ</h1>
+<h1>欢迎来到我到的主页</h1>
 
 <div>
-<p>��������Ѽ��</p>
-<p>��ס�� Duckburg��</p>
+<p>我是唐老鸭。</p>
+<p>我住在 Duckburg。</p>
 </div>
 
-<p>����õ�������������</p>
+<p>我最好的朋友是米老鼠。</p>
 
-<p>�ҵ���ʽ����ı䡣</p>
+<p>我的样式不会改变。</p>
 
 </body>
 
@@ -79,12 +79,12 @@ background-color:yellow;
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtextae1e.html?f=css_sel_element_plus"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

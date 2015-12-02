@@ -8,20 +8,20 @@
 a.ex1:hover,a.ex1:active {color:red;}
 a.ex2:hover,a.ex2:active {font-size:150%;}
 a.ex3:hover,a.ex3:active {background:red;}
-a.ex4:hover,a.ex4:active {font-family:'Î¢ÈíÑÅºÚ';}
+a.ex4:hover,a.ex4:active {font-family:'å¾®è½¯é›…é»‘';}
 a.ex5:visited,a.ex5:link {text-decoration:none;}
 a.ex5:hover,a.ex5:active {text-decoration:underline;}
 </style>
 </head>
 
 <body>
-<p>Çë°ÑÊó±êÖ¸ÕëÒÆ¶¯µ½ÕâĞ©Á´½ÓÉÏ¡£</p>
+<p>è¯·æŠŠé¼ æ ‡æŒ‡é’ˆç§»åŠ¨åˆ°è¿™äº›é“¾æ¥ä¸Šã€‚</p>
 
-<p><a class="ex1" href="../index-2.html">Õâ¸öÁ´½Ó¸Ä±äÑÕÉ«¡£</a></p>
-<p><a class="ex2" href="../index-2.html">Õâ¸öÁ´½Ó¸Ä±ä×ÖÌå´óĞ¡¡£</a></p>
-<p><a class="ex3" href="../index-2.html">Õâ¸öÁ´½Ó¸Ä±ä±³¾°É«¡£</a></p>
-<p><a class="ex4" href="../index-2.html">Õâ¸öÁ´½Ó¸Ä±ä×ÖÌå¡£</a></p>
-<p><a class="ex5" href="../index-2.html">Õâ¸öÁ´½Ó»á³öÏÖÏÂ»®Ïß¡£</a></p>
+<p><a class="ex1" href="../index-2.html">è¿™ä¸ªé“¾æ¥æ”¹å˜é¢œè‰²ã€‚</a></p>
+<p><a class="ex2" href="../index-2.html">è¿™ä¸ªé“¾æ¥æ”¹å˜å­—ä½“å¤§å°ã€‚</a></p>
+<p><a class="ex3" href="../index-2.html">è¿™ä¸ªé“¾æ¥æ”¹å˜èƒŒæ™¯è‰²ã€‚</a></p>
+<p><a class="ex4" href="../index-2.html">è¿™ä¸ªé“¾æ¥æ”¹å˜å­—ä½“ã€‚</a></p>
+<p><a class="ex5" href="../index-2.html">è¿™ä¸ªé“¾æ¥ä¼šå‡ºç°ä¸‹åˆ’çº¿ã€‚</a></p>
 </body>
 
 

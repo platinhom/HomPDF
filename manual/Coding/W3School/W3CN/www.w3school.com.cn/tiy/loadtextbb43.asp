@@ -12,7 +12,7 @@ float:right
 </head>
 
 <body>
-<p>������Ķ����У�����������һ����ʽΪ <b>float:right</b> ��ͼ�񡣽�������ͼ��ḡ����������Ҳࡣ</p>
+<p>在下面的段落中，我们添加了一个样式为 <b>float:right</b> 的图像。结果是这个图像会浮动到段落的右侧。</p>
 <p>
 <img src="../i/eg_cute.gif" />
 This is some text. This is some text. This is some text.

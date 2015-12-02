@@ -4,23 +4,23 @@
 
 <!-- Mirrored from www.w3school.com.cn/jquery/ajax_post.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:49:28 GMT -->
 <head>
-<meta charset="gbk" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>jQuery ajax - post() ·½·¨</title>
+<title>jQuery ajax - post() æ–¹æ³•</title>
 </head>
 
 <body class="browserscripting">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäºŽ 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -34,100 +34,100 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>jQuery ½Ì³Ì</h2>
+<div id="course"><h2>jQuery æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="jQuery ½Ì³Ì">jQuery ½Ì³Ì</a></li>
-<li><a href="jquery_intro.html" title="jQuery ¼ò½é">jQuery ¼ò½é</a></li>
-<li><a href="jquery_install.html" title="jQuery °²×°">jQuery °²×°</a></li>
-<li><a href="jquery_syntax.html" title="jQuery Óï·¨">jQuery Óï·¨</a></li>
-<li><a href="jquery_selectors.html" title="jQuery Ñ¡ÔñÆ÷">jQuery Ñ¡ÔñÆ÷</a></li>
-<li><a href="jquery_events.html" title="jQuery ÊÂ¼þ">jQuery ÊÂ¼þ</a></li>
+<li><a href="index.html" title="jQuery æ•™ç¨‹">jQuery æ•™ç¨‹</a></li>
+<li><a href="jquery_intro.html" title="jQuery ç®€ä»‹">jQuery ç®€ä»‹</a></li>
+<li><a href="jquery_install.html" title="jQuery å®‰è£…">jQuery å®‰è£…</a></li>
+<li><a href="jquery_syntax.html" title="jQuery è¯­æ³•">jQuery è¯­æ³•</a></li>
+<li><a href="jquery_selectors.html" title="jQuery é€‰æ‹©å™¨">jQuery é€‰æ‹©å™¨</a></li>
+<li><a href="jquery_events.html" title="jQuery äº‹ä»¶">jQuery äº‹ä»¶</a></li>
 </ul>
-<h2>jQuery Ð§¹û</h2>
+<h2>jQuery æ•ˆæžœ</h2>
 <ul>
-<li><a href="jquery_hide_show.html" title="jQuery jQuery Ð§¹û - Òþ²ØºÍÏÔÊ¾">jQuery Òþ²Ø/ÏÔÊ¾</a></li>
-<li><a href="jquery_fade.html" title="jQuery jQuery Ð§¹û - µ­Èëµ­³ö">jQuery µ­Èëµ­³ö</a></li>
-<li><a href="jquery_slide.html" title="jQuery Ð§¹û - »¬¶¯">jQuery »¬¶¯</a></li>
-<li><a href="jquery_animate.html" title="jQuery Ð§¹û - ¶¯»­">jQuery ¶¯»­</a></li>
-<li><a href="jquery_stop.html" title="jQuery Í£Ö¹¶¯»­">jQuery stop()</a></li>
-<li><a href="jquery_callback.html" title="jQuery »Øµ÷º¯Êý">jQuery Callback</a></li>
+<li><a href="jquery_hide_show.html" title="jQuery jQuery æ•ˆæžœ - éšè—å’Œæ˜¾ç¤º">jQuery éšè—/æ˜¾ç¤º</a></li>
+<li><a href="jquery_fade.html" title="jQuery jQuery æ•ˆæžœ - æ·¡å…¥æ·¡å‡º">jQuery æ·¡å…¥æ·¡å‡º</a></li>
+<li><a href="jquery_slide.html" title="jQuery æ•ˆæžœ - æ»‘åŠ¨">jQuery æ»‘åŠ¨</a></li>
+<li><a href="jquery_animate.html" title="jQuery æ•ˆæžœ - åŠ¨ç”»">jQuery åŠ¨ç”»</a></li>
+<li><a href="jquery_stop.html" title="jQuery åœæ­¢åŠ¨ç”»">jQuery stop()</a></li>
+<li><a href="jquery_callback.html" title="jQuery å›žè°ƒå‡½æ•°">jQuery Callback</a></li>
 <li><a href="jquery_chaining.html" title="jQuery - Chaining">jQuery Chaining</a></li>
 </ul>
 <h2>jQuery HTML</h2>
 <ul>
-<li><a href="jquery_dom_get.html" title="jQuery - »ñÈ¡ÄÚÈÝºÍÊôÐÔ">jQuery »ñÈ¡</a></li>
-<li><a href="jquery_dom_set.html" title="jQuery - ÉèÖÃÄÚÈÝºÍÊôÐÔ">jQuery ÉèÖÃ</a></li>
-<li><a href="jquery_dom_add.html" title="jQuery - Ìí¼ÓÔªËØ">jQuery Ìí¼Ó</a></li>
-<li><a href="jquery_dom_remove.html" title="jQuery - É¾³ýÔªËØ">jQuery É¾³ý</a></li>
-<li><a href="jquery_css_classes.html" title="jQuery - »ñÈ¡ºÍÉèÖÃ CSS Àà">jQuery CSS Àà</a></li>
-<li><a href="jquery_css.html" title="jQuery - css() ·½·¨">jQuery css()</a></li>
-<li><a href="jquery_dimensions.asp" title="jQuery - ³ß´ç">jQuery ³ß´ç</a></li>
+<li><a href="jquery_dom_get.html" title="jQuery - èŽ·å–å†…å®¹å’Œå±žæ€§">jQuery èŽ·å–</a></li>
+<li><a href="jquery_dom_set.html" title="jQuery - è®¾ç½®å†…å®¹å’Œå±žæ€§">jQuery è®¾ç½®</a></li>
+<li><a href="jquery_dom_add.html" title="jQuery - æ·»åŠ å…ƒç´ ">jQuery æ·»åŠ </a></li>
+<li><a href="jquery_dom_remove.html" title="jQuery - åˆ é™¤å…ƒç´ ">jQuery åˆ é™¤</a></li>
+<li><a href="jquery_css_classes.html" title="jQuery - èŽ·å–å’Œè®¾ç½® CSS ç±»">jQuery CSS ç±»</a></li>
+<li><a href="jquery_css.html" title="jQuery - css() æ–¹æ³•">jQuery css()</a></li>
+<li><a href="jquery_dimensions.asp" title="jQuery - å°ºå¯¸">jQuery å°ºå¯¸</a></li>
 </ul>
-<h2>jQuery ±éÀú</h2>
+<h2>jQuery éåŽ†</h2>
 <ul>
-<li><a href="jquery_traversing.html" title="jQuery ±éÀú">jQuery ±éÀú</a></li>
-<li><a href="jquery_traversing_ancestors.asp" title="jQuery ±éÀú - ×æÏÈ">jQuery ×æÏÈ</a></li>
-<li><a href="jquery_traversing_descendants.html" title="jQuery ±éÀú - ºó´ú">jQuery ºó´ú</a></li>
-<li><a href="jquery_traversing_siblings.html" title="jQuery ±éÀú - Í¬°û">jQuery Í¬°û</a></li>
-<li><a href="jquery_traversing_filtering.html" title="jQuery ±éÀú - ¹ýÂË">jQuery ¹ýÂË</a></li>
+<li><a href="jquery_traversing.html" title="jQuery éåŽ†">jQuery éåŽ†</a></li>
+<li><a href="jquery_traversing_ancestors.asp" title="jQuery éåŽ† - ç¥–å…ˆ">jQuery ç¥–å…ˆ</a></li>
+<li><a href="jquery_traversing_descendants.html" title="jQuery éåŽ† - åŽä»£">jQuery åŽä»£</a></li>
+<li><a href="jquery_traversing_siblings.html" title="jQuery éåŽ† - åŒèƒž">jQuery åŒèƒž</a></li>
+<li><a href="jquery_traversing_filtering.html" title="jQuery éåŽ† - è¿‡æ»¤">jQuery è¿‡æ»¤</a></li>
 </ul>
 <h2>jQuery AJAX</h2>
 <ul>
-<li><a href="jquery_ajax_intro.html" title="jQuery - AJAX ¼ò½é">jQuery AJAX ¼ò½é</a></li>
-<li><a href="jquery_ajax_load.html" title="jQuery - AJAX load() ·½·¨">jQuery ¼ÓÔØ</a></li>
-<li><a href="jquery_ajax_get_post.html" title="jQuery - AJAX get() ºÍ post() ·½·¨">jQuery Get/Post</a></li>
+<li><a href="jquery_ajax_intro.html" title="jQuery - AJAX ç®€ä»‹">jQuery AJAX ç®€ä»‹</a></li>
+<li><a href="jquery_ajax_load.html" title="jQuery - AJAX load() æ–¹æ³•">jQuery åŠ è½½</a></li>
+<li><a href="jquery_ajax_get_post.html" title="jQuery - AJAX get() å’Œ post() æ–¹æ³•">jQuery Get/Post</a></li>
 </ul>
-<h2>jQuery ÔÓÏî</h2>
+<h2>jQuery æ‚é¡¹</h2>
 <ul>
-<li><a href="jquery_noconflict.html" title="jQuery - noConflict() ·½·¨">jQuery noConflict()</a></li>
+<li><a href="jquery_noconflict.html" title="jQuery - noConflict() æ–¹æ³•">jQuery noConflict()</a></li>
 </ul>
-<h2>jQuery ÊµÀý</h2>
+<h2>jQuery å®žä¾‹</h2>
 <ul>
-<li><a href="jquery_examples.html" title="jQuery ÊµÀý">jQuery ÊµÀý</a></li>
-<li><a href="jquery_quiz.html" title="jQuery ²âÑé">jQuery ²âÑé</a></li>
+<li><a href="jquery_examples.html" title="jQuery å®žä¾‹">jQuery å®žä¾‹</a></li>
+<li><a href="jquery_quiz.html" title="jQuery æµ‹éªŒ">jQuery æµ‹éªŒ</a></li>
 </ul>
-<h2>jQuery ²Î¿¼ÊÖ²á</h2>
+<h2>jQuery å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="jquery_reference.html" title="jQuery ²Î¿¼ÊÖ²á">jQuery ²Î¿¼ÊÖ²á</a></li>
-<li><a href="jquery_ref_selectors.html" title="jQuery ²Î¿¼ÊÖ²á - Ñ¡ÔñÆ÷">jQuery Ñ¡ÔñÆ÷</a></li>
-<li><a href="jquery_ref_events.html" title="jQuery ²Î¿¼ÊÖ²á - ÊÂ¼þ">jQuery ÊÂ¼þ</a></li>
-<li><a href="jquery_ref_effects.html" title="jQuery ²Î¿¼ÊÖ²á - Ð§¹û">jQuery Ð§¹û</a></li>
-<li><a href="jquery_ref_manipulation.html" title="jQuery ²Î¿¼ÊÖ²á - ÎÄµµ²Ù×÷">jQuery ÎÄµµ²Ù×÷</a></li>
-<li><a href="jquery_ref_attributes.html" title="jQuery ²Î¿¼ÊÖ²á - ÊôÐÔ²Ù×÷">jQuery ÊôÐÔ²Ù×÷</a></li>
-<li><a href="jquery_ref_css.html" title="jQuery ²Î¿¼ÊÖ²á - CSS ²Ù×÷">jQuery CSS ²Ù×÷</a></li>
-<li><a href="jquery_ref_ajax.html" title="jQuery ²Î¿¼ÊÖ²á - Ajax">jQuery Ajax</a></li>
-<li><a href="jquery_ref_traversing.html" title="jQuery ²Î¿¼ÊÖ²á - ±éÀú">jQuery ±éÀú</a></li>
-<li><a href="jquery_ref_data.html" title="jQuery ²Î¿¼ÊÖ²á - Êý¾Ý">jQuery Êý¾Ý</a></li>
-<li><a href="jquery_ref_dom_element_methods.html" title="jQuery ²Î¿¼ÊÖ²á - DOM ÔªËØ·½·¨">jQuery DOM ÔªËØ</a></li>
-<li><a href="jquery_ref_core.html" title="jQuery ²Î¿¼ÊÖ²á - ºËÐÄ">jQuery ºËÐÄ</a></li>
-<li><a href="jquery_ref_prop.html" title="jQuery ÊôÐÔ">jQuery ÊôÐÔ</a></li>
+<li><a href="jquery_reference.html" title="jQuery å‚è€ƒæ‰‹å†Œ">jQuery å‚è€ƒæ‰‹å†Œ</a></li>
+<li><a href="jquery_ref_selectors.html" title="jQuery å‚è€ƒæ‰‹å†Œ - é€‰æ‹©å™¨">jQuery é€‰æ‹©å™¨</a></li>
+<li><a href="jquery_ref_events.html" title="jQuery å‚è€ƒæ‰‹å†Œ - äº‹ä»¶">jQuery äº‹ä»¶</a></li>
+<li><a href="jquery_ref_effects.html" title="jQuery å‚è€ƒæ‰‹å†Œ - æ•ˆæžœ">jQuery æ•ˆæžœ</a></li>
+<li><a href="jquery_ref_manipulation.html" title="jQuery å‚è€ƒæ‰‹å†Œ - æ–‡æ¡£æ“ä½œ">jQuery æ–‡æ¡£æ“ä½œ</a></li>
+<li><a href="jquery_ref_attributes.html" title="jQuery å‚è€ƒæ‰‹å†Œ - å±žæ€§æ“ä½œ">jQuery å±žæ€§æ“ä½œ</a></li>
+<li><a href="jquery_ref_css.html" title="jQuery å‚è€ƒæ‰‹å†Œ - CSS æ“ä½œ">jQuery CSS æ“ä½œ</a></li>
+<li><a href="jquery_ref_ajax.html" title="jQuery å‚è€ƒæ‰‹å†Œ - Ajax">jQuery Ajax</a></li>
+<li><a href="jquery_ref_traversing.html" title="jQuery å‚è€ƒæ‰‹å†Œ - éåŽ†">jQuery éåŽ†</a></li>
+<li><a href="jquery_ref_data.html" title="jQuery å‚è€ƒæ‰‹å†Œ - æ•°æ®">jQuery æ•°æ®</a></li>
+<li><a href="jquery_ref_dom_element_methods.html" title="jQuery å‚è€ƒæ‰‹å†Œ - DOM å…ƒç´ æ–¹æ³•">jQuery DOM å…ƒç´ </a></li>
+<li><a href="jquery_ref_core.html" title="jQuery å‚è€ƒæ‰‹å†Œ - æ ¸å¿ƒ">jQuery æ ¸å¿ƒ</a></li>
+<li><a href="jquery_ref_prop.html" title="jQuery å±žæ€§">jQuery å±žæ€§</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æž„å»º">ç½‘ç«™æž„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äºŽ W3School" id="link_about">å…³äºŽ W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -135,24 +135,24 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>jQuery ajax - post() ·½·¨</h1>
+<h1>jQuery ajax - post() æ–¹æ³•</h1>
 
 <div class="backtoreference">
-<p><a href="jquery_ref_ajax.html" title="jQuery ²Î¿¼ÊÖ²á - Ajax">jQuery Ajax ²Î¿¼ÊÖ²á</a></p>
+<p><a href="jquery_ref_ajax.html" title="jQuery å‚è€ƒæ‰‹å†Œ - Ajax">jQuery Ajax å‚è€ƒæ‰‹å†Œ</a></p>
 </div>
 
 
 <div>
-<h2>ÊµÀý</h2>
+<h2>å®žä¾‹</h2>
 
-<p>ÇëÇó test.php ÍøÒ³£¬ºöÂÔ·µ»ØÖµ£º</p>
+<p>è¯·æ±‚ test.php ç½‘é¡µï¼Œå¿½ç•¥è¿”å›žå€¼ï¼š</p>
 
 <pre>$.post(&quot;test.php&quot;);</pre>
 
 
-<h3>TIY ÊµÀý</h3>
+<h3>TIY å®žä¾‹</h3>
 
-<p>Í¨¹ý AJAX POST ÇëÇó¸Ä±ä div ÔªËØµÄÎÄ±¾£º</p>
+<p>é€šè¿‡ AJAX POST è¯·æ±‚æ”¹å˜ div å…ƒç´ çš„æ–‡æœ¬ï¼š</p>
 
 <pre>
 $(&quot;input&quot;).keyup(function(){
@@ -163,52 +163,52 @@ $(&quot;input&quot;).keyup(function(){
 });
 </pre>
 
-<p class="tiy"><a target="_blank" href="../tiy/t4a58.html?f=jquery_ajax_post">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p class="tiy"><a target="_blank" href="../tiy/t4a58.html?f=jquery_ajax_post">äº²è‡ªè¯•ä¸€è¯•</a></p>
 </div>
 
 
 <div>
-<h2>¶¨ÒåºÍÓÃ·¨</h2>
+<h2>å®šä¹‰å’Œç”¨æ³•</h2>
 
-<p>post() ·½·¨Í¨¹ý HTTP POST ÇëÇó´Ó·þÎñÆ÷ÔØÈëÊý¾Ý¡£</p>
+<p>post() æ–¹æ³•é€šè¿‡ HTTP POST è¯·æ±‚ä»ŽæœåŠ¡å™¨è½½å…¥æ•°æ®ã€‚</p>
 
-<h3>Óï·¨</h3>
+<h3>è¯­æ³•</h3>
 
 <pre>jQuery.post(<i>url</i>,<i>data</i>,<i>success(data, textStatus, jqXHR)</i>,<i>dataType</i>)</pre>
 
 <table class="dataintable">
 <tr>
-<th style="width:35%;">²ÎÊý</th>
-<th>ÃèÊö</th>
+<th style="width:35%;">å‚æ•°</th>
+<th>æè¿°</th>
 </tr>
 
 <tr>
 <td><i>url</i></td>
-<td>±ØÐè¡£¹æ¶¨°ÑÇëÇó·¢ËÍµ½ÄÄ¸ö URL¡£</td>
+<td>å¿…éœ€ã€‚è§„å®šæŠŠè¯·æ±‚å‘é€åˆ°å“ªä¸ª URLã€‚</td>
 </tr>
 
 <tr>
 <td><i>data</i></td>
-<td>¿ÉÑ¡¡£Ó³Éä»ò×Ö·û´®Öµ¡£¹æ¶¨Á¬Í¬ÇëÇó·¢ËÍµ½·þÎñÆ÷µÄÊý¾Ý¡£</td>
+<td>å¯é€‰ã€‚æ˜ å°„æˆ–å­—ç¬¦ä¸²å€¼ã€‚è§„å®šè¿žåŒè¯·æ±‚å‘é€åˆ°æœåŠ¡å™¨çš„æ•°æ®ã€‚</td>
 </tr>
 
 <tr>
 <td><i>success(data, textStatus, jqXHR)</i></td>
-<td>¿ÉÑ¡¡£ÇëÇó³É¹¦Ê±Ö´ÐÐµÄ»Øµ÷º¯Êý¡£</td>
+<td>å¯é€‰ã€‚è¯·æ±‚æˆåŠŸæ—¶æ‰§è¡Œçš„å›žè°ƒå‡½æ•°ã€‚</td>
 </tr>
 
 <tr>
 <td><i>dataType</i></td>
 <td>
-<p>¿ÉÑ¡¡£¹æ¶¨Ô¤ÆÚµÄ·þÎñÆ÷ÏìÓ¦µÄÊý¾ÝÀàÐÍ¡£</p>
-<p>Ä¬ÈÏÖ´ÐÐÖÇÄÜÅÐ¶Ï£¨xml¡¢json¡¢script »ò html£©¡£</p>
+<p>å¯é€‰ã€‚è§„å®šé¢„æœŸçš„æœåŠ¡å™¨å“åº”çš„æ•°æ®ç±»åž‹ã€‚</p>
+<p>é»˜è®¤æ‰§è¡Œæ™ºèƒ½åˆ¤æ–­ï¼ˆxmlã€jsonã€script æˆ– htmlï¼‰ã€‚</p>
 </td>
 </tr>
 </table>
 
-<h3>ÏêÏ¸ËµÃ÷</h3>
+<h3>è¯¦ç»†è¯´æ˜Ž</h3>
 
-<p>¸Ãº¯ÊýÊÇ¼òÐ´µÄ Ajax º¯Êý£¬µÈ¼ÛÓÚ£º</p>
+<p>è¯¥å‡½æ•°æ˜¯ç®€å†™çš„ Ajax å‡½æ•°ï¼Œç­‰ä»·äºŽï¼š</p>
 
 <pre>$.ajax({
   type: 'POST',
@@ -218,11 +218,11 @@ $(&quot;input&quot;).keyup(function(){
   dataType: <i>dataType</i>
 });</pre>
 
-<p>¸ù¾ÝÏìÓ¦µÄ²»Í¬µÄ MIME ÀàÐÍ£¬´«µÝ¸ø success »Øµ÷º¯ÊýµÄ·µ»ØÊý¾ÝÒ²ÓÐËù²»Í¬£¬ÕâÐ©Êý¾Ý¿ÉÒÔÊÇ XML ¸ùÔªËØ¡¢ÎÄ±¾×Ö·û´®¡¢JavaScript ÎÄ¼þ»òÕß JSON ¶ÔÏó¡£Ò²¿ÉÏò success »Øµ÷º¯Êý´«µÝÏìÓ¦µÄÎÄ±¾×´Ì¬¡£</p>
+<p>æ ¹æ®å“åº”çš„ä¸åŒçš„ MIME ç±»åž‹ï¼Œä¼ é€’ç»™ success å›žè°ƒå‡½æ•°çš„è¿”å›žæ•°æ®ä¹Ÿæœ‰æ‰€ä¸åŒï¼Œè¿™äº›æ•°æ®å¯ä»¥æ˜¯ XML æ ¹å…ƒç´ ã€æ–‡æœ¬å­—ç¬¦ä¸²ã€JavaScript æ–‡ä»¶æˆ–è€… JSON å¯¹è±¡ã€‚ä¹Ÿå¯å‘ success å›žè°ƒå‡½æ•°ä¼ é€’å“åº”çš„æ–‡æœ¬çŠ¶æ€ã€‚</p>
 
-<p>¶ÔÓÚ jQuery 1.5£¬Ò²¿ÉÒÔÏò success »Øµ÷º¯Êý´«µÝ <a href="#jqxhr_object">jqXHR ¶ÔÏó</a>£¨jQuery 1.4 ÖÐ´«µÝµÄÊÇ XMLHttpRequest ¶ÔÏó£©¡£</p>
+<p>å¯¹äºŽ jQuery 1.5ï¼Œä¹Ÿå¯ä»¥å‘ success å›žè°ƒå‡½æ•°ä¼ é€’ <a href="#jqxhr_object">jqXHR å¯¹è±¡</a>ï¼ˆjQuery 1.4 ä¸­ä¼ é€’çš„æ˜¯ XMLHttpRequest å¯¹è±¡ï¼‰ã€‚</p>
 
-<p>´ó²¿·ÖÊµÏÖ»á¹æ¶¨Ò»¸ö success º¯Êý£º</p>
+<p>å¤§éƒ¨åˆ†å®žçŽ°ä¼šè§„å®šä¸€ä¸ª success å‡½æ•°ï¼š</p>
 
 <pre>
 $.post(&quot;ajax/test.html&quot;, function(data) {
@@ -230,25 +230,25 @@ $.post(&quot;ajax/test.html&quot;, function(data) {
 });
 </pre>
 
-<p>±¾Àý¶ÁÈ¡±»ÇëÇóµÄ HTML Æ¬¶Î£¬²¢²åÈëÒ³ÃæÖÐ¡£</p>
+<p>æœ¬ä¾‹è¯»å–è¢«è¯·æ±‚çš„ HTML ç‰‡æ®µï¼Œå¹¶æ’å…¥é¡µé¢ä¸­ã€‚</p>
 
-<p>Í¨¹ý POST ¶ÁÈ¡µÄÒ³Ãæ²»±»»º´æ£¬Òò´Ë <a href="ajax_ajaxsetup.html" title="jQuery ajax - ajaxSetup() ·½·¨">jQuery.ajaxSetup()</a> ÖÐµÄ cache ºÍ ifModified Ñ¡Ïî²»»áÓ°ÏìÕâÐ©ÇëÇó¡£</p>
+<p>é€šè¿‡ POST è¯»å–çš„é¡µé¢ä¸è¢«ç¼“å­˜ï¼Œå› æ­¤ <a href="ajax_ajaxsetup.html" title="jQuery ajax - ajaxSetup() æ–¹æ³•">jQuery.ajaxSetup()</a> ä¸­çš„ cache å’Œ ifModified é€‰é¡¹ä¸ä¼šå½±å“è¿™äº›è¯·æ±‚ã€‚</p>
 
-<p class="note"><span>×¢ÊÍ£º</span>ÓÉÓÚä¯ÀÀÆ÷°²È«·½ÃæµÄÏÞÖÆ£¬´ó¶àÊý "Ajax" ÇëÇó×ñÊØÍ¬Ô´²ßÂÔ£»ÇëÇóÎÞ·¨´Ó²»Í¬µÄÓò¡¢×ÓÓò»òÐ­Òé³É¹¦µØÈ¡»ØÊý¾Ý¡£</p>
+<p class="note"><span>æ³¨é‡Šï¼š</span>ç”±äºŽæµè§ˆå™¨å®‰å…¨æ–¹é¢çš„é™åˆ¶ï¼Œå¤§å¤šæ•° "Ajax" è¯·æ±‚éµå®ˆåŒæºç­–ç•¥ï¼›è¯·æ±‚æ— æ³•ä»Žä¸åŒçš„åŸŸã€å­åŸŸæˆ–åè®®æˆåŠŸåœ°å–å›žæ•°æ®ã€‚</p>
 
-<p class="note"><span>×¢ÊÍ£º</span>Èç¹ûÓÉ jQuery.post() ·¢ÆðµÄÇëÇó·µ»Ø´íÎó´úÂë£¬ÄÇÃ´²»»áÓÐÈÎºÎÌáÊ¾£¬³ý·Ç½Å±¾ÒÑµ÷ÓÃÁËÈ«¾ÖµÄ <a href="ajax_ajaxerror.html" title="jQuery ajax - ajaxError() ·½·¨">.ajaxError() ·½·¨</a>¡£»òÕß¶ÔÓÚ jQuery 1.5£¬jQuery.post() ·µ»ØµÄ jqXHR ¶ÔÏóµÄ .error() ·½·¨Ò²¿ÉÒÔÓÃÓÚ´íÎó´¦Àí¡£</p>
+<p class="note"><span>æ³¨é‡Šï¼š</span>å¦‚æžœç”± jQuery.post() å‘èµ·çš„è¯·æ±‚è¿”å›žé”™è¯¯ä»£ç ï¼Œé‚£ä¹ˆä¸ä¼šæœ‰ä»»ä½•æç¤ºï¼Œé™¤éžè„šæœ¬å·²è°ƒç”¨äº†å…¨å±€çš„ <a href="ajax_ajaxerror.html" title="jQuery ajax - ajaxError() æ–¹æ³•">.ajaxError() æ–¹æ³•</a>ã€‚æˆ–è€…å¯¹äºŽ jQuery 1.5ï¼ŒjQuery.post() è¿”å›žçš„ jqXHR å¯¹è±¡çš„ .error() æ–¹æ³•ä¹Ÿå¯ä»¥ç”¨äºŽé”™è¯¯å¤„ç†ã€‚</p>
 </div>
 
 
 <div id="jqxhr_object">
-<h2>jqXHR ¶ÔÏó</h2>
+<h2>jqXHR å¯¹è±¡</h2>
 
-<p>¶ÔÓÚ jQuery 1.5£¬ËùÓÐ jQuery µÄ AJAX ·½·¨·µ»ØµÄÊÇ XMLHTTPRequest ¶ÔÏóµÄ³¬¼¯¡£ÓÉ $.post() ·µ»ØµÄ jQuery XHR ¶ÔÏó»ò &quot;jqXHR,&quot;ÊµÏÖÁËÔ¼¶¨µÄ½Ó¿Ú£¬¸³ÓèÆäËùÓÐµÄÊôÐÔ¡¢·½·¨£¬ÒÔ¼°Ô¼¶¨µÄÐÐÎª¡£³öÓÚ¶ÔÓÉ <a href="ajax_ajax.html" title="jQuery ajax - ajax() ·½·¨">$.ajax()</a> Ê¹ÓÃµÄ»Øµ÷º¯ÊýÃû³Æ±ãÀûÐÔºÍÒ»ÖÂÐÔµÄ¿¼ÂÇ£¬ËüÌá¹©ÁË .error(), .success() ÒÔ¼° .complete() ·½·¨¡£ÕâÐ©·½·¨Ê¹ÓÃÇëÇóÖÕÖ¹Ê±µ÷ÓÃµÄº¯Êý²ÎÊý£¬¸Ãº¯Êý½ÓÊÜÓë¶ÔÓ¦ÃüÃûµÄ $.ajax() »Øµ÷º¯ÊýÏàÍ¬µÄ²ÎÊý¡£</p>
+<p>å¯¹äºŽ jQuery 1.5ï¼Œæ‰€æœ‰ jQuery çš„ AJAX æ–¹æ³•è¿”å›žçš„æ˜¯ XMLHTTPRequest å¯¹è±¡çš„è¶…é›†ã€‚ç”± $.post() è¿”å›žçš„ jQuery XHR å¯¹è±¡æˆ– &quot;jqXHR,&quot;å®žçŽ°äº†çº¦å®šçš„æŽ¥å£ï¼Œèµ‹äºˆå…¶æ‰€æœ‰çš„å±žæ€§ã€æ–¹æ³•ï¼Œä»¥åŠçº¦å®šçš„è¡Œä¸ºã€‚å‡ºäºŽå¯¹ç”± <a href="ajax_ajax.html" title="jQuery ajax - ajax() æ–¹æ³•">$.ajax()</a> ä½¿ç”¨çš„å›žè°ƒå‡½æ•°åç§°ä¾¿åˆ©æ€§å’Œä¸€è‡´æ€§çš„è€ƒè™‘ï¼Œå®ƒæä¾›äº† .error(), .success() ä»¥åŠ .complete() æ–¹æ³•ã€‚è¿™äº›æ–¹æ³•ä½¿ç”¨è¯·æ±‚ç»ˆæ­¢æ—¶è°ƒç”¨çš„å‡½æ•°å‚æ•°ï¼Œè¯¥å‡½æ•°æŽ¥å—ä¸Žå¯¹åº”å‘½åçš„ $.ajax() å›žè°ƒå‡½æ•°ç›¸åŒçš„å‚æ•°ã€‚</p>
 
-<p>jQuery 1.5 ÖÐµÄÔ¼¶¨½Ó¿ÚÍ¬ÑùÔÊÐí jQuery µÄ Ajax ·½·¨£¬°üÀ¨ $.post()£¬À´Á´½ÓÍ¬Ò»ÇëÇóµÄ¶à¸ö .success()¡¢.complete() ÒÔ¼° .error() »Øµ÷º¯Êý£¬ÉõÖÁ»áÔÚÇëÇóÒ²ÐíÒÑ¾­Íê³Éºó·ÖÅäÕâÐ©»Øµ÷º¯Êý¡£</p>
+<p>jQuery 1.5 ä¸­çš„çº¦å®šæŽ¥å£åŒæ ·å…è®¸ jQuery çš„ Ajax æ–¹æ³•ï¼ŒåŒ…æ‹¬ $.post()ï¼Œæ¥é“¾æŽ¥åŒä¸€è¯·æ±‚çš„å¤šä¸ª .success()ã€.complete() ä»¥åŠ .error() å›žè°ƒå‡½æ•°ï¼Œç”šè‡³ä¼šåœ¨è¯·æ±‚ä¹Ÿè®¸å·²ç»å®ŒæˆåŽåˆ†é…è¿™äº›å›žè°ƒå‡½æ•°ã€‚</p>
 
 <pre>
-<span>// ÇëÇóÉú³ÉºóÁ¢¼´·ÖÅä´¦Àí³ÌÐò£¬Çë¼Ç×¡¸ÃÇëÇóÕë¶Ô jqxhr ¶ÔÏó</span>
+<span>// è¯·æ±‚ç”ŸæˆåŽç«‹å³åˆ†é…å¤„ç†ç¨‹åºï¼Œè¯·è®°ä½è¯¥è¯·æ±‚é’ˆå¯¹ jqxhr å¯¹è±¡</span>
     var jqxhr = $.post(&quot;example.php&quot;, function() {
       alert(&quot;success&quot;);
     })
@@ -256,38 +256,38 @@ $.post(&quot;ajax/test.html&quot;, function(data) {
     .error(function() { alert(&quot;error&quot;); })
     .complete(function() { alert(&quot;complete&quot;); });
 
-    <span>// ÔÚÕâÀïÖ´ÐÐÆäËûÈÎÎñ</span>
+    <span>// åœ¨è¿™é‡Œæ‰§è¡Œå…¶ä»–ä»»åŠ¡</span>
 	
-    <span>// ÎªÉÏÃæµÄÇëÇóÉèÖÃÁíÒ»¸öÍê³Éº¯Êý</span>
+    <span>// ä¸ºä¸Šé¢çš„è¯·æ±‚è®¾ç½®å¦ä¸€ä¸ªå®Œæˆå‡½æ•°</span>
     jqxhr.complete(function(){ alert(&quot;second complete&quot;); });
 </pre>
 </div>
 
 
 <div>
-<h2>¸ü¶àÊµÀý</h2>
+<h2>æ›´å¤šå®žä¾‹</h2>
 
-<h3>Àý×Ó 1</h3>
+<h3>ä¾‹å­ 1</h3>
 
-<p>ÇëÇó test.php Ò³Ãæ£¬²¢Ò»Æð·¢ËÍÒ»Ð©¶îÍâµÄÊý¾Ý£¨Í¬Ê±ÈÔÈ»ºöÂÔ·µ»ØÖµ£©£º</p>
+<p>è¯·æ±‚ test.php é¡µé¢ï¼Œå¹¶ä¸€èµ·å‘é€ä¸€äº›é¢å¤–çš„æ•°æ®ï¼ˆåŒæ—¶ä»ç„¶å¿½ç•¥è¿”å›žå€¼ï¼‰ï¼š</p>
 
 <pre>$.post(&quot;test.php&quot;, { name: &quot;John&quot;, time: &quot;2pm&quot; } );</pre>
 
-<h3>Àý×Ó 2</h3>
+<h3>ä¾‹å­ 2</h3>
 
-<p>Ïò·þÎñÆ÷´«µÝÊý¾ÝÊý×é£¨Í¬Ê±ÈÔÈ»ºöÂÔ·µ»ØÖµ£©£º</p>
+<p>å‘æœåŠ¡å™¨ä¼ é€’æ•°æ®æ•°ç»„ï¼ˆåŒæ—¶ä»ç„¶å¿½ç•¥è¿”å›žå€¼ï¼‰ï¼š</p>
 
 <pre>$.post(&quot;test.php&quot;, { 'choices[]': [&quot;Jon&quot;, &quot;Susan&quot;] });</pre>
 
-<h3>Àý×Ó 3</h3>
+<h3>ä¾‹å­ 3</h3>
 
-<p>Ê¹ÓÃ ajax ÇëÇó·¢ËÍ±íµ¥Êý¾Ý£º</p>
+<p>ä½¿ç”¨ ajax è¯·æ±‚å‘é€è¡¨å•æ•°æ®ï¼š</p>
 
 <pre>$.post(&quot;test.php&quot;, $(&quot;#testform&quot;).serialize());</pre>
 
-<h3>Àý×Ó 4</h3>
+<h3>ä¾‹å­ 4</h3>
 
-<p>Êä³öÀ´×ÔÇëÇóÒ³Ãæ test.php µÄ½á¹û£¨HTML »ò XML£¬È¡¾öÓÚËù·µ»ØµÄÄÚÈÝ£©£º</p>
+<p>è¾“å‡ºæ¥è‡ªè¯·æ±‚é¡µé¢ test.php çš„ç»“æžœï¼ˆHTML æˆ– XMLï¼Œå–å†³äºŽæ‰€è¿”å›žçš„å†…å®¹ï¼‰ï¼š</p>
 
 <pre>
 $.post(&quot;test.php&quot;, function(data){
@@ -295,9 +295,9 @@ $.post(&quot;test.php&quot;, function(data){
  });
 </pre>
 
-<h3>Àý×Ó 5</h3>
+<h3>ä¾‹å­ 5</h3>
 
-<p>ÏòÒ³Ãæ test.php ·¢ËÍÊý¾Ý£¬²¢Êä³ö½á¹û£¨HTML »ò XML£¬È¡¾öÓÚËù·µ»ØµÄÄÚÈÝ£©£º</p>
+<p>å‘é¡µé¢ test.php å‘é€æ•°æ®ï¼Œå¹¶è¾“å‡ºç»“æžœï¼ˆHTML æˆ– XMLï¼Œå–å†³äºŽæ‰€è¿”å›žçš„å†…å®¹ï¼‰ï¼š</p>
 
 <pre>
 $.post(&quot;test.php&quot;, { name: &quot;John&quot;, time: &quot;2pm&quot; },
@@ -306,9 +306,9 @@ $.post(&quot;test.php&quot;, { name: &quot;John&quot;, time: &quot;2pm&quot; },
    });
 </pre>
 
-<h3>Àý×Ó 6</h3>
+<h3>ä¾‹å­ 6</h3>
 
-<p>»ñµÃ test.php Ò³ÃæµÄÄÚÈÝ£¬²¢´æ´¢Îª XMLHttpResponse ¶ÔÏó£¬²¢Í¨¹ý process() Õâ¸ö JavaScript º¯Êý½øÐÐ´¦Àí£º</p>
+<p>èŽ·å¾— test.php é¡µé¢çš„å†…å®¹ï¼Œå¹¶å­˜å‚¨ä¸º XMLHttpResponse å¯¹è±¡ï¼Œå¹¶é€šè¿‡ process() è¿™ä¸ª JavaScript å‡½æ•°è¿›è¡Œå¤„ç†ï¼š</p>
 
 <pre>
 $.post(&quot;test.php&quot;, { name: &quot;John&quot;, time: &quot;2pm&quot; },
@@ -317,9 +317,9 @@ $.post(&quot;test.php&quot;, { name: &quot;John&quot;, time: &quot;2pm&quot; },
    }, &quot;xml&quot;);
 </pre>
 
-<h3>Àý×Ó 7</h3>
+<h3>ä¾‹å­ 7</h3>
 
-<p>»ñµÃ test.php Ò³Ãæ·µ»ØµÄ json ¸ñÊ½µÄÄÚÈÝ£º</p>
+<p>èŽ·å¾— test.php é¡µé¢è¿”å›žçš„ json æ ¼å¼çš„å†…å®¹ï¼š</p>
 
 <pre>
 $.post(&quot;test.php&quot;, { &quot;func&quot;: &quot;getNameAndTime&quot; },
@@ -332,7 +332,7 @@ $.post(&quot;test.php&quot;, { &quot;func&quot;: &quot;getNameAndTime&quot; },
 
 
 <div class="backtoreference">
-<p><a href="jquery_ref_ajax.html" title="jQuery ²Î¿¼ÊÖ²á - Ajax">jQuery Ajax ²Î¿¼ÊÖ²á</a></p>
+<p><a href="jquery_ref_ajax.html" title="jQuery å‚è€ƒæ‰‹å†Œ - Ajax">jQuery Ajax å‚è€ƒæ‰‹å†Œ</a></p>
 </div>
 
 </div>
@@ -344,15 +344,15 @@ $.post(&quot;test.php&quot;, { &quot;func&quot;: &quot;getNameAndTime&quot; },
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈÝ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="jquery_reference.html" title="jQuery ²Î¿¼ÊÖ²á">jQuery ²Î¿¼ÊÖ²á</a></h5>
-<h5 id="tools_quiz"><a href="jquery_quiz.html">jQuery ²âÑé</a></h5>
+<h5 id="tools_reference"><a href="jquery_reference.html" title="jQuery å‚è€ƒæ‰‹å†Œ">jQuery å‚è€ƒæ‰‹å†Œ</a></h5>
+<h5 id="tools_quiz"><a href="jquery_quiz.html">jQuery æµ‹éªŒ</a></h5>
 </div>
 
 <div id="ad">
@@ -373,13 +373,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£W3School ¼òÌåÖÐÎÄ°æµÄËùÓÐÄÚÈÝ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ðµ£ÈÎºÎÔðÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºŽåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£Žé™©ä¸Žæœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£Žé™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒþË½">ÒþË½Ìõ¿î</a>¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
-ÔÞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æŽ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºŽä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºŽéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµžåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

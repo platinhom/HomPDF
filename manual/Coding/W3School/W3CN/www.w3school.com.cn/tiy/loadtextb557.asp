@@ -12,7 +12,7 @@ p.important {color:red;}
 <body>
 <h1 class="intro">Header 1</h1>
 <p>A paragraph.</p>
-<p class="important">Çë×¢ÒâÕâ¸öÖØÒªµÄ¶ÎÂä¡£:)</p>
+<p class="important">è¯·æ³¨æ„è¿™ä¸ªé‡è¦çš„æ®µè½ã€‚:)</p>
 </body>
 
 

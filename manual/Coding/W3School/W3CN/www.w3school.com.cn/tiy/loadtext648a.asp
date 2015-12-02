@@ -25,8 +25,8 @@ $(document).ready(function(){
 <body>
 <p>Artists</p>
 <div></div>
-<button>»ñµÃ CD ĞÅÏ¢</button>
-<p>±¾ÀıÖĞÊ¹ÓÃµÄ XML ÎÄ¼şÊÇ <a href="../example/xmle/cd_catalog.xml" target="_blank">cd_catalog</a></p>
+<button>è·å¾— CD ä¿¡æ¯</button>
+<p>æœ¬ä¾‹ä¸­ä½¿ç”¨çš„ XML æ–‡ä»¶æ˜¯ <a href="../example/xmle/cd_catalog.xml" target="_blank">cd_catalog</a></p>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_ajax_load_func by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

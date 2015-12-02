@@ -14,13 +14,13 @@ text-justify:inter-word;
 </head>
 
 <body>
-<h1>CSS text-justify ÊµÀı</h1>
+<h1>CSS text-justify å®ä¾‹</h1>
 
 <div>Shanghai is the largest city by population in the People's Republic of China (PRC) and the largest city proper by population in the world. It is one of the four province-level municipalities of the PRC, with a total population of over 23 million as of 2010. It is a global city, with influence in commerce, culture, finance, media, fashion, technology, and transport. It is a major financial center and the busiest container port in the world.</div>
 
-<p><b>ÌáÊ¾£º</b>Çëµ÷Õûä¯ÀÀÆ÷´°¿ÚµÄ´óĞ¡£¬À´²é¿´ÆëĞĞĞ§¹û¡£</p>
+<p><b>æç¤ºï¼š</b>è¯·è°ƒæ•´æµè§ˆå™¨çª—å£çš„å¤§å°ï¼Œæ¥æŸ¥çœ‹é½è¡Œæ•ˆæœã€‚</p>
 
-<p><b>×¢ÊÍ£º</b>text-justify ÊôĞÔÖ»ÔÚ IE ÖĞÓĞĞ§¡£</p>
+<p><b>æ³¨é‡Šï¼š</b>text-justify å±æ€§åªåœ¨ IE ä¸­æœ‰æ•ˆã€‚</p>
 </body>
 
 

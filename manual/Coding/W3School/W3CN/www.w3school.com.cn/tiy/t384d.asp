@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquerymobile_forms_select_native by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:52:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -54,24 +54,24 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div data-role="page">
   <div data-role="header">
-  <h1>ѡ��˵�</h1>
+  <h1>选择菜单</h1>
   </div>
 
   <div data-role="content">
     <form method="post" action="http://www.w3school.com.cn/tiy/demoform.asp">
       <fieldset data-role="fieldcontain">
-        <label for="day">ѡ����</label>
+        <label for="day">选择天</label>
         <select name="day" id="day" data-native-menu="false">
-         <option value="mon">����һ</option>
-         <option value="tue">���ڶ�</option>
-         <option value="wed">������</option>
-         <option value="thu">������</option>
-         <option value="fri">������</option>
-         <option value="sat">������</option>
-         <option value="sun">������</option>
+         <option value="mon">星期一</option>
+         <option value="tue">星期二</option>
+         <option value="wed">星期三</option>
+         <option value="thu">星期四</option>
+         <option value="fri">星期五</option>
+         <option value="sat">星期六</option>
+         <option value="sun">星期日</option>
         </select>
       </fieldset>
-      <input type="submit" data-inline="true" value="�ύ">
+      <input type="submit" data-inline="true" value="提交">
     </form>
   </div>
 </div>
@@ -89,12 +89,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtext384d.html?f=jquerymobile_forms_select_native"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

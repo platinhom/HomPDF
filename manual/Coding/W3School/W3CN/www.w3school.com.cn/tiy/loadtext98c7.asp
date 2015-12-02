@@ -9,13 +9,13 @@
 
 <div id="main">
 <p>The DOM is very useful.</p>
-<p>±¾ÀýÑÝÊ¾ <b>getElementsByTagName</b> ·½·¨¡£</p>
+<p>æœ¬ä¾‹æ¼”ç¤º <b>getElementsByTagName</b> æ–¹æ³•ã€‚</p>
 </div>
 
 <script>
 var x=document.getElementById("main");
 var y=x.getElementsByTagName("p");
-document.write('id Îª "main" µÄ div ÖÐµÄµÚÒ»¶ÎÎÄ±¾ÊÇ£º' + y[0].innerHTML);
+document.write('id ä¸º "main" çš„ div ä¸­çš„ç¬¬ä¸€æ®µæ–‡æœ¬æ˜¯ï¼š' + y[0].innerHTML);
 </script>
 
 </body>

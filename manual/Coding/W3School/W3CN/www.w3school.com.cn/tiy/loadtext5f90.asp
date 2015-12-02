@@ -17,7 +17,7 @@ title="Venus" />
 </map>
 </map>
 
-<p>Venus µÄ title£¨¼´°ÑÊó±êÒÆ¶¯µ½»ğĞÇÉÏÏÔÊ¾µÄÎÄ±¾£©ÊÇ£º
+<p>Venus çš„ titleï¼ˆå³æŠŠé¼ æ ‡ç§»åŠ¨åˆ°ç«æ˜Ÿä¸Šæ˜¾ç¤ºçš„æ–‡æœ¬ï¼‰æ˜¯ï¼š
 <script type="text/javascript">
 x=document.getElementById('venus')
 document.write(x.title)

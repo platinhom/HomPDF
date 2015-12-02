@@ -14,8 +14,8 @@ $(document).ready(function(){
 </head>
 <body>
 <div style="background-color:red">
-<p>ÕâÊÇÒ»¸ö¶ÎÂä¡£</p>
-<button>Çëµã»÷ÕâÀï</button>
+<p>è¿™æ˜¯ä¸€ä¸ªæ®µè½ã€‚</p>
+<button>è¯·ç‚¹å‡»è¿™é‡Œ</button>
 </div>
 
 </body>

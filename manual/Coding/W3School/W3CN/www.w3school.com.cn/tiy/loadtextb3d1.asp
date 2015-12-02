@@ -15,12 +15,12 @@ Mouse Over Me
 <script>
 function mOver(obj)
 {
-obj.innerHTML="Ğ»Ğ»Äã"
+obj.innerHTML="è°¢è°¢ä½ "
 }
 
 function mOut(obj)
 {
-obj.innerHTML="°ÑÊó±êÖ¸ÕëÒÆ¶¯µ½ÉÏÃæ"
+obj.innerHTML="æŠŠé¼ æ ‡æŒ‡é’ˆç§»åŠ¨åˆ°ä¸Šé¢"
 }
 </script>
 

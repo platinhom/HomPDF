@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/aspnet/control_customvalidator.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:21:36 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>ASP.NET CustomValidator �ؼ�</title>
+<title>ASP.NET CustomValidator 控件</title>
 </head>
 
 <body class="dotnet">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,98 +42,98 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>ASP.NET �̳�</h2>
+<div id="course"><h2>ASP.NET 教程</h2>
 <ul>
-<li><a href="index.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li><a href="aspnet.html" title="ASP.NET ���">ASP.NET ���</a></li>
+<li><a href="index.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li><a href="aspnet.html" title="ASP.NET 简介">ASP.NET 简介</a></li>
 </ul>
-<h2>WP �̳�</h2>
+<h2>WP 教程</h2>
 <ul>
-<li><a href="webpages_intro.html" title="WebPages ���">WebPages ���</a></li>
+<li><a href="webpages_intro.html" title="WebPages 简介">WebPages 简介</a></li>
 <li><a href="webpages_razor.html" title="WebPages Razor">WebPages Razor</a></li>
-<li><a href="webpages_layout.html" title="WebPages ����">WebPages ����</a></li>
-<li><a href="webpages_folders.html" title="WebPages �ļ���">WebPages �ļ���</a></li>
-<li><a href="webpages_global.html" title="WebPages ȫ��">WebPages ȫ��</a></li>
-<li><a href="webpages_forms.html" title="WebPages ����">WebPages ����</a></li>
-<li><a href="webpages_objects.html" title="WebPages ����">WebPages ����</a></li>
-<li><a href="webpages_files.html" title="WebPages �ļ�">WebPages �ļ�</a></li>
-<li><a href="webpages_helpers.html" title="WebPages ������">WebPages ������</a></li>
+<li><a href="webpages_layout.html" title="WebPages 布局">WebPages 布局</a></li>
+<li><a href="webpages_folders.html" title="WebPages 文件夹">WebPages 文件夹</a></li>
+<li><a href="webpages_global.html" title="WebPages 全局">WebPages 全局</a></li>
+<li><a href="webpages_forms.html" title="WebPages 窗体">WebPages 窗体</a></li>
+<li><a href="webpages_objects.html" title="WebPages 对象">WebPages 对象</a></li>
+<li><a href="webpages_files.html" title="WebPages 文件">WebPages 文件</a></li>
+<li><a href="webpages_helpers.html" title="WebPages 帮助器">WebPages 帮助器</a></li>
 <li><a href="webpages_webgrid.html" title="WebPages WebGrid">WebPages WebGrid</a></li>
-<li><a href="webpages_chart.html" title="WebPages ͼ��">WebPages ͼ��</a></li>
-<li><a href="webpages_email.html" title="WebPages ����">WebPages ����</a></li>
+<li><a href="webpages_chart.html" title="WebPages 图表">WebPages 图表</a></li>
+<li><a href="webpages_email.html" title="WebPages 电邮">WebPages 电邮</a></li>
 <li><a href="webpages_php.html" title="WebPages PHP">WebPages PHP</a></li>
-<li><a href="webpages_publish.html" title="WebPages ����">WebPages ����</a></li>
-<li><a href="webpages_examples.html" title="WebPages ʵ��">WebPages ʵ��</a></li>
+<li><a href="webpages_publish.html" title="WebPages 发布">WebPages 发布</a></li>
+<li><a href="webpages_examples.html" title="WebPages 实例">WebPages 实例</a></li>
 </ul>
-<h2>WP �ο��ֲ�</h2>
+<h2>WP 参考手册</h2>
 <ul>
-<li><a href="webpages_ref_classes.html" title="WebPages ��">WebPages ��</a></li>
-<li><a href="webpages_ref_websecurity.asp" title="WebPages ��ȫ">WebPages ��ȫ</a></li>
-<li><a href="webpages_ref_database.asp" title="WebPages ���ݿ�">WebPages ���ݿ�</a></li>
+<li><a href="webpages_ref_classes.html" title="WebPages 类">WebPages 类</a></li>
+<li><a href="webpages_ref_websecurity.asp" title="WebPages 安全">WebPages 安全</a></li>
+<li><a href="webpages_ref_database.asp" title="WebPages 数据库">WebPages 数据库</a></li>
 <li><a href="webpages_ref_webmail.html" title="WebPages WebMail">WebPages WebMail</a></li>
-<li><a href="webpages_ref_helpers.asp" title="WebPages ����">WebPages ����</a></li>
+<li><a href="webpages_ref_helpers.asp" title="WebPages 助手">WebPages 助手</a></li>
 </ul>
 <h2>ASP.NET Razor</h2>
 <ul>
-<li><a href="razor_intro.html" title="Razor ���">Razor ���</a></li>
-<li><a href="razor_syntax.html" title="Razor �﷨">Razor �﷨</a></li>
-<li><a href="razor_cs_variables.html" title="Razor C# ����">Razor C# ����</a></li>
-<li><a href="razor_cs_loops.html" title="Razor C# ѭ��">Razor C# ѭ��</a></li>
-<li><a href="razor_cs_logic.html" title="Razor ��߾�ϲ�">Razor C# �߼�</a></li>
-<li><a href="razor_vb_variables.html" title="Razor VB ����">Razor VB ����</a></li>
-<li><a href="razor_vb_loops.html" title="Razor VB ѭ��">Razor VB ѭ��</a></li>
-<li><a href="razor_vb_logic.html" title="Razor VB �߼�">Razor VB �߼�</a></li>
+<li><a href="razor_intro.html" title="Razor 简介">Razor 简介</a></li>
+<li><a href="razor_syntax.html" title="Razor 语法">Razor 语法</a></li>
+<li><a href="razor_cs_variables.html" title="Razor C# 变量">Razor C# 变量</a></li>
+<li><a href="razor_cs_loops.html" title="Razor C# 循环">Razor C# 循环</a></li>
+<li><a href="razor_cs_logic.html" title="Razor 外边距合并">Razor C# 逻辑</a></li>
+<li><a href="razor_vb_variables.html" title="Razor VB 变量">Razor VB 变量</a></li>
+<li><a href="razor_vb_loops.html" title="Razor VB 循环">Razor VB 循环</a></li>
+<li><a href="razor_vb_logic.html" title="Razor VB 逻辑">Razor VB 逻辑</a></li>
 </ul>
 <h2>ASP.NET MVC</h2>
 <ul>
-<li><a href="mvc_intro.html" title="MVC ���">MVC ���</a></li>
-<li><a href="mvc_app.html" title="MVC Ӧ�ó���">MVC Ӧ�ó���</a></li>
-<li><a href="mvc_folders.html" title="MVC �ļ���">MVC �ļ���</a></li>
-<li><a href="mvc_layout.html" title="MVC ����">MVC ����</a></li>
-<li><a href="mvc_controllers.html" title="MVC ������">MVC ������</a></li>
-<li><a href="mvc_views.asp" title="MVC ��ͼ">MVC ��ͼ</a></li>
-<li><a href="mvc_database.html" title="MVC ���ݿ�">MVC ���ݿ�</a></li>
-<li><a href="mvc_models.html" title="MVC ģ��">MVC ģ��</a></li>
-<li><a href="mvc_security.html" title="MVC ��ȫ">MVC ��ȫ</a></li>
-<li><a href="mvc_htmlhelpers.html" title="MVC HTML ����">MVC HTML ����</a></li>
-<li><a href="mvc_publish.asp" title="MVC ����">MVC ����</a></li>
-<li><a href="mvc_reference.html" title="MVC �ο��ֲ�">MVC �ο��ֲ�</a></li>
+<li><a href="mvc_intro.html" title="MVC 简介">MVC 简介</a></li>
+<li><a href="mvc_app.html" title="MVC 应用程序">MVC 应用程序</a></li>
+<li><a href="mvc_folders.html" title="MVC 文件夹">MVC 文件夹</a></li>
+<li><a href="mvc_layout.html" title="MVC 布局">MVC 布局</a></li>
+<li><a href="mvc_controllers.html" title="MVC 控制器">MVC 控制器</a></li>
+<li><a href="mvc_views.asp" title="MVC 视图">MVC 视图</a></li>
+<li><a href="mvc_database.html" title="MVC 数据库">MVC 数据库</a></li>
+<li><a href="mvc_models.html" title="MVC 模型">MVC 模型</a></li>
+<li><a href="mvc_security.html" title="MVC 安全">MVC 安全</a></li>
+<li><a href="mvc_htmlhelpers.html" title="MVC HTML 助手">MVC HTML 助手</a></li>
+<li><a href="mvc_publish.asp" title="MVC 发布">MVC 发布</a></li>
+<li><a href="mvc_reference.html" title="MVC 参考手册">MVC 参考手册</a></li>
 </ul>
-<h2>WF �̳�</h2>
+<h2>WF 教程</h2>
 <ul>
-<li><a href="aspnet_intro.html" title="WebForms ���">WebForms ���</a></li>
+<li><a href="aspnet_intro.html" title="WebForms 简介">WebForms 简介</a></li>
 <li><a href="aspnet_pages.html" title="WebForms Pages">WebForms Pages</a></li>
-<li><a href="aspnet_controls.html" title="WebForms �ؼ�">WebForms �ؼ�</a></li>
-<li><a href="aspnet_events.html" title="WebForms �¼�">WebForms �¼�</a></li>
-<li><a href="aspnet_forms.html" title="WebForms ����">WebForms ����</a></li>
+<li><a href="aspnet_controls.html" title="WebForms 控件">WebForms 控件</a></li>
+<li><a href="aspnet_events.html" title="WebForms 事件">WebForms 事件</a></li>
+<li><a href="aspnet_forms.html" title="WebForms 窗体">WebForms 窗体</a></li>
 <li><a href="aspnet_viewstate.asp" title="WebForms ViewState">WebForms ViewState</a></li>
 <li><a href="aspnet_textbox.asp" title="WebForms TextBox">WebForms TextBox</a></li>
 <li><a href="aspnet_button.asp" title="WebForms Button">WebForms Button</a></li>
-<li><a href="aspnet_databinding.html" title="WebForms Data Binding">WebForms ���ݰ�</a></li>
+<li><a href="aspnet_databinding.html" title="WebForms Data Binding">WebForms 数据绑定</a></li>
 <li><a href="aspnet_arraylist.html" title="WebForms ArrayList">WebForms ArrayList</a></li>
 <li><a href="aspnet_hashtable.html" title="WebForms Hashtable">WebForms Hashtable</a></li>
 <li><a href="aspnet_sortedlist.html" title="WebForms SortedList">WebForms SortedList</a></li>
-<li><a href="aspnet_xml.html" title="WebForms XML �ļ�">WebForms XML �ļ�</a></li>
+<li><a href="aspnet_xml.html" title="WebForms XML 文件">WebForms XML 文件</a></li>
 <li><a href="aspnet_repeater.html" title="WebForms Repeater">WebForms Repeater</a></li>
 <li><a href="aspnet_datalist.html" title="WebForms DataList">WebForms DataList</a></li>
-<li><a href="aspnet_dbconnection.html" title="WebForms DbConnection">WebForms ���ݿ�����</a></li>
-<li><a href="aspnet_masterpages.html" title="WebForms Master Pages">WebForms ĸ��ҳ</a></li>
-<li><a href="aspnet_navigation.html" title="WebForms ����">WebForms ����</a></li>
-<li><a href="aspnet_examples.html" title="WebForms ʵ��">WebForms ʵ��</a></li>
+<li><a href="aspnet_dbconnection.html" title="WebForms DbConnection">WebForms 数据库连接</a></li>
+<li><a href="aspnet_masterpages.html" title="WebForms Master Pages">WebForms 母版页</a></li>
+<li><a href="aspnet_navigation.html" title="WebForms 导航">WebForms 导航</a></li>
+<li><a href="aspnet_examples.html" title="WebForms 实例">WebForms 实例</a></li>
 </ul>
-<h2>WF �ο��ֲ�</h2>
+<h2>WF 参考手册</h2>
 <ul>
 <li><a href="aspnet_refhtmlcontrols.html" title="WebForms HTML">WebForms HTML</a></li>
 <li><a href="aspnet_refwebcontrols.asp" title="WebForms Controls">WebForms Controls</a></li>
@@ -145,45 +145,45 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>ASP.NET CustomValidator �ؼ�</h1>
+<h1>ASP.NET CustomValidator 控件</h1>
 
 <div class="backtoreference">
-<p><a href="aspnet_refvalidationcontrols.html" title="Validation �������ؼ�">Validation �������ؼ�</a></p>
+<p><a href="aspnet_refvalidationcontrols.html" title="Validation 服务器控件">Validation 服务器控件</a></p>
 </div>
 
 
 <div>
-<h2>������÷�</h2>
-<p>CustomValidator �ؼ��ɶ�����ؼ�ִ���û��������֤��</p>
+<h2>定义和用法</h2>
+<p>CustomValidator 控件可对输入控件执行用户定义的验证。</p>
 </div>
 
 
 <div>
-<h2>����</h2>
+<h2>属性</h2>
 
 <table class="dataintable">
 <tr>
-<th>����</th>
-<th>����</th>
+<th>属性</th>
+<th>描述</th>
 </tr>
 
 <tr>
 <td>BackColor</td>
-<td>CustomValidator �ؼ��ı�����ɫ��</td>
+<td>CustomValidator 控件的背景颜色。</td>
 </tr>
 
 <tr>
 <td>ClientValidationFunction</td>
 <td>
-<p>�涨������֤���Զ���ͻ��˽ű����������ơ�</p>
+<p>规定用于验证的自定义客户端脚本函数的名称。</p>
 
-<p>ע�ͣ��ű������������֧�ֵ����Ա�д������ VBScript �� JScript</p>
+<p>注释：脚本必须用浏览器支持的语言编写，比如 VBScript 或 JScript</p>
 
-<p>ʹ�� VBScript �Ļ�����������λ�ڱ����У�</p>
+<p>使用 VBScript 的话，函数必须位于表单中：</p>
 
 <p>Sub FunctionName (source, arguments)</p>
 
-<p>ʹ�� JScript �Ļ�����������λ�ڱ����У�</p>
+<p>使用 JScript 的话，函数必须位于表单中：</p>
 
 <p>Function FunctionName (source, arguments)</p>
 </td>
@@ -191,84 +191,84 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <tr>
 <td>ControlToValidate</td>
-<td>Ҫ��֤������ؼ��� id��</td>
+<td>要验证的输入控件的 id。</td>
 </tr>
 
 <tr>
 <td>Display</td>
 <td>
-<p>��֤�ؼ��д�����Ϣ����ʾ��Ϊ��</p>
-<p>�Ϸ���ֵ�У�</p>
+<p>验证控件中错误信息的显示行为。</p>
+<p>合法的值有：</p>
 <ul>
-<li>None - ��֤��Ϣ�Ӳ�������ʾ��</li>
-<li>Static - ��ҳ�沼���з���������ʾ��֤��Ϣ�Ŀռ䡣</li>
-<li>Dynamic - �����֤ʧ�ܣ���������ʾ��֤��Ϣ�Ŀռ䶯̬���ӵ�ҳ�档</li>
+<li>None - 验证消息从不内联显示。</li>
+<li>Static - 在页面布局中分配用于显示验证消息的空间。</li>
+<li>Dynamic - 如果验证失败，将用于显示验证消息的空间动态添加到页面。</li>
 </ul>
 </td>
 </tr>
 
 <tr>
 <td>EnableClientScript</td>
-<td>����ֵ����ֵָʾ�Ƿ����ÿͻ�����֤��</td>
+<td>布尔值，该值指示是否启用客户端验证。</td>
 </tr>
 
 <tr>
 <td>Enabled</td>
-<td>����ֵ����ֵָʾ�Ƿ�������֤�ؼ���</td>
+<td>布尔值，该值指示是否启用验证控件。</td>
 </tr>
 
 <tr>
 <td>ErrorMessage</td>
 <td>
-<p>��֤ʧ��ʱ ValidationSummary �ؼ�����ʾ�Ĵ�����Ϣ���ı���</p>
-<p>ע�ͣ���������� ErrorMessage ���Ե�û������ Text ���ԣ�����֤�ؼ���Ҳ����ʾ ErrorMessage ���Ե�ֵ��</p>
+<p>验证失败时 ValidationSummary 控件中显示的错误信息的文本。</p>
+<p>注释：如果设置了 ErrorMessage 属性但没有设置 Text 属性，则验证控件中也将显示 ErrorMessage 属性的值。</p>
 </td>
 </tr>
 
 <tr>
 <td>ForeColor</td>
-<td>�ؼ���ǰ��ɫ��</td>
+<td>控件的前景色。</td>
 </tr>
 
 <tr>
 <td>id</td>
-<td>�ؼ���Ψһ id��</td>
+<td>控件的唯一 id。</td>
 </tr>
 
 <tr>
 <td>IsValid</td>
-<td>����ֵ����ֵָʾ����������ؼ��Ƿ�ͨ����֤��</td>
+<td>布尔值，该值指示关联的输入控件是否通过验证。</td>
 </tr>
 
 <tr>
 <td>OnServerValidate</td>
-<td>�涨��ִ�еķ���������֤�ű����������ơ�</td>
+<td>规定被执行的服务器端验证脚本函数的名称。</td>
 </tr>
 
 <tr>
 <td>runat</td>
-<td>�涨�ÿؼ��Ƿ������ؼ�����������Ϊ &quot;server&quot;��</td>
+<td>规定该控件是服务器控件。必须设置为 &quot;server&quot;。</td>
 </tr>
 
 <tr>
 <td>Text</td>
-<td>����֤ʧ��ʱ��ʾ���ı���</td>
+<td>当验证失败时显示的文本。</td>
 </tr>
 </table>
 </div>
 
 
 <div class="example">
-<h2>ʵ��</h2>
+<h2>实例</h2>
 <dl>
 <dt><a target="_blank" href="../tiy/sba26.html?f=demo_aspnet_customvalidator">CustomValidator</a></dt>
-<dd>�ڱ����У������� .aspx �ļ������������� Label �ؼ���һ�� TextBox �ؼ���һ�� Button �ؼ����Լ�һ�� CustomValidator �ؼ���user() �����ɼ������ֵ�ĳ��ȡ��������С�� 8 ����� 16������ CustomValidator �ؼ�����ʾ�ı� &quot;�û���������� 8 �� 16 ���ַ�֮�䣡&quot;��</dd>
+<dd>在本例中，我们在 .aspx 文件中声明了两个 Label 控件，一个 TextBox 控件，一个 Button 控件，以及一个 CustomValidator 控件。user() 函数可检测输入值的长度。如果长度小于 8 或大于 16，将在 CustomValidator 控件中显示文本 &quot;用户名必须介于 8 到 16 个字符之间！&quot;。</dd>
 </dl>
 </div>
 
 
 <div class="backtoreference">
-<p><a href="aspnet_refvalidationcontrols.html" title="Validation �������ؼ�">Validation �������ؼ�</a></p>
+<p><a href="aspnet_refvalidationcontrols.html" title="Validation 服务器控件">Validation 服务器控件</a></p>
 </div>
 </div>
 
@@ -279,14 +279,14 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="aspnet_reference.html">ASP.NET �ο��ֲ�</a></h5>
+<h5 id="tools_reference"><a href="aspnet_reference.html">ASP.NET 参考手册</a></h5>
 </div>
 
 <div id="ad">
@@ -307,13 +307,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

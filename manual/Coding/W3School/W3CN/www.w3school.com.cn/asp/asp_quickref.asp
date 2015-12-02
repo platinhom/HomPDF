@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/asp/asp_quickref.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 03:18:45 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
 <meta name="keywords" content="ASP Content Rotator" />
-<meta name="description" content="ContentRotator×é¼þµÄ×÷ÓÃ¡¢ÓÃ·¨¡¢Óï·¨ÒÔ¼°Ïà¹ØµÄ·½·¨£¨Method£©" />
+<meta name="description" content="ContentRotatorç»„ä»¶çš„ä½œç”¨ã€ç”¨æ³•ã€è¯­æ³•ä»¥åŠç›¸å…³çš„æ–¹æ³•ï¼ˆMethodï¼‰" />
 
 <meta name="author" content="w3school.com.cn" />
 <meta name="Copyright" content="Copyright W3school.com.cn All Rights Reserved." />
@@ -19,18 +19,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>ASP ¿ìËÙ²Î¿¼</title>
+<title>ASP å¿«é€Ÿå‚è€ƒ</title>
 </head>
 
 <body class="serverscripting">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäºŽ 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -44,87 +44,87 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>ASP ½Ì³Ì</h2>
+<div id="course"><h2>ASP æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="ASP ½Ì³Ì">ASP ½Ì³Ì</a></li>
-<li><a href="asp_intro.html" title="ASP ¼ò½é">ASP ¼ò½é</a></li>
-<li><a href="asp_install.asp" title="ÔÚ×Ô¼ºµÄ PC ÉÏÔËÐÐ ASP">ASP °²×°</a></li>
-<li><a href="asp_syntax.html" title="ASP Óï·¨">ASP Óï·¨</a></li>
-<li><a href="asp_variables.html" title="ASP ±äÁ¿">ASP ±äÁ¿</a></li>
-<li><a href="asp_procedures.html" title="ASP ×Ó³ÌÐò">ASP ³ÌÐò</a></li>
-<li><a href="asp_inputforms.html" title="ASP ±íµ¥ºÍÓÃ»§ÊäÈë">ASP ±íµ¥</a></li>
+<li><a href="index.html" title="ASP æ•™ç¨‹">ASP æ•™ç¨‹</a></li>
+<li><a href="asp_intro.html" title="ASP ç®€ä»‹">ASP ç®€ä»‹</a></li>
+<li><a href="asp_install.asp" title="åœ¨è‡ªå·±çš„ PC ä¸Šè¿è¡Œ ASP">ASP å®‰è£…</a></li>
+<li><a href="asp_syntax.html" title="ASP è¯­æ³•">ASP è¯­æ³•</a></li>
+<li><a href="asp_variables.html" title="ASP å˜é‡">ASP å˜é‡</a></li>
+<li><a href="asp_procedures.html" title="ASP å­ç¨‹åº">ASP ç¨‹åº</a></li>
+<li><a href="asp_inputforms.html" title="ASP è¡¨å•å’Œç”¨æˆ·è¾“å…¥">ASP è¡¨å•</a></li>
 <li><a href="asp_cookies.html" title="ASP Cookies">ASP Cookies</a></li>
 <li><a href="asp_sessions.html" title="ASP Session">ASP Session</a></li>
 <li><a href="asp_applications.html" title="ASP Application">ASP Application</a></li>
-<li><a href="asp_incfiles.html" title="ASP ÎÄ¼þÒýÓÃ">ASP #include</a></li>
-<li><a href="asp_globalasa.html" title="ASP Global.asa ÎÄ¼þ">ASP Global.asa</a></li>
-<li><a href="asp_send_email.html" title="ASP Ê¹ÓÃ CDOSYS ·¢ËÍµç×ÓÓÊ¼þ">ASP ÓÊ¼þ</a></li>
+<li><a href="asp_incfiles.html" title="ASP æ–‡ä»¶å¼•ç”¨">ASP #include</a></li>
+<li><a href="asp_globalasa.html" title="ASP Global.asa æ–‡ä»¶">ASP Global.asa</a></li>
+<li><a href="asp_send_email.html" title="ASP ä½¿ç”¨ CDOSYS å‘é€ç”µå­é‚®ä»¶">ASP é‚®ä»¶</a></li>
 </ul>
-<h2>ASP ¸ß¼¶</h2>
+<h2>ASP é«˜çº§</h2>
 <ul>
-<li><a href="asp_ref_response.html" title="ASP Response ¶ÔÏó">ASP Response</a></li>
-<li><a href="asp_ref_request.html" title="ASP Request ¶ÔÏó">ASP Request</a></li>
-<li><a href="asp_ref_application.html" title="ASP Application ¶ÔÏó">ASP Application</a></li>
-<li><a href="asp_ref_session.html" title="ASP Session ¶ÔÏó">ASP Session</a></li>
-<li><a href="asp_ref_server.html" title="ASP Server ¶ÔÏó">ASP Server</a></li>
-<li><a href="asp_ref_error.html" title="ASP ASPError ¶ÔÏó">ASP Error</a></li>
-<li><a href="asp_ref_filesystem.html" title="ASP FileSystemObject ¶ÔÏó">ASP FileSystem</a></li>
-<li><a href="asp_ref_textstream.html" title="ASP TextStream ¶ÔÏó">ASP TextStream</a></li>
-<li><a href="asp_ref_drive.html" title="ASP Drive ¶ÔÏó">ASP Drive</a></li>
-<li><a href="asp_ref_file.html" title="ASP File ¶ÔÏó">ASP File</a></li>
-<li><a href="asp_ref_folder.html" title="ASP Folder ¶ÔÏó">ASP Folder</a></li>
-<li><a href="asp_ref_dictionary.html" title="ASP Dictionary ¶ÔÏó">ASP Dictionary</a></li>
-<li><a href="asp_ado.html" title="ADO ¼ò½é">ASP ADO</a></li>
+<li><a href="asp_ref_response.html" title="ASP Response å¯¹è±¡">ASP Response</a></li>
+<li><a href="asp_ref_request.html" title="ASP Request å¯¹è±¡">ASP Request</a></li>
+<li><a href="asp_ref_application.html" title="ASP Application å¯¹è±¡">ASP Application</a></li>
+<li><a href="asp_ref_session.html" title="ASP Session å¯¹è±¡">ASP Session</a></li>
+<li><a href="asp_ref_server.html" title="ASP Server å¯¹è±¡">ASP Server</a></li>
+<li><a href="asp_ref_error.html" title="ASP ASPError å¯¹è±¡">ASP Error</a></li>
+<li><a href="asp_ref_filesystem.html" title="ASP FileSystemObject å¯¹è±¡">ASP FileSystem</a></li>
+<li><a href="asp_ref_textstream.html" title="ASP TextStream å¯¹è±¡">ASP TextStream</a></li>
+<li><a href="asp_ref_drive.html" title="ASP Drive å¯¹è±¡">ASP Drive</a></li>
+<li><a href="asp_ref_file.html" title="ASP File å¯¹è±¡">ASP File</a></li>
+<li><a href="asp_ref_folder.html" title="ASP Folder å¯¹è±¡">ASP Folder</a></li>
+<li><a href="asp_ref_dictionary.html" title="ASP Dictionary å¯¹è±¡">ASP Dictionary</a></li>
+<li><a href="asp_ado.html" title="ADO ç®€ä»‹">ASP ADO</a></li>
 </ul>
-<h2>ASP ×é¼þ</h2>
+<h2>ASP ç»„ä»¶</h2>
 <ul>
-<li><a href="asp_adrotator.html" title="ASP AdRotator ×é¼þ">ASP AdRotator</a></li>
-<li><a href="asp_browser.html" title="ASP Browser Capabilities ×é¼þ">ASP BrowserCap</a></li>
-<li><a href="asp_contentlinking.html" title="ASP Content Linking ×é¼þ">ASP ContentLinking</a></li>
+<li><a href="asp_adrotator.html" title="ASP AdRotator ç»„ä»¶">ASP AdRotator</a></li>
+<li><a href="asp_browser.html" title="ASP Browser Capabilities ç»„ä»¶">ASP BrowserCap</a></li>
+<li><a href="asp_contentlinking.html" title="ASP Content Linking ç»„ä»¶">ASP ContentLinking</a></li>
 <li><a href="asp_contentrotator.html" title="ASP Content Rotator (ASP 3.0)">ASP ContentRotator</a></li>
 </ul>
-<h2>AJAX Óë ASP</h2>
+<h2>AJAX ä¸Ž ASP</h2>
 <ul>
-<li><a href="asp_ajax_intro.html" title="AJAX ¼ò½é">AJAX ¼ò½é</a></li>
-<li><a href="asp_ajax_asp.html" title="ASP - AJAX Óë ASP">AJAX ASP</a></li>
-<li><a href="asp_ajax_database.html" title="AJAX Êý¾Ý¿âÊµÀý">AJAX Êý¾Ý¿â</a></li>
+<li><a href="asp_ajax_intro.html" title="AJAX ç®€ä»‹">AJAX ç®€ä»‹</a></li>
+<li><a href="asp_ajax_asp.html" title="ASP - AJAX ä¸Ž ASP">AJAX ASP</a></li>
+<li><a href="asp_ajax_database.html" title="AJAX æ•°æ®åº“å®žä¾‹">AJAX æ•°æ®åº“</a></li>
 </ul>
-<h2>ASP ½Ì³Ì×Ü½á</h2>
+<h2>ASP æ•™ç¨‹æ€»ç»“</h2>
 <ul>
-<li class="currentLink"><a href="asp_quickref.asp" title="ASP ¿ìËÙ²Î¿¼">ASP ¿ìËÙ²Î¿¼</a></li>
-<li><a href="asp_summary.html" title="ASP ¿Î³Ì×Ü½á">ASP ¿Î³Ì×Ü½á</a></li>
+<li class="currentLink"><a href="asp_quickref.asp" title="ASP å¿«é€Ÿå‚è€ƒ">ASP å¿«é€Ÿå‚è€ƒ</a></li>
+<li><a href="asp_summary.html" title="ASP è¯¾ç¨‹æ€»ç»“">ASP è¯¾ç¨‹æ€»ç»“</a></li>
 </ul>
-<h2>ASP ÊµÀý/²âÑé</h2>
+<h2>ASP å®žä¾‹/æµ‹éªŒ</h2>
 <ul>
-<li><a href="../example/aspe_examples.html" title="ASP ÊµÀý">ASP ÊµÀý</a></li>
-<li><a href="asp_quiz.html" title="ASP ²âÑé">ASP ²âÑé</a></li>
+<li><a href="../example/aspe_examples.html" title="ASP å®žä¾‹">ASP å®žä¾‹</a></li>
+<li><a href="asp_quiz.html" title="ASP æµ‹éªŒ">ASP æµ‹éªŒ</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æž„å»º">ç½‘ç«™æž„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äºŽ W3School" id="link_about">å…³äºŽ W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -132,26 +132,26 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>ASP ¿ìËÙ²Î¿¼</h1>
+<h1>ASP å¿«é€Ÿå‚è€ƒ</h1>
 
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="asp_ajax_database.html" title="AJAX Êý¾Ý¿âÊµÀý">AJAX Êý¾Ý¿â</a></li>
-<li class="next"><a href="asp_summary.html" title="ASP ¿Î³Ì×Ü½á">ASP ¿Î³Ì×Ü½á</a></li>
+<li class="pre"><a href="asp_ajax_database.html" title="AJAX æ•°æ®åº“å®žä¾‹">AJAX æ•°æ®åº“</a></li>
+<li class="next"><a href="asp_summary.html" title="ASP è¯¾ç¨‹æ€»ç»“">ASP è¯¾ç¨‹æ€»ç»“</a></li>
 </ul>
 </div>
 
 
 <div>
-<p><strong>À´×Ô W3School µÄ ASP ¿ìËÙ²Î¿¼¡£´òÓ¡³öÀ´£¬·ÅÈë¿Ú´ü£¬ÒÔ±¸ËæÊ±Ê¹ÓÃ¡£</strong></p>
+<p><strong>æ¥è‡ª W3School çš„ ASP å¿«é€Ÿå‚è€ƒã€‚æ‰“å°å‡ºæ¥ï¼Œæ”¾å…¥å£è¢‹ï¼Œä»¥å¤‡éšæ—¶ä½¿ç”¨ã€‚</strong></p>
 </div>
 
 
 <div>
-<h2>»ù´¡Óï·¨</h2>
+<h2>åŸºç¡€è¯­æ³•</h2>
 
-<p>ASP ½Å±¾ÓÉ &lt;% ºÍ %&gt; °üÎ§¡£ÕâÑùÏòä¯ÀÀÆ÷Êä³öÄÚÈÝ£º</p>
+<p>ASP è„šæœ¬ç”± &lt;% å’Œ %&gt; åŒ…å›´ã€‚è¿™æ ·å‘æµè§ˆå™¨è¾“å‡ºå†…å®¹ï¼š</p>
 
 <pre>
 &lt;html&gt;
@@ -161,7 +161,7 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 &lt;/html&gt;
 </pre>
 
-<p>ASP ÖÐµÄÄ¬ÈÏÓïÑÔÊÇ VBScript¡£ÈçÐèÊ¹ÓÃÆäËû½Å±¾ÓïÑÔ£¬ÇëÔÚ ASP Ò³Ãæ¶¥¶Ë²åÈëÒ»¶ÎÓïÑÔÉùÃ÷£º</p>
+<p>ASP ä¸­çš„é»˜è®¤è¯­è¨€æ˜¯ VBScriptã€‚å¦‚éœ€ä½¿ç”¨å…¶ä»–è„šæœ¬è¯­è¨€ï¼Œè¯·åœ¨ ASP é¡µé¢é¡¶ç«¯æ’å…¥ä¸€æ®µè¯­è¨€å£°æ˜Žï¼š</p>
 
 <pre>
 &lt;%@ language=&quot;javascript&quot; %&gt;
@@ -176,20 +176,20 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 
 <div>
-<h2>±íµ¥ºÍÓÃ»§ÊäÈë</h2>
+<h2>è¡¨å•å’Œç”¨æˆ·è¾“å…¥</h2>
 
-<p>Request.QueryString ÓÃ»§ÊÕ¼¯ method=&quot;get&quot; µÄ±íµ¥ÖÐµÄÖµ¡£´Ó±íµ¥Í¨¹ý GET ·¢ËÍµÄÐÅÏ¢¶ÔËùÓÐÈË¶¼¿É¼û£¨½«ÏÔÊ¾ÔÚä¯ÀÀÆ÷µÄµØÖ·À¸ÖÐ£©£¬¶ÔËù·¢ËÍµÄÊý¾ÝÁ¿Ò²ÓÐÏÞÖÆ¡£</p>
+<p>Request.QueryString ç”¨æˆ·æ”¶é›† method=&quot;get&quot; çš„è¡¨å•ä¸­çš„å€¼ã€‚ä»Žè¡¨å•é€šè¿‡ GET å‘é€çš„ä¿¡æ¯å¯¹æ‰€æœ‰äººéƒ½å¯è§ï¼ˆå°†æ˜¾ç¤ºåœ¨æµè§ˆå™¨çš„åœ°å€æ ä¸­ï¼‰ï¼Œå¯¹æ‰€å‘é€çš„æ•°æ®é‡ä¹Ÿæœ‰é™åˆ¶ã€‚</p>
 
-<p>Request.Form ÓÃÓÚÊÕ¼¯ method=&quot;post&quot; µÄ±íµ¥ÖÐµÄÖµ¡£´Ó±íµ¥Í¨¹ý POST ·¢ËÍµÄÐÅÏ¢¶ÔÆäËûÈËÊÇ²»¿É¼û£¬¶ÔËù·¢ËÍµÄÊý¾ÝÁ¿Ã»ÓÐÏÞÖÆ¡£</p>
+<p>Request.Form ç”¨äºŽæ”¶é›† method=&quot;post&quot; çš„è¡¨å•ä¸­çš„å€¼ã€‚ä»Žè¡¨å•é€šè¿‡ POST å‘é€çš„ä¿¡æ¯å¯¹å…¶ä»–äººæ˜¯ä¸å¯è§ï¼Œå¯¹æ‰€å‘é€çš„æ•°æ®é‡æ²¡æœ‰é™åˆ¶ã€‚</p>
 </div>
 
 
 <div>
 <h2>ASP Cookies</h2>
 
-<p>cookie ³£ÓÃÓïÊ¶±ðÓÃ»§¡£cookie ÊÇ·þÎñÆ÷Ç¶µ½ÓÃ»§¼ÆËã»úÉÏµÄÐ¡ÎÄ¼þ¡£Ã¿µ±ÏàÍ¬µÄ¼ÆËã»úÍ¨¹ýä¯ÀÀÆ÷ÇëÇóÃþ¸öÒ³ÃæÊ±£¬Ò²»á·¢ËÍ cookie¡£</p>
+<p>cookie å¸¸ç”¨è¯­è¯†åˆ«ç”¨æˆ·ã€‚cookie æ˜¯æœåŠ¡å™¨åµŒåˆ°ç”¨æˆ·è®¡ç®—æœºä¸Šçš„å°æ–‡ä»¶ã€‚æ¯å½“ç›¸åŒçš„è®¡ç®—æœºé€šè¿‡æµè§ˆå™¨è¯·æ±‚æ‘¸ä¸ªé¡µé¢æ—¶ï¼Œä¹Ÿä¼šå‘é€ cookieã€‚</p>
 
-<p>Response.Cookies ÃüÁîÓÃÓÚ´´½¨ cookie£º</p>
+<p>Response.Cookies å‘½ä»¤ç”¨äºŽåˆ›å»º cookieï¼š</p>
 
 <pre>
 &lt;%
@@ -198,9 +198,9 @@ Response.Cookies(&quot;firstname&quot;).Expires=&quot;May 10,2012&quot;
 %&gt;
 </pre>
 
-<p>×¢ÊÍ£ºResponse.Cookies ÃüÁî±ØÐëÎ»ÓÚ &lt;html&gt; ±êÇ©Ö®Ç°£¡</p>
+<p>æ³¨é‡Šï¼šResponse.Cookies å‘½ä»¤å¿…é¡»ä½äºŽ &lt;html&gt; æ ‡ç­¾ä¹‹å‰ï¼</p>
 
-<p>&quot;Request.Cookies&quot; ÃüÁîÓÃÓÚÈ¡»Ø cookie Öµ£º</p>
+<p>&quot;Request.Cookies&quot; å‘½ä»¤ç”¨äºŽå–å›ž cookie å€¼ï¼š</p>
 
 <pre>
 &lt;%
@@ -212,56 +212,56 @@ response.write(&quot;Firstname=&quot; &amp; fname)
 
 
 <div>
-<h2>ÒýÓÃÎÄ¼þ</h2>
+<h2>å¼•ç”¨æ–‡ä»¶</h2>
 
-<p>Í¨¹ý #include Ö¸Áî£¬ÔÚ·þÎñÆ÷Ö´ÐÐÇ°£¬ÄúÄÜ¹»°ÑÒ»¸ö ASP ÎÄ¼þµÄÄÚÈÝ²åÈëÁíÒ»¸ö ASP ÎÄ¼þÖÐ¡£#include Ö¸ÁîÓÃÓÚ´´½¨º¯Êý¡¢Ò³Í·¡¢Ò³½Å£¬»ò¶à¸öÒ³ÃæÉÏÖØ¸´Ê¹ÓÃµÄÔªËØ¡£</p>
+<p>é€šè¿‡ #include æŒ‡ä»¤ï¼Œåœ¨æœåŠ¡å™¨æ‰§è¡Œå‰ï¼Œæ‚¨èƒ½å¤ŸæŠŠä¸€ä¸ª ASP æ–‡ä»¶çš„å†…å®¹æ’å…¥å¦ä¸€ä¸ª ASP æ–‡ä»¶ä¸­ã€‚#include æŒ‡ä»¤ç”¨äºŽåˆ›å»ºå‡½æ•°ã€é¡µå¤´ã€é¡µè„šï¼Œæˆ–å¤šä¸ªé¡µé¢ä¸Šé‡å¤ä½¿ç”¨çš„å…ƒç´ ã€‚</p>
 
-<h3>Óï·¨£º</h3>
+<h3>è¯­æ³•ï¼š</h3>
 
 <pre>&lt;!--#include virtual=&quot;somefile.inc&quot;--&gt;</pre>
 
-<p>»òÕß</p>
+<p>æˆ–è€…</p>
 
 <pre>&lt;!--#include file =&quot;somefile.inc&quot;--&gt;</pre>
 
 
-<p>ÇëÊ¹ÓÃ¹Ø¼ü´Ê virtual À´Ö¸Ê¾ÒÔÐéÄâÄ¿Â¼¿ªÊ¼µÄÂ·¾¶¡£Èç¹ûÃûÎª &quot;header.inc&quot; µÄÎÄ¼þÎ»ÓÚÃûÎª /html µÄÐéÄâÄ¿Â¼ÖÐ£¬ÄÇÃ´ÏÂÃæµÄ´úÂë»á²åÈë &quot;header.inc&quot; µÄÄÚÈÝ£º</p>
+<p>è¯·ä½¿ç”¨å…³é”®è¯ virtual æ¥æŒ‡ç¤ºä»¥è™šæ‹Ÿç›®å½•å¼€å§‹çš„è·¯å¾„ã€‚å¦‚æžœåä¸º &quot;header.inc&quot; çš„æ–‡ä»¶ä½äºŽåä¸º /html çš„è™šæ‹Ÿç›®å½•ä¸­ï¼Œé‚£ä¹ˆä¸‹é¢çš„ä»£ç ä¼šæ’å…¥ &quot;header.inc&quot; çš„å†…å®¹ï¼š</p>
 
 <pre>&lt;!-- #include virtual =&quot;/html/header.inc&quot; --&gt;</pre>
 
-<p>ÇëÊ¹ÓÃ¹Ø¼ü´Ê file À´Ö¸Ê¾Ïà¶ÔÂ·¾¶¡£Ïà¶ÔÂ·¾¶ÒÔ°üº¬¸ÃÒýÓÃÎÄ¼þµÄÄ¿Â¼¿ªÍ·¡£Èç¹ûÄúµÄÎÄ¼þÎ»ÓÚ html Ä¿Â¼ÖÐ£¬¶øÎÄ¼þ &quot;header.inc&quot; Î»ÓÚ html\headers ÖÐ£¬ÏÂÃæµÄ´úÂë½«ÔÚÄúµÄÎÄ¼þÖÐ²åÈë &quot;header.inc&quot; µÄÄÚÈÝ£º</p>
+<p>è¯·ä½¿ç”¨å…³é”®è¯ file æ¥æŒ‡ç¤ºç›¸å¯¹è·¯å¾„ã€‚ç›¸å¯¹è·¯å¾„ä»¥åŒ…å«è¯¥å¼•ç”¨æ–‡ä»¶çš„ç›®å½•å¼€å¤´ã€‚å¦‚æžœæ‚¨çš„æ–‡ä»¶ä½äºŽ html ç›®å½•ä¸­ï¼Œè€Œæ–‡ä»¶ &quot;header.inc&quot; ä½äºŽ html\headers ä¸­ï¼Œä¸‹é¢çš„ä»£ç å°†åœ¨æ‚¨çš„æ–‡ä»¶ä¸­æ’å…¥ &quot;header.inc&quot; çš„å†…å®¹ï¼š</p>
 
 <pre>&lt;!-- #include file =&quot;headers\header.inc&quot; --&gt;</pre>
 
-<p>ÇëÊ¹ÓÃ¹Ø¼ü´Ê file ÓëÓï·¨ (..\) À´ÒýÓÃ¸ü¸ß²ã¼¶Ä¿Â¼ÖÐµÄÎÄ¼þ¡£</p>
+<p>è¯·ä½¿ç”¨å…³é”®è¯ file ä¸Žè¯­æ³• (..\) æ¥å¼•ç”¨æ›´é«˜å±‚çº§ç›®å½•ä¸­çš„æ–‡ä»¶ã€‚</p>
 </div>
 
 
 <div>
 <h2>Global.asa</h2>
 
-<p>Global.asa ÎÄ¼þÊÇ¿ÉÑ¡ÎÄ¼þ£¬¿É°üº¬ÄÜ¹»ÓÉ ASP Ó¦ÓÃ³ÌÐòÖÐµÄÃ¿¸öÒ³Ãæ·ÃÎÊµÄ¶ÔÏóÉùÃ÷¡¢±äÁ¿ÒÔ¼°·½·¨¡£</p>
+<p>Global.asa æ–‡ä»¶æ˜¯å¯é€‰æ–‡ä»¶ï¼Œå¯åŒ…å«èƒ½å¤Ÿç”± ASP åº”ç”¨ç¨‹åºä¸­çš„æ¯ä¸ªé¡µé¢è®¿é—®çš„å¯¹è±¡å£°æ˜Žã€å˜é‡ä»¥åŠæ–¹æ³•ã€‚</p>
 
-<p>×¢ÊÍ£ºGlobal.asa ÎÄ¼þ±ØÐë´æ·ÅÔÚ ASP Ó¦ÓÃ³ÌÐòµÄ¸ùÄ¿Â¼ÖÐ£¬¶øÇÒÃ¿¸öÓ¦ÓÃ³ÌÐòÖ»ÄÜÓÐÒ»¸ö Global.asa ÎÄ¼þ¡£</p>
+<p>æ³¨é‡Šï¼šGlobal.asa æ–‡ä»¶å¿…é¡»å­˜æ”¾åœ¨ ASP åº”ç”¨ç¨‹åºçš„æ ¹ç›®å½•ä¸­ï¼Œè€Œä¸”æ¯ä¸ªåº”ç”¨ç¨‹åºåªèƒ½æœ‰ä¸€ä¸ª Global.asa æ–‡ä»¶ã€‚</p>
 
-<p>Global.asa ÎÄ¼þÖ»ÄÜ°üº¬ÒÔÏÂÄÚÈÝ£º</p>
+<p>Global.asa æ–‡ä»¶åªèƒ½åŒ…å«ä»¥ä¸‹å†…å®¹ï¼š</p>
 
 <ul>
-<li>Application ÊÂ¼þ</li>
-<li>Session ÊÂ¼þ</li>
-<li>&lt;object&gt; ÉùÃ÷</li>
-<li>TypeLibrary ÉùÃ÷</li>
-<li>#include Ö¸Áî</li>
+<li>Application äº‹ä»¶</li>
+<li>Session äº‹ä»¶</li>
+<li>&lt;object&gt; å£°æ˜Ž</li>
+<li>TypeLibrary å£°æ˜Ž</li>
+<li>#include æŒ‡ä»¤</li>
 </ul>
 </div>
 
 
 <div>
-<h2>Application ºÍ Session ÊÂ¼þ</h2>
+<h2>Application å’Œ Session äº‹ä»¶</h2>
 
-<p>ÔÚ Global.asa ÖÐ£¬Äú¿ÉÒÔ¸æËß application ºÍ session ¶ÔÏóµ± application/session ¿ªÊ¼Ê±×öÊ²Ã´£¬µ± application/session ½áÊøÊ±×öÊ²Ã´¡£Íê³É¸ÃÈÎÎñµÄ´úÂëÎ»ÓÚÊÂ¼þ´¦Àí³ÌÐòÖÐ¡£</p>
+<p>åœ¨ Global.asa ä¸­ï¼Œæ‚¨å¯ä»¥å‘Šè¯‰ application å’Œ session å¯¹è±¡å½“ application/session å¼€å§‹æ—¶åšä»€ä¹ˆï¼Œå½“ application/session ç»“æŸæ—¶åšä»€ä¹ˆã€‚å®Œæˆè¯¥ä»»åŠ¡çš„ä»£ç ä½äºŽäº‹ä»¶å¤„ç†ç¨‹åºä¸­ã€‚</p>
 
-<p>×¢ÊÍ£ºÔÚ Global.asa ÎÄ¼þÖÐ²åÈë´úÂëÊ±£¬ÎÒÃÇ²¢²»Ê¹ÓÃ &lt;% ºÍ %&gt;£¬ÎÒÃÇÐèÒªÔÚ HTML &lt;script&gt; ±êÇ©ÄÚ²¿·ÅÖÃ×Ó³ÌÐò£º</p>
+<p>æ³¨é‡Šï¼šåœ¨ Global.asa æ–‡ä»¶ä¸­æ’å…¥ä»£ç æ—¶ï¼Œæˆ‘ä»¬å¹¶ä¸ä½¿ç”¨ &lt;% å’Œ %&gt;ï¼Œæˆ‘ä»¬éœ€è¦åœ¨ HTML &lt;script&gt; æ ‡ç­¾å†…éƒ¨æ”¾ç½®å­ç¨‹åºï¼š</p>
 
 <pre>
 &lt;script language=&quot;vbscript&quot; runat=&quot;server&quot;&gt;
@@ -283,13 +283,13 @@ end sub
 
 
 <div>
-<h2>&lt;object&gt; ÉùÃ÷</h2>
+<h2>&lt;object&gt; å£°æ˜Ž</h2>
 
-<p>Í¨¹ýÊ¹ÓÃ &lt;object&gt; ±êÇ©£¬Ò²¿ÉÒÔÔÚ Global.asa ÖÐ´´½¨´øÓÐ session »ò application ×÷ÓÃÓòµÄ¶ÔÏó¡£</p>
+<p>é€šè¿‡ä½¿ç”¨ &lt;object&gt; æ ‡ç­¾ï¼Œä¹Ÿå¯ä»¥åœ¨ Global.asa ä¸­åˆ›å»ºå¸¦æœ‰ session æˆ– application ä½œç”¨åŸŸçš„å¯¹è±¡ã€‚</p>
 
-<p>×¢ÊÍ£º&lt;object&gt; ±êÇ©Ó¦¸ÃÎ»ÓÚ &lt;script&gt; ±êÇ©Ö®Íâ£¡</p>
+<p>æ³¨é‡Šï¼š&lt;object&gt; æ ‡ç­¾åº”è¯¥ä½äºŽ &lt;script&gt; æ ‡ç­¾ä¹‹å¤–ï¼</p>
 
-<h3>Óï·¨£º</h3>
+<h3>è¯­æ³•ï¼š</h3>
 
 <pre>
 &lt;object runat=&quot;server&quot; scope=&quot;scope&quot; id=&quot;id&quot;
@@ -301,11 +301,11 @@ end sub
 
 
 <div>
-<h2>TypeLibrary ÉùÃ÷</h2>
+<h2>TypeLibrary å£°æ˜Ž</h2>
 
-<p>TypeLibrary ÊÇÓë COM ¶ÔÏó¶ÔÓ¦µÄ DLL ÎÄ¼þµÄÄÚÈÝÈÝÆ÷¡£Í¨¹ýÔÚ Global.asa ÎÄ¼þÖÐ°üº¬¶Ô TypeLibrary µÄµ÷ÓÃ£¬¾ÍÄÜ¹»·ÃÎÊ COM ¶ÔÏóµÄ³£Á¿£¬Í¬Ê± ASP ´úÂëÒ²ÄÜ¹»¸üºÃµØ±¨¸æ´íÎó¡£Èç¹ûÄúµÄ Web Ó¦ÓÃ³ÌÐòÒÀÀµÒÑÔÚÀàÐÍ¿âÖÐÉùÃ÷ÁËÊý¾ÝÀàÐÍµÄ COM ¶ÔÏó£¬Äú¿ÉÒÔÔÚ Global.asa ÖÐÉùÃ÷¸ÃÀàÐÍ¿â¡£</p>
+<p>TypeLibrary æ˜¯ä¸Ž COM å¯¹è±¡å¯¹åº”çš„ DLL æ–‡ä»¶çš„å†…å®¹å®¹å™¨ã€‚é€šè¿‡åœ¨ Global.asa æ–‡ä»¶ä¸­åŒ…å«å¯¹ TypeLibrary çš„è°ƒç”¨ï¼Œå°±èƒ½å¤Ÿè®¿é—® COM å¯¹è±¡çš„å¸¸é‡ï¼ŒåŒæ—¶ ASP ä»£ç ä¹Ÿèƒ½å¤Ÿæ›´å¥½åœ°æŠ¥å‘Šé”™è¯¯ã€‚å¦‚æžœæ‚¨çš„ Web åº”ç”¨ç¨‹åºä¾èµ–å·²åœ¨ç±»åž‹åº“ä¸­å£°æ˜Žäº†æ•°æ®ç±»åž‹çš„ COM å¯¹è±¡ï¼Œæ‚¨å¯ä»¥åœ¨ Global.asa ä¸­å£°æ˜Žè¯¥ç±»åž‹åº“ã€‚</p>
 
-<h3>Óï·¨£º</h3>
+<h3>è¯­æ³•ï¼š</h3>
 
 <pre>
 &lt;!--
@@ -320,155 +320,155 @@ lcid=&quot;localeid&quot;
 
 
 <div>
-<h2>Session ¶ÔÏó</h2>
+<h2>Session å¯¹è±¡</h2>
 
-<p>Session ¶ÔÏóÓÃÓÚ´æ´¢ÓÐ¹ØÓÃ»§ session µÄÐÅÏ¢£¬»òÕß¸ü¸ÄÆäÉèÖÃ¡£Session ¶ÔÏóÖÐ´æ´¢µÄ±äÁ¿´æÓÐ¹ØÓÚµ¥¸öÓÃ»§µÄÐÅÏ¢£¬²¢ÇÒÄÜ¹»ÓÉÒ»¸öÓ¦ÓÃ³ÌÐòÖÐµÄËùÓÐÒ³Ãæ½øÐÐ·ÃÎÊ¡£</p>
+<p>Session å¯¹è±¡ç”¨äºŽå­˜å‚¨æœ‰å…³ç”¨æˆ· session çš„ä¿¡æ¯ï¼Œæˆ–è€…æ›´æ”¹å…¶è®¾ç½®ã€‚Session å¯¹è±¡ä¸­å­˜å‚¨çš„å˜é‡å­˜æœ‰å…³äºŽå•ä¸ªç”¨æˆ·çš„ä¿¡æ¯ï¼Œå¹¶ä¸”èƒ½å¤Ÿç”±ä¸€ä¸ªåº”ç”¨ç¨‹åºä¸­çš„æ‰€æœ‰é¡µé¢è¿›è¡Œè®¿é—®ã€‚</p>
 
-<h3>¼¯ºÏ</h3>
+<h3>é›†åˆ</h3>
 
 <ul>
-<li>Contents - °üº¬ËùÓÐÍ¨¹ý½Å±¾ÃüÁî×·¼Óµ½ session µÄÌõÄ¿</li>
-<li>StaticObjects - °üº¬ÁËËùÓÐÊ¹ÓÃ HTML µÄ &lt;object&gt; ±êÇ©×·¼Óµ½ session µÄ¶ÔÏó</li>
-<li>Contents.Remove(<i>item</i>/<i>index</i>) - ´Ó Contents ¼¯ºÏÉ¾³ýÒ»¸öÏîÄ¿</li>
-<li>Contents.RemoveAll() - ´Ó Contents ¼¯ºÏÉ¾³ýÈ«²¿ÏîÄ¿</li>
+<li>Contents - åŒ…å«æ‰€æœ‰é€šè¿‡è„šæœ¬å‘½ä»¤è¿½åŠ åˆ° session çš„æ¡ç›®</li>
+<li>StaticObjects - åŒ…å«äº†æ‰€æœ‰ä½¿ç”¨ HTML çš„ &lt;object&gt; æ ‡ç­¾è¿½åŠ åˆ° session çš„å¯¹è±¡</li>
+<li>Contents.Remove(<i>item</i>/<i>index</i>) - ä»Ž Contents é›†åˆåˆ é™¤ä¸€ä¸ªé¡¹ç›®</li>
+<li>Contents.RemoveAll() - ä»Ž Contents é›†åˆåˆ é™¤å…¨éƒ¨é¡¹ç›®</li>
 </ul>
 
-<h3>ÊôÐÔ</h3>
+<h3>å±žæ€§</h3>
 
 <ul>
-<li>CodePage - ¹æ¶¨ÏÔÊ¾¶¯Ì¬ÄÚÈÝÊ±Ê¹ÓÃµÄ×Ö·û¼¯</li>
-<li>LCID - ÉèÖÃÓÃÓÚÏÔÊ¾¶¯Ì¬ÄÚÈÝµÄÇøÓò±êÊ¶·û</li>
-<li>SessionID - ·µ»Ø session id</li>
-<li>Timeout - ÉèÖÃ»ò·µ»Ø session µÄ³¬Ê±Ê±¼ä</li>
+<li>CodePage - è§„å®šæ˜¾ç¤ºåŠ¨æ€å†…å®¹æ—¶ä½¿ç”¨çš„å­—ç¬¦é›†</li>
+<li>LCID - è®¾ç½®ç”¨äºŽæ˜¾ç¤ºåŠ¨æ€å†…å®¹çš„åŒºåŸŸæ ‡è¯†ç¬¦</li>
+<li>SessionID - è¿”å›ž session id</li>
+<li>Timeout - è®¾ç½®æˆ–è¿”å›ž session çš„è¶…æ—¶æ—¶é—´</li>
 </ul>
 
-<h3>·½·¨</h3>
+<h3>æ–¹æ³•</h3>
 
 <ul>
-<li>Abandon - ³·Ïú session ¶ÔÏóÖÐµÄËùÓÐ¶ÔÏó¡£</li>
-</ul>
-</div>
-
-
-<div>
-<h2>Application ¶ÔÏó</h2>
-
-<p>ÔÚÒ»Æð¹¤×÷ÒÔÍê³ÉÄ³ÏîÈÎÎñµÄÒ»×é ASP ÎÄ¼þ±»³ÆÎªÒ»¸öÓ¦ÓÃ³ÌÐò¡£ASP ÖÐµÄ Application ¶ÔÏóÓÃÓÚ½«ÕâÐ©ÎÄ¼þÀ¦°óÔÚÒ»Æð¡£ËùÓÐÓÃ»§À¦°óÒ»¸ö Application ¶ÔÏó¡£Application ¶ÔÏóÓ¦¸Ã´æÓÐ±»Ó¦ÓÃ³ÌÐòÖÐµÄÐí¶àÒ³ÃæÊ¹ÓÃµÄÐÅÏ¢£¨ÀýÈçÊý¾Ý¿âÁ¬½ÓÐÅÏ¢£©¡£</p>
-
-<h3>¼¯ºÏ</h3>
-
-<ul>
-<li>Contents - °üº¬ËùÓÐÍ¨¹ý½Å±¾ÃüÁî×·¼Óµ½Ó¦ÓÃ³ÌÐòÖÐµÄÏîÄ¿</li>
-<li>StaticObjects - °üº¬ËùÓÐÊ¹ÓÃ HTML µÄ &lt;object&gt; ±êÇ©×·¼Óµ½Ó¦ÓÃ³ÌÐòÖÐµÄ¶ÔÏó</li>
-<li>Contents.Remove - ´Ó Contents ¼¯ºÏÖÐÉ¾³ýÒ»¸öÏîÄ¿</li>
-<li>Contents.RemoveAll - ´Ó Contents ¼¯ºÏÖÐÉ¾³ýËùÓÐµÄÏîÄ¿</li>
-</ul>
-
-<h3>·½·¨</h3>
-
-<ul>
-<li>Lock - ·ÀÖ¹ÓÃ»§ÐÞ¸Ä Application ¶ÔÏóÖÐµÄ±äÁ¿</li>
-<li>Unlock - ÔÊÐíÓÃ»§ÐÞ¸Ä Application ¶ÔÏóÖÐµÄ±äÁ¿</li>
+<li>Abandon - æ’¤é”€ session å¯¹è±¡ä¸­çš„æ‰€æœ‰å¯¹è±¡ã€‚</li>
 </ul>
 </div>
 
 
 <div>
-<h2>Response ¶ÔÏó</h2>
+<h2>Application å¯¹è±¡</h2>
 
-<p>Response ¶ÔÏóÓÃÓÚ´Ó·þÎñÆ÷½«Êä³ö·¢ËÍ¸øÓÃ»§¡£</p>
+<p>åœ¨ä¸€èµ·å·¥ä½œä»¥å®ŒæˆæŸé¡¹ä»»åŠ¡çš„ä¸€ç»„ ASP æ–‡ä»¶è¢«ç§°ä¸ºä¸€ä¸ªåº”ç”¨ç¨‹åºã€‚ASP ä¸­çš„ Application å¯¹è±¡ç”¨äºŽå°†è¿™äº›æ–‡ä»¶æ†ç»‘åœ¨ä¸€èµ·ã€‚æ‰€æœ‰ç”¨æˆ·æ†ç»‘ä¸€ä¸ª Application å¯¹è±¡ã€‚Application å¯¹è±¡åº”è¯¥å­˜æœ‰è¢«åº”ç”¨ç¨‹åºä¸­çš„è®¸å¤šé¡µé¢ä½¿ç”¨çš„ä¿¡æ¯ï¼ˆä¾‹å¦‚æ•°æ®åº“è¿žæŽ¥ä¿¡æ¯ï¼‰ã€‚</p>
 
-<h3>¼¯ºÏ</h3>
-
-Cookies(name) - ÉèÖÃ cookie µÄÖµ¡£¼ÙÈç²»´æÔÚ£¬¾Í´´½¨ cookie £¬È»ºóÉèÖÃÖ¸¶¨µÄÖµ¡£
-
-<h3>ÊôÐÔ</h3>
+<h3>é›†åˆ</h3>
 
 <ul>
-<li>Buffer - ¹æ¶¨ÊÇ·ñ»º³åÊä³ö¡£µ±Êä³öÉèÖÃ»º´æÊ±£¬·þÎñÆ÷»á×èÖ¹Ïòä¯ÀÀÆ÷µÄÏìÓ¦£¬Ö±µ½ËùÓÐµÄ·þÎñÆ÷½Å±¾¾ù±»´¦Àí£¬»òÕßÖ±µ½½Å±¾µ÷ÓÃÁË Flush »ò End ·½·¨¡£Èç¹ûÒªÉèÖÃ´ËÊôÐÔ£¬ËüÓ¦µ±Î»ÓÚ .asp ÎÄ¼þÖÐµÄ &lt;html&gt; ±êÇ©Ö®Ç°¡£</li>
-<li>CacheControl - ÉèÖÃ´úÀí·þÎñÆ÷ÊÇ·ñ¿ÉÒÔ»º´æÓÉ ASP ²úÉúµÄÊä³ö¡£Èç¹ûÉèÖÃÎª Public£¬Ôò´úÀí·þÎñÆ÷»á»º´æÒ³Ãæ¡£</li>
-<li>Charset(<i>charset_name</i>) - ½«×Ö·û¼¯µÄÃû³Æ×·¼Óµ½ Response ¶ÔÏóÖÐµÄ content-type ±¨Í·¡£</li>
-<li>ContentType - ÉèÖÃ Response ¶ÔÏóµÄ HTTP ÄÚÈÝÀàÐÍ¡££¨±ÈÈç &quot;text/html&quot;, &quot;image/gif&quot;, &quot;image/jpeg&quot;, &quot;text/plain&quot;£©¡£Ä¬ÈÏÊÇ &quot;text/html&quot;</li>
-<li>Expires - ÉèÖÃÒ³ÃæÔÚÊ§Ð§Ç°µÄä¯ÀÀÆ÷»º´æÊ±¼ä£¨·ÖÖÓ£©</li>
-<li>ExpiresAbsolute - ÉèÖÃä¯ÀÀÆ÷ÉÏÒ³Ãæ»º´æÊ§Ð§µÄÈÕÆÚºÍÊ±¼ä</li>
-<li>IsClientConnected - Ö¸Ê¾¿Í»§¶ËÊÇ·ñÒÑ´Ó·þÎñÆ÷¶Ï¿ª</li>
-<li>Pics(<i>pics_label</i>) - Ïò response ±¨Í·µÄ PICS ±êÖ¾×·¼ÓÖµ</li>
-<li>Status - ¹æ¶¨ÓÉ·þÎñÆ÷·µ»ØµÄ×´Ì¬ÐÐµÄÖµ</li>
+<li>Contents - åŒ…å«æ‰€æœ‰é€šè¿‡è„šæœ¬å‘½ä»¤è¿½åŠ åˆ°åº”ç”¨ç¨‹åºä¸­çš„é¡¹ç›®</li>
+<li>StaticObjects - åŒ…å«æ‰€æœ‰ä½¿ç”¨ HTML çš„ &lt;object&gt; æ ‡ç­¾è¿½åŠ åˆ°åº”ç”¨ç¨‹åºä¸­çš„å¯¹è±¡</li>
+<li>Contents.Remove - ä»Ž Contents é›†åˆä¸­åˆ é™¤ä¸€ä¸ªé¡¹ç›®</li>
+<li>Contents.RemoveAll - ä»Ž Contents é›†åˆä¸­åˆ é™¤æ‰€æœ‰çš„é¡¹ç›®</li>
 </ul>
 
-<h3>·½·¨</h3>
+<h3>æ–¹æ³•</h3>
 
 <ul>
-<li>AddHeader(<i>name</i>, <i>value</i>) - Ïò HTTP ÏìÓ¦Ìí¼ÓÐÂµÄ HTTP ±¨Í·ºÍÖµ</li>
-<li>AppendToLog string - Ïò·þÎñÆ÷¼ÇÂ¼ÏîÄ¿£¨server log entry£©µÄÄ©¶ËÌí¼Ó×Ö·û´®</li>
-<li>BinaryWrite(<i>data_to_write</i>) - ÔÚÃ»ÓÐÈÎºÎ×Ö·û×ª»»µÄÇé¿öÏÂÖ±½ÓÏòÊä³öÐ´Êý¾Ý</li>
-<li>Clear - Çå³ýÒÑ»º³åµÄÊä³ö¡£Ê¹ÓÃ¸Ã·½·¨À´´¦Àí´íÎó¡£Èç¹û Response.Buffer Î´ÉèÖÃÎª true£¬¸Ã·½·¨½«²úÉú run-time ´íÎó</li>
-<li>End - Í£Ö¹´¦Àí½Å±¾£¬²¢·µ»Øµ±Ç°µÄ½á¹û</li>
-<li>Flush - Á¢¼´·¢ËÍÒÑ»º´æµÄÊä³ö¡£Èç¹û Response.Buffer Î´ÉèÖÃÎª true£¬¸Ã·½·¨½«²úÉú run-time ´íÎó</li>
-<li>Redirect(<i>url</i>) - °ÑÓÃ»§ÖØ¶¨Ïòµ½ÁíÒ»¸ö URL</li>
-<li>Write(<i>data_to_write</i>) - ÏòÓÃ»§Ð´ÎÄ±¾</li>
+<li>Lock - é˜²æ­¢ç”¨æˆ·ä¿®æ”¹ Application å¯¹è±¡ä¸­çš„å˜é‡</li>
+<li>Unlock - å…è®¸ç”¨æˆ·ä¿®æ”¹ Application å¯¹è±¡ä¸­çš„å˜é‡</li>
 </ul>
 </div>
 
 
 <div>
-<h2>Request ¶ÔÏó</h2>
+<h2>Response å¯¹è±¡</h2>
 
-<p>µ±ä¯ÀÀÆ÷´Ó·þÎñÆ÷ÇëÇóÒ³ÃæÊ±£¬¾Í±»³ÆÎª request¡£request ¶ÔÏóÓÃÓÚ»ñÈ¡À´×ÔÓÃ»§µÄÐÅÏ¢¡£</p>
+<p>Response å¯¹è±¡ç”¨äºŽä»ŽæœåŠ¡å™¨å°†è¾“å‡ºå‘é€ç»™ç”¨æˆ·ã€‚</p>
 
-<h3>¼¯ºÏ</h3>
+<h3>é›†åˆ</h3>
+
+Cookies(name) - è®¾ç½® cookie çš„å€¼ã€‚å‡å¦‚ä¸å­˜åœ¨ï¼Œå°±åˆ›å»º cookie ï¼Œç„¶åŽè®¾ç½®æŒ‡å®šçš„å€¼ã€‚
+
+<h3>å±žæ€§</h3>
 
 <ul>
-<li>ClientCertificate - °üº¬ÁËÔÚ¿Í»§Ö¤ÊéÖÐ´æ´¢µÄ×Ö¶ÎÖµ</li>
-<li>Cookies(<i>name</i>) - °üº¬ cookie Öµ</li>
-<li>Form(<i>element_name</i>) - °üº¬±íµ¥Öµ¡£¸Ã±íµ¥±ØÐëÊ¹ÓÃ post ·½·¨</li>
-<li>QueryString(<i>variable_name</i>) - °üº¬²éÑ¯×Ö·û´®ÖÐµÄ±äÁ¿Öµ</li>
-<li>ServerVariables(<i>server_variable</i>) - °üº¬·þÎñÆ÷±äÁ¿Öµ</li>
+<li>Buffer - è§„å®šæ˜¯å¦ç¼“å†²è¾“å‡ºã€‚å½“è¾“å‡ºè®¾ç½®ç¼“å­˜æ—¶ï¼ŒæœåŠ¡å™¨ä¼šé˜»æ­¢å‘æµè§ˆå™¨çš„å“åº”ï¼Œç›´åˆ°æ‰€æœ‰çš„æœåŠ¡å™¨è„šæœ¬å‡è¢«å¤„ç†ï¼Œæˆ–è€…ç›´åˆ°è„šæœ¬è°ƒç”¨äº† Flush æˆ– End æ–¹æ³•ã€‚å¦‚æžœè¦è®¾ç½®æ­¤å±žæ€§ï¼Œå®ƒåº”å½“ä½äºŽ .asp æ–‡ä»¶ä¸­çš„ &lt;html&gt; æ ‡ç­¾ä¹‹å‰ã€‚</li>
+<li>CacheControl - è®¾ç½®ä»£ç†æœåŠ¡å™¨æ˜¯å¦å¯ä»¥ç¼“å­˜ç”± ASP äº§ç”Ÿçš„è¾“å‡ºã€‚å¦‚æžœè®¾ç½®ä¸º Publicï¼Œåˆ™ä»£ç†æœåŠ¡å™¨ä¼šç¼“å­˜é¡µé¢ã€‚</li>
+<li>Charset(<i>charset_name</i>) - å°†å­—ç¬¦é›†çš„åç§°è¿½åŠ åˆ° Response å¯¹è±¡ä¸­çš„ content-type æŠ¥å¤´ã€‚</li>
+<li>ContentType - è®¾ç½® Response å¯¹è±¡çš„ HTTP å†…å®¹ç±»åž‹ã€‚ï¼ˆæ¯”å¦‚ &quot;text/html&quot;, &quot;image/gif&quot;, &quot;image/jpeg&quot;, &quot;text/plain&quot;ï¼‰ã€‚é»˜è®¤æ˜¯ &quot;text/html&quot;</li>
+<li>Expires - è®¾ç½®é¡µé¢åœ¨å¤±æ•ˆå‰çš„æµè§ˆå™¨ç¼“å­˜æ—¶é—´ï¼ˆåˆ†é’Ÿï¼‰</li>
+<li>ExpiresAbsolute - è®¾ç½®æµè§ˆå™¨ä¸Šé¡µé¢ç¼“å­˜å¤±æ•ˆçš„æ—¥æœŸå’Œæ—¶é—´</li>
+<li>IsClientConnected - æŒ‡ç¤ºå®¢æˆ·ç«¯æ˜¯å¦å·²ä»ŽæœåŠ¡å™¨æ–­å¼€</li>
+<li>Pics(<i>pics_label</i>) - å‘ response æŠ¥å¤´çš„ PICS æ ‡å¿—è¿½åŠ å€¼</li>
+<li>Status - è§„å®šç”±æœåŠ¡å™¨è¿”å›žçš„çŠ¶æ€è¡Œçš„å€¼</li>
 </ul>
 
-<h3>ÊôÐÔ</h3>
+<h3>æ–¹æ³•</h3>
 
 <ul>
-<li>TotalBytes - ·µ»ØÔÚÇëÇóÕýÎÄÖÐ¿Í»§¶ËËù·¢ËÍµÄ×Ö½Ú×ÜÊý</li>
-</ul>
-
-<h3>·½·¨</h3>
-
-<ul>
-<li>BinaryRead - È¡»Ø×÷Îª post ÇëÇóµÄÒ»²¿·Ö¶ø´Ó¿Í»§¶ËËÍÍù·þÎñÆ÷µÄÊý¾Ý</li>
+<li>AddHeader(<i>name</i>, <i>value</i>) - å‘ HTTP å“åº”æ·»åŠ æ–°çš„ HTTP æŠ¥å¤´å’Œå€¼</li>
+<li>AppendToLog string - å‘æœåŠ¡å™¨è®°å½•é¡¹ç›®ï¼ˆserver log entryï¼‰çš„æœ«ç«¯æ·»åŠ å­—ç¬¦ä¸²</li>
+<li>BinaryWrite(<i>data_to_write</i>) - åœ¨æ²¡æœ‰ä»»ä½•å­—ç¬¦è½¬æ¢çš„æƒ…å†µä¸‹ç›´æŽ¥å‘è¾“å‡ºå†™æ•°æ®</li>
+<li>Clear - æ¸…é™¤å·²ç¼“å†²çš„è¾“å‡ºã€‚ä½¿ç”¨è¯¥æ–¹æ³•æ¥å¤„ç†é”™è¯¯ã€‚å¦‚æžœ Response.Buffer æœªè®¾ç½®ä¸º trueï¼Œè¯¥æ–¹æ³•å°†äº§ç”Ÿ run-time é”™è¯¯</li>
+<li>End - åœæ­¢å¤„ç†è„šæœ¬ï¼Œå¹¶è¿”å›žå½“å‰çš„ç»“æžœ</li>
+<li>Flush - ç«‹å³å‘é€å·²ç¼“å­˜çš„è¾“å‡ºã€‚å¦‚æžœ Response.Buffer æœªè®¾ç½®ä¸º trueï¼Œè¯¥æ–¹æ³•å°†äº§ç”Ÿ run-time é”™è¯¯</li>
+<li>Redirect(<i>url</i>) - æŠŠç”¨æˆ·é‡å®šå‘åˆ°å¦ä¸€ä¸ª URL</li>
+<li>Write(<i>data_to_write</i>) - å‘ç”¨æˆ·å†™æ–‡æœ¬</li>
 </ul>
 </div>
 
 
 <div>
-<h2>Server ¶ÔÏó</h2>
+<h2>Request å¯¹è±¡</h2>
 
-<p>Server ¶ÔÏóÓÃÓÚ·ÃÎÊ·þÎñÆ÷ÉÏµÄÊôÐÔºÍ·½·¨¡£</p>
+<p>å½“æµè§ˆå™¨ä»ŽæœåŠ¡å™¨è¯·æ±‚é¡µé¢æ—¶ï¼Œå°±è¢«ç§°ä¸º requestã€‚request å¯¹è±¡ç”¨äºŽèŽ·å–æ¥è‡ªç”¨æˆ·çš„ä¿¡æ¯ã€‚</p>
 
-<h3>ÊôÐÔ</h3>
-
-ScriptTimeout - ÉèÖÃ»ò·µ»ØÒ»¶Î½Å±¾ÔÚÖÕÖ¹Ç°ËùÄÜÔËÐÐ¶à³¤Ê±¼ä¡£
-
-<h3>·½·¨</h3>
+<h3>é›†åˆ</h3>
 
 <ul>
-<li>CreateObject(<i>type_of_object</i>) - ´´½¨¶ÔÏóµÄÊµÀý</li>
-<li>Execute(<i>path</i>) - ´Ó ASP ÎÄ¼þÄÚ²¿Ö´ÐÐÁíÒ»¸ö ASP ÎÄ¼þ¡£ÔÚ±»µ÷ÓÃµÄ ASP ÎÄ¼þÖ´ÐÐÍê±Ïºó£¬¿ØÖÆÈ¨·µ»ØÔ­ÏÈµÄ ASP ÎÄ¼þ</li>
-<li>GetLastError() - ·µ»ØÃèÊöËù·¢Éú´íÎóµÄ ASPError ¶ÔÏó</li>
-<li>HTMLEncode(<i>string</i>) - ¶Ô×Ö·û´®Ó¦ÓÃ HTML ±àÂë</li>
-<li>MapPath(<i>path</i>) - °ÑÏà¶Ô»òÐéÄâÂ·¾¶Ó³ÉäÎªÎïÀíÂ·¾¶</li>
-<li>Transfer(<i>path</i>) - °ÑËùÓÐ×´Ì¬ÐÅÏ¢·¢ËÍµ½ÁíÒ»¸öÎÄ¼þ£¬ÒÔ±¸´¦Àí¡£ÔÚ´«ËÍÖ®ºó£¬³ÌÐòµÄ¿ØÖÆÈ¨²»»á·µ»ØÔ­ÏÈµÄ ASP ÎÄ¼þ</li>
-<li>URLEncode(<i>string</i>) - ¶Ô×Ö·û´®Ó¦ÓÃ URL ±àÂë¹æÔò</li>
+<li>ClientCertificate - åŒ…å«äº†åœ¨å®¢æˆ·è¯ä¹¦ä¸­å­˜å‚¨çš„å­—æ®µå€¼</li>
+<li>Cookies(<i>name</i>) - åŒ…å« cookie å€¼</li>
+<li>Form(<i>element_name</i>) - åŒ…å«è¡¨å•å€¼ã€‚è¯¥è¡¨å•å¿…é¡»ä½¿ç”¨ post æ–¹æ³•</li>
+<li>QueryString(<i>variable_name</i>) - åŒ…å«æŸ¥è¯¢å­—ç¬¦ä¸²ä¸­çš„å˜é‡å€¼</li>
+<li>ServerVariables(<i>server_variable</i>) - åŒ…å«æœåŠ¡å™¨å˜é‡å€¼</li>
 </ul>
 
-<p>À´Ô´£ºhttp://www.w3school.com.cn/asp/asp_quickref.asp</p>
+<h3>å±žæ€§</h3>
+
+<ul>
+<li>TotalBytes - è¿”å›žåœ¨è¯·æ±‚æ­£æ–‡ä¸­å®¢æˆ·ç«¯æ‰€å‘é€çš„å­—èŠ‚æ€»æ•°</li>
+</ul>
+
+<h3>æ–¹æ³•</h3>
+
+<ul>
+<li>BinaryRead - å–å›žä½œä¸º post è¯·æ±‚çš„ä¸€éƒ¨åˆ†è€Œä»Žå®¢æˆ·ç«¯é€å¾€æœåŠ¡å™¨çš„æ•°æ®</li>
+</ul>
+</div>
+
+
+<div>
+<h2>Server å¯¹è±¡</h2>
+
+<p>Server å¯¹è±¡ç”¨äºŽè®¿é—®æœåŠ¡å™¨ä¸Šçš„å±žæ€§å’Œæ–¹æ³•ã€‚</p>
+
+<h3>å±žæ€§</h3>
+
+ScriptTimeout - è®¾ç½®æˆ–è¿”å›žä¸€æ®µè„šæœ¬åœ¨ç»ˆæ­¢å‰æ‰€èƒ½è¿è¡Œå¤šé•¿æ—¶é—´ã€‚
+
+<h3>æ–¹æ³•</h3>
+
+<ul>
+<li>CreateObject(<i>type_of_object</i>) - åˆ›å»ºå¯¹è±¡çš„å®žä¾‹</li>
+<li>Execute(<i>path</i>) - ä»Ž ASP æ–‡ä»¶å†…éƒ¨æ‰§è¡Œå¦ä¸€ä¸ª ASP æ–‡ä»¶ã€‚åœ¨è¢«è°ƒç”¨çš„ ASP æ–‡ä»¶æ‰§è¡Œå®Œæ¯•åŽï¼ŒæŽ§åˆ¶æƒè¿”å›žåŽŸå…ˆçš„ ASP æ–‡ä»¶</li>
+<li>GetLastError() - è¿”å›žæè¿°æ‰€å‘ç”Ÿé”™è¯¯çš„ ASPError å¯¹è±¡</li>
+<li>HTMLEncode(<i>string</i>) - å¯¹å­—ç¬¦ä¸²åº”ç”¨ HTML ç¼–ç </li>
+<li>MapPath(<i>path</i>) - æŠŠç›¸å¯¹æˆ–è™šæ‹Ÿè·¯å¾„æ˜ å°„ä¸ºç‰©ç†è·¯å¾„</li>
+<li>Transfer(<i>path</i>) - æŠŠæ‰€æœ‰çŠ¶æ€ä¿¡æ¯å‘é€åˆ°å¦ä¸€ä¸ªæ–‡ä»¶ï¼Œä»¥å¤‡å¤„ç†ã€‚åœ¨ä¼ é€ä¹‹åŽï¼Œç¨‹åºçš„æŽ§åˆ¶æƒä¸ä¼šè¿”å›žåŽŸå…ˆçš„ ASP æ–‡ä»¶</li>
+<li>URLEncode(<i>string</i>) - å¯¹å­—ç¬¦ä¸²åº”ç”¨ URL ç¼–ç è§„åˆ™</li>
+</ul>
+
+<p>æ¥æºï¼šhttp://www.w3school.com.cn/asp/asp_quickref.asp</p>
 </div>
 
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="asp_ajax_database.html" title="AJAX Êý¾Ý¿âÊµÀý">AJAX Êý¾Ý¿â</a></li>
-<li class="next"><a href="asp_summary.html" title="ASP ¿Î³Ì×Ü½á">ASP ¿Î³Ì×Ü½á</a></li>
+<li class="pre"><a href="asp_ajax_database.html" title="AJAX æ•°æ®åº“å®žä¾‹">AJAX æ•°æ®åº“</a></li>
+<li class="next"><a href="asp_summary.html" title="ASP è¯¾ç¨‹æ€»ç»“">ASP è¯¾ç¨‹æ€»ç»“</a></li>
 </ul>
 </div>
 
@@ -482,16 +482,16 @@ ScriptTimeout - ÉèÖÃ»ò·µ»ØÒ»¶Î½Å±¾ÔÚÖÕÖ¹Ç°ËùÄÜÔËÐÐ¶à³¤Ê±¼ä¡£
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈÝ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="asp_ref.html">ASP ²Î¿¼ÊÖ²á</a></h5>
-<h5 id="tools_example"><a href="../example/aspe_examples.html">ASP ÊµÀý</a></h5>
-<h5 id="tools_quiz"><a href="asp_quiz.html">ASP ²âÑé</a></h5>
+<h5 id="tools_reference"><a href="asp_ref.html">ASP å‚è€ƒæ‰‹å†Œ</a></h5>
+<h5 id="tools_example"><a href="../example/aspe_examples.html">ASP å®žä¾‹</a></h5>
+<h5 id="tools_quiz"><a href="asp_quiz.html">ASP æµ‹éªŒ</a></h5>
 </div>
 
 <div id="ad">
@@ -511,13 +511,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£W3School ¼òÌåÖÐÎÄ°æµÄËùÓÐÄÚÈÝ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ðµ£ÈÎºÎÔðÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºŽåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£Žé™©ä¸Žæœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£Žé™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒþË½">ÒþË½Ìõ¿î</a>¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
-ÔÞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æŽ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºŽä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºŽéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµžåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

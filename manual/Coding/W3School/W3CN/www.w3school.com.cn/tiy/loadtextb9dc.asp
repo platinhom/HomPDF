@@ -37,7 +37,7 @@
 <div id="d2">
 </div>
 
-<p>Çë×¢Òâ£¬Á½¸ö div Ö®¼äµÄÍâ±ß¾àÊÇ 20px£¬¶ø²»ÊÇ 30px£¨20px + 10px£©¡£</p>
+<p>è¯·æ³¨æ„ï¼Œä¸¤ä¸ª div ä¹‹é—´çš„å¤–è¾¹è·æ˜¯ 20pxï¼Œè€Œä¸æ˜¯ 30pxï¼ˆ20px + 10pxï¼‰ã€‚</p>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=csse_margin_collapsing1 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:09:35 GMT -->

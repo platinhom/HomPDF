@@ -12,8 +12,8 @@ myForm.elements[0].style.background=color
 </head>
 <body>
 
-<p>±¾ÀýÑÝÊ¾ÈçºÎ¸Ä±äÑ¡ÏîÁÐ±íµÄ±³¾°ÑÕÉ«¡£</p>
-<p>Çë°ÑÊó±êÒÆ¶¯µ½ÏÂÃæµÄÈý¸ö±í¸ñµ¥ÔªÉÏ£¬±³¾°ÑÕÉ«½«»á¸Ä±ä£º</p>
+<p>æœ¬ä¾‹æ¼”ç¤ºå¦‚ä½•æ”¹å˜é€‰é¡¹åˆ—è¡¨çš„èƒŒæ™¯é¢œè‰²ã€‚</p>
+<p>è¯·æŠŠé¼ æ ‡ç§»åŠ¨åˆ°ä¸‹é¢çš„ä¸‰ä¸ªè¡¨æ ¼å•å…ƒä¸Šï¼ŒèƒŒæ™¯é¢œè‰²å°†ä¼šæ”¹å˜ï¼š</p>
 
 <table width="100%"><tr>
 <td bgcolor="red" onmouseover="changeColor('red')"> </td>
@@ -23,10 +23,10 @@ myForm.elements[0].style.background=color
 
 <form name="myForm">
 <select>
-<option>Çë°ÑÊó±êÒÆ¶¯µ½ÑÕÉ«ÉÏÃæ</option>
-<option>Çë°ÑÊó±êÒÆ¶¯µ½ÑÕÉ«ÉÏÃæ</option>
-<option>Çë°ÑÊó±êÒÆ¶¯µ½ÑÕÉ«ÉÏÃæ</option>
-<option>Çë°ÑÊó±êÒÆ¶¯µ½ÑÕÉ«ÉÏÃæ</option>
+<option>è¯·æŠŠé¼ æ ‡ç§»åŠ¨åˆ°é¢œè‰²ä¸Šé¢</option>
+<option>è¯·æŠŠé¼ æ ‡ç§»åŠ¨åˆ°é¢œè‰²ä¸Šé¢</option>
+<option>è¯·æŠŠé¼ æ ‡ç§»åŠ¨åˆ°é¢œè‰²ä¸Šé¢</option>
+<option>è¯·æŠŠé¼ æ ‡ç§»åŠ¨åˆ°é¢œè‰²ä¸Šé¢</option>
 </select>
 </form>
 

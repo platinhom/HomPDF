@@ -5,9 +5,9 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<!--����һ��ע�͡�ע�Ͳ��������������ʾ��-->
+<!--这是一段注释。注释不会在浏览器中显示。-->
 
-<p>����һ����ͨ�Ķ��䡣</p>
+<p>这是一段普通的段落。</p>
 
 </body>
 

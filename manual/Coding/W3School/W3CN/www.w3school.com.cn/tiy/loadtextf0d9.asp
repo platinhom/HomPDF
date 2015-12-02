@@ -5,15 +5,15 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h3>��ʾ��η��� LABEL Ԫ��</h3>
+<h3>演示如何访问 LABEL 元素</h3>
 
 <form id="myForm" action="http://www.w3school.com.cn/tiy/form_action.asp">
   <input type="radio" name="sex" id="male" value="male">
 </form>
 
-<p>�����ť������ LABEL Ԫ�ء�</p>
+<p>点击按钮来创建 LABEL 元素。</p>
 
-<button onclick="myFunction()">��һ��</button>
+<button onclick="myFunction()">试一下</button>
 
 <script>
 function myFunction()

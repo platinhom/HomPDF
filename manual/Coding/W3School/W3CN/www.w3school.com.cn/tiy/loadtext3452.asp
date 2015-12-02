@@ -32,11 +32,11 @@ border:1px solid black;
   </tr>
 </table>
 
-<p>µã»÷°´Å¥£¬·µ»Ø colgroup ÔªËØµÄ span ÊôĞÔµÄÖµ¡£</p>
+<p>ç‚¹å‡»æŒ‰é’®ï¼Œè¿”å› colgroup å…ƒç´ çš„ span å±æ€§çš„å€¼ã€‚</p>
 
 <p id="demo"></p>
 
-<button onclick="myFunction()">ÊÔÒ»ÏÂ</button>
+<button onclick="myFunction()">è¯•ä¸€ä¸‹</button>
 
 <script>
 function myFunction()

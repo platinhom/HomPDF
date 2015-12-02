@@ -18,7 +18,7 @@ Response.ExpiresAbsolute=#May 05,2001 05:30:30#
 %&gt;</code>
 &lt;html&gt;
 &lt;body&gt;
-&lt;p&gt;±¾Ò³ÃæµÄ»º´æ»áÔÚ¸ÃÈÕÆÚÊ§Ğ§£º05, 2001 05:30:30£¡&lt;/p&gt;
+&lt;p&gt;æœ¬é¡µé¢çš„ç¼“å­˜ä¼šåœ¨è¯¥æ—¥æœŸå¤±æ•ˆï¼š05, 2001 05:30:30ï¼&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>

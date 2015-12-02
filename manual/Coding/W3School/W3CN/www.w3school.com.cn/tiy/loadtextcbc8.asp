@@ -12,17 +12,17 @@
 
 <div data-role="page">
   <div data-role="header" data-position="inline">
-    <h1>ĞĞÄÚÒ³Ã¼</h1>
+    <h1>è¡Œå†…é¡µçœ‰</h1>
   </div>
 
   <div data-role="content">
-    <p><b>ÌáÊ¾£º</b>Èç¹ûÒª¿´µ½Ğ§¹û£¬ÔòĞèÒªµ÷Õû´°¿Ú´óĞ¡Ê¹¹ö¶¯Ìõ¿ÉÓÃ¡£</p>
+    <p><b>æç¤ºï¼š</b>å¦‚æœè¦çœ‹åˆ°æ•ˆæœï¼Œåˆ™éœ€è¦è°ƒæ•´çª—å£å¤§å°ä½¿æ»šåŠ¨æ¡å¯ç”¨ã€‚</p>
   
     <p>Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..Some text to enable scrolling..</p>
   </div>
 
   <div data-role="footer" data-position="inline">
-    <h1>ĞĞÄÚÒ³½Å</h1>
+    <h1>è¡Œå†…é¡µè„š</h1>
   </div>
 </div>
 

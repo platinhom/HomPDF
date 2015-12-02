@@ -13,8 +13,8 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<p>±¾¶ÎÂäµÄ¸ß¶ÈÊÇ <span>unknown</span> px¡£</p>
-<button class="btn1">»ñµÃ¸ß¶È</button>
+<p>æœ¬æ®µè½çš„é«˜åº¦æ˜¯ <span>unknown</span> pxã€‚</p>
+<button class="btn1">è·å¾—é«˜åº¦</button>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_css_height_get by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

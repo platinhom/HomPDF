@@ -24,13 +24,13 @@ for (i = 0; i < thisForm.option.length; i++)
 <body>
 
 <form name="myForm">
-<input type="button" value="选取" onclick="makeCheck(this.form)">
-<input type="button" value="取消" onclick="makeUncheck(this.form)">
+<input type="button" value="閫夊彇" onclick="makeCheck(this.form)">
+<input type="button" value="鍙栨秷" onclick="makeUncheck(this.form)">
 <br />
-<input type="checkbox" name="option">苹果<br />
-<input type="checkbox" name="option">桔子<br />
-<input type="checkbox" name="option">香蕉<br />
-<input type="checkbox" name="option">西瓜
+<input type="checkbox" name="option">鑻规灉<br />
+<input type="checkbox" name="option">妗斿瓙<br />
+<input type="checkbox" name="option">棣欒晧<br />
+<input type="checkbox" name="option">瑗跨摐
 </form>
 
 </body>

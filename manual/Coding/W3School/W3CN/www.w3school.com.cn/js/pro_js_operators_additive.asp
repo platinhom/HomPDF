@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/js/pro_js_operators_additive.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:33:49 GMT -->
 <head>
-<meta charset="gbk" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>ECMAScript ¼ÓÐÔÔËËã·û</title>
+<title>ECMAScript åŠ æ€§è¿ç®—ç¬¦</title>
 
 </head>
 
@@ -18,11 +18,11 @@
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäºŽ 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -36,104 +36,104 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>JavaScript ¼ò½é</h2>
+<div id="course"><h2>JavaScript ç®€ä»‹</h2>
 <ul>
-<li><a href="index_pro.html" title="JavaScript ¸ß¼¶½Ì³Ì">JavaScript ¸ß¼¶½Ì³Ì</a></li>
-<li><a href="pro_js_history.asp" title="JavaScript ÀúÊ·">JavaScript ÀúÊ·</a></li>
-<li><a href="pro_js_implement.html" title="JavaScript ÊµÏÖ">JavaScript ÊµÏÖ</a></li>
+<li><a href="index_pro.html" title="JavaScript é«˜çº§æ•™ç¨‹">JavaScript é«˜çº§æ•™ç¨‹</a></li>
+<li><a href="pro_js_history.asp" title="JavaScript åŽ†å²">JavaScript åŽ†å²</a></li>
+<li><a href="pro_js_implement.html" title="JavaScript å®žçŽ°">JavaScript å®žçŽ°</a></li>
 </ul>
-<h2>ECMAScript »ù´¡</h2>
+<h2>ECMAScript åŸºç¡€</h2>
 <ul>
-<li><a href="pro_js_syntax.html" title="ECMAScript Óï·¨">ECMAScript Óï·¨</a></li>
-<li><a href="pro_js_variables.html" title="ECMAScript ±äÁ¿">ECMAScript ±äÁ¿</a></li>
-<li><a href="pro_js_keywords.html" title="ECMAScript ¹Ø¼ü×Ö">ECMAScript ¹Ø¼ü×Ö</a></li>
-<li><a href="pro_js_reservedwords.html" title="ECMAScript ±£Áô×Ö">ECMAScript ±£Áô×Ö</a></li>
-<li><a href="pro_js_value.html" title="ECMAScript Öµ">ECMAScript Öµ</a></li>
-<li><a href="pro_js_primitivetypes.html" title="ECMAScript Ô­Ê¼ÀàÐÍ">ECMAScript Ô­Ê¼ÀàÐÍ</a></li>
-<li><a href="pro_js_typeconversion.html" title="ECMAScript ÀàÐÍ×ª»»">ECMAScript ÀàÐÍ×ª»»</a></li>
-<li><a href="pro_js_referencetypes.html" title="ECMAScript ÒýÓÃÀàÐÍ">ECMAScript ÒýÓÃÀàÐÍ</a></li>
+<li><a href="pro_js_syntax.html" title="ECMAScript è¯­æ³•">ECMAScript è¯­æ³•</a></li>
+<li><a href="pro_js_variables.html" title="ECMAScript å˜é‡">ECMAScript å˜é‡</a></li>
+<li><a href="pro_js_keywords.html" title="ECMAScript å…³é”®å­—">ECMAScript å…³é”®å­—</a></li>
+<li><a href="pro_js_reservedwords.html" title="ECMAScript ä¿ç•™å­—">ECMAScript ä¿ç•™å­—</a></li>
+<li><a href="pro_js_value.html" title="ECMAScript å€¼">ECMAScript å€¼</a></li>
+<li><a href="pro_js_primitivetypes.html" title="ECMAScript åŽŸå§‹ç±»åž‹">ECMAScript åŽŸå§‹ç±»åž‹</a></li>
+<li><a href="pro_js_typeconversion.html" title="ECMAScript ç±»åž‹è½¬æ¢">ECMAScript ç±»åž‹è½¬æ¢</a></li>
+<li><a href="pro_js_referencetypes.html" title="ECMAScript å¼•ç”¨ç±»åž‹">ECMAScript å¼•ç”¨ç±»åž‹</a></li>
 </ul>
-<h2>ECMAScript ÔËËã·û</h2>
+<h2>ECMAScript è¿ç®—ç¬¦</h2>
 <ul>
-<li><a href="pro_js_operators_unary.html" title="ECMAScript Ò»ÔªÔËËã·û">Ò»ÔªÔËËã·û</a></li>
-<li><a href="pro_js_operators_bitwise.html" title="ECMAScript Î»ÔËËã·û">Î»ÔËËã·û</a></li>
-<li><a href="pro_js_operators_boolean.html" title="ECMAScript Âß¼­ÔËËã·û">Âß¼­ÔËËã·û</a></li>
-<li><a href="pro_js_operators_multiplicative.html" title="ECMAScript ³ËÐÔÔËËã·û">³ËÐÔÔËËã·û</a></li>
-<li class="currentLink"><a href="pro_js_operators_additive.asp" title="ECMAScript ¼ÓÐÔÔËËã·û">¼ÓÐÔÔËËã·û</a></li>
-<li><a href="pro_js_operators_relational.html" title="ECMAScript ¹ØÏµÔËËã·û">¹ØÏµÔËËã·û</a></li>
-<li><a href="pro_js_operators_equality.html" title="ECMAScript µÈÐÔÔËËã·û">µÈÐÔÔËËã·û</a></li>
-<li><a href="pro_js_operators_conditional.html" title="ECMAScript Ìõ¼þÔËËã·û">Ìõ¼þÔËËã·û</a></li>
-<li><a href="pro_js_operators_assignment.html" title="ECMAScript ¸³ÖµÔËËã·û">¸³ÖµÔËËã·û</a></li>
-<li><a href="pro_js_operators_comma.html" title="ECMAScript ¶ººÅÔËËã·û">¶ººÅÔËËã·û</a></li>
+<li><a href="pro_js_operators_unary.html" title="ECMAScript ä¸€å…ƒè¿ç®—ç¬¦">ä¸€å…ƒè¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_bitwise.html" title="ECMAScript ä½è¿ç®—ç¬¦">ä½è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_boolean.html" title="ECMAScript é€»è¾‘è¿ç®—ç¬¦">é€»è¾‘è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_multiplicative.html" title="ECMAScript ä¹˜æ€§è¿ç®—ç¬¦">ä¹˜æ€§è¿ç®—ç¬¦</a></li>
+<li class="currentLink"><a href="pro_js_operators_additive.asp" title="ECMAScript åŠ æ€§è¿ç®—ç¬¦">åŠ æ€§è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_relational.html" title="ECMAScript å…³ç³»è¿ç®—ç¬¦">å…³ç³»è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_equality.html" title="ECMAScript ç­‰æ€§è¿ç®—ç¬¦">ç­‰æ€§è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_conditional.html" title="ECMAScript æ¡ä»¶è¿ç®—ç¬¦">æ¡ä»¶è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_assignment.html" title="ECMAScript èµ‹å€¼è¿ç®—ç¬¦">èµ‹å€¼è¿ç®—ç¬¦</a></li>
+<li><a href="pro_js_operators_comma.html" title="ECMAScript é€—å·è¿ç®—ç¬¦">é€—å·è¿ç®—ç¬¦</a></li>
 </ul>
-<h2>ECMAScript Óï¾ä</h2>
+<h2>ECMAScript è¯­å¥</h2>
 <ul>
-<li><a href="pro_js_statements_if.html" title="ECMAScript if Óï¾ä">if Óï¾ä</a></li>
-<li><a href="pro_js_statements_iterative.html" title="ECMAScript µü´úÓï¾ä">µü´úÓï¾ä</a></li>
-<li><a href="pro_js_statements_labeled.html" title="ECMAScript ±êÇ©Óï¾ä">±êÇ©Óï¾ä</a></li>
-<li><a href="pro_js_statements_break_continue.html" title="ECMAScript break ºÍ continue Óï¾ä">break Óï¾ä</a></li>
-<li><a href="pro_js_statements_break_continue.html" title="ECMAScript break ºÍ continue Óï¾ä">continue Óï¾ä</a></li>
-<li><a href="pro_js_statements_with.html" title="ECMAScript with Óï¾ä">with Óï¾ä</a></li>
-<li><a href="pro_js_statements_switch.html" title="ECMAScript switch Óï¾ä">switch Óï¾ä</a></li>
+<li><a href="pro_js_statements_if.html" title="ECMAScript if è¯­å¥">if è¯­å¥</a></li>
+<li><a href="pro_js_statements_iterative.html" title="ECMAScript è¿­ä»£è¯­å¥">è¿­ä»£è¯­å¥</a></li>
+<li><a href="pro_js_statements_labeled.html" title="ECMAScript æ ‡ç­¾è¯­å¥">æ ‡ç­¾è¯­å¥</a></li>
+<li><a href="pro_js_statements_break_continue.html" title="ECMAScript break å’Œ continue è¯­å¥">break è¯­å¥</a></li>
+<li><a href="pro_js_statements_break_continue.html" title="ECMAScript break å’Œ continue è¯­å¥">continue è¯­å¥</a></li>
+<li><a href="pro_js_statements_with.html" title="ECMAScript with è¯­å¥">with è¯­å¥</a></li>
+<li><a href="pro_js_statements_switch.html" title="ECMAScript switch è¯­å¥">switch è¯­å¥</a></li>
 </ul>
-<h2>ECMAScript º¯Êý</h2>
+<h2>ECMAScript å‡½æ•°</h2>
 <ul>
-<li><a href="pro_js_functions.html" title="ECMAScript º¯Êý¸ÅÊö">º¯Êý¸ÅÊö</a></li>
-<li><a href="pro_js_functions_arguments_object.html" title="ECMAScript arguments ¶ÔÏó">arguments ¶ÔÏó</a></li>
-<li><a href="pro_js_functions_function_object.html" title="ECMAScript Function ¶ÔÏó£¨Àà£©">Function ¶ÔÏó</a></li>
-<li><a href="pro_js_functions_closures.html" title="ECMAScript ±Õ°ü£¨closure£©">±Õ°ü£¨closure£©</a></li>
+<li><a href="pro_js_functions.html" title="ECMAScript å‡½æ•°æ¦‚è¿°">å‡½æ•°æ¦‚è¿°</a></li>
+<li><a href="pro_js_functions_arguments_object.html" title="ECMAScript arguments å¯¹è±¡">arguments å¯¹è±¡</a></li>
+<li><a href="pro_js_functions_function_object.html" title="ECMAScript Function å¯¹è±¡ï¼ˆç±»ï¼‰">Function å¯¹è±¡</a></li>
+<li><a href="pro_js_functions_closures.html" title="ECMAScript é—­åŒ…ï¼ˆclosureï¼‰">é—­åŒ…ï¼ˆclosureï¼‰</a></li>
 </ul>
-<h2>ECMAScript ¶ÔÏó</h2>
+<h2>ECMAScript å¯¹è±¡</h2>
 <ul>
-<li><a href="pro_js_object_oriented.asp" title="ECMAScript ÃæÏò¶ÔÏó¼¼Êõ">ÃæÏò¶ÔÏó</a></li>
-<li><a href="pro_js_object_working_with.html" title="ECMAScript ¶ÔÏóÓ¦ÓÃ">¶ÔÏóÓ¦ÓÃ</a></li>
-<li><a href="pro_js_object_types.html" title="ECMAScript ¶ÔÏóÀàÐÍ">¶ÔÏóÀàÐÍ</a></li>
-<li><a href="pro_js_object_scope.html" title="ECMAScript ¶ÔÏó×÷ÓÃÓò">¶ÔÏó×÷ÓÃÓò</a></li>
-<li><a href="pro_js_object_defining.html" title="ECMAScript ¶¨ÒåÀà»ò¶ÔÏó">¶¨ÒåÀà»ò¶ÔÏó</a></li>
-<li><a href="pro_js_object_modifying.asp" title="ECMAScript ÐÞ¸Ä¶ÔÏó">ÐÞ¸Ä¶ÔÏó</a></li>
+<li><a href="pro_js_object_oriented.asp" title="ECMAScript é¢å‘å¯¹è±¡æŠ€æœ¯">é¢å‘å¯¹è±¡</a></li>
+<li><a href="pro_js_object_working_with.html" title="ECMAScript å¯¹è±¡åº”ç”¨">å¯¹è±¡åº”ç”¨</a></li>
+<li><a href="pro_js_object_types.html" title="ECMAScript å¯¹è±¡ç±»åž‹">å¯¹è±¡ç±»åž‹</a></li>
+<li><a href="pro_js_object_scope.html" title="ECMAScript å¯¹è±¡ä½œç”¨åŸŸ">å¯¹è±¡ä½œç”¨åŸŸ</a></li>
+<li><a href="pro_js_object_defining.html" title="ECMAScript å®šä¹‰ç±»æˆ–å¯¹è±¡">å®šä¹‰ç±»æˆ–å¯¹è±¡</a></li>
+<li><a href="pro_js_object_modifying.asp" title="ECMAScript ä¿®æ”¹å¯¹è±¡">ä¿®æ”¹å¯¹è±¡</a></li>
 </ul>
-<h2>ECMAScript ¼Ì³Ð</h2>
+<h2>ECMAScript ç»§æ‰¿</h2>
 <ul>
-<li><a href="pro_js_inheritance_in_action.html" title="ECMAScript ¼Ì³Ð»úÖÆÊµÀý">¼Ì³Ð»úÖÆÊµÀý</a></li>
-<li><a href="pro_js_inheritance_implementing.html" title="ECMAScript ¼Ì³Ð»úÖÆÊµÏÖ">¼Ì³Ð»úÖÆÊµÏÖ</a></li>
+<li><a href="pro_js_inheritance_in_action.html" title="ECMAScript ç»§æ‰¿æœºåˆ¶å®žä¾‹">ç»§æ‰¿æœºåˆ¶å®žä¾‹</a></li>
+<li><a href="pro_js_inheritance_implementing.html" title="ECMAScript ç»§æ‰¿æœºåˆ¶å®žçŽ°">ç»§æ‰¿æœºåˆ¶å®žçŽ°</a></li>
 </ul>
-<h2>JS ÊµÀýºÍ²âÑé</h2>
+<h2>JS å®žä¾‹å’Œæµ‹éªŒ</h2>
 <ul>
-<li><a href="../example/jseg_examples.html" title="JavaScript ÊµÀý">JS ÊµÀý</a></li>
-<li><a href="../example/jsrf_examples.html" title="JavaScript ¶ÔÏóÊµÀý">JS ¶ÔÏóÊµÀý</a></li>
-<li><a href="js_quiz.html" title="JavaScript ²âÑé">JS ²âÑé</a></li>
+<li><a href="../example/jseg_examples.html" title="JavaScript å®žä¾‹">JS å®žä¾‹</a></li>
+<li><a href="../example/jsrf_examples.html" title="JavaScript å¯¹è±¡å®žä¾‹">JS å¯¹è±¡å®žä¾‹</a></li>
+<li><a href="js_quiz.html" title="JavaScript æµ‹éªŒ">JS æµ‹éªŒ</a></li>
 </ul>
-<h2>JS ²Î¿¼ÊÖ²á</h2>
+<h2>JS å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="../jsref/index.html" title="JavaScript ºÍ HTML DOM ²Î¿¼ÊÖ²á">JavaScript ¶ÔÏó</a></li>
-<li><a href="../jsref/index.html" title="JavaScript ºÍ HTML DOM ²Î¿¼ÊÖ²á">HTML DOM ¶ÔÏó</a></li>
+<li><a href="../jsref/index.html" title="JavaScript å’Œ HTML DOM å‚è€ƒæ‰‹å†Œ">JavaScript å¯¹è±¡</a></li>
+<li><a href="../jsref/index.html" title="JavaScript å’Œ HTML DOM å‚è€ƒæ‰‹å†Œ">HTML DOM å¯¹è±¡</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æž„å»º">ç½‘ç«™æž„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äºŽ W3School" id="link_about">å…³äºŽ W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -141,91 +141,91 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>ECMAScript ¼ÓÐÔÔËËã·û</h1>
+<h1>ECMAScript åŠ æ€§è¿ç®—ç¬¦</h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="pro_js_operators_multiplicative.html" title="ECMAScript ³ËÐÔÔËËã·û">³ËÐÔÔËËã·û</a></li>
-<li class="next"><a href="pro_js_operators_relational.html" title="ECMAScript ¹ØÏµÔËËã·û">¹ØÏµÔËËã·û</a></li>
+<li class="pre"><a href="pro_js_operators_multiplicative.html" title="ECMAScript ä¹˜æ€§è¿ç®—ç¬¦">ä¹˜æ€§è¿ç®—ç¬¦</a></li>
+<li class="next"><a href="pro_js_operators_relational.html" title="ECMAScript å…³ç³»è¿ç®—ç¬¦">å…³ç³»è¿ç®—ç¬¦</a></li>
 </ul>
 </div>
 
 
 <div>
-<p><strong>ÔÚ¶àÊý³ÌÐòÉè¼ÆÓïÑÔÖÐ£¬¼ÓÐÔÔËËã·û£¨¼´¼ÓºÅ»ò¼õºÅ£©Í¨³£ÊÇ×î¼òµ¥µÄÊýÑ§ÔËËã·û¡£</strong></p>
-<p><strong>ÔÚ ECMAScript ÖÐ£¬¼ÓÐÔÔËËã·ûÓÐ´óÁ¿µÄÌØÊâÐÐÎª¡£</strong></p>
+<p><strong>åœ¨å¤šæ•°ç¨‹åºè®¾è®¡è¯­è¨€ä¸­ï¼ŒåŠ æ€§è¿ç®—ç¬¦ï¼ˆå³åŠ å·æˆ–å‡å·ï¼‰é€šå¸¸æ˜¯æœ€ç®€å•çš„æ•°å­¦è¿ç®—ç¬¦ã€‚</strong></p>
+<p><strong>åœ¨ ECMAScript ä¸­ï¼ŒåŠ æ€§è¿ç®—ç¬¦æœ‰å¤§é‡çš„ç‰¹æ®Šè¡Œä¸ºã€‚</strong></p>
 </div>
 
 
 <div>
-<h2>¼Ó·¨ÔËËã·û</h2>
+<h2>åŠ æ³•è¿ç®—ç¬¦</h2>
 
-<p>·¨ÔËËã·ûÓÉ¼ÓºÅ£¨+£©±íÊ¾£º</p>
+<p>æ³•è¿ç®—ç¬¦ç”±åŠ å·ï¼ˆ+ï¼‰è¡¨ç¤ºï¼š</p>
 
 <pre>var iResult = 1 + 2</pre>
 
-<p>Óë³ËÐÔÔËËã·ûÒ»Ñù£¬ÔÚ´¦ÀíÌØÊâÖµÊ±£¬ECMAScript ÖÐµÄ¼Ó·¨Ò²ÓÐÒ»Ð©ÌØÊâÐÐÎª£º</p>
+<p>ä¸Žä¹˜æ€§è¿ç®—ç¬¦ä¸€æ ·ï¼Œåœ¨å¤„ç†ç‰¹æ®Šå€¼æ—¶ï¼ŒECMAScript ä¸­çš„åŠ æ³•ä¹Ÿæœ‰ä¸€äº›ç‰¹æ®Šè¡Œä¸ºï¼š</p>
 
 <ul>
-<li>Ä³¸öÔËËãÊýÊÇ NaN£¬ÄÇÃ´½á¹ûÎª NaN¡£</li>
-<li>-Infinity ¼Ó -Infinity£¬½á¹ûÎª -Infinity¡£</li>
-<li>Infinity ¼Ó -Infinity£¬½á¹ûÎª NaN¡£</li>
-<li>+0 ¼Ó +0£¬½á¹ûÎª +0¡£</li>
-<li>-0 ¼Ó +0£¬½á¹ûÎª +0¡£</li>
-<li>-0 ¼Ó -0£¬½á¹ûÎª -0¡£</li>
+<li>æŸä¸ªè¿ç®—æ•°æ˜¯ NaNï¼Œé‚£ä¹ˆç»“æžœä¸º NaNã€‚</li>
+<li>-Infinity åŠ  -Infinityï¼Œç»“æžœä¸º -Infinityã€‚</li>
+<li>Infinity åŠ  -Infinityï¼Œç»“æžœä¸º NaNã€‚</li>
+<li>+0 åŠ  +0ï¼Œç»“æžœä¸º +0ã€‚</li>
+<li>-0 åŠ  +0ï¼Œç»“æžœä¸º +0ã€‚</li>
+<li>-0 åŠ  -0ï¼Œç»“æžœä¸º -0ã€‚</li>
 </ul>
 
-<p>²»¹ý£¬Èç¹ûÄ³¸öÔËËãÊýÊÇ×Ö·û´®£¬ÄÇÃ´²ÉÓÃÏÂÁÐ¹æÔò£º</p>
+<p>ä¸è¿‡ï¼Œå¦‚æžœæŸä¸ªè¿ç®—æ•°æ˜¯å­—ç¬¦ä¸²ï¼Œé‚£ä¹ˆé‡‡ç”¨ä¸‹åˆ—è§„åˆ™ï¼š</p>
 
 <ul>
-<li>Èç¹ûÁ½¸öÔËËãÊý¶¼ÊÇ×Ö·û´®£¬°ÑµÚ¶þ¸ö×Ö·û´®Á¬½Óµ½µÚÒ»¸öÉÏ¡£</li>
-<li>Èç¹ûÖ»ÓÐÒ»¸öÔËËãÊýÊÇ×Ö·û´®£¬°ÑÁíÒ»¸öÔËËãÊý×ª»»³É×Ö·û´®£¬½á¹ûÊÇÁ½¸ö×Ö·û´®Á¬½Ó³ÉµÄ×Ö·û´®¡£</li>
+<li>å¦‚æžœä¸¤ä¸ªè¿ç®—æ•°éƒ½æ˜¯å­—ç¬¦ä¸²ï¼ŒæŠŠç¬¬äºŒä¸ªå­—ç¬¦ä¸²è¿žæŽ¥åˆ°ç¬¬ä¸€ä¸ªä¸Šã€‚</li>
+<li>å¦‚æžœåªæœ‰ä¸€ä¸ªè¿ç®—æ•°æ˜¯å­—ç¬¦ä¸²ï¼ŒæŠŠå¦ä¸€ä¸ªè¿ç®—æ•°è½¬æ¢æˆå­—ç¬¦ä¸²ï¼Œç»“æžœæ˜¯ä¸¤ä¸ªå­—ç¬¦ä¸²è¿žæŽ¥æˆçš„å­—ç¬¦ä¸²ã€‚</li>
 </ul>
 
-<p>ÀýÈç£º</p>
+<p>ä¾‹å¦‚ï¼š</p>
 
 <pre>
-var result = 5 + 5;	<span>//Á½¸öÊý×Ö</span>
-alert(result);		<span>//Êä³ö &quot;10&quot;</span>
-var result2 = 5 + &quot;5&quot;;	<span>//Ò»¸öÊý×ÖºÍÒ»¸ö×Ö·û´®</span>
-alert(result);		<span>//Êä³ö &quot;55&quot;</span>
+var result = 5 + 5;	<span>//ä¸¤ä¸ªæ•°å­—</span>
+alert(result);		<span>//è¾“å‡º &quot;10&quot;</span>
+var result2 = 5 + &quot;5&quot;;	<span>//ä¸€ä¸ªæ•°å­—å’Œä¸€ä¸ªå­—ç¬¦ä¸²</span>
+alert(result);		<span>//è¾“å‡º &quot;55&quot;</span>
 </pre>
 
-<p>Õâ¶Î´úÂëËµÃ÷ÁË¼Ó·¨ÔËËã·ûµÄÁ½ÖÖÄ£Ê½Ö®¼äµÄ²î±ð¡£Õý³£Çé¿öÏÂ£¬5+5 µÈÓÚ 10£¨Ô­Ê¼ÊýÖµ£©£¬ÈçÉÏÊö´úÂëÖÐÇ°Á½ÐÐËùÊ¾¡£²»¹ý£¬Èç¹û°ÑÒ»¸öÔËËãÊý¸ÄÎª×Ö·û´® &quot;5&quot;£¬ÄÇÃ´½á¹û½«±äÎª &quot;55&quot;£¨Ô­Ê¼µÄ×Ö·û´®Öµ£©£¬ÒòÎªÁíÒ»¸öÔËËãÊýÒ²»á±»×ª»»Îª×Ö·û´®¡£</p>
+<p>è¿™æ®µä»£ç è¯´æ˜Žäº†åŠ æ³•è¿ç®—ç¬¦çš„ä¸¤ç§æ¨¡å¼ä¹‹é—´çš„å·®åˆ«ã€‚æ­£å¸¸æƒ…å†µä¸‹ï¼Œ5+5 ç­‰äºŽ 10ï¼ˆåŽŸå§‹æ•°å€¼ï¼‰ï¼Œå¦‚ä¸Šè¿°ä»£ç ä¸­å‰ä¸¤è¡Œæ‰€ç¤ºã€‚ä¸è¿‡ï¼Œå¦‚æžœæŠŠä¸€ä¸ªè¿ç®—æ•°æ”¹ä¸ºå­—ç¬¦ä¸² &quot;5&quot;ï¼Œé‚£ä¹ˆç»“æžœå°†å˜ä¸º &quot;55&quot;ï¼ˆåŽŸå§‹çš„å­—ç¬¦ä¸²å€¼ï¼‰ï¼Œå› ä¸ºå¦ä¸€ä¸ªè¿ç®—æ•°ä¹Ÿä¼šè¢«è½¬æ¢ä¸ºå­—ç¬¦ä¸²ã€‚</p>
 
-<p class="important"><span>×¢Òâ£º</span>ÎªÁË±ÜÃâ JavaScript ÖÐµÄÒ»ÖÖ³£¼û´íÎó£¬ÔÚÊ¹ÓÃ¼Ó·¨ÔËËã·ûÊ±£¬Ò»¶¨Òª×ÐÏ¸¼ì²éÔËËãÊýµÄÊý¾ÝÀàÐÍ¡£</p>
+<p class="important"><span>æ³¨æ„ï¼š</span>ä¸ºäº†é¿å… JavaScript ä¸­çš„ä¸€ç§å¸¸è§é”™è¯¯ï¼Œåœ¨ä½¿ç”¨åŠ æ³•è¿ç®—ç¬¦æ—¶ï¼Œä¸€å®šè¦ä»”ç»†æ£€æŸ¥è¿ç®—æ•°çš„æ•°æ®ç±»åž‹ã€‚</p>
 </div>
 
 
 <div>
-<h2>¼õ·¨ÔËËã·û</h2>
+<h2>å‡æ³•è¿ç®—ç¬¦</h2>
 
-<p>¼õ·¨ÔËËã·û£¨-£©£¬Ò²ÊÇÒ»¸ö³£ÓÃµÄÔËËã·û£º</p>
+<p>å‡æ³•è¿ç®—ç¬¦ï¼ˆ-ï¼‰ï¼Œä¹Ÿæ˜¯ä¸€ä¸ªå¸¸ç”¨çš„è¿ç®—ç¬¦ï¼š</p>
 
 <pre>var iResult = 2 - 1;</pre>
 
-<p>Óë¼Ó·¨ÔËËã·ûÒ»Ñù£¬ÔÚ´¦ÀíÌØÊâÖµÊ±£¬¼õ·¨ÔËËã·ûÒ²ÓÐÒ»Ð©ÌØÊâÐÐÎª£º</p>
+<p>ä¸ŽåŠ æ³•è¿ç®—ç¬¦ä¸€æ ·ï¼Œåœ¨å¤„ç†ç‰¹æ®Šå€¼æ—¶ï¼Œå‡æ³•è¿ç®—ç¬¦ä¹Ÿæœ‰ä¸€äº›ç‰¹æ®Šè¡Œä¸ºï¼š</p>
 
 <ul>
-<li>Ä³¸öÔËËãÊýÊÇ NaN£¬ÄÇÃ´½á¹ûÎª NaN¡£</li>
-<li>Infinity ¼õ Infinity£¬½á¹ûÎª NaN¡£</li>
-<li>-Infinity ¼õ -Infinity£¬½á¹ûÎª NaN¡£</li>
-<li>Infinity ¼õ -Infinity£¬½á¹ûÎª Infinity¡£</li>
-<li>-Infinity ¼õ Infinity£¬½á¹ûÎª -Infinity¡£</li>
-<li>+0 ¼õ +0£¬½á¹ûÎª +0¡£</li>
-<li>-0 ¼õ -0£¬½á¹ûÎª -0¡£</li>
-<li>+0 ¼õ -0£¬½á¹ûÎª +0¡£</li>
-<li>Ä³¸öÔËËã·û²»ÊÇÊý×Ö£¬ÄÇÃ´½á¹ûÎª NaN¡£</li>
+<li>æŸä¸ªè¿ç®—æ•°æ˜¯ NaNï¼Œé‚£ä¹ˆç»“æžœä¸º NaNã€‚</li>
+<li>Infinity å‡ Infinityï¼Œç»“æžœä¸º NaNã€‚</li>
+<li>-Infinity å‡ -Infinityï¼Œç»“æžœä¸º NaNã€‚</li>
+<li>Infinity å‡ -Infinityï¼Œç»“æžœä¸º Infinityã€‚</li>
+<li>-Infinity å‡ Infinityï¼Œç»“æžœä¸º -Infinityã€‚</li>
+<li>+0 å‡ +0ï¼Œç»“æžœä¸º +0ã€‚</li>
+<li>-0 å‡ -0ï¼Œç»“æžœä¸º -0ã€‚</li>
+<li>+0 å‡ -0ï¼Œç»“æžœä¸º +0ã€‚</li>
+<li>æŸä¸ªè¿ç®—ç¬¦ä¸æ˜¯æ•°å­—ï¼Œé‚£ä¹ˆç»“æžœä¸º NaNã€‚</li>
 </ul>
 
-<p class="note"><span>×¢ÊÍ£º</span>Èç¹ûÔËËãÊý¶¼ÊÇÊý×Ö£¬ÄÇÃ´Ö´ÐÐ³£¹æµÄ¼õ·¨ÔËËã£¬²¢·µ»Ø½á¹û¡£</p>
+<p class="note"><span>æ³¨é‡Šï¼š</span>å¦‚æžœè¿ç®—æ•°éƒ½æ˜¯æ•°å­—ï¼Œé‚£ä¹ˆæ‰§è¡Œå¸¸è§„çš„å‡æ³•è¿ç®—ï¼Œå¹¶è¿”å›žç»“æžœã€‚</p>
 </div>
 
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="pro_js_operators_multiplicative.html" title="ECMAScript ³ËÐÔÔËËã·û">³ËÐÔÔËËã·û</a></li>
-<li class="next"><a href="pro_js_operators_relational.html" title="ECMAScript ¹ØÏµÔËËã·û">¹ØÏµÔËËã·û</a></li>
+<li class="pre"><a href="pro_js_operators_multiplicative.html" title="ECMAScript ä¹˜æ€§è¿ç®—ç¬¦">ä¹˜æ€§è¿ç®—ç¬¦</a></li>
+<li class="next"><a href="pro_js_operators_relational.html" title="ECMAScript å…³ç³»è¿ç®—ç¬¦">å…³ç³»è¿ç®—ç¬¦</a></li>
 </ul>
 </div>
 
@@ -242,16 +242,16 @@ alert(result);		<span>//Êä³ö &quot;55&quot;</span>
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈÝ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="../jsref/index.html">JavaScript ²Î¿¼ÊÖ²á</a></h5>
-<h5 id="tools_example"><a href="../example/jseg_examples.html">JavaScript ÊµÀý</a></h5>
-<h5 id="tools_quiz"><a href="js_quiz.html">JavaScript ²âÑé</a></h5>
+<h5 id="tools_reference"><a href="../jsref/index.html">JavaScript å‚è€ƒæ‰‹å†Œ</a></h5>
+<h5 id="tools_example"><a href="../example/jseg_examples.html">JavaScript å®žä¾‹</a></h5>
+<h5 id="tools_quiz"><a href="js_quiz.html">JavaScript æµ‹éªŒ</a></h5>
 </div>
 
 <div id="ad">
@@ -272,13 +272,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£W3School ¼òÌåÖÐÎÄ°æµÄËùÓÐÄÚÈÝ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ðµ£ÈÎºÎÔðÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºŽåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£Žé™©ä¸Žæœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£Žé™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒþË½">ÒþË½Ìõ¿î</a>¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
-ÔÞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æŽ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºŽä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºŽéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµžåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

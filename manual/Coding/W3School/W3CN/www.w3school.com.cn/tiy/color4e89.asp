@@ -3,13 +3,13 @@
 
 <!-- Mirrored from www.w3school.com.cn/tiy/color.asp?hex=8B0000 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 04:18:34 GMT -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="color.css" />
 
-<title>W3School ��ɫ����</title>
+<title>W3School 颜色测试</title>
 
 
 
@@ -37,13 +37,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>W3School ��ɫ����</h1>
+<h1>W3School 颜色测试</h1>
 
-<p id="bg_color">����ı���ɫ��<em>#8B0000</em> ���벻ͬ���ı���ɫһͬ��ʾ��</p>
+<p id="bg_color">表格的背景色：<em>#8B0000</em> ，与不同的文本颜色一同显示。</p>
 
 <table style="background-color:#8B0000">
 <tr>
-<th>��ɫ��</th>
+<th>颜色名</th>
 <th>HEX</th>
 <th>RGB</th>
 </tr>
@@ -899,7 +899,7 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 
 <div id="footer">
-<p><a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p><a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 

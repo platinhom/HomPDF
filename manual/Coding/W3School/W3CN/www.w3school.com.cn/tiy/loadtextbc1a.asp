@@ -5,7 +5,7 @@
 <body>
 
 <h1 style="text-align:center">This is a heading</h1>
-<p>����ı��������ҳ����ж��롣</p>
+<p>上面的标题相对于页面居中对齐。</p>
 
 </body>
 

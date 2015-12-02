@@ -18,11 +18,11 @@
 &lt;body&gt;
 
 <code class="phpcode">&lt;?php
-// ����Դ�Сд�����еĳ���
+// 定义对大小写不敏感的常量
 define(&quot;GREETING&quot;, &quot;Welcome to W3School.com.cn!&quot;, true);
 echo GREETING;
 echo &quot;&lt;br&gt;&quot;;
-// �����������ֵ
+// 会输出常量的值
 echo greeting;
 ?&gt;</code>  
 

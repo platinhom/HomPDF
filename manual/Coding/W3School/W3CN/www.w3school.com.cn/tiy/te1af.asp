@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=js_window_screen_availheight by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:33:55 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3SchoolÔÚÏß²âÊÔ¹¤¾ß V2</title>
+<title>W3Schoolåœ¨çº¿æµ‹è¯•å·¥å…· V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="Ìá½»´úÂë" onClick="submitTryit()">
+<input type="button" value="æäº¤ä»£ç " onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>±à¼­ÄúµÄ´úÂë£º</h2>
+<h2>ç¼–è¾‘æ‚¨çš„ä»£ç ï¼š</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -49,7 +49,7 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <script>
 
-document.write("¿ÉÓÃ¸ß¶È£º" + screen.availHeight);
+document.write("å¯ç”¨é«˜åº¦ï¼š" + screen.availHeight);
 
 </script>
 
@@ -66,12 +66,12 @@ document.write("¿ÉÓÃ¸ß¶È£º" + screen.availHeight);
 </form>
 
 <div id="result">
-<h2>²é¿´½á¹û:</h2>
+<h2>æŸ¥çœ‹ç»“æœ:</h2>
 <iframe frameborder="0" name="i" src="loadtexte1af.html?f=js_window_screen_availheight"></iframe>
 </div>
 
 <div id="footer">
-<p>ÇëÔÚÉÏÃæµÄÎÄ±¾¿òÖĞ±à¼­ÄúµÄ´úÂë£¬È»ºóµ¥»÷Ìá½»°´Å¥²âÊÔ½á¹û¡£<a href="../index-2.html" title="W3School ÔÚÏß½Ì³Ì">w3school.com.cn</a></p>
+<p>è¯·åœ¨ä¸Šé¢çš„æ–‡æœ¬æ¡†ä¸­ç¼–è¾‘æ‚¨çš„ä»£ç ï¼Œç„¶åå•å‡»æäº¤æŒ‰é’®æµ‹è¯•ç»“æœã€‚<a href="../index-2.html" title="W3School åœ¨çº¿æ•™ç¨‹">w3school.com.cn</a></p>
 </div>
 
 </div>

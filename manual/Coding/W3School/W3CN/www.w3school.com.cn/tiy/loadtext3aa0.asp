@@ -5,8 +5,8 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body> 
 
-<button onclick="getMuted()" type="button">该视频默认是静音的吗？</button>
-<button onclick="setToMuted()" type="button">把视频设置为默认静音，并重载视频</button>
+<button onclick="getMuted()" type="button">璇ヨ棰戦粯璁ゆ槸闈欓煶鐨勫悧锛�</button>
+<button onclick="setToMuted()" type="button">鎶婅棰戣缃负榛樿闈欓煶锛屽苟閲嶈浇瑙嗛</button>
 <br />
 <br />
 <video id="video1" controls="controls">

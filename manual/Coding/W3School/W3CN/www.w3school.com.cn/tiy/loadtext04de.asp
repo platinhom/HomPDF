@@ -13,9 +13,9 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<p>ÕâÊÇÒ»¸ö¶ÎÂä¡£</p>
-<p>ÕâÊÇÁíÒ»¸ö¶ÎÂä¡£</p>
-<button>É¾³ýËùÓÐ p ÔªËØ</button>
+<p>è¿™æ˜¯ä¸€ä¸ªæ®µè½ã€‚</p>
+<p>è¿™æ˜¯å¦ä¸€ä¸ªæ®µè½ã€‚</p>
+<button>åˆ é™¤æ‰€æœ‰ p å…ƒç´ </button>
 </body>
 
 <!-- Mirrored from www.w3school.com.cn/tiy/loadtext.asp?f=jquery_manipulation_remove by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 07:31:38 GMT -->

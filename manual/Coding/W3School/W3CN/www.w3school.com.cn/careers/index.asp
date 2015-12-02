@@ -4,7 +4,7 @@
 
 <!-- Mirrored from www.w3school.com.cn/careers/index.asp by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Dec 2015 22:58:38 GMT -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="zh-cn" />
 
 <meta name="robots" content="all" />
@@ -17,18 +17,18 @@
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 
-<title>ְҵ�滮</title>
+<title>职业规划</title>
 </head>
 
 <body class="webbuilding">
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ���߽̳�" style="float:left;">w3school ���߽̳�</a>
+<a href="../index-2.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ������ 08-12-1 */
+/* 728x90, 创建于 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -42,39 +42,39 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ϵ�н̳�">HTML ϵ�н̳�</a></li>
-<li id="b"><a href="../b.html" title="������ű��̳�">������ű�</a></li>
-<li id="s"><a href="../s.html" title="�������ű��̳�">�������ű�</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET �̳�">ASP.NET �̳�</a></li>
-<li id="x"><a href="../x.html" title="XML ϵ�н̳�">XML ϵ�н̳�</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ϵ�н̳�">Web Services ϵ�н̳�</a></li>
-<li id="w"><a href="../w.html" title="��վ�ֲ�">��վ�ֲ�</a></li>
+<li id="h"><a href="../h.html" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="../b.html" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="../s.html" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="../x.html" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="../w.html" title="建站手册">建站手册</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>ְҵ�滮</h2>
+<div id="course"><h2>职业规划</h2>
 <ul>
-<li class="currentLink"><a href="index.asp" title="ְҵ�滮">�̳���ҳ</a></li>
-<li><a href="career_tips.html" title="ְҵ�滮��ʾ">ְҵ�滮��ʾ</a></li>
-<li><a href="career_cv.html" title="ְҵ������CV��">ְҵ����</a></li>
-<li><a href="career_resources.html" title="ְҵ��Դ">ְҵ��Դ</a></li>
+<li class="currentLink"><a href="index.asp" title="职业规划">教程首页</a></li>
+<li><a href="career_tips.html" title="职业规划提示">职业规划提示</a></li>
+<li><a href="career_cv.html" title="职业履历（CV）">职业履历</a></li>
+<li><a href="career_resources.html" title="职业资源">职业资源</a></li>
 </ul>
 </div><div id="selected">
-<h2>��վ�ֲ�</h2>
+<h2>建站手册</h2>
 <ul>
-<li><a href="../site/index.html" title="��վ����">��վ����</a></li>
-<li><a href="../w3c/index.html" title="��ά������ (W3C)">��ά������ (W3C)</a></li>
-<li><a href="../browsers/index.html" title="�������Ϣ">�������Ϣ</a></li>
-<li><a href="../quality/index.html" title="��վƷ��">��վƷ��</a></li>
-<li><a href="../semweb/index.html" title="������">������</a></li>
-<li><a href="index.asp" title="ְҵ�滮">ְҵ�滮</a></li>
-<li><a href="../hosting/index.html" title="��վ����">��վ����</a></li>
+<li><a href="../site/index.html" title="网站构建">网站构建</a></li>
+<li><a href="../w3c/index.html" title="万维网联盟 (W3C)">万维网联盟 (W3C)</a></li>
+<li><a href="../browsers/index.html" title="浏览器信息">浏览器信息</a></li>
+<li><a href="../quality/index.html" title="网站品质">网站品质</a></li>
+<li><a href="../semweb/index.html" title="语义网">语义网</a></li>
+<li><a href="index.asp" title="职业规划">职业规划</a></li>
+<li><a href="../hosting/index.html" title="网站主机">网站主机</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="���� W3School" id="link_about">���� W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="���� W3School" id="link_help">���� W3School</a></h2>
+<h2><a href="../about/index.html" title="关于 W3School" id="link_about">关于 W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="帮助 W3School" id="link_help">帮助 W3School</a></h2>
 
 </div>
 
@@ -82,37 +82,37 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>ְҵ�滮</h1>
+<h1>职业规划</h1>
 
 <div  id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="index.asp" title="ְҵ�滮">�̳���ҳ</a></li>
-<li class="next"><a href="career_tips.html" title="ְҵ�滮��ʾ">ְҵ�滮��ʾ</a></li>
+<li class="pre"><a href="index.asp" title="职业规划">教程首页</a></li>
+<li class="next"><a href="career_tips.html" title="职业规划提示">职业规划提示</a></li>
 </ul>
 </div>
 
 <div id="intro">
-<h2>������������ְҵ����</h2>
-<p><strong>���죬������ȥ��������˶������Լ���������ǵ�ְҵ���ĵġ�</strong></p>
-<p><strong>��������Ҫ���̣������Ѿ��ܶ����꣬�������ݶ��������ְҵ�����������档</strong></p>
+<h2>构建您的网络职业生涯</h2>
+<p><strong>今天，甚至过去，大多数人都是由自己来设计他们的职业生涯的。</strong></p>
+<p><strong>无论你正要启程，还是已经奋斗多年，以下内容都会对您的职业生涯有所助益。</strong></p>
 </div>
 
 <div id="toc">
-<h2>����Ŀ¼</h2>
+<h2>内容目录</h2>
 <dl>
-<dt><a href="career_tips.html" title="ְҵ�滮��ʾ">ְҵ�滮��ʾ</a></dt>
-<dd>����Ϊ���ṩ 9 ���м�ֵ��ְҵ�滮��ʾ��</dd>
-<dt><a href="career_cv.html" title="ְҵ������CV��">ְҵ����</a></dt>
-<dd>�������ݣ�ʲô�Ǽ�����CV�����Լ����׫д�Լ���������</dd>
-<dt><a href="career_resources.html" title="ְҵ��Դ">ְҵ��Դ</a></dt>
-<dd>�����г���һЩ��Ҫ��ְҵ��Դ��</dd>
+<dt><a href="career_tips.html" title="职业规划提示">职业规划提示</a></dt>
+<dd>本章为您提供 9 条有价值的职业规划提示。</dd>
+<dt><a href="career_cv.html" title="职业履历（CV）">职业履历</a></dt>
+<dd>本章内容：什么是简历（CV），以及如何撰写自己的履历。</dd>
+<dt><a href="career_resources.html" title="职业资源">职业资源</a></dt>
+<dd>本章列出了一些重要的职业资源。</dd>
 </dl>
 </div>
 
 <div  id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="index.asp" title="ְҵ�滮">�̳���ҳ</a></li>
-<li class="next"><a href="career_tips.html" title="ְҵ�滮��ʾ">ְҵ�滮��ʾ</a></li>
+<li class="pre"><a href="index.asp" title="职业规划">教程首页</a></li>
+<li class="next"><a href="career_tips.html" title="职业规划提示">职业规划提示</a></li>
 </ul>
 </div>
 
@@ -127,8 +127,8 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="�ڴ������������ݡ�" />
-<input type="submit" value="Go" class="button" title="������" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
+<input type="submit" value="Go" class="button" title="搜索！" />
 </p>
 </form>
 </div><div id="ad">
@@ -149,13 +149,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School �ṩ�����ݽ�������ѵ�����ǲ���֤���ݵ���ȷ�ԡ�ͨ��ʹ�ñ�վ������֮�����ķ����뱾վ�޹ء�W3School �������İ���������ݽ������ԣ����κη������⼰���ղ��е��κ����Ρ�
+W3School 提供的内容仅用于培训。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。W3School 简体中文版的所有内容仅供测试，对任何法律问题及风险不承担任何责任。
 </p>
 
 <p>
-��ʹ�ñ�վʱ���������ѽ����˱�վ��<a href="../about/about_use.html" title="����ʹ��">ʹ������</a>��<a href="../about/about_privacy.html" title="������˽">��˽����</a>����Ȩ���У�����һ��Ȩ����
-�����̣�<a href="http://www.yktz.net/" title="�Ϻ�Ӯ��Ͷ�����޹�˾">�Ϻ�Ӯ��Ͷ�����޹�˾</a>��
-<a href="http://www.miitbeian.gov.cn/">��ICP��06004630��</a>
+当使用本站时，代表您已接受了本站的<a href="../about/about_use.html" title="关于使用">使用条款</a>和<a href="../about/about_privacy.html" title="关于隐私">隐私条款</a>。版权所有，保留一切权利。
+赞助商：<a href="http://www.yktz.net/" title="上海赢科投资有限公司">上海赢科投资有限公司</a>。
+<a href="http://www.miitbeian.gov.cn/">蒙ICP备06004630号</a>
 </p>
 </div>
 

@@ -7,18 +7,18 @@
 <script>
 function checkForm()
 {
-alert("±íµ¥ÒÑÌá½»£¡");
+alert("è¡¨å•å·²æäº¤ï¼");
 }
 </script>
 </head>
 <body>
 
 <form action="http://www.w3school.com.cn/demo/demo_form.asp" onsubmit="checkForm()">
-ÐÕ£º<input type="text" name="lname"><br>
-Ãû£º<input type="text" name="fname"><br>
-<input type="submit" value="Ìá½»">
+å§“ï¼š<input type="text" name="lname"><br>
+åï¼š<input type="text" name="fname"><br>
+<input type="submit" value="æäº¤">
 
-<p>º¯Êý checkForm() ÔÚÌá½»°´Å¥±»µã»÷Ê±´¥·¢¡£´Ëº¯ÊýÏòÓÃ»§ÏÔÊ¾Ò»¶ÎÏûÏ¢¡£</p>
+<p>å‡½æ•° checkForm() åœ¨æäº¤æŒ‰é’®è¢«ç‚¹å‡»æ—¶è§¦å‘ã€‚æ­¤å‡½æ•°å‘ç”¨æˆ·æ˜¾ç¤ºä¸€æ®µæ¶ˆæ¯ã€‚</p>
 
 </body>
 

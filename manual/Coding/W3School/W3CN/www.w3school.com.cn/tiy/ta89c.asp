@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquerymobile_lists_readonly by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:52:23 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3School���߲��Թ��� V2</title>
+<title>W3School在线测试工具 V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="�ύ����" onClick="submitTryit()">
+<input type="button" value="提交代码" onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>�༭���Ĵ��룺</h2>
+<h2>编辑您的代码：</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -54,17 +54,17 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div data-role="page" id="pageone">
   <div data-role="content">
-    <h2>�����б���</h2>
+    <h2>有序列表：</h2>
     <ol data-role="listview">
-      <li>�б���Ŀ</li>
-      <li>�б���Ŀ</li>
-      <li>�б���Ŀ</li>
+      <li>列表项目</li>
+      <li>列表项目</li>
+      <li>列表项目</li>
     </ol>
-    <h2>�����б���</h2>
+    <h2>无序列表：</h2>
     <ul data-role="listview">
-      <li>�б���Ŀ</li>
-      <li>�б���Ŀ</li>
-      <li>�б���Ŀ</li>
+      <li>列表项目</li>
+      <li>列表项目</li>
+      <li>列表项目</li>
     </ul>
   </div>
 </div> 
@@ -82,12 +82,12 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 </form>
 
 <div id="result">
-<h2>�鿴���:</h2>
+<h2>查看结果:</h2>
 <iframe frameborder="0" name="i" src="loadtexta89c.html?f=jquerymobile_lists_readonly"></iframe>
 </div>
 
 <div id="footer">
-<p>����������ı����б༭���Ĵ��룬Ȼ�󵥻��ύ��ť���Խ����<a href="../index-2.html" title="W3School ���߽̳�">w3school.com.cn</a></p>
+<p>请在上面的文本框中编辑您的代码，然后单击提交按钮测试结果。<a href="../index-2.html" title="W3School 在线教程">w3school.com.cn</a></p>
 </div>
 
 </div>

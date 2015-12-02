@@ -7,7 +7,7 @@
 <script type="text/javascript">
 for (i = 1; i <= 6; i++)
 {
-document.write("<h" + i + ">这是标题 " + i)
+document.write("<h" + i + ">杩欐槸鏍囬 " + i)
 document.write("</h" + i + ">")
 }
 </script>

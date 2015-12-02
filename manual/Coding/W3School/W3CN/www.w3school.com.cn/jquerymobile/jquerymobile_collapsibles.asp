@@ -4,12 +4,12 @@
 
 <!-- Mirrored from www.w3school.com.cn/jquerymobile/jquerymobile_collapsibles.asp by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 02:56:23 GMT -->
 <head>
-<meta charset="gbk" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 <link rel="stylesheet" type="text/css" href="../c5.css" />
 
-<title>jQuery Mobile ¿ÉÕÛµþ</title>
+<title>jQuery Mobile å¯æŠ˜å </title>
 
 </head>
 
@@ -18,11 +18,11 @@
 <div id="wrapper">
 
 <div id="header">
-<a href="../index-2.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<a href="../index-2.html" title="w3school åœ¨çº¿æ•™ç¨‹" style="float:left;">w3school åœ¨çº¿æ•™ç¨‹</a>
 <div id="ad_head">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3381531532877742";
-/* 728x90, ´´½¨ÓÚ 08-12-1 */
+/* 728x90, åˆ›å»ºäºŽ 08-12-1 */
 google_ad_slot = "7423315034";
 google_ad_width = 728;
 google_ad_height = 90;
@@ -36,80 +36,80 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="navfirst">
 <ul id="menu">
-<li id="h"><a href="../h.html" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
-<li id="b"><a href="../b.html" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
-<li id="s"><a href="../s.html" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
-<li id="d"><a href="../d.html" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
-<li id="x"><a href="../x.html" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
-<li id="ws"><a href="../ws.html" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
-<li id="w"><a href="../w.html" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+<li id="h"><a href="../h.html" title="HTML ç³»åˆ—æ•™ç¨‹">HTML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="b"><a href="../b.html" title="æµè§ˆå™¨è„šæœ¬æ•™ç¨‹">æµè§ˆå™¨è„šæœ¬</a></li>
+<li id="s"><a href="../s.html" title="æœåŠ¡å™¨è„šæœ¬æ•™ç¨‹">æœåŠ¡å™¨è„šæœ¬</a></li>
+<li id="d"><a href="../d.html" title="ASP.NET æ•™ç¨‹">ASP.NET æ•™ç¨‹</a></li>
+<li id="x"><a href="../x.html" title="XML ç³»åˆ—æ•™ç¨‹">XML ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="ws"><a href="../ws.html" title="Web Services ç³»åˆ—æ•™ç¨‹">Web Services ç³»åˆ—æ•™ç¨‹</a></li>
+<li id="w"><a href="../w.html" title="å»ºç«™æ‰‹å†Œ">å»ºç«™æ‰‹å†Œ</a></li>
 </ul>
 </div>
 
 <div id="navsecond">
 
-<div id="course"><h2>jQuery Mobile ½Ì³Ì</h2>
+<div id="course"><h2>jQuery Mobile æ•™ç¨‹</h2>
 <ul>
-<li><a href="index.html" title="jQuery Mobile ½Ì³Ì">jQuery Mobile ½Ì³Ì</a></li>
-<li><a href="jquerymobile_intro.html" title="jQuery Mobile ¼ò½é">jQuery Mobile ¼ò½é</a></li>
-<li><a href="jquerymobile_install.html" title="jQuery Mobile °²×°">jQuery Mobile °²×°</a></li>
-<li><a href="jquerymobile_pages.html" title="jQuery Mobile Ò³Ãæ">jQuery Mobile Ò³Ãæ</a></li>
-<li><a href="jquerymobile_transitions.html" title="jQuery Mobile ¹ý¶É">jQuery Mobile ¹ý¶É</a></li>
-<li><a href="jquerymobile_buttons.html" title="jQuery Mobile °´Å¥">jQuery Mobile °´Å¥</a></li>
-<li><a href="jquerymobile_icons.html" title="jQuery Mobile Í¼±ê">jQuery Mobile Í¼±ê</a></li>
-<li><a href="jquerymobile_toolbars.html" title="jQuery Mobile ¹¤¾ßÀ¸">jQuery Mobile ¹¤¾ßÀ¸</a></li>
-<li><a href="jquerymobile_navbars.asp" title="jQuery Mobile µ¼º½À¸">jQuery Mobile µ¼º½À¸</a></li>
-<li class="currentLink"><a href="jquerymobile_collapsibles.asp" title="jQuery Mobile ¿ÉÕÛµþ">jQuery Mobile ¿ÉÕÛµþ</a></li>
-<li><a href="jquerymobile_grids.html" title="jQuery Mobile Íø¸ñ">jQuery Mobile Íø¸ñ</a></li>
+<li><a href="index.html" title="jQuery Mobile æ•™ç¨‹">jQuery Mobile æ•™ç¨‹</a></li>
+<li><a href="jquerymobile_intro.html" title="jQuery Mobile ç®€ä»‹">jQuery Mobile ç®€ä»‹</a></li>
+<li><a href="jquerymobile_install.html" title="jQuery Mobile å®‰è£…">jQuery Mobile å®‰è£…</a></li>
+<li><a href="jquerymobile_pages.html" title="jQuery Mobile é¡µé¢">jQuery Mobile é¡µé¢</a></li>
+<li><a href="jquerymobile_transitions.html" title="jQuery Mobile è¿‡æ¸¡">jQuery Mobile è¿‡æ¸¡</a></li>
+<li><a href="jquerymobile_buttons.html" title="jQuery Mobile æŒ‰é’®">jQuery Mobile æŒ‰é’®</a></li>
+<li><a href="jquerymobile_icons.html" title="jQuery Mobile å›¾æ ‡">jQuery Mobile å›¾æ ‡</a></li>
+<li><a href="jquerymobile_toolbars.html" title="jQuery Mobile å·¥å…·æ ">jQuery Mobile å·¥å…·æ </a></li>
+<li><a href="jquerymobile_navbars.asp" title="jQuery Mobile å¯¼èˆªæ ">jQuery Mobile å¯¼èˆªæ </a></li>
+<li class="currentLink"><a href="jquerymobile_collapsibles.asp" title="jQuery Mobile å¯æŠ˜å ">jQuery Mobile å¯æŠ˜å </a></li>
+<li><a href="jquerymobile_grids.html" title="jQuery Mobile ç½‘æ ¼">jQuery Mobile ç½‘æ ¼</a></li>
 </ul>
-<h2>jQuery Mobile ÁÐ±í</h2>
+<h2>jQuery Mobile åˆ—è¡¨</h2>
 <ul>
-<li><a href="jquerymobile_list_views.html" title="jQuery Mobile ÁÐ±íÊÓÍ¼">jQuery Mobile ÁÐ±íÊÓÍ¼</a></li>
-<li><a href="jquerymobile_list_content.html" title="jQuery Mobile ÁÐ±íÄÚÈÝ">jQuery Mobile ÁÐ±íÄÚÈÝ</a></li>
+<li><a href="jquerymobile_list_views.html" title="jQuery Mobile åˆ—è¡¨è§†å›¾">jQuery Mobile åˆ—è¡¨è§†å›¾</a></li>
+<li><a href="jquerymobile_list_content.html" title="jQuery Mobile åˆ—è¡¨å†…å®¹">jQuery Mobile åˆ—è¡¨å†…å®¹</a></li>
 </ul>
-<h2>jQuery Mobile ±íµ¥</h2>
+<h2>jQuery Mobile è¡¨å•</h2>
 <ul>
-<li><a href="jquerymobile_form_basic.html" title="jQuery Mobile ±íµ¥»ù´¡">jQuery Mobile ±íµ¥»ù´¡</a></li>
-<li><a href="jquerymobile_form_inputs.html" title="jQuery Mobile ±íµ¥ - ÊäÈë">jQuery Mobile ±íµ¥ÊäÈë</a></li>
-<li><a href="jquerymobile_form_select.html" title="jQuery Mobile ±íµ¥ - Ñ¡Ôñ">jQuery Mobile ±íµ¥Ñ¡Ôñ</a></li>
-<li><a href="jquerymobile_form_sliders.html" title="jQuery Mobile ±íµ¥ - »¬¿é">jQuery Mobile ±íµ¥»¬¿é</a></li>
+<li><a href="jquerymobile_form_basic.html" title="jQuery Mobile è¡¨å•åŸºç¡€">jQuery Mobile è¡¨å•åŸºç¡€</a></li>
+<li><a href="jquerymobile_form_inputs.html" title="jQuery Mobile è¡¨å• - è¾“å…¥">jQuery Mobile è¡¨å•è¾“å…¥</a></li>
+<li><a href="jquerymobile_form_select.html" title="jQuery Mobile è¡¨å• - é€‰æ‹©">jQuery Mobile è¡¨å•é€‰æ‹©</a></li>
+<li><a href="jquerymobile_form_sliders.html" title="jQuery Mobile è¡¨å• - æ»‘å—">jQuery Mobile è¡¨å•æ»‘å—</a></li>
 </ul>
-<h2>jQuery Mobile Ö÷Ìâ</h2>
+<h2>jQuery Mobile ä¸»é¢˜</h2>
 <ul>
-<li><a href="jquerymobile_themes.html" title="jQuery Mobile Ö÷Ìâ">jQuery Mobile Ö÷Ìâ</a></li>
+<li><a href="jquerymobile_themes.html" title="jQuery Mobile ä¸»é¢˜">jQuery Mobile ä¸»é¢˜</a></li>
 </ul>
-<h2>jQuery Mobile ÊÂ¼þ</h2>
+<h2>jQuery Mobile äº‹ä»¶</h2>
 <ul>
-<li><a href="jquerymobile_events_intro.html" title="jQuery Mobile ÊÂ¼þ">jQuery Mobile ÊÂ¼þ</a></li>
-<li><a href="jquerymobile_events_touch.html" title="jQuery Mobile ´¥¿Ø">jQuery Mobile ´¥¿Ø</a></li>
-<li><a href="jquerymobile_events_scroll.html" title="jQuery Mobile ¹ö¶¯">jQuery Mobile ¹ö¶¯</a></li>
-<li><a href="jquerymobile_events_orientation.html" title="jQuery Mobile ·½Ïò">jQuery Mobile ·½Ïò</a></li>
-<li><a href="jquerymobile_events_page.html" title="jQuery Mobile Ò³ÃæÊÂ¼þ">jQuery Mobile Ò³ÃæÊÂ¼þ</a></li>
+<li><a href="jquerymobile_events_intro.html" title="jQuery Mobile äº‹ä»¶">jQuery Mobile äº‹ä»¶</a></li>
+<li><a href="jquerymobile_events_touch.html" title="jQuery Mobile è§¦æŽ§">jQuery Mobile è§¦æŽ§</a></li>
+<li><a href="jquerymobile_events_scroll.html" title="jQuery Mobile æ»šåŠ¨">jQuery Mobile æ»šåŠ¨</a></li>
+<li><a href="jquerymobile_events_orientation.html" title="jQuery Mobile æ–¹å‘">jQuery Mobile æ–¹å‘</a></li>
+<li><a href="jquerymobile_events_page.html" title="jQuery Mobile é¡µé¢äº‹ä»¶">jQuery Mobile é¡µé¢äº‹ä»¶</a></li>
 </ul>
-<h2>jQuery Mobile ÊµÀý</h2>
+<h2>jQuery Mobile å®žä¾‹</h2>
 <ul>
-<li><a href="jquerymobile_examples.asp" title="jQuery Mobile ÊµÀý">jQuery Mobile ÊµÀý</a></li>
+<li><a href="jquerymobile_examples.asp" title="jQuery Mobile å®žä¾‹">jQuery Mobile å®žä¾‹</a></li>
 </ul>
-<h2>jQuery Mobile ²Î¿¼ÊÖ²á</h2>
+<h2>jQuery Mobile å‚è€ƒæ‰‹å†Œ</h2>
 <ul>
-<li><a href="jquerymobile_ref_data.html" title="jQuery Mobile Data ²Î¿¼ÊÖ²á">jQuery Mobile Data</a></li>
-<li><a href="jquerymobile_ref_events.html" title="jQuery Mobile ÊÂ¼þ">jQuery Mobile ÊÂ¼þ</a></li>
-<li><a href="jquerymobile_ref_icons.html" title="jQuery Mobile Í¼±ê">jQuery Mobile Í¼±ê</a></li>
+<li><a href="jquerymobile_ref_data.html" title="jQuery Mobile Data å‚è€ƒæ‰‹å†Œ">jQuery Mobile Data</a></li>
+<li><a href="jquerymobile_ref_events.html" title="jQuery Mobile äº‹ä»¶">jQuery Mobile äº‹ä»¶</a></li>
+<li><a href="jquerymobile_ref_icons.html" title="jQuery Mobile å›¾æ ‡">jQuery Mobile å›¾æ ‡</a></li>
 </ul>
 </div><div id="selected">
-<h2>½¨Õ¾ÊÖ²á</h2>
+<h2>å»ºç«™æ‰‹å†Œ</h2>
 <ul>
-<li><a href="../site/index.html" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
-<li><a href="../w3c/index.html" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
-<li><a href="../browsers/index.html" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
-<li><a href="../quality/index.html" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
-<li><a href="../semweb/index.html" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
-<li><a href="../careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
-<li><a href="../hosting/index.html" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+<li><a href="../site/index.html" title="ç½‘ç«™æž„å»º">ç½‘ç«™æž„å»º</a></li>
+<li><a href="../w3c/index.html" title="ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)">ä¸‡ç»´ç½‘è”ç›Ÿ (W3C)</a></li>
+<li><a href="../browsers/index.html" title="æµè§ˆå™¨ä¿¡æ¯">æµè§ˆå™¨ä¿¡æ¯</a></li>
+<li><a href="../quality/index.html" title="ç½‘ç«™å“è´¨">ç½‘ç«™å“è´¨</a></li>
+<li><a href="../semweb/index.html" title="è¯­ä¹‰ç½‘">è¯­ä¹‰ç½‘</a></li>
+<li><a href="../careers/index.asp" title="èŒä¸šè§„åˆ’">èŒä¸šè§„åˆ’</a></li>
+<li><a href="../hosting/index.html" title="ç½‘ç«™ä¸»æœº">ç½‘ç«™ä¸»æœº</a></li>
 </ul>
 
-<h2><a href="../about/index.html" title="¹ØÓÚ W3School" id="link_about">¹ØÓÚ W3School</a></h2>
-<h2><a href="../about/about_helping.html" title="°ïÖú W3School" id="link_help">°ïÖú W3School</a></h2>
+<h2><a href="../about/index.html" title="å…³äºŽ W3School" id="link_about">å…³äºŽ W3School</a></h2>
+<h2><a href="../about/about_helping.html" title="å¸®åŠ© W3School" id="link_help">å¸®åŠ© W3School</a></h2>
 
 </div>
 
@@ -117,120 +117,120 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="maincontent">
 
-<h1>jQuery Mobile ¿ÉÕÛµþ</h1>
+<h1>jQuery Mobile å¯æŠ˜å </h1>
 
 <div id="tpn">
 <ul class="prenext">
-<li class="pre"><a href="jquerymobile_navbars.asp" title="jQuery Mobile µ¼º½À¸">jQuery Mobile µ¼º½À¸</a></li>
-<li class="next"><a href="jquerymobile_grids.html" title="jQuery Mobile Íø¸ñ">jQuery Mobile Íø¸ñ</a></li>
+<li class="pre"><a href="jquerymobile_navbars.asp" title="jQuery Mobile å¯¼èˆªæ ">jQuery Mobile å¯¼èˆªæ </a></li>
+<li class="next"><a href="jquerymobile_grids.html" title="jQuery Mobile ç½‘æ ¼">jQuery Mobile ç½‘æ ¼</a></li>
 </ul>
 </div>
 
 
 <div>
-<h2>¿ÉÕÛµþµÄÄÚÈÝ¿é</h2>
+<h2>å¯æŠ˜å çš„å†…å®¹å—</h2>
 
-<p>¿ÉÕÛµþ£¨Collapsibles£©ÔÊÐíÄúÒþ²Ø»òÏÔÊ¾ÄÚÈÝ - ¶ÔÓÚ´æ´¢²¿·ÖÐÅÏ¢ºÜÓÐÓÃ¡£</p>
+<p>å¯æŠ˜å ï¼ˆCollapsiblesï¼‰å…è®¸æ‚¨éšè—æˆ–æ˜¾ç¤ºå†…å®¹ - å¯¹äºŽå­˜å‚¨éƒ¨åˆ†ä¿¡æ¯å¾ˆæœ‰ç”¨ã€‚</p>
 
-<p>ÈçÐè´´½¨¿ÉÕÛµþµÄÄÚÈÝ¿é£¬ÇëÏòÄ³¸öÈÝÆ÷·ÖÅä data-role=&quot;collapsible&quot; ÊôÐÔ¡£ÔÚÈÝÆ÷£¨div£©ÖÐ£¬Ìí¼ÓÒ»¸ö±êÌâÔªËØ£¨h1-h6£©£¬ÆäºóÊÇÄúÐèÒªÀ©Õ¹µÄÈÎÒâ HTML ±ê¼Ç£º</p>
+<p>å¦‚éœ€åˆ›å»ºå¯æŠ˜å çš„å†…å®¹å—ï¼Œè¯·å‘æŸä¸ªå®¹å™¨åˆ†é… data-role=&quot;collapsible&quot; å±žæ€§ã€‚åœ¨å®¹å™¨ï¼ˆdivï¼‰ä¸­ï¼Œæ·»åŠ ä¸€ä¸ªæ ‡é¢˜å…ƒç´ ï¼ˆh1-h6ï¼‰ï¼Œå…¶åŽæ˜¯æ‚¨éœ€è¦æ‰©å±•çš„ä»»æ„ HTML æ ‡è®°ï¼š</p>
 
-<h3>ÊµÀý</h3>
+<h3>å®žä¾‹</h3>
 
 <pre>
 &lt;div <code>data-role=&quot;collapsible&quot;</code>&gt;
-  &lt;h1&gt;µã»÷ÎÒ - ÎÒ¿ÉÒÔÕÛµþ£¡&lt;/h1&gt;
-  &lt;p&gt;ÎÒÊÇ¿ÉÕÛµþµÄÄÚÈÝ¡£&lt;/p&gt;
+  &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘å¯ä»¥æŠ˜å ï¼&lt;/h1&gt;
+  &lt;p&gt;æˆ‘æ˜¯å¯æŠ˜å çš„å†…å®¹ã€‚&lt;/p&gt;
 &lt;/div&gt;
 </pre>
 
-<p><a target="_blank" href="../tiy/t047f.html?f=jquerymobile_collapsible">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p><a target="_blank" href="../tiy/t047f.html?f=jquerymobile_collapsible">äº²è‡ªè¯•ä¸€è¯•</a></p>
 
-<p>Ä¬ÈÏµØ£¬¸ÃÄÚÈÝÊÇ¹Ø±ÕµÄ¡£ÈçÐèÔÚÒ³Ãæ¼ÓÔØÊ±À©Õ¹ÄÚÈÝ£¬ÇëÊ¹ÓÃ data-collapsed=&quot;false&quot;£º</p>
+<p>é»˜è®¤åœ°ï¼Œè¯¥å†…å®¹æ˜¯å…³é—­çš„ã€‚å¦‚éœ€åœ¨é¡µé¢åŠ è½½æ—¶æ‰©å±•å†…å®¹ï¼Œè¯·ä½¿ç”¨ data-collapsed=&quot;false&quot;ï¼š</p>
 
-<h3>ÊµÀý</h3>
+<h3>å®žä¾‹</h3>
 
 <pre>
 &lt;div data-role=&quot;collapsible&quot; <code>data-collapsed=&quot;false&quot;</code>&gt;
-  &lt;h1&gt;µã»÷ÎÒ - ÎÒ¿ÉÒÔÕÛµþ£¡&lt;/h1&gt;
-  &lt;p&gt;ÏÖÔÚÎÒÄ¬ÈÏÊÇÕ¹¿ªµÄ¡£&lt;/p&gt;
+  &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘å¯ä»¥æŠ˜å ï¼&lt;/h1&gt;
+  &lt;p&gt;çŽ°åœ¨æˆ‘é»˜è®¤æ˜¯å±•å¼€çš„ã€‚&lt;/p&gt;
 &lt;/div&gt;
 </pre>
 
-<p><a target="_blank" href="../tiy/t04fe.html?f=jquerymobile_collapsible_false">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p><a target="_blank" href="../tiy/t04fe.html?f=jquerymobile_collapsible_false">äº²è‡ªè¯•ä¸€è¯•</a></p>
 </div>
 
 
 <div>
-<h2>Ç¶Ì×µÄ¿ÉÕÛµþ¿é</h2>
+<h2>åµŒå¥—çš„å¯æŠ˜å å—</h2>
 
-<p>¿ÉÒÔÇ¶Ì×¿ÉÕÛµþÄÚÈÝ¿é£º</p>
+<p>å¯ä»¥åµŒå¥—å¯æŠ˜å å†…å®¹å—ï¼š</p>
 
-<h3>ÊµÀý</h3>
+<h3>å®žä¾‹</h3>
 
 <pre>
 &lt;div <code>data-role=&quot;collapsible&quot;</code>&gt;
-  &lt;h1&gt;µã»÷ÎÒ - ÎÒ¿ÉÒÔÕÛµþ£¡&lt;/h1&gt;
-  &lt;p&gt;ÎÒÊÇ±»Õ¹¿ªµÄÄÚÈÝ¡£&lt;/p&gt;
+  &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘å¯ä»¥æŠ˜å ï¼&lt;/h1&gt;
+  &lt;p&gt;æˆ‘æ˜¯è¢«å±•å¼€çš„å†…å®¹ã€‚&lt;/p&gt;
   &lt;div <code>data-role=&quot;collapsible&quot;</code>&gt;
-    &lt;h1&gt;µã»÷ÎÒ - ÎÒÊÇÇ¶Ì×µÄ¿ÉÕÛµþ¿é£¡&lt;/h1&gt;
-    &lt;p&gt;ÎÒÊÇÇ¶Ì×µÄ¿ÉÕÛµþ¿éÖÐ±»Õ¹¿ªµÄÄÚÈÝ¡£&lt;/p&gt;
+    &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘æ˜¯åµŒå¥—çš„å¯æŠ˜å å—ï¼&lt;/h1&gt;
+    &lt;p&gt;æˆ‘æ˜¯åµŒå¥—çš„å¯æŠ˜å å—ä¸­è¢«å±•å¼€çš„å†…å®¹ã€‚&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </pre>
 
-<p><a target="_blank" href="../tiy/t0a14.html?f=jquerymobile_collapsible_nested">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p><a target="_blank" href="../tiy/t0a14.html?f=jquerymobile_collapsible_nested">äº²è‡ªè¯•ä¸€è¯•</a></p>
 
 
-<p class="tip"><span>ÌáÊ¾£º</span>¿ÉÕÛµþÄÚÈÝ¿é¿ÉÒÔ±»Ç¶Ì×ÄúÏ£ÍûµÄÈÎÒâ´ÎÊý¡£</p>
+<p class="tip"><span>æç¤ºï¼š</span>å¯æŠ˜å å†…å®¹å—å¯ä»¥è¢«åµŒå¥—æ‚¨å¸Œæœ›çš„ä»»æ„æ¬¡æ•°ã€‚</p>
 </div>
 
 
 <div>
-<h2>¿ÉÕÛµþ¼¯ºÏ</h2>
+<h2>å¯æŠ˜å é›†åˆ</h2>
 
-<p>¿ÉÕÛµþ¼¯ºÏ£¨Collapsible sets£©Ö¸µÄÊÇ±»×éºÏÔÚÒ»ÆðµÄ¿ÉÕÛµþ¿é£¨³£±»³ÆÎªÊÖ·çÇÙ£©¡£µ±ÐÂ¿é±»´ò¿ªÊ±£¬ËùÓÐÆäËû¿é»á¹Ø±Õ¡£</p>
+<p>å¯æŠ˜å é›†åˆï¼ˆCollapsible setsï¼‰æŒ‡çš„æ˜¯è¢«ç»„åˆåœ¨ä¸€èµ·çš„å¯æŠ˜å å—ï¼ˆå¸¸è¢«ç§°ä¸ºæ‰‹é£Žç´ï¼‰ã€‚å½“æ–°å—è¢«æ‰“å¼€æ—¶ï¼Œæ‰€æœ‰å…¶ä»–å—ä¼šå…³é—­ã€‚</p>
 
-<p>´´½¨Èô¸ÉÄÚÈÝ¿é£¬È»ºóÍ¨¹ý data-role=&quot;collapsible-set&quot; ÓÃÐÂÈÝÆ÷°ü×°Õâ¸ö¿ÉÕÛµþ¿é£º</p>
+<p>åˆ›å»ºè‹¥å¹²å†…å®¹å—ï¼Œç„¶åŽé€šè¿‡ data-role=&quot;collapsible-set&quot; ç”¨æ–°å®¹å™¨åŒ…è£…è¿™ä¸ªå¯æŠ˜å å—ï¼š</p>
 
-<h3>ÊµÀý</h3>
+<h3>å®žä¾‹</h3>
 
 <pre>
 &lt;div <code>data-role=&quot;collapsible-set&quot;</code>&gt;
   &lt;div data-role=&quot;collapsible&quot;&gt;
-    &lt;h1&gt;µã»÷ÎÒ - ÎÒ¿ÉÒÔÕÛµþ£¡&lt;/h1&gt;
-    &lt;p&gt;ÎÒÊÇ±»Õ¹¿ªµÄÄÚÈÝ¡£&lt;/p&gt;
+    &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘å¯ä»¥æŠ˜å ï¼&lt;/h1&gt;
+    &lt;p&gt;æˆ‘æ˜¯è¢«å±•å¼€çš„å†…å®¹ã€‚&lt;/p&gt;
   &lt;/div&gt;
   &lt;div data-role=&quot;collapsible&quot;&gt;
-    &lt;h1&gt;µã»÷ÎÒ - ÎÒ¿ÉÒÔÕÛµþ£¡&lt;/h1&gt;
-    &lt;p&gt;ÎÒÊÇ±»Õ¹¿ªµÄÄÚÈÝ¡£&lt;/p&gt;
+    &lt;h1&gt;ç‚¹å‡»æˆ‘ - æˆ‘å¯ä»¥æŠ˜å ï¼&lt;/h1&gt;
+    &lt;p&gt;æˆ‘æ˜¯è¢«å±•å¼€çš„å†…å®¹ã€‚&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </pre>
 
-<p><a target="_blank" href="../tiy/t3b76.html?f=jquerymobile_collapsible_sets">Ç××ÔÊÔÒ»ÊÔ</a></p>
+<p><a target="_blank" href="../tiy/t3b76.html?f=jquerymobile_collapsible_sets">äº²è‡ªè¯•ä¸€è¯•</a></p>
 </div>
 
 
 <div class="example">
-<h2>¸ü¶àÊµÀý</h2>
+<h2>æ›´å¤šå®žä¾‹</h2>
 
 <dl>
-<dt><a target="_blank" href="../tiy/td324.html?f=jquerymobile_collapsible_inset">Í¨¹ý data-inset ÊôÐÔÀ´É¾³ýÔ²½Ç</a></dt>
-<dd>ÈçºÎÒÆ³ý collapsibles ÉÏµÄÔ²½Ç¡£</dd>
+<dt><a target="_blank" href="../tiy/td324.html?f=jquerymobile_collapsible_inset">é€šè¿‡ data-inset å±žæ€§æ¥åˆ é™¤åœ†è§’</a></dt>
+<dd>å¦‚ä½•ç§»é™¤ collapsibles ä¸Šçš„åœ†è§’ã€‚</dd>
 
-<dt><a target="_blank" href="../tiy/t3624.html?f=jquerymobile_collapsible_mini">Í¨¹ý data-mini ×îÐ¡»¯ collapsibles</a></dt>
-<dd>ÈçºÎÊ¹ collapsibles ¸üÐ¡ÇÉ¡£</dd>
+<dt><a target="_blank" href="../tiy/t3624.html?f=jquerymobile_collapsible_mini">é€šè¿‡ data-mini æœ€å°åŒ– collapsibles</a></dt>
+<dd>å¦‚ä½•ä½¿ collapsibles æ›´å°å·§ã€‚</dd>
 
-<dt><a target="_blank" href="../tiy/ta9f7.html?f=jquerymobile_collapsible_icons">Í¨¹ý data-collapsed-icon ºÍ data-expanded-icon ¸Ä±äÍ¼±ê</a></dt>
-<dd>ÈçºÎ¸Ä±ä collapsibles µÄÍ¼±ê£¨Ä¬ÈÏÊÇ + ºÍ -£©¡£</dd>
+<dt><a target="_blank" href="../tiy/ta9f7.html?f=jquerymobile_collapsible_icons">é€šè¿‡ data-collapsed-icon å’Œ data-expanded-icon æ”¹å˜å›¾æ ‡</a></dt>
+<dd>å¦‚ä½•æ”¹å˜ collapsibles çš„å›¾æ ‡ï¼ˆé»˜è®¤æ˜¯ + å’Œ -ï¼‰ã€‚</dd>
 </dl>
 </div>
 
 
 <div id="bpn">
 <ul class="prenext">
-<li class="pre"><a href="jquerymobile_navbars.asp" title="jQuery Mobile µ¼º½À¸">jQuery Mobile µ¼º½À¸</a></li>
-<li class="next"><a href="jquerymobile_grids.html" title="jQuery Mobile Íø¸ñ">jQuery Mobile Íø¸ñ</a></li>
+<li class="pre"><a href="jquerymobile_navbars.asp" title="jQuery Mobile å¯¼èˆªæ ">jQuery Mobile å¯¼èˆªæ </a></li>
+<li class="next"><a href="jquerymobile_grids.html" title="jQuery Mobile ç½‘æ ¼">jQuery Mobile ç½‘æ ¼</a></li>
 </ul>
 </div>
 
@@ -247,15 +247,15 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <p><label for="searched_content">Search:</label></p>
 <p><input type="hidden" name="sitesearch" value="w3school.com.cn" /></p>
 <p>
-<input type="text" name="as_q" class="box"  id="searched_content" title="ÔÚ´ËÊäÈëËÑË÷ÄÚÈÝ¡£" />
-<input type="submit" value="Go" class="button" title="ËÑË÷£¡" />
+<input type="text" name="as_q" class="box"  id="searched_content" title="åœ¨æ­¤è¾“å…¥æœç´¢å†…å®¹ã€‚" />
+<input type="submit" value="Go" class="button" title="æœç´¢ï¼" />
 </p>
 </form>
 </div>
 
 <div id="tools">
-<h5 id="tools_reference"><a href="jquerymobile_ref_data.html">jQuery Mobile Data ÊôÐÔ</a></h5>
-<h5 id="tools_example"><a href="jquerymobile_examples.asp">jQuery Mobile ÊµÀý</a></h5>
+<h5 id="tools_reference"><a href="jquerymobile_ref_data.html">jQuery Mobile Data å±žæ€§</a></h5>
+<h5 id="tools_example"><a href="jquerymobile_examples.asp">jQuery Mobile å®žä¾‹</a></h5>
 </div>
 
 <div id="ad">
@@ -276,13 +276,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 
 <div id="footer">
 <p>
-W3School Ìá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµ¡£ÎÒÃÇ²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£W3School ¼òÌåÖÐÎÄ°æµÄËùÓÐÄÚÈÝ½ö¹©²âÊÔ£¬¶ÔÈÎºÎ·¨ÂÉÎÊÌâ¼°·çÏÕ²»³Ðµ£ÈÎºÎÔðÈÎ¡£
+W3School æä¾›çš„å†…å®¹ä»…ç”¨äºŽåŸ¹è®­ã€‚æˆ‘ä»¬ä¸ä¿è¯å†…å®¹çš„æ­£ç¡®æ€§ã€‚é€šè¿‡ä½¿ç”¨æœ¬ç«™å†…å®¹éšä¹‹è€Œæ¥çš„é£Žé™©ä¸Žæœ¬ç«™æ— å…³ã€‚W3School ç®€ä½“ä¸­æ–‡ç‰ˆçš„æ‰€æœ‰å†…å®¹ä»…ä¾›æµ‹è¯•ï¼Œå¯¹ä»»ä½•æ³•å¾‹é—®é¢˜åŠé£Žé™©ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ã€‚
 </p>
 
 <p>
-µ±Ê¹ÓÃ±¾Õ¾Ê±£¬´ú±íÄúÒÑ½ÓÊÜÁË±¾Õ¾µÄ<a href="../about/about_use.html" title="¹ØÓÚÊ¹ÓÃ">Ê¹ÓÃÌõ¿î</a>ºÍ<a href="../about/about_privacy.html" title="¹ØÓÚÒþË½">ÒþË½Ìõ¿î</a>¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
-ÔÞÖúÉÌ£º<a href="http://www.yktz.net/" title="ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
-<a href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+å½“ä½¿ç”¨æœ¬ç«™æ—¶ï¼Œä»£è¡¨æ‚¨å·²æŽ¥å—äº†æœ¬ç«™çš„<a href="../about/about_use.html" title="å…³äºŽä½¿ç”¨">ä½¿ç”¨æ¡æ¬¾</a>å’Œ<a href="../about/about_privacy.html" title="å…³äºŽéšç§">éšç§æ¡æ¬¾</a>ã€‚ç‰ˆæƒæ‰€æœ‰ï¼Œä¿ç•™ä¸€åˆ‡æƒåˆ©ã€‚
+èµžåŠ©å•†ï¼š<a href="http://www.yktz.net/" title="ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸">ä¸Šæµ·èµ¢ç§‘æŠ•èµ„æœ‰é™å…¬å¸</a>ã€‚
+<a href="http://www.miitbeian.gov.cn/">è’™ICPå¤‡06004630å·</a>
 </p>
 </div>
 

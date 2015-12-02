@@ -7,10 +7,10 @@
 
 <form action="http://www.w3school.com.cn/example/html5/demo_form.asp" method="get" id="form1">
 First name: <input type="text" name="fname" /><br />
-<input type="submit" value="�ύ" />
+<input type="submit" value="提交" />
 </form>
 
-<p>����� "Last name" �ֶ�λ�� form Ԫ��֮�⣬����Ȼ�Ǳ�����һ���֡�</p>
+<p>下面的 "Last name" 字段位于 form 元素之外，但仍然是表单的一部分。</p>
 
 Last name: <input type="text" name="lname" form="form1" />
 

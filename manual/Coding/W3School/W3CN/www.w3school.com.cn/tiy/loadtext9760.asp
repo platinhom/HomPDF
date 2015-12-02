@@ -19,10 +19,10 @@ p.no2 {background-color: gray; padding: 20px;}
 
 <body>
 
-<h1>ÕâÊÇ±êÌâ 1</h1>
-<h2>ÕâÊÇ±êÌâ 2</h2>
-<p>ÕâÊÇ¶ÎÂä</p>
-<p class="no2">Õâ¸ö¶ÎÂäÉèÖÃÁËÄÚ±ß¾à¡£</p>
+<h1>è¿™æ˜¯æ ‡é¢˜ 1</h1>
+<h2>è¿™æ˜¯æ ‡é¢˜ 2</h2>
+<p>è¿™æ˜¯æ®µè½</p>
+<p class="no2">è¿™ä¸ªæ®µè½è®¾ç½®äº†å†…è¾¹è·ã€‚</p>
 
 </body>
 

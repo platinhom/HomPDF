@@ -6,7 +6,7 @@
 
 <h1>Hello world!</h1>
 <p><a href="http://www.w3schools.com/">Visit W3Schools.com!</a></p>
-<p>ÔÚ HTML 4.01 ÖĞ£¬²»ÔŞ³ÉÊ¹ÓÃ body ÔªËØµÄ background ÊôĞÔ£»ÔÚ XHTML 1.0 Strict DTD ÖĞ£¬²»Ö§³Ö body ÔªËØµÄ background ÊôĞÔ¡£</p>
+<p>åœ¨ HTML 4.01 ä¸­ï¼Œä¸èµæˆä½¿ç”¨ body å…ƒç´ çš„ background å±æ€§ï¼›åœ¨ XHTML 1.0 Strict DTD ä¸­ï¼Œä¸æ”¯æŒ body å…ƒç´ çš„ background å±æ€§ã€‚</p>
 
 </body>
 

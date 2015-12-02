@@ -12,26 +12,26 @@
 
 <div data-role="page" id="pageone">
   <div data-role="header">
-  <h1>ÁÐ</h1>
+  <h1>åˆ—</h1>
   </div>
 
   <div data-role="content">
-   <p>ËÄÁÐ²¼¾Ö£º</p>
+   <p>å››åˆ—å¸ƒå±€ï¼š</p>
    <div class="ui-grid-c">
-     <div class="ui-block-a"><a href="#" data-role="button">µÚÒ»ÁÐ</a><br>
-       <span>µÚÒ»ÁÐ£ºThis is some text. This is some text. This is some text. This is some text. This is some text.</span>
+     <div class="ui-block-a"><a href="#" data-role="button">ç¬¬ä¸€åˆ—</a><br>
+       <span>ç¬¬ä¸€åˆ—ï¼šThis is some text. This is some text. This is some text. This is some text. This is some text.</span>
      </div>
      <div class="ui-block-b">
-       <a href="#" data-role="button">µÚ¶þÁÐ</a><br>
-       <span>µÚ¶þÁÐ£ºThis is some text. This is some text. This is some text. This is some text.</span>
+       <a href="#" data-role="button">ç¬¬äºŒåˆ—</a><br>
+       <span>ç¬¬äºŒåˆ—ï¼šThis is some text. This is some text. This is some text. This is some text.</span>
      </div>
      <div class="ui-block-c">
-       <a href="#" data-role="button">µÚÈýÁÐ</a><br>
-       <span>µÚÈýÁÐ£ºThis is some text. This is some text. This is some text. This is some text.</span>
+       <a href="#" data-role="button">ç¬¬ä¸‰åˆ—</a><br>
+       <span>ç¬¬ä¸‰åˆ—ï¼šThis is some text. This is some text. This is some text. This is some text.</span>
      </div>
      <div class="ui-block-d">
-       <a href="#" data-role="button">µÚËÄÁÐ</a><br>
-       <span>µÚËÄÁÐ£ºThis is some text. This is some text. This is some text. This is some text.</span>
+       <a href="#" data-role="button">ç¬¬å››åˆ—</a><br>
+       <span>ç¬¬å››åˆ—ï¼šThis is some text. This is some text. This is some text. This is some text.</span>
      </div>  
    </div>
   </div>

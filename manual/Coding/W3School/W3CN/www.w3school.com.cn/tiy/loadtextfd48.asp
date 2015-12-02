@@ -10,7 +10,7 @@ Here comes a long quotation:
 This is a long quotation. This is a long quotation. This is a long quotation. This is a long quotation. This is a long quotation.
 </blockquote>
 
-Çë×¢Òâ£¬ä¯ÀÀÆ÷ÔÚ blockquote ÔªËØÇ°ºóÌí¼ÓÁË»»ĞĞ£¬²¢Ôö¼ÓÁËÍâ±ß¾à¡£
+è¯·æ³¨æ„ï¼Œæµè§ˆå™¨åœ¨ blockquote å…ƒç´ å‰åæ·»åŠ äº†æ¢è¡Œï¼Œå¹¶å¢åŠ äº†å¤–è¾¹è·ã€‚
 
 </body>
 

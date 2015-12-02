@@ -5,11 +5,11 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h3>演示如何创建 FIELDSET 元素</h3>
+<h3>婕旂ず濡備綍鍒涘缓 FIELDSET 鍏冪礌</h3>
 
-<p>点击按钮来创建包含文本的 FIELDSET 元素。</p>
+<p>鐐瑰嚮鎸夐挳鏉ュ垱寤哄寘鍚枃鏈殑 FIELDSET 鍏冪礌銆�</p>
 
-<button onclick="myFunction()">试一下</button>
+<button onclick="myFunction()">璇曚竴涓�</button>
 
 <script>
 function myFunction()

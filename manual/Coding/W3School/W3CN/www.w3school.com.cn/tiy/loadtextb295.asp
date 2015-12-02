@@ -11,7 +11,7 @@
   Your browser does not support the video tag.
 </video>
 
-<p><b>Note:</b>Internet Explorer 9 ÒÔ¼°¸üÔçµÄ°æ±¾²»Ö§³Ö &lt;video&gt; ±êÇ©µÄ muted ÊôĞÔ¡£</p>
+<p><b>Note:</b>Internet Explorer 9 ä»¥åŠæ›´æ—©çš„ç‰ˆæœ¬ä¸æ”¯æŒ &lt;video&gt; æ ‡ç­¾çš„ muted å±æ€§ã€‚</p>
 
 </body>
 

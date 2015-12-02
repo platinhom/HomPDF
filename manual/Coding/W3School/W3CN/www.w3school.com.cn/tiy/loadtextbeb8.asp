@@ -12,7 +12,7 @@
 
 <div data-role="page" id="pageone">
   <div data-role="content">
-  <a href="#" data-role="button" data-icon="grid">Íø¸ñ°´Å¥</a>
+  <a href="#" data-role="button" data-icon="grid">ç½‘æ ¼æŒ‰é’®</a>
   </div>
 </div>
 

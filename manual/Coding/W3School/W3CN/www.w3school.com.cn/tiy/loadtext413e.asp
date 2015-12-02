@@ -4,12 +4,12 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<a name="first">第一个锚</a><br />
-<a name="second">第二个锚</a><br />
-<a name="third">第三个锚</a><br />
+<a name="first">绗竴涓敋</a><br />
+<a name="second">绗簩涓敋</a><br />
+<a name="third">绗笁涓敋</a><br />
 <br />
 
-文档中锚的数目：
+鏂囨。涓敋鐨勬暟鐩細
 <script type="text/javascript">
 document.write(document.anchors.length)
 </script>

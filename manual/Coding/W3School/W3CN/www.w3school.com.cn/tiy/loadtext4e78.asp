@@ -17,7 +17,7 @@ alt="Venus" />
 </map>
 <br />
 
-area Ԫ�ص� id �ǣ�
+area 元素的 id 是：
 <script type="text/javascript">
 document.write(document.links[0].id)
 </script>

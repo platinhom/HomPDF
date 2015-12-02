@@ -26,7 +26,7 @@ empty-cells: hide;
 </tr>
 </table>
 
-<p><b>ע�ͣ�</b>����ѹ涨 !DOCTYPE����ô Internet Explorer 8 ���Լ����߰汾��֧�� empty-cells ���ԡ�</p>
+<p><b>注释：</b>如果已规定 !DOCTYPE，那么 Internet Explorer 8 （以及更高版本）支持 empty-cells 属性。</p>
 
 </body>
 

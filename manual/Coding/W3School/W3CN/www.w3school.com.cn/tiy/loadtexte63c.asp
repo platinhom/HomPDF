@@ -19,9 +19,9 @@ document.write("Visits " + sessionStorage.pagecount + " time(s) this session.");
 
 </script> 
 
-<p>Ë¢ÐÂÒ³Ãæ»á¿´µ½¼ÆÊýÆ÷ÔÚÔö³¤¡£</p>
+<p>åˆ·æ–°é¡µé¢ä¼šçœ‹åˆ°è®¡æ•°å™¨åœ¨å¢žé•¿ã€‚</p>
 
-<p>Çë¹Ø±Õä¯ÀÀÆ÷´°¿Ú£¬È»ºóÔÙÊÔÒ»´Î£¬¼ÆÊýÆ÷ÒÑ¾­ÖØÖÃÁË¡£</p>
+<p>è¯·å…³é—­æµè§ˆå™¨çª—å£ï¼Œç„¶åŽå†è¯•ä¸€æ¬¡ï¼Œè®¡æ•°å™¨å·²ç»é‡ç½®äº†ã€‚</p>
 
 </body>
 

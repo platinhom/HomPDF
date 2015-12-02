@@ -6,15 +6,15 @@
 <body>
 
 
-<p>��֧���ı���������޷���ʾͼ�񣬽����ܹ���ʾ��ͼ��� "alt" ������ָ�����ı��������"alt" ���ı��ǡ�����ת����</p>
+<p>仅支持文本的浏览器无法显示图像，仅仅能够显示在图像的 "alt" 属性中指定的文本。在这里，"alt" 的文本是“向左转”。</p>
 
-<p>��ע�⣬����������ָ���ƶ���ͼ���ϣ���������������ʾ "alt" �ı���</p>
+<p>请注意，如果您把鼠标指针移动到图像上，大多数浏览器会显示 "alt" 文本。</p>
 
-<img src="../i/eg_goleft.gif" alt="����ת" />
+<img src="../i/eg_goleft.gif" alt="向左转" />
 
-<p>����޷���ʾͼ�񣬽���ʾ "alt" �����е��ı���</p>
+<p>如果无法显示图像，将显示 "alt" 属性中的文本：</p>
 
-<img src="../i/eg_goleft123.html" alt="����ת" />
+<img src="../i/eg_goleft123.html" alt="向左转" />
 
 </body>
 

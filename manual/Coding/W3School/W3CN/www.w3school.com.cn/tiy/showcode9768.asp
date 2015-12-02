@@ -17,17 +17,17 @@
 &lt;body&gt;
 
 &lt;form action=&quot;/example/aspe/demo_aspe_totalbytes.asp&quot; method=&quot;post&quot;&gt;
-Çë¼üÈëÒ»Ğ©×Ö·û£º
+è¯·é”®å…¥ä¸€äº›å­—ç¬¦ï¼š
 &lt;input type=&quot;text&quot; name=&quot;txt&quot;&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;input type=&quot;submit&quot; value=&quot;Ìá½»&quot;&gt;
+&lt;input type=&quot;submit&quot; value=&quot;æäº¤&quot;&gt;
 &lt;/form&gt;
 
 <code class="aspcode">&lt;%
 If Request.Form(&quot;txt&quot;)&lt;&gt;&quot;&quot; Then
-   Response.Write(&quot;ÄúÌá½»ÁË£º&quot;)
+   Response.Write(&quot;æ‚¨æäº¤äº†ï¼š&quot;)
    Response.Write(Request.Form)
    Response.Write(&quot;&lt;br /&gt;&lt;br /&gt;&quot;)
-   Response.Write(&quot;×Ö½Ú×Ü¼Æ£º&quot;)
+   Response.Write(&quot;å­—èŠ‚æ€»è®¡ï¼š&quot;)
    Response.Write(Request.Totalbytes)
 End If
 %&gt;</code>

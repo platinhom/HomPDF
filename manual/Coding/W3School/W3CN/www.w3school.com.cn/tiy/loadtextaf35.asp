@@ -10,7 +10,7 @@ $(document).ready(function(){
   $("button").click(function(){
     $("#div1").load("../example/jquery/demo_test.txt",function(responseTxt,statusTxt,xhr){
       if(statusTxt=="success")
-        alert("Íâ²¿ÄÚÈİ¼ÓÔØ³É¹¦£¡");
+        alert("å¤–éƒ¨å†…å®¹åŠ è½½æˆåŠŸï¼");
       if(statusTxt=="error")
         alert("Error: "+xhr.status+": "+xhr.statusText);
     });
@@ -20,8 +20,8 @@ $(document).ready(function(){
 </head>
 <body>
 
-<div id="div1"><h2>Ê¹ÓÃ jQuery AJAX À´¸Ä±äÎÄ±¾</h2></div>
-<button>»ñµÃÍâ²¿ÄÚÈİ</button>
+<div id="div1"><h2>ä½¿ç”¨ jQuery AJAX æ¥æ”¹å˜æ–‡æœ¬</h2></div>
+<button>è·å¾—å¤–éƒ¨å†…å®¹</button>
 
 </body>
 

@@ -5,9 +5,9 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<p id="demo">µã»÷°´Å¥À´²é¿´ button ÔªËØÓµÓÐµÄÊôÐÔÊý£º</p>
+<p id="demo">ç‚¹å‡»æŒ‰é’®æ¥æŸ¥çœ‹ button å…ƒç´ æ‹¥æœ‰çš„å±žæ€§æ•°ï¼š</p>
 
-<button onclick="myFunction()">ÊÔÒ»ÏÂ</button>
+<button onclick="myFunction()">è¯•ä¸€ä¸‹</button>
 
 <script>
 function myFunction()
@@ -18,7 +18,7 @@ x.innerHTML=a.length;
 }
 </script>
 
-<p>½á¹ûÊÇ 1£¨button ÔªËØµÄ onclick ÊôÐÔ£©¡£</p>
+<p>ç»“æžœæ˜¯ 1ï¼ˆbutton å…ƒç´ çš„ onclick å±žæ€§ï¼‰ã€‚</p>
 
 </body>
 

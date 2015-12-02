@@ -16,7 +16,7 @@ document.getElementById('trail').style.top=event.clientY
 
 <body onmousemove="cursor(event)">
 
-<h1>ÇëÔÚÒ³ÃæÉÏÒÆ¶¯Ö¸Õë</h1>
+<h1>è¯·åœ¨é¡µé¢ä¸Šç§»åŠ¨æŒ‡é’ˆ</h1>
 
 <img id="trail" style="visibility:hidden" src="../i/eg_w3school.gif" />
 

@@ -17,13 +17,13 @@ document.getElementById('tip').innerHTML=""
 </head>
 
 <body>
-<p>������ƶ�������������ϣ�</p>
+<p>把鼠标移动到下面的饮料上：</p>
 
-<span onmouseover="gettip('�ȵĺ�ɫ��Ʒ')"
-onmouseout="reset()">����</span>
+<span onmouseover="gettip('热的黑色饮品')"
+onmouseout="reset()">咖啡</span>
 <br /><br />
-<span onmouseover="gettip('��İ�ɫ��Ʒ')"
-onmouseout="reset()">ţ��</span>
+<span onmouseover="gettip('冷的白色饮品')"
+onmouseout="reset()">牛奶</span>
 
 <p id="tip"></p>
 </body>

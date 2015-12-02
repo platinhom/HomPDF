@@ -15,8 +15,8 @@ document.getElementById('myAnchor').target="_blank";
 </head>
 <body>
 
-<a id="myAnchor" href="http://www.microsoft.com/">Î¢Èí</a>
-<input type="button" onclick="changeLink()" value="¸ü¸ÄÁ´½Ó">
+<a id="myAnchor" href="http://www.microsoft.com/">å¾®è½¯</a>
+<input type="button" onclick="changeLink()" value="æ›´æ”¹é“¾æŽ¥">
 
 </body>
 

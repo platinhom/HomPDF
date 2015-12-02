@@ -16,7 +16,7 @@
 <code class="aspcode">&lt;%Response.Expires=-1%&gt;</code>
 &lt;html&gt;
 &lt;body&gt;
-&lt;p&gt;每当被访问，本页都会被刷新！&lt;/p&gt;
+&lt;p&gt;姣忓綋琚闂紝鏈〉閮戒細琚埛鏂帮紒&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>

@@ -13,13 +13,13 @@ color: red;
 </head>
 
 <body>
-<h1>¿ÉÒÔÓ¦ÓÃÑùÊ½£º</h1>
+<h1>å¯ä»¥åº”ç”¨æ ·å¼ï¼š</h1>
 <p class="important warning">This is a paragraph.</a>
 <p class="important">This is a paragraph.</a>
 
 <hr />
 
-<h1>ÎŞ·¨Ó¦ÓÃÑùÊ½£º</h1>
+<h1>æ— æ³•åº”ç”¨æ ·å¼ï¼š</h1>
 <p class="warning">This is a paragraph.</a>
 </body>
 

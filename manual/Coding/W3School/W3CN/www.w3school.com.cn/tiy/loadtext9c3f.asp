@@ -14,11 +14,11 @@ $(document).ready(function(){
 </head>
 <body>
 
-<h1>»¶Ó­À´µ½ÎÒµÄÖ÷Ò³</h1>
-<p>ÎÒÊÇÌÆÀÏÑ¼¡£</p>
-<p class="intro">ÎÒ×¡ÔÚ Duckburg¡£</p>
-<p class="intro">ÎÒ°® Duckburg¡£</p>
-<p>ÎÒ×îºÃµÄÅóÓÑÊÇ Mickey¡£</p>
+<h1>æ¬¢è¿Žæ¥åˆ°æˆ‘çš„ä¸»é¡µ</h1>
+<p>æˆ‘æ˜¯å”è€é¸­ã€‚</p>
+<p class="intro">æˆ‘ä½åœ¨ Duckburgã€‚</p>
+<p class="intro">æˆ‘çˆ± Duckburgã€‚</p>
+<p>æˆ‘æœ€å¥½çš„æœ‹å‹æ˜¯ Mickeyã€‚</p>
 
 </body>
 

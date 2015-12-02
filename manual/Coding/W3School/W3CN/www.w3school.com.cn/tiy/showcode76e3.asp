@@ -20,7 +20,7 @@
 dim fs,d
 set fs=Server.CreateObject(&quot;Scripting.FileSystemObject&quot;)
 set d=fs.GetDrive(&quot;c:&quot;)
-Response.Write(&quot;¸ùÎÄ¼þÊÇ£º&quot; & d.RootFolder)
+Response.Write(&quot;æ ¹æ–‡ä»¶æ˜¯ï¼š&quot; & d.RootFolder)
 set d=nothing
 set fs=nothing
 %&gt;</code>

@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquerymobile_events_pageload by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:52:31 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3SchoolÔÚÏß²âÊÔ¹¤¾ß V2</title>
+<title>W3Schoolåœ¨çº¿æµ‹è¯•å·¥å…· V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="Ìá½»´úÂë" onClick="submitTryit()">
+<input type="button" value="æäº¤ä»£ç " onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>±à¼­ÄúµÄ´úÂë£º</h2>
+<h2>ç¼–è¾‘æ‚¨çš„ä»£ç ï¼š</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -51,10 +51,10 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <script src="../../code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
 <script>
 $(document).on("pageload",function(event,data){
-  alert("´¥·¢ pageload ÊÂ¼ş£¡\nURL: " + data.url);
+  alert("è§¦å‘ pageload äº‹ä»¶ï¼\nURL: " + data.url);
 });
 $(document).on("pageloadfailed",function(event,data){
-  alert("±§Ç¸£¬±»ÇëÇóÒ³Ãæ²»´æÔÚ¡£");
+  alert("æŠ±æ­‰ï¼Œè¢«è¯·æ±‚é¡µé¢ä¸å­˜åœ¨ã€‚");
 });
 </script>
 </head>
@@ -62,17 +62,17 @@ $(document).on("pageloadfailed",function(event,data){
 
 <div data-role="page">
   <div data-role="header">
-    <h1>Ò³Ã¼ÎÄ±¾</h1>
+    <h1>é¡µçœ‰æ–‡æœ¬</h1>
   </div>
 
   <div data-role="content">
-    <a href="externalpage.html">Íâ²¿Ò³Ãæ</a>
+    <a href="externalpage.html">å¤–éƒ¨é¡µé¢</a>
     <br><br>
-    <a href="externalnotexist.html">Íâ²¿Ò³Ãæ²»´æÔÚ¡£</a>
+    <a href="externalnotexist.html">å¤–éƒ¨é¡µé¢ä¸å­˜åœ¨ã€‚</a>
   </div>
 
   <div data-role="footer">
-    <h1>Ò³½ÅÎÄ±¾</h1>
+    <h1>é¡µè„šæ–‡æœ¬</h1>
   </div>
 </div> 
 
@@ -89,12 +89,12 @@ $(document).on("pageloadfailed",function(event,data){
 </form>
 
 <div id="result">
-<h2>²é¿´½á¹û:</h2>
+<h2>æŸ¥çœ‹ç»“æœ:</h2>
 <iframe frameborder="0" name="i" src="loadtextd616.html?f=jquerymobile_events_pageload"></iframe>
 </div>
 
 <div id="footer">
-<p>ÇëÔÚÉÏÃæµÄÎÄ±¾¿òÖĞ±à¼­ÄúµÄ´úÂë£¬È»ºóµ¥»÷Ìá½»°´Å¥²âÊÔ½á¹û¡£<a href="../index-2.html" title="W3School ÔÚÏß½Ì³Ì">w3school.com.cn</a></p>
+<p>è¯·åœ¨ä¸Šé¢çš„æ–‡æœ¬æ¡†ä¸­ç¼–è¾‘æ‚¨çš„ä»£ç ï¼Œç„¶åå•å‡»æäº¤æŒ‰é’®æµ‹è¯•ç»“æœã€‚<a href="../index-2.html" title="W3School åœ¨çº¿æ•™ç¨‹">w3school.com.cn</a></p>
 </div>
 
 </div>

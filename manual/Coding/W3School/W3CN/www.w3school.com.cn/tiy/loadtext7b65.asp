@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <body>
 
-<h4>������ͨ�ı߿�</h4>  
+<h4>带有普通的边框：</h4>  
 <table border="1">
 <tr>
   <td>First</td>
@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-<h4>���дֵı߿�</h4>  
+<h4>带有粗的边框：</h4>  
 <table border="8">
 <tr>
   <td>First</td>
@@ -29,7 +29,7 @@
 </tr>
 </table>
 
-<h4>���кֵܴı߿�</h4>  
+<h4>带有很粗的边框：</h4>  
 <table border="15">
 <tr>
   <td>First</td>

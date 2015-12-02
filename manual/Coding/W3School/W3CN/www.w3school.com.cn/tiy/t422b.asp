@@ -4,13 +4,13 @@
 <!-- Mirrored from www.w3school.com.cn/tiy/t.asp?f=jquerymobile_events_page_initialization by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Dec 2015 05:52:30 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=GB2312" /><!-- /Added by HTTrack -->
 <head>
-<meta charset="gb2312" />
+<meta charset="utf-8" />
 <meta name="robots" content="all" />
 <meta name="author" content="w3school.com.cn" />
 
 <link rel="stylesheet" type="text/css" href="tc.css" />
 
-<title>W3SchoolÔÚÏß²âÊÔ¹¤¾ß V2</title>
+<title>W3Schoolåœ¨çº¿æµ‹è¯•å·¥å…· V2</title>
 </head>
 
 <body id="editor">
@@ -37,11 +37,11 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <form action="http://www.w3school.com.cn/tiy/v.asp" method="post" id="tryitform" name="tryitform" onSubmit="validateForm();" target="i">
 
 <div id="butt">
-<input type="button" value="Ìá½»´úÂë" onClick="submitTryit()">
+<input type="button" value="æäº¤ä»£ç " onClick="submitTryit()">
 </div>
 
 <div id="CodeArea">
-<h2>±à¼­ÄúµÄ´úÂë£º</h2>
+<h2>ç¼–è¾‘æ‚¨çš„ä»£ç ï¼š</h2>
 <textarea id="TestCode" wrap="logical">
 <!DOCTYPE html>
 <html>
@@ -51,13 +51,13 @@ src="../../pagead2.googlesyndication.com/pagead/f.txt">
 <script src="../../code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
 <script>
 $(document).on("pageinit",function(){
-  alert("´¥·¢ pageinit ÊÂ¼ş - Ò³ÃæÒÑ³õÊ¼»¯£¬DOM ÒÑ¼ÓÔØ£¬jQuery Mobile ÒÑÍê³ÉÒ³ÃæÔöÇ¿¡£")
+  alert("è§¦å‘ pageinit äº‹ä»¶ - é¡µé¢å·²åˆå§‹åŒ–ï¼ŒDOM å·²åŠ è½½ï¼ŒjQuery Mobile å·²å®Œæˆé¡µé¢å¢å¼ºã€‚")
 }); 
 $(document).on("pagebeforecreate",function(){
-  alert("´¥·¢ pagebeforecreate ÊÂ¼ş - Ò³Ãæ¼´½«³õÊ¼»¯¡£jQuery Mobile ÈÔÎ´¿ªÊ¼ÔöÇ¿Ò³Ãæ¡£");
+  alert("è§¦å‘ pagebeforecreate äº‹ä»¶ - é¡µé¢å³å°†åˆå§‹åŒ–ã€‚jQuery Mobile ä»æœªå¼€å§‹å¢å¼ºé¡µé¢ã€‚");
 });                     
 $(document).on("pagecreate",function(){
-  alert("´¥·¢ pagecreate ÊÂ¼ş - ÒÑ´´½¨Ò³Ãæ£¬µ«ÔöÇ¿Î´Íê³É¡£");
+  alert("è§¦å‘ pagecreate äº‹ä»¶ - å·²åˆ›å»ºé¡µé¢ï¼Œä½†å¢å¼ºæœªå®Œæˆã€‚");
 });
 </script>
 </head>
@@ -65,15 +65,15 @@ $(document).on("pagecreate",function(){
 
 <div data-role="page">
   <div data-role="header">
-    <h1>Ò³Ã¼ÎÄ±¾</h1>
+    <h1>é¡µçœ‰æ–‡æœ¬</h1>
   </div>
 
   <div data-role="content">
-    <p>ÄÚÈİ...</p>
+    <p>å†…å®¹...</p>
   </div>
 
   <div data-role="footer">
-    <h1>Ò³½ÅÎÄ±¾</h1>
+    <h1>é¡µè„šæ–‡æœ¬</h1>
   </div>
 </div> 
 
@@ -90,12 +90,12 @@ $(document).on("pagecreate",function(){
 </form>
 
 <div id="result">
-<h2>²é¿´½á¹û:</h2>
+<h2>æŸ¥çœ‹ç»“æœ:</h2>
 <iframe frameborder="0" name="i" src="loadtext422b.html?f=jquerymobile_events_page_initialization"></iframe>
 </div>
 
 <div id="footer">
-<p>ÇëÔÚÉÏÃæµÄÎÄ±¾¿òÖĞ±à¼­ÄúµÄ´úÂë£¬È»ºóµ¥»÷Ìá½»°´Å¥²âÊÔ½á¹û¡£<a href="../index-2.html" title="W3School ÔÚÏß½Ì³Ì">w3school.com.cn</a></p>
+<p>è¯·åœ¨ä¸Šé¢çš„æ–‡æœ¬æ¡†ä¸­ç¼–è¾‘æ‚¨çš„ä»£ç ï¼Œç„¶åå•å‡»æäº¤æŒ‰é’®æµ‹è¯•ç»“æœã€‚<a href="../index-2.html" title="W3School åœ¨çº¿æ•™ç¨‹">w3school.com.cn</a></p>
 </div>
 
 </div>

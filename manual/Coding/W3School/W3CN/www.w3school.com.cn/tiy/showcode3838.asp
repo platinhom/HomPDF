@@ -19,7 +19,7 @@
 
 <code class="phpcode">&lt;?php 
 for ($x=0; $x&lt;=10; $x++) {
-   echo &quot;Êý×ÖÊÇ£º$x &lt;br&gt;&quot;;
+   echo &quot;æ•°å­—æ˜¯ï¼š$x &lt;br&gt;&quot;;
 }
 ?&gt;</code>   
 
