@@ -11,7 +11,7 @@ layout: page_small
 
 ### W3School
 
-- [2015](./Coding/W3School/W3Schools Offline 2015 -ProgramEsecure/www.w3schools.com/)
+- [Version-2015](./Coding/W3School/W3Schools_Offline_2015/www.w3schools.com/), [W3CN](./Coding/W3School/W3Schools/W3CN/www.w3schools.com/)
 
 ## Amber
 
