@@ -8,6 +8,7 @@ layout: page_small
 ### Python
 
 - [2.7.11](./Coding/Python/python-2.7.11rc1-docs-html), [3.5.1](./Coding/Python/python-3.5.1rc1-docs-html)
+- [NumPy](./Coding/Python/numpy-html-1.10.1/), [numpy-ref.pdf](./Coding/Python/numpy-ref.pdf),[numpy-user.pdf](./Coding/Python/numpy-user.pdf); [SciPy](./Coding/Python/scipy-html-0.16.1/);
 
 ### W3School
 
