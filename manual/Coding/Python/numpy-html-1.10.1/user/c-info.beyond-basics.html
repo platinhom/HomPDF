@@ -6,10 +6,10 @@
     
     <title>Beyond the Basics &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../index.html" >
     <link rel="up" title="Using Numpy C-API" href="c-info.html" >
@@ -231,7 +231,7 @@ returned object from this routine is still usually cast to
 PyArrayIterObject *. All that&#8217;s been done is to modify the strides
 and dimensions of the returned iterator to simulate iterating over
 array[...,0,...] where 0 is placed on the
-<img class="math" src="../_images/math/1ed4c0dee383df4cafe2c7c4e91a344c75c70b56.png" alt="\textrm{dim}^{\textrm{th}}" style="vertical-align: -1px"/> dimension. If dim is negative, then
+<img class="math" src="../images_/math/1ed4c0dee383df4cafe2c7c4e91a344c75c70b56.png" alt="\textrm{dim}^{\textrm{th}}" style="vertical-align: -1px"/> dimension. If dim is negative, then
 the dimension with the largest axis is found and used.</p>
 </div>
 <div class="section" id="iterating-over-multiple-arrays">

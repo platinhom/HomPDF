@@ -6,10 +6,10 @@
     
     <title>numpy.polynomial.hermite_e.hermefromroots &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="HermiteE Module, “Probabilists’” (numpy.polynomial.hermite_e)" href="../routines.polynomials.hermite_e.html" >
@@ -104,7 +104,7 @@
 <dd><p>Generate a HermiteE series with given roots.</p>
 <p>The function returns the coefficients of the polynomial</p>
 <div class="math">
-<p><img src="../../_images/math/1b4bb50f17092669c07993573d0d8704970123d2.png" alt="p(x) = (x - r_0) * (x - r_1) * ... * (x - r_n),"/></p>
+<p><img src="../../images_/math/1b4bb50f17092669c07993573d0d8704970123d2.png" alt="p(x) = (x - r_0) * (x - r_1) * ... * (x - r_n),"/></p>
 </div><p>in HermiteE form, where the <em class="xref py py-obj">r_n</em> are the roots specified in <em class="xref py py-obj">roots</em>.
 If a zero has multiplicity n, then it must appear in <em class="xref py py-obj">roots</em> n times.
 For instance, if 2 is a root of multiplicity three and 3 is a root of
@@ -112,7 +112,7 @@ multiplicity 2, then <em class="xref py py-obj">roots</em> looks something like 
 roots can appear in any order.</p>
 <p>If the returned coefficients are <em class="xref py py-obj">c</em>, then</p>
 <div class="math">
-<p><img src="../../_images/math/fcb8668a36fc8e8f4e77abdfa9ea7793a4588ade.png" alt="p(x) = c_0 + c_1 * He_1(x) + ... +  c_n * He_n(x)"/></p>
+<p><img src="../../images_/math/fcb8668a36fc8e8f4e77abdfa9ea7793a4588ade.png" alt="p(x) = c_0 + c_1 * He_1(x) + ... +  c_n * He_n(x)"/></p>
 </div><p>The coefficient of the last term is not generally 1 for monic
 polynomials in HermiteE form.</p>
 <table class="docutils field-list" frame="void" rules="none">

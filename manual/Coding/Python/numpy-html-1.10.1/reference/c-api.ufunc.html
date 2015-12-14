@@ -6,10 +6,10 @@
     
     <title>UFunc API &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../index.html" >
     <link rel="up" title="Numpy C-API" href="c-api.html" >
@@ -201,7 +201,7 @@ ufunc object is alive.</p>
 <li><strong>func</strong> &#8211; Must to an array of length <em>ntypes</em> containing
 <tt class="xref c c-type docutils literal"><span class="pre">PyUFuncGenericFunction</span></tt> items. These items are pointers to
 functions that actually implement the underlying
-(element-by-element) function <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> times.</li>
+(element-by-element) function <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> times.</li>
 <li><strong>data</strong> &#8211; Should be <tt class="docutils literal"><span class="pre">NULL</span></tt> or a pointer to an array of size <em>ntypes</em>
 . This array may contain arbitrary extra-data to be passed to
 the corresponding 1-d loop function in the func array.</li>
@@ -364,7 +364,7 @@ value of the error mask is placed into <em>errmask</em>.</p>
 <h2>Generic functions<a class="headerlink" href="#generic-functions" title="Permalink to this headline">¶</a></h2>
 <p>At the core of every ufunc is a collection of type-specific functions
 that defines the basic functionality for each of the supported types.
-These functions must evaluate the underlying function <img class="math" src="../_images/math/ea56421a60292c53ce4a89b27741853349268d71.png" alt="N\geq1" style="vertical-align: -2px"/>
+These functions must evaluate the underlying function <img class="math" src="../images_/math/ea56421a60292c53ce4a89b27741853349268d71.png" alt="N\geq1" style="vertical-align: -2px"/>
 times. Extra-data may be passed in that may be used during the
 calculation. This feature allows some general functions to be used as
 these basic looping functions. The general function has all the code

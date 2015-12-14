@@ -6,10 +6,10 @@
     
     <title>numpy.polynomial.polynomial.polyint &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Polynomial Module (numpy.polynomial.polynomial)" href="../routines.polynomials.polynomial.html" >
@@ -172,9 +172,9 @@ before the integration constant is added. (Default: 1)</p>
 <p class="rubric">Notes</p>
 <p>Note that the result of each integration is <em>multiplied</em> by <em class="xref py py-obj">scl</em>.  Why
 is this important to note?  Say one is making a linear change of
-variable <img class="math" src="../../_images/math/0fd237ce10d293b0e64ed3fb4b45e59ad541a794.png" alt="u = ax + b" style="vertical-align: -1px"/> in an integral relative to <em class="xref py py-obj">x</em>. Then
+variable <img class="math" src="../../images_/math/0fd237ce10d293b0e64ed3fb4b45e59ad541a794.png" alt="u = ax + b" style="vertical-align: -1px"/> in an integral relative to <em class="xref py py-obj">x</em>. Then
 .. math::<em class="xref py py-obj">dx = du/a</em>, so one will need to set <em class="xref py py-obj">scl</em> equal to
-<img class="math" src="../../_images/math/991aa4b1f8dc7e87dc834a2b161a376e1b0d1e7e.png" alt="1/a" style="vertical-align: -4px"/> - perhaps not what one would have first thought.</p>
+<img class="math" src="../../images_/math/991aa4b1f8dc7e87dc834a2b161a376e1b0d1e7e.png" alt="1/a" style="vertical-align: -4px"/> - perhaps not what one would have first thought.</p>
 <p class="rubric">Examples</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="kn">from</span> <span class="nn">numpy.polynomial</span> <span class="kn">import</span> <span class="n">polynomial</span> <span class="k">as</span> <span class="n">P</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>

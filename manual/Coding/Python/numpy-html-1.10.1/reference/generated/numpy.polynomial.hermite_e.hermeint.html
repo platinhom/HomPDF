@@ -6,10 +6,10 @@
     
     <title>numpy.polynomial.hermite_e.hermeint &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="HermiteE Module, “Probabilists’” (numpy.polynomial.hermite_e)" href="../routines.polynomials.hermite_e.html" >
@@ -175,9 +175,9 @@ before the integration constant is added. (Default: 1)</p>
 <p class="rubric">Notes</p>
 <p>Note that the result of each integration is <em>multiplied</em> by <em class="xref py py-obj">scl</em>.
 Why is this important to note?  Say one is making a linear change of
-variable <img class="math" src="../../_images/math/0fd237ce10d293b0e64ed3fb4b45e59ad541a794.png" alt="u = ax + b" style="vertical-align: -1px"/> in an integral relative to <em class="xref py py-obj">x</em>.  Then
+variable <img class="math" src="../../images_/math/0fd237ce10d293b0e64ed3fb4b45e59ad541a794.png" alt="u = ax + b" style="vertical-align: -1px"/> in an integral relative to <em class="xref py py-obj">x</em>.  Then
 .. math::<em class="xref py py-obj">dx = du/a</em>, so one will need to set <em class="xref py py-obj">scl</em> equal to
-<img class="math" src="../../_images/math/991aa4b1f8dc7e87dc834a2b161a376e1b0d1e7e.png" alt="1/a" style="vertical-align: -4px"/> - perhaps not what one would have first thought.</p>
+<img class="math" src="../../images_/math/991aa4b1f8dc7e87dc834a2b161a376e1b0d1e7e.png" alt="1/a" style="vertical-align: -4px"/> - perhaps not what one would have first thought.</p>
 <p>Also note that, in general, the result of integrating a C-series needs
 to be &#8220;reprojected&#8221; onto the C-series basis set.  Thus, typically,
 the result of this function is &#8220;unintuitive,&#8221; albeit correct; see

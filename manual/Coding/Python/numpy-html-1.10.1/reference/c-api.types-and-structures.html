@@ -6,10 +6,10 @@
     
     <title>Python Types and C-Structures &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../index.html" >
     <link rel="up" title="Numpy C-API" href="c-api.html" >
@@ -214,7 +214,7 @@ dimensions for any array.</p>
 <dt id="c.PyArrayObject.dimensions">
 npy_intp <tt class="descname">PyArrayObject.dimensions</tt><a class="headerlink" href="#c.PyArrayObject.dimensions" title="Permalink to this definition">¶</a></dt>
 <dd><p>An array of integers providing the shape in each dimension as
-long as nd <img class="math" src="../_images/math/6560e69a1c35eb96c2addf52b0a1355a36dbf412.png" alt="\geq" style="vertical-align: -2px"/> 1. The integer is always large enough
+long as nd <img class="math" src="../images_/math/6560e69a1c35eb96c2addf52b0a1355a36dbf412.png" alt="\geq" style="vertical-align: -2px"/> 1. The integer is always large enough
 to hold a pointer on the platform, so the dimension size is
 only limited by memory.</p>
 </dd></dl>
@@ -869,7 +869,7 @@ the __doc__ attribute of ufuncs.</p>
 <dl class="member">
 <dt id="c.PyUFuncObject.PyUFuncObject.types">
 char *<tt class="descname">PyUFuncObject.types</tt><a class="headerlink" href="#c.PyUFuncObject.PyUFuncObject.types" title="Permalink to this definition">¶</a></dt>
-<dd><p>An array of <em>nargs</em> <img class="math" src="../_images/math/5929421e3ae3797513f769f715fc8fb7dbe0c104.png" alt="\times" style="vertical-align: 0px"/> <em>ntypes</em> 8-bit type_numbers
+<dd><p>An array of <em>nargs</em> <img class="math" src="../images_/math/5929421e3ae3797513f769f715fc8fb7dbe0c104.png" alt="\times" style="vertical-align: 0px"/> <em>ntypes</em> 8-bit type_numbers
 which contains the type signature for the function for each of
 the supported (builtin) data types. For each of the <em>ntypes</em>
 functions, the corresponding set of type numbers in this array
@@ -961,7 +961,7 @@ information about an array. This can be adjusted as needed for
 <dl class="member">
 <dt id="c.PyArrayIterObject.PyArrayIterObject.nd_m1">
 int <tt class="descname">PyArrayIterObject.nd_m1</tt><a class="headerlink" href="#c.PyArrayIterObject.PyArrayIterObject.nd_m1" title="Permalink to this definition">¶</a></dt>
-<dd><p><img class="math" src="../_images/math/d062a127ede35244ac17c5e277e07ccbeaa4174e.png" alt="N-1" style="vertical-align: -1px"/> where <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> is the number of dimensions in the
+<dd><p><img class="math" src="../images_/math/d062a127ede35244ac17c5e277e07ccbeaa4174e.png" alt="N-1" style="vertical-align: -1px"/> where <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> is the number of dimensions in the
 underlying array.</p>
 </dd></dl>
 
@@ -980,7 +980,7 @@ npy_intp <tt class="descname">PyArrayIterObject.size</tt><a class="headerlink" h
 <dl class="member">
 <dt id="c.PyArrayIterObject.PyArrayIterObject.coordinates">
 npy_intp *<tt class="descname">PyArrayIterObject.coordinates</tt><a class="headerlink" href="#c.PyArrayIterObject.PyArrayIterObject.coordinates" title="Permalink to this definition">¶</a></dt>
-<dd><p>An <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> -dimensional index into the array.</p>
+<dd><p>An <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> -dimensional index into the array.</p>
 </dd></dl>
 
 <dl class="member">

@@ -6,10 +6,10 @@
     
     <title>Numpy C Code Explanations &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../index.html" >
     <link rel="up" title="Numpy internals" href="internals.html" >
@@ -148,7 +148,7 @@ optimized.</p>
 <p id="index-0">One fundamental aspect of the ndarray is that an array is seen as a
 &#8220;chunk&#8221; of memory starting at some location. The interpretation of
 this memory depends on the stride information. For each dimension in
-an <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> -dimensional array, an integer (stride) dictates how many
+an <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> -dimensional array, an integer (stride) dictates how many
 bytes must be skipped to get to the next element in that dimension.
 Unless you have a single-segment array, this stride information must
 be consulted when traversing through an array. It is not difficult to
@@ -357,8 +357,8 @@ loop itself for optimization.</p>
 </div>
 <div class="section" id="universal-functions">
 <h2>Universal Functions<a class="headerlink" href="#universal-functions" title="Permalink to this headline">¶</a></h2>
-<p id="index-6">Universal functions are callable objects that take <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> inputs
-and produce <img class="math" src="../_images/math/c65125e01c5bde86f99d5bd8480c3f9138e64531.png" alt="M" style="vertical-align: 0px"/> outputs by wrapping basic 1-D loops that work
+<p id="index-6">Universal functions are callable objects that take <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> inputs
+and produce <img class="math" src="../images_/math/c65125e01c5bde86f99d5bd8480c3f9138e64531.png" alt="M" style="vertical-align: 0px"/> outputs by wrapping basic 1-D loops that work
 element-by-element into full easy-to use functions that seamlessly
 implement broadcasting, type-checking and buffered coercion, and
 output-argument handling. New universal functions are normally created
@@ -574,13 +574,13 @@ size of 0. The first input is pointing to the input array with a step-
 size given by the appropriate stride for the selected axis. In this
 way, the operation performed is</p>
 <div class="math">
-<p><img src="../_images/math/e84ac41da48293683e7736944c7b697b131a4dca.png" alt="\begin{align*}
+<p><img src="../images_/math/e84ac41da48293683e7736944c7b697b131a4dca.png" alt="\begin{align*}
 o &amp; = &amp; i[0] \\
 o &amp; = &amp; i[k]\textrm{&lt;op&gt;}o\quad k=1\ldots N
 \end{align*}"/></p>
-</div><p>where <img class="math" src="../_images/math/d2e32d7a254c59ef802d7bef8d21ac5a2e0b9b9b.png" alt="N+1" style="vertical-align: -1px"/> is the number of elements in the input, <img class="math" src="../_images/math/62494ad46772c68b86d00123a1ea8f195a7864b2.png" alt="i" style="vertical-align: 0px"/>,
-<img class="math" src="../_images/math/165672f6902427435b0c17813585b6e4e65d3263.png" alt="o" style="vertical-align: 0px"/> is the output, and <img class="math" src="../_images/math/3df3720a46a79c496081a412443b924e4cf5b428.png" alt="i[k]" style="vertical-align: -4px"/> is the
-<img class="math" src="../_images/math/77b2a5fe4f2c5af0a410542f722e6bf7c45b0e50.png" alt="k^{\textrm{th}}" style="vertical-align: 0px"/> element of <img class="math" src="../_images/math/62494ad46772c68b86d00123a1ea8f195a7864b2.png" alt="i" style="vertical-align: 0px"/> along the selected axis.
+</div><p>where <img class="math" src="../images_/math/d2e32d7a254c59ef802d7bef8d21ac5a2e0b9b9b.png" alt="N+1" style="vertical-align: -1px"/> is the number of elements in the input, <img class="math" src="../images_/math/62494ad46772c68b86d00123a1ea8f195a7864b2.png" alt="i" style="vertical-align: 0px"/>,
+<img class="math" src="../images_/math/165672f6902427435b0c17813585b6e4e65d3263.png" alt="o" style="vertical-align: 0px"/> is the output, and <img class="math" src="../images_/math/3df3720a46a79c496081a412443b924e4cf5b428.png" alt="i[k]" style="vertical-align: -4px"/> is the
+<img class="math" src="../images_/math/77b2a5fe4f2c5af0a410542f722e6bf7c45b0e50.png" alt="k^{\textrm{th}}" style="vertical-align: 0px"/> element of <img class="math" src="../images_/math/62494ad46772c68b86d00123a1ea8f195a7864b2.png" alt="i" style="vertical-align: 0px"/> along the selected axis.
 This basic operations is repeated for arrays with greater than 1
 dimension so that the reduction takes place for every 1-D sub-array
 along the selected axis. An iterator with the selected dimension
@@ -599,12 +599,12 @@ the output and the second input both point to the output. The
 difference is that the second input points to memory one stride behind
 the current output pointer. Thus, the operation performed is</p>
 <div class="math">
-<p><img src="../_images/math/e1486dfed0186fae30752b33ae67b1cf7c705419.png" alt="\begin{align*}
+<p><img src="../images_/math/e1486dfed0186fae30752b33ae67b1cf7c705419.png" alt="\begin{align*}
 o[0] &amp; = &amp; i[0] \\
 o[k] &amp; = &amp; i[k]\textrm{&lt;op&gt;}o[k-1]\quad k=1\ldots N.
 \end{align*}"/></p>
 </div><p>The output has the same shape as the input and each 1-D loop operates
-over <img class="math" src="../_images/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> elements when the shape in the selected axis is <img class="math" src="../_images/math/d2e32d7a254c59ef802d7bef8d21ac5a2e0b9b9b.png" alt="N+1" style="vertical-align: -1px"/>.
+over <img class="math" src="../images_/math/10f77f12438cb385098c4d2344aaa427d0a462a8.png" alt="N" style="vertical-align: 0px"/> elements when the shape in the selected axis is <img class="math" src="../images_/math/d2e32d7a254c59ef802d7bef8d21ac5a2e0b9b9b.png" alt="N+1" style="vertical-align: -1px"/>.
 Again, buffered loops take care to copy and cast the data before
 calling the underlying 1-D computational loop.</p>
 </div>

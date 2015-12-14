@@ -6,10 +6,10 @@
     
     <title>numpy.polyint &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Poly1d" href="../routines.polynomials.poly1d.html" >
@@ -102,12 +102,12 @@
 <tt class="descclassname">numpy.</tt><tt class="descname">polyint</tt><big>(</big><em>p</em>, <em>m=1</em>, <em>k=None</em><big>)</big><a class="reference external" href="http://github.com/numpy/numpy/blob/v1.10.1/numpy/lib/polynomial.py#L241-L332"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#numpy.polyint" title="Permalink to this definition">¶</a></dt>
 <dd><p>Return an antiderivative (indefinite integral) of a polynomial.</p>
 <p>The returned order <em class="xref py py-obj">m</em> antiderivative <em class="xref py py-obj">P</em> of polynomial <em class="xref py py-obj">p</em> satisfies
-<img class="math" src="../../_images/math/4c695080debf26a6fc00ab35c5be79a1f03ce944.png" alt="\frac{d^m}{dx^m}P(x) = p(x)" style="vertical-align: -5px"/> and is defined up to <em class="xref py py-obj">m - 1</em>
+<img class="math" src="../../images_/math/4c695080debf26a6fc00ab35c5be79a1f03ce944.png" alt="\frac{d^m}{dx^m}P(x) = p(x)" style="vertical-align: -5px"/> and is defined up to <em class="xref py py-obj">m - 1</em>
 integration constants <em class="xref py py-obj">k</em>. The constants determine the low-order
 polynomial part</p>
 <div class="math">
-<p><img src="../../_images/math/0b966a6d86e95c0bcb618bb730945530ed5b8e22.png" alt="\frac{k_{m-1}}{0!} x^0 + \ldots + \frac{k_0}{(m-1)!}x^{m-1}"/></p>
-</div><p>of <em class="xref py py-obj">P</em> so that <img class="math" src="../../_images/math/a622397ef333b372450be79d7df9d019252e5e7b.png" alt="P^{(j)}(0) = k_{m-j-1}" style="vertical-align: -4px"/>.</p>
+<p><img src="../../images_/math/0b966a6d86e95c0bcb618bb730945530ed5b8e22.png" alt="\frac{k_{m-1}}{0!} x^0 + \ldots + \frac{k_0}{(m-1)!}x^{m-1}"/></p>
+</div><p>of <em class="xref py py-obj">P</em> so that <img class="math" src="../../images_/math/a622397ef333b372450be79d7df9d019252e5e7b.png" alt="P^{(j)}(0) = k_{m-j-1}" style="vertical-align: -4px"/>.</p>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />

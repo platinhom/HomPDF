@@ -6,10 +6,10 @@
     
     <title>numpy.polynomial.polynomial.polyvander3d &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Polynomial Module (numpy.polynomial.polynomial)" href="../routines.polynomials.polynomial.html" >
@@ -106,7 +106,7 @@
 points <em class="xref py py-obj">(x, y, z)</em>. If <em class="xref py py-obj">l, m, n</em> are the given degrees in <em class="xref py py-obj">x, y, z</em>,
 then The pseudo-Vandermonde matrix is defined by</p>
 <div class="math">
-<p><img src="../../_images/math/9580ff45e1de59ac41ec290ba717ba1e7d110f3c.png" alt="V[..., (m+1)(n+1)i + (n+1)j + k] = x^i * y^j * z^k,"/></p>
+<p><img src="../../images_/math/9580ff45e1de59ac41ec290ba717ba1e7d110f3c.png" alt="V[..., (m+1)(n+1)i + (n+1)j + k] = x^i * y^j * z^k,"/></p>
 </div><p>where <em class="xref py py-obj">0 &lt;= i &lt;= l</em>, <em class="xref py py-obj">0 &lt;= j &lt;= m</em>, and <em class="xref py py-obj">0 &lt;= j &lt;= n</em>.  The leading
 indices of <em class="xref py py-obj">V</em> index the points <em class="xref py py-obj">(x, y, z)</em> and the last index encodes
 the powers of <em class="xref py py-obj">x</em>, <em class="xref py py-obj">y</em>, and <em class="xref py py-obj">z</em>.</p>
@@ -114,7 +114,7 @@ the powers of <em class="xref py py-obj">x</em>, <em class="xref py py-obj">y</e
 of <em class="xref py py-obj">V</em> correspond to the elements of a 3-D coefficient array <em class="xref py py-obj">c</em> of
 shape (xdeg + 1, ydeg + 1, zdeg + 1) in the order</p>
 <div class="math">
-<p><img src="../../_images/math/bf918a18b414f130634877423f80442335e74d5e.png" alt="c_{000}, c_{001}, c_{002},... , c_{010}, c_{011}, c_{012},..."/></p>
+<p><img src="../../images_/math/bf918a18b414f130634877423f80442335e74d5e.png" alt="c_{000}, c_{001}, c_{002},... , c_{010}, c_{011}, c_{012},..."/></p>
 </div><p>and  <tt class="docutils literal"><span class="pre">np.dot(V,</span> <span class="pre">c.flat)</span></tt> and <tt class="docutils literal"><span class="pre">polyval3d(x,</span> <span class="pre">y,</span> <span class="pre">z,</span> <span class="pre">c)</span></tt> will be the
 same up to roundoff. This equivalence is useful both for least squares
 fitting and for the evaluation of a large number of 3-D polynomials
@@ -139,7 +139,7 @@ arrays.</p>
 <tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first"><strong>vander3d</strong> : ndarray</p>
 <blockquote class="last">
 <div><p>The shape of the returned matrix is <tt class="docutils literal"><span class="pre">x.shape</span> <span class="pre">+</span> <span class="pre">(order,)</span></tt>, where
-<img class="math" src="../../_images/math/d7ba451e95493b79a58a12206ce9ce68c2d3d7a5.png" alt="order = (deg[0]+1)*(deg([1]+1)*(deg[2]+1)" style="vertical-align: -4px"/>.  The dtype will
+<img class="math" src="../../images_/math/d7ba451e95493b79a58a12206ce9ce68c2d3d7a5.png" alt="order = (deg[0]+1)*(deg([1]+1)*(deg[2]+1)" style="vertical-align: -4px"/>.  The dtype will
 be the same as the converted <em class="xref py py-obj">x</em>, <em class="xref py py-obj">y</em>, and <em class="xref py py-obj">z</em>.</p>
 </div></blockquote>
 </td>

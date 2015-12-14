@@ -6,10 +6,10 @@
     
     <title>numpy.polydiv &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Poly1d" href="../routines.polynomials.poly1d.html" >
@@ -141,7 +141,7 @@ not equal <em class="xref py py-obj">v.ndim</em>. In other words, all four possi
 <tt class="docutils literal"><span class="pre">u.ndim</span> <span class="pre">=</span> <span class="pre">1,</span> <span class="pre">v.ndim</span> <span class="pre">=</span> <span class="pre">0</span></tt>, and <tt class="docutils literal"><span class="pre">u.ndim</span> <span class="pre">=</span> <span class="pre">0,</span> <span class="pre">v.ndim</span> <span class="pre">=</span> <span class="pre">1</span></tt> - work.</p>
 <p class="rubric">Examples</p>
 <div class="math">
-<p><img src="../../_images/math/b32ba51d4738b85a7ac0d0fe922eabe016b9967b.png" alt="\frac{3x^2 + 5x + 2}{2x + 1} = 1.5x + 1.75, remainder 0.25"/></p>
+<p><img src="../../images_/math/b32ba51d4738b85a7ac0d0fe922eabe016b9967b.png" alt="\frac{3x^2 + 5x + 2}{2x + 1} = 1.5x + 1.75, remainder 0.25"/></p>
 </div><div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mf">3.0</span><span class="p">,</span> <span class="mf">5.0</span><span class="p">,</span> <span class="mf">2.0</span><span class="p">])</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mf">2.0</span><span class="p">,</span> <span class="mf">1.0</span><span class="p">])</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">np</span><span class="o">.</span><span class="n">polydiv</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>

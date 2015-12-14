@@ -6,10 +6,10 @@
     
     <title>The N-dimensional array (ndarray) &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../index.html" >
     <link rel="up" title="Array objects" href="arrays.html" >
@@ -214,19 +214,19 @@ the bytes are interpreted is defined by the <a class="reference internal" href="
 different schemes for arranging the items of an <em>N</em>-dimensional array
 in a 1-dimensional block. Numpy is flexible, and <a class="reference internal" href="generated/numpy.ndarray.html#numpy.ndarray" title="numpy.ndarray"><tt class="xref py py-class docutils literal"><span class="pre">ndarray</span></tt></a>
 objects can accommodate any <em>strided indexing scheme</em>. In a strided
-scheme, the N-dimensional index <img class="math" src="../_images/math/55e2912fdc1638596e19ae6361f2d2db30450efc.png" alt="(n_0, n_1, ..., n_{N-1})" style="vertical-align: -4px"/>
+scheme, the N-dimensional index <img class="math" src="../images_/math/55e2912fdc1638596e19ae6361f2d2db30450efc.png" alt="(n_0, n_1, ..., n_{N-1})" style="vertical-align: -4px"/>
 corresponds to the offset (in bytes):</p>
 <div class="math">
-<p><img src="../_images/math/d4e314ddaa82a5ae9f4e10ad31de17f47d40128a.png" alt="n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k"/></p>
+<p><img src="../images_/math/d4e314ddaa82a5ae9f4e10ad31de17f47d40128a.png" alt="n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k"/></p>
 </div><p>from the beginning of the memory block associated with the
-array. Here, <img class="math" src="../_images/math/d5ab8e6081db79a4afcf29b7616b48025de0e80c.png" alt="s_k" style="vertical-align: -2px"/> are integers which specify the <a class="reference internal" href="generated/numpy.ndarray.strides.html#numpy.ndarray.strides" title="numpy.ndarray.strides"><tt class="xref py py-obj docutils literal"><span class="pre">strides</span></tt></a> of the array. The <a class="reference internal" href="../glossary.html#term-column-major"><em class="xref std std-term">column-major</em></a> order (used,
+array. Here, <img class="math" src="../images_/math/d5ab8e6081db79a4afcf29b7616b48025de0e80c.png" alt="s_k" style="vertical-align: -2px"/> are integers which specify the <a class="reference internal" href="generated/numpy.ndarray.strides.html#numpy.ndarray.strides" title="numpy.ndarray.strides"><tt class="xref py py-obj docutils literal"><span class="pre">strides</span></tt></a> of the array. The <a class="reference internal" href="../glossary.html#term-column-major"><em class="xref std std-term">column-major</em></a> order (used,
 for example, in the Fortran language and in <em>Matlab</em>) and
 <a class="reference internal" href="../glossary.html#term-row-major"><em class="xref std std-term">row-major</em></a> order (used in C) schemes are just specific kinds of
 strided scheme, and correspond to memory that can be <em>addressed</em> by the strides:</p>
 <div class="math">
-<p><img src="../_images/math/46358d504324b83aa8533931eb6286eb8b65563e.png" alt="s_k^{\mathrm{column}} = \prod_{j=0}^{k-1} d_j ,
+<p><img src="../images_/math/46358d504324b83aa8533931eb6286eb8b65563e.png" alt="s_k^{\mathrm{column}} = \prod_{j=0}^{k-1} d_j ,
 \quad  s_k^{\mathrm{row}} = \prod_{j=k+1}^{N-1} d_j ."/></p>
-</div><p id="index-2">where <img class="math" src="../_images/math/c375e8b96fc69dad77ee104906be2a9df776ad66.png" alt="d_j" style="vertical-align: -4px"/> <em class="xref py py-obj">= self.itemsize * self.shape[j]</em>.</p>
+</div><p id="index-2">where <img class="math" src="../images_/math/c375e8b96fc69dad77ee104906be2a9df776ad66.png" alt="d_j" style="vertical-align: -4px"/> <em class="xref py py-obj">= self.itemsize * self.shape[j]</em>.</p>
 <p>Both the C and Fortran orders are <a class="reference external" href="http://docs.python.org/dev/glossary.html#term-contiguous" title="(in Python v3.6)"><em class="xref std std-term">contiguous</em></a>, <em>i.e.,</em>
 <em class="xref std std-term">single-segment</em>, memory layouts, in which every part of the
 memory block can be accessed by some combination of the indices.</p>
@@ -236,8 +236,8 @@ different. This can happen in two cases:</p>
 <blockquote>
 <div><ol class="arabic simple">
 <li>If <tt class="docutils literal"><span class="pre">self.shape[k]</span> <span class="pre">==</span> <span class="pre">1</span></tt> then for any legal index <tt class="docutils literal"><span class="pre">index[k]</span> <span class="pre">==</span> <span class="pre">0</span></tt>.
-This means that in the formula for the offset <img class="math" src="../_images/math/9fed4bdf69e096e1239bd758fe79e8076f28d793.png" alt="n_k = 0" style="vertical-align: -2px"/> and thus
-<img class="math" src="../_images/math/36e9c492db6f4ad8e065f978a3d4a33a3c6df086.png" alt="s_k n_k = 0" style="vertical-align: -2px"/> and the value of <img class="math" src="../_images/math/d5ab8e6081db79a4afcf29b7616b48025de0e80c.png" alt="s_k" style="vertical-align: -2px"/> <em class="xref py py-obj">= self.strides[k]</em> is
+This means that in the formula for the offset <img class="math" src="../images_/math/9fed4bdf69e096e1239bd758fe79e8076f28d793.png" alt="n_k = 0" style="vertical-align: -2px"/> and thus
+<img class="math" src="../images_/math/36e9c492db6f4ad8e065f978a3d4a33a3c6df086.png" alt="s_k n_k = 0" style="vertical-align: -2px"/> and the value of <img class="math" src="../images_/math/d5ab8e6081db79a4afcf29b7616b48025de0e80c.png" alt="s_k" style="vertical-align: -2px"/> <em class="xref py py-obj">= self.strides[k]</em> is
 arbitrary.</li>
 <li>If an array has no elements (<tt class="docutils literal"><span class="pre">self.size</span> <span class="pre">==</span> <span class="pre">0</span></tt>) there is no legal
 index and the strides are never used. Any array with no elements may be

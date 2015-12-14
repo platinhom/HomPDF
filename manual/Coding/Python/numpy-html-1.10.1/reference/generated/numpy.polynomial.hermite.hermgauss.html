@@ -6,10 +6,10 @@
     
     <title>numpy.polynomial.hermite.hermgauss &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Hermite Module, “Physicists’” (numpy.polynomial.hermite)" href="../routines.polynomials.hermite.html" >
@@ -104,8 +104,8 @@
 <dd><p>Gauss-Hermite quadrature.</p>
 <p>Computes the sample points and weights for Gauss-Hermite quadrature.
 These sample points and weights will correctly integrate polynomials of
-degree <img class="math" src="../../_images/math/cd15eed20fa79ee66b7e4abe2a40d9b13ab0bfc4.png" alt="2*deg - 1" style="vertical-align: -3px"/> or less over the interval <img class="math" src="../../_images/math/b13515179d1379173b752dd278c816749aa58e5a.png" alt="[-\inf, \inf]" style="vertical-align: -4px"/>
-with the weight function <img class="math" src="../../_images/math/0fbcdedf9b38fc5c1047ebadf8eb96fab9063933.png" alt="f(x) = \exp(-x^2)" style="vertical-align: -4px"/>.</p>
+degree <img class="math" src="../../images_/math/cd15eed20fa79ee66b7e4abe2a40d9b13ab0bfc4.png" alt="2*deg - 1" style="vertical-align: -3px"/> or less over the interval <img class="math" src="../../images_/math/b13515179d1379173b752dd278c816749aa58e5a.png" alt="[-\inf, \inf]" style="vertical-align: -4px"/>
+with the weight function <img class="math" src="../../images_/math/0fbcdedf9b38fc5c1047ebadf8eb96fab9063933.png" alt="f(x) = \exp(-x^2)" style="vertical-align: -4px"/>.</p>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -132,9 +132,9 @@ with the weight function <img class="math" src="../../_images/math/0fbcdedf9b38f
 <p>The results have only been tested up to degree 100, higher degrees may
 be problematic. The weights are determined by using the fact that</p>
 <div class="math">
-<p><img src="../../_images/math/3f2a71db45790dbdb24a511e627ac8ad8168fd26.png" alt="w_k = c / (H'_n(x_k) * H_{n-1}(x_k))"/></p>
-</div><p>where <img class="math" src="../../_images/math/e76342811b06d3703a2794f9744a8df6906f358f.png" alt="c" style="vertical-align: 0px"/> is a constant independent of <img class="math" src="../../_images/math/c8ff6dc362a9a07153582909d5a26898fae59569.png" alt="k" style="vertical-align: 0px"/> and <img class="math" src="../../_images/math/5a79068e7cb8b4f52d93a4502fc37e8fa106d62f.png" alt="x_k" style="vertical-align: -2px"/>
-is the k&#8217;th root of <img class="math" src="../../_images/math/80d946d264da07ced63cec416cea50a716739db4.png" alt="H_n" style="vertical-align: -2px"/>, and then scaling the results to get
+<p><img src="../../images_/math/3f2a71db45790dbdb24a511e627ac8ad8168fd26.png" alt="w_k = c / (H'_n(x_k) * H_{n-1}(x_k))"/></p>
+</div><p>where <img class="math" src="../../images_/math/e76342811b06d3703a2794f9744a8df6906f358f.png" alt="c" style="vertical-align: 0px"/> is a constant independent of <img class="math" src="../../images_/math/c8ff6dc362a9a07153582909d5a26898fae59569.png" alt="k" style="vertical-align: 0px"/> and <img class="math" src="../../images_/math/5a79068e7cb8b4f52d93a4502fc37e8fa106d62f.png" alt="x_k" style="vertical-align: -2px"/>
+is the k&#8217;th root of <img class="math" src="../../images_/math/80d946d264da07ced63cec416cea50a716739db4.png" alt="H_n" style="vertical-align: -2px"/>, and then scaling the results to get
 the right value when integrating 1.</p>
 </dd></dl>
 

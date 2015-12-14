@@ -6,10 +6,10 @@
     
     <title>numpy.ufunc.reduce &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Universal functions (ufunc)" href="../ufuncs.html" >
@@ -99,10 +99,10 @@
 <dt id="numpy.ufunc.reduce">
 <tt class="descclassname">ufunc.</tt><tt class="descname">reduce</tt><big>(</big><em>a</em>, <em>axis=0</em>, <em>dtype=None</em>, <em>out=None</em>, <em>keepdims=False</em><big>)</big><a class="headerlink" href="#numpy.ufunc.reduce" title="Permalink to this definition">¶</a></dt>
 <dd><p>Reduces <em class="xref py py-obj">a</em>&#8216;s dimension by one, by applying ufunc along one axis.</p>
-<p>Let <img class="math" src="../../_images/math/b691758bcc38e8ad34bfc32210ced3b900abd86f.png" alt="a.shape = (N_0, ..., N_i, ..., N_{M-1})" style="vertical-align: -4px"/>.  Then
-<img class="math" src="../../_images/math/f4508138b0ae1b3bfac1bb3ff20d0b23561d69a4.png" alt="ufunc.reduce(a, axis=i)[k_0, ..,k_{i-1}, k_{i+1}, .., k_{M-1}]" style="vertical-align: -4px"/> =
-the result of iterating <em class="xref py py-obj">j</em> over <img class="math" src="../../_images/math/c929f5ce07d91784b76935cac0256d2e20bc3d2e.png" alt="range(N_i)" style="vertical-align: -4px"/>, cumulatively applying
-ufunc to each <img class="math" src="../../_images/math/095eb5016f45d8291f2d1ccc6e6f93f236e4103e.png" alt="a[k_0, ..,k_{i-1}, j, k_{i+1}, .., k_{M-1}]" style="vertical-align: -4px"/>.
+<p>Let <img class="math" src="../../images_/math/b691758bcc38e8ad34bfc32210ced3b900abd86f.png" alt="a.shape = (N_0, ..., N_i, ..., N_{M-1})" style="vertical-align: -4px"/>.  Then
+<img class="math" src="../../images_/math/f4508138b0ae1b3bfac1bb3ff20d0b23561d69a4.png" alt="ufunc.reduce(a, axis=i)[k_0, ..,k_{i-1}, k_{i+1}, .., k_{M-1}]" style="vertical-align: -4px"/> =
+the result of iterating <em class="xref py py-obj">j</em> over <img class="math" src="../../images_/math/c929f5ce07d91784b76935cac0256d2e20bc3d2e.png" alt="range(N_i)" style="vertical-align: -4px"/>, cumulatively applying
+ufunc to each <img class="math" src="../../images_/math/095eb5016f45d8291f2d1ccc6e6f93f236e4103e.png" alt="a[k_0, ..,k_{i-1}, j, k_{i+1}, .., k_{M-1}]" style="vertical-align: -4px"/>.
 For a one-dimensional array, reduce produces results equivalent to:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="n">r</span> <span class="o">=</span> <span class="n">op</span><span class="o">.</span><span class="n">identity</span> <span class="c"># op = ufunc</span>
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">A</span><span class="p">)):</span>

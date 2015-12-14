@@ -6,10 +6,10 @@
     
     <title>numpy.random.ranf &mdash; NumPy v1.10 Manual</title>
     
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,10 +20,10 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../../static_/jquery.js"></script>
+    <script type="text/javascript" src="../../static_/underscore.js"></script>
+    <script type="text/javascript" src="../../static_/doctools.js"></script>
+    <script type="text/javascript" src="../../static_/js/copybutton.js"></script>
     <link rel="author" title="About these documents" href="../../about.html" >
     <link rel="top" title="NumPy v1.10 Manual" href="../../index.html" >
     <link rel="up" title="Random sampling (numpy.random)" href="../routines.random.html" >
@@ -101,7 +101,7 @@
 <tt class="descclassname">numpy.random.</tt><tt class="descname">ranf</tt><big>(</big><em>size=None</em><big>)</big><a class="headerlink" href="#numpy.random.ranf" title="Permalink to this definition">¶</a></dt>
 <dd><p>Return random floats in the half-open interval [0.0, 1.0).</p>
 <p>Results are from the &#8220;continuous uniform&#8221; distribution over the
-stated interval.  To sample <img class="math" src="../../_images/math/e9a05a99f961e8f094b3869fcddd366857d7b0d9.png" alt="Unif[a, b), b &gt; a" style="vertical-align: -4px"/> multiply
+stated interval.  To sample <img class="math" src="../../images_/math/e9a05a99f961e8f094b3869fcddd366857d7b0d9.png" alt="Unif[a, b), b &gt; a" style="vertical-align: -4px"/> multiply
 the output of <a class="reference internal" href="numpy.random.random_sample.html#numpy.random.random_sample" title="numpy.random.random_sample"><tt class="xref py py-obj docutils literal"><span class="pre">random_sample</span></tt></a> by <em class="xref py py-obj">(b-a)</em> and add <em class="xref py py-obj">a</em>:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="p">(</span><span class="n">b</span> <span class="o">-</span> <span class="n">a</span><span class="p">)</span> <span class="o">*</span> <span class="n">random_sample</span><span class="p">()</span> <span class="o">+</span> <span class="n">a</span>
 </pre></div>
