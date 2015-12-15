@@ -6,10 +6,10 @@
     
     <title>Interpolation (scipy.interpolate) &mdash; SciPy v0.16.1 Reference Guide</title>
     
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../_static/css/spc-extend.css">
-    <link rel="stylesheet" href="../_static/scipy.css" type="text/css" >
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" >
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static_/css/spc-extend.css">
+    <link rel="stylesheet" href="../static_/scipy.css" type="text/css" >
+    <link rel="stylesheet" href="../static_/pygments.css" type="text/css" >
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -20,11 +20,11 @@
         HAS_SOURCE:  false
       };
     </script>
-    <script type="text/javascript" src="../_static/jquery.js"></script>
-    <script type="text/javascript" src="../_static/underscore.js"></script>
-    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../static_/jquery.js"></script>
+    <script type="text/javascript" src="../static_/underscore.js"></script>
+    <script type="text/javascript" src="../static_/doctools.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    <script type="text/javascript" src="../_static/js/copybutton.js"></script>
+    <script type="text/javascript" src="../static_/js/copybutton.js"></script>
     <link rel="top" title="SciPy v0.16.1 Reference Guide" href="../index.html" >
     <link rel="up" title="SciPy Tutorial" href="index.html" >
     <link rel="next" title="Fourier Transforms (scipy.fftpack)" href="fftpack.html" >
@@ -85,7 +85,7 @@
       <div class="spc-rightsidebar span3">
         <div class="sphinxsidebarwrapper">
             <p class="logo"><a href="../index.html">
-              <img class="logo" src="../_static/scipyshiny_small.png" alt="Logo">
+              <img class="logo" src="../static_/scipyshiny_small.png" alt="Logo">
             </a></p>
   <h3><a href="../index.html">Table Of Contents</a></h3>
   <ul>
@@ -191,7 +191,7 @@ its use, for linear and cubic spline interpolation:</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-1.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-1.png" src="../_images/interpolate-1.png" />
+<img alt="../images_/interpolate-1.png" src="../images_/interpolate-1.png" />
 </div>
 </div>
 <div class="section" id="multivariate-data-interpolation-griddata">
@@ -244,7 +244,7 @@ cubic interpolant gives the best results:</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-2.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-2.png" src="../_images/interpolate-2.png" />
+<img alt="../images_/interpolate-2.png" src="../images_/interpolate-2.png" />
 </div>
 </div>
 <div class="section" id="spline-interpolation">
@@ -313,7 +313,7 @@ example that follows.</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-3.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-3_00_00.png" src="../_images/interpolate-3_00_00.png" />
+<img alt="../images_/interpolate-3_00_00.png" src="../images_/interpolate-3_00_00.png" />
 </div>
 <p>Derivative of spline</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="n">yder</span> <span class="o">=</span> <span class="n">interpolate</span><span class="o">.</span><span class="n">splev</span><span class="p">(</span><span class="n">xnew</span><span class="p">,</span> <span class="n">tck</span><span class="p">,</span> <span class="n">der</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
@@ -326,7 +326,7 @@ example that follows.</p>
 </pre></div>
 </div>
 <div class="figure">
-<img alt="../_images/interpolate-3_01_00.png" src="../_images/interpolate-3_01_00.png" />
+<img alt="../images_/interpolate-3_01_00.png" src="../images_/interpolate-3_01_00.png" />
 </div>
 <p>Integral of spline</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="k">def</span> <span class="nf">integ</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">tck</span><span class="p">,</span> <span class="n">constant</span><span class="o">=-</span><span class="mi">1</span><span class="p">):</span>
@@ -347,7 +347,7 @@ example that follows.</p>
 </pre></div>
 </div>
 <div class="figure">
-<img alt="../_images/interpolate-3_02_00.png" src="../_images/interpolate-3_02_00.png" />
+<img alt="../images_/interpolate-3_02_00.png" src="../images_/interpolate-3_02_00.png" />
 </div>
 <p>Roots of spline</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="k">print</span><span class="p">(</span><span class="n">interpolate</span><span class="o">.</span><span class="n">sproot</span><span class="p">(</span><span class="n">tck</span><span class="p">))</span>
@@ -370,7 +370,7 @@ example that follows.</p>
 </pre></div>
 </div>
 <div class="figure">
-<img alt="../_images/interpolate-3_03_00.png" src="../_images/interpolate-3_03_00.png" />
+<img alt="../images_/interpolate-3_03_00.png" src="../images_/interpolate-3_03_00.png" />
 </div>
 </div>
 <div class="section" id="spline-interpolation-in-1-d-object-oriented-univariatespline">
@@ -427,7 +427,7 @@ spline.</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-4.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-4_00_00.png" src="../_images/interpolate-4_00_00.png" />
+<img alt="../images_/interpolate-4_00_00.png" src="../images_/interpolate-4_00_00.png" />
 </div>
 <p>LSQUnivarateSpline with non-uniform knots</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="n">t</span> <span class="o">=</span> <span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="o">/</span><span class="mi">2</span><span class="o">-.</span><span class="mi">1</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="o">/</span><span class="mi">2</span><span class="o">+.</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="o">/</span><span class="mi">2</span><span class="o">-.</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="o">/</span><span class="mi">2</span><span class="o">+.</span><span class="mi">1</span><span class="p">]</span>
@@ -444,7 +444,7 @@ spline.</p>
 </pre></div>
 </div>
 <div class="figure">
-<img alt="../_images/interpolate-4_01_00.png" src="../_images/interpolate-4_01_00.png" />
+<img alt="../images_/interpolate-4_01_00.png" src="../images_/interpolate-4_01_00.png" />
 </div>
 </div>
 <div class="section" id="two-dimensional-spline-representation-procedural-bisplrep">
@@ -504,7 +504,7 @@ passed in <a class="reference external" href="http://docs.scipy.org/doc/numpy/re
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-5.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-5_00_00.png" src="../_images/interpolate-5_00_00.png" />
+<img alt="../images_/interpolate-5_00_00.png" src="../images_/interpolate-5_00_00.png" />
 </div>
 <p>Interpolate function over new 70x70 grid</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="gp">&gt;&gt;&gt; </span><span class="n">xnew</span><span class="p">,</span> <span class="n">ynew</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mgrid</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">:</span><span class="mi">1</span><span class="p">:</span><span class="mi">70j</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span><span class="mi">1</span><span class="p">:</span><span class="mi">70j</span><span class="p">]</span>
@@ -520,7 +520,7 @@ passed in <a class="reference external" href="http://docs.scipy.org/doc/numpy/re
 </pre></div>
 </div>
 <div class="figure">
-<img alt="../_images/interpolate-5_01_00.png" src="../_images/interpolate-5_01_00.png" />
+<img alt="../images_/interpolate-5_01_00.png" src="../images_/interpolate-5_01_00.png" />
 </div>
 </div>
 <div class="section" id="two-dimensional-spline-representation-object-oriented-bivariatespline">
@@ -580,7 +580,7 @@ from the scipy.interpolate module.</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-6.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-6.png" src="../_images/interpolate-6.png" />
+<img alt="../images_/interpolate-6.png" src="../images_/interpolate-6.png" />
 </div>
 </div>
 <div class="section" id="id1">
@@ -618,7 +618,7 @@ from the scipy.interpolate module.</p>
 </div>
 <p>(<a class="reference external" href="../tutorial/interpolate-7.py">Source code</a>)</p>
 <div class="figure">
-<img alt="../_images/interpolate-7.png" src="../_images/interpolate-7.png" />
+<img alt="../images_/interpolate-7.png" src="../images_/interpolate-7.png" />
 </div>
 </div>
 </div>
